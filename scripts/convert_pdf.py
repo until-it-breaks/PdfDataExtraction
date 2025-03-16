@@ -22,8 +22,8 @@ os.makedirs(output_folder, exist_ok=True)
 images = convert_from_path(pdf_path, thread_count=threads, output_folder=temp_folder)
 
 for i, image in enumerate(images, start=1):
-    image_path = os.path.join(output_folder, "{}.png".format(i))
-    image.save(image_path, "PNG")
+    image_path = os.path.join(output_folder, "{}.jpeg".format(i))
+    image.save(image_path, "JPEG")
 
 end_time = time.time()
 
