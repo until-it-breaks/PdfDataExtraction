@@ -13,15 +13,13 @@ def cls():
 
 API_KEY = sys.argv[1]
 
-pages = os.listdir("pages")
+pages = [os.path.abspath(os.path.join("pages", f)) for f in os.listdir("pages")]
 length = len(pages)
 
 # Slow down the script
 
-for i in range(length):
+for i in range(14):
     subprocess.run(["python.exe", "scripts/gemini-call.py", pages[i], API_KEY])
-    cls()
     print("Progress: {:.1f}%".format(i / length * 100))
 
-cls()
 print("Job Done")

@@ -1,34 +1,64 @@
-from google import genai
 import sys
-import PIL.Image
 import json
 import re
+from pathlib import Path
+
+from PIL import Image
+from google import genai
+
+OUTPUT_FOLDER = Path("../pages")
+ERROR_MESSAGE = "Usage: python gemini-call.py <image_path> <Gemini_API_key>"
+PROMPT = (
+    "Analizza l'immagine. Estrai dati da tabelle, grafici o infografiche, se presenti, in formato JSON valido. "
+    "Se necessario, usa chiavi nella lingua nativa, inoltre cerca di essere sintetico con esse. "
+    "Se non trovi dati rilevanti, ma solo intestazioni immagini o testo non strutturato, restituisci un JSON vuoto."
+)
+MODEL = "gemini-2.0-flash"
+
 
 def extract_json_content(text):
+    """Extracts JSON content enclosed in triple backticks from text."""
     match = re.search(r"```json\s*([\s\S]*?)\s*```", text)
-    if match:
-        return match.group(1).strip()
-    return None
+    return match.group(1).strip() if match else None
 
-if (len(sys.argv) != 3):
-    print("Make sure to add the image path and your Gemini API key")
-    sys.exit()
+def main():
 
-image = PIL.Image.open(sys.argv[1])
+    if (len(sys.argv) != 3):
+        print(ERROR_MESSAGE)
+        sys.exit(1)
 
-key = sys.argv[2]
-client = genai.Client(api_key=key)
+    image_path = Path(sys.argv[1])
+    api_key = sys.argv[2]
 
-response = client.models.generate_content(
-    model="gemini-2.0-flash",
-    contents=["Analizza l'immagine. Estrai dati da tabelle, grafici o infografiche, se presenti, in formato JSON valido senza usare markdown. Se necessario, usa chiavi nella lingua nativa, inoltre cerca di essere sintetico con esse. Se non trovi dati rilevanti, ma solo intestazioni immagini o testo non strutturato, restituisci un JSON vuoto.", image],
-)
+    if not image_path.exists():
+        print(f"Error: The file '{image_path}' does not exist.")
+        sys.exit(1)
 
-extracted_json = extract_json_content(response.text)
+    image_name = image_path.stem
 
-try:
-    data = json.loads(extracted_json)
-    with open("output.json", "w") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
-except json.JSONDecodeError:
-    print("Invalid JSON\n: {}".format(response.text))
+
+    with Image.open(image_path) as image:
+        client = genai.Client(api_key=api_key)
+        response = client.models.generate_content(
+            model=MODEL,
+            contents=[PROMPT, image],
+        )
+
+    extracted_json = extract_json_content(response.text)
+
+    if extracted_json is None:
+        print("No JSON content extracted.")
+        return
+
+    try:
+        data = json.loads(extracted_json)
+        output_path = OUTPUT_FOLDER / f"{image_name}.json"
+        OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=4, ensure_ascii=False)
+            print(f"JSON successfully saved to: {output_path}")
+    except json.JSONDecodeError:
+        print(f"Invalid JSON:\n{response.text}")
+
+if __name__ == "__main__":
+    main()
