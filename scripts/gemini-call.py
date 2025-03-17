@@ -36,7 +36,6 @@ def main():
 
     image_name = image_path.stem
 
-
     with Image.open(image_path) as image:
         client = genai.Client(api_key=api_key)
         response = client.models.generate_content(
