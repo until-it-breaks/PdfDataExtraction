@@ -1,0 +1,26 @@
+{
+    "provenienzaFornitori": [
+        {
+            "anno": 2023,
+            "provinciaBologna": "38,4%",
+            "emiliaRomagna": "10,1%",
+            "restoItalia": "47,5%",
+            "estero": "4,1%"
+        },
+        {
+            "anno": 2022,
+            "provinciaBologna": "36,8%",
+            "emiliaRomagna": "13,5%",
+            "restoItalia": "44,2%",
+            "estero": "5,5%"
+        },
+        {
+            "anno": 2021,
+            "provinciaBologna": "33,2%",
+            "emiliaRomagna": "14,1%",
+            "restoItalia": "46,8%",
+            "estero": "5,9%"
+        }
+    ],
+    "indiceTempestivitaPagamenti2023": -12.77
+}

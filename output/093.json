@@ -1,0 +1,94 @@
+{
+    "dati": [
+        {
+            "livello": "RTDa",
+            "area": "Area Tecnologica",
+            "donne": 20,
+            "uomini": 58
+        },
+        {
+            "livello": "RTDa",
+            "area": "Area Scientifica",
+            "donne": 14,
+            "uomini": 29
+        },
+        {
+            "livello": "RTDa",
+            "area": "Area Medica",
+            "donne": 18,
+            "uomini": 14
+        },
+        {
+            "livello": "RTDa",
+            "area": "Area Sociale",
+            "donne": 15,
+            "uomini": 13
+        },
+        {
+            "livello": "RTDa",
+            "area": "Area Umanistica",
+            "donne": 14,
+            "uomini": 7
+        },
+        {
+            "livello": "PhD",
+            "area": "Area Tecnologica",
+            "donne": 24,
+            "uomini": 36
+        },
+        {
+            "livello": "PhD",
+            "area": "Area Sociale",
+            "donne": 25,
+            "uomini": 28
+        },
+        {
+            "livello": "PhD",
+            "area": "Area Scientifica",
+            "donne": 16,
+            "uomini": 13
+        },
+        {
+            "livello": "PhD",
+            "area": "Area Medica",
+            "donne": 10,
+            "uomini": 9
+        },
+        {
+            "livello": "PhD",
+            "area": "Area Umanistica",
+            "donne": 11,
+            "uomini": 4
+        },
+        {
+            "livello": "AdR",
+            "area": "Area Tecnologica",
+            "donne": 27,
+            "uomini": 27
+        },
+        {
+            "livello": "AdR",
+            "area": "Area Scientifica",
+            "donne": 22,
+            "uomini": 23
+        },
+        {
+            "livello": "AdR",
+            "area": "Area Medica",
+            "donne": 9,
+            "uomini": 6
+        },
+        {
+            "livello": "AdR",
+            "area": "Area Umanistica",
+            "donne": 10,
+            "uomini": 2
+        },
+        {
+            "livello": "AdR",
+            "area": "Area Sociale",
+            "donne": 6,
+            "uomini": 2
+        }
+    ]
+}

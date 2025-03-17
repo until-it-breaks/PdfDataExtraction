@@ -1,0 +1,19 @@
+{
+    "costi_energetici": {
+        "2021": {
+            "Energia elettrica": 15.05,
+            "Teleriscaldamento": 2.67,
+            "Gas": 6.96
+        },
+        "2022": {
+            "Energia elettrica": 21.78,
+            "Teleriscaldamento": 3.55,
+            "Gas": 9.25
+        },
+        "2023": {
+            "Energia elettrica": 18.82,
+            "Teleriscaldamento": 3.28,
+            "Gas": 11.13
+        }
+    }
+}

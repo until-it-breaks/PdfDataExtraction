@@ -1,0 +1,28 @@
+{
+    "ricerca": [
+        {
+            "tipo": "Progetti Horizon Europe",
+            "valore": 67
+        },
+        {
+            "tipo": "Assegni di ricerca",
+            "valore": 1369
+        },
+        {
+            "tipo": "Docenti outgoing",
+            "valore": 5994
+        },
+        {
+            "tipo": "Finanziamenti bandi PNRR e PNC",
+            "valore": "234 MLN €"
+        },
+        {
+            "tipo": "Pubblicazioni",
+            "valore": 11976
+        },
+        {
+            "tipo": "Visiting professors e PHD",
+            "valore": 715
+        }
+    ]
+}

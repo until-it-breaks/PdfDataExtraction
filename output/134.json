@@ -1,0 +1,57 @@
+[
+    {
+        "Categoria": "Personale Docente Ordinario",
+        "Donne": "30%",
+        "Uomini": "70%"
+    },
+    {
+        "Categoria": "Personale Docente Associato",
+        "Donne": "45%",
+        "Uomini": "55%"
+    },
+    {
+        "Categoria": "Personale Ricercatore",
+        "Donne": "44%",
+        "Uomini": "56%"
+    },
+    {
+        "Categoria": "Docenti a contratto",
+        "Donne": "44%",
+        "Uomini": "56%"
+    },
+    {
+        "Categoria": "Tutor",
+        "Donne": "50%",
+        "Uomini": "50%"
+    },
+    {
+        "Categoria": "Dirigenti",
+        "Donne": "61%",
+        "Uomini": "39%"
+    },
+    {
+        "Categoria": "Personale TA Cat. EP",
+        "Donne": "63%",
+        "Uomini": "37%"
+    },
+    {
+        "Categoria": "Personale TA Cat. D",
+        "Donne": "67%",
+        "Uomini": "33%"
+    },
+    {
+        "Categoria": "Personale TA Cat. C",
+        "Donne": "66%",
+        "Uomini": "34%"
+    },
+    {
+        "Categoria": "Personale TA Cat. B",
+        "Donne": "56%",
+        "Uomini": "44%"
+    },
+    {
+        "Categoria": "Totale",
+        "Donne": "53%",
+        "Uomini": "47%"
+    }
+]

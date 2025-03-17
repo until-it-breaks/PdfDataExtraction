@@ -1,0 +1,22 @@
+{
+    "Formazione": [
+        {
+            "anno_accademico": "2023/2024",
+            "totale_corsi": 65,
+            "corsi_alta_formazione_caf": 23,
+            "corsi_formazione_permanente_cfp": 25,
+            "summer_winter_school_sws": 17
+        },
+        {
+            "ore_docenza": 400,
+            "corsi_su_misura": 16,
+            "dipendenti_coinvolti": 300
+        },
+        {
+            "progetti_finanziamento": 8
+        },
+        {
+            "corsi_pilota_2023": 2
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "Area": "AREA UMANISTICA",
+        "Dipartimento": "17. Beni culturali - DBC",
+        "Docenti": "59",
+        "Tecnici": "13"
+    },
+    {
+        "Area": "AREA UMANISTICA",
+        "Dipartimento": "18. Delle Arti – DAR",
+        "Docenti": "113",
+        "Tecnici": "25"
+    },
+    {
+        "Area": "AREA UMANISTICA",
+        "Dipartimento": "19. Filologia classica e Italianistica - FICLIT",
+        "Docenti": "78",
+        "Tecnici": "18"
+    },
+    {
+        "Area": "AREA UMANISTICA",
+        "Dipartimento": "20. Filosofia - FILO",
+        "Docenti": "49",
+        "Tecnici": "26"
+    },
+    {
+        "Area": "AREA UMANISTICA",
+        "Dipartimento": "21. Interpretazione e Traduzione - DIT",
+        "Docenti": "53",
+        "Tecnici": "22"
+    },
+    {
+        "Area": "AREA UMANISTICA",
+        "Dipartimento": "22. Lingue, Letterature e Culture moderne - LILEC",
+        "Docenti": "68",
+        "Tecnici": "54"
+    },
+    {
+        "Area": "AREA UMANISTICA",
+        "Dipartimento": "23. Psicologia «Renzo Canestrari» - PSI",
+        "Docenti": "71",
+        "Tecnici": "17"
+    },
+    {
+        "Area": "AREA UMANISTICA",
+        "Dipartimento": "24. Scienze dell'Educazione «Giovanni Maria Bertin>> – EDU",
+        "Docenti": "87",
+        "Tecnici": "27"
+    },
+    {
+        "Area": "AREA UMANISTICA",
+        "Dipartimento": "25. Storia Culture Civiltà – DiSCİ",
+        "Docenti": "117",
+        "Tecnici": "52"
+    },
+    {
+        "Area": "AREA SOCIALE",
+        "Dipartimento": "26. Scienze aziendali - DISA",
+        "Docenti": "109",
+        "Tecnici": "14"
+    },
+    {
+        "Area": "AREA SOCIALE",
+        "Dipartimento": "27. Scienze economiche - DSE",
+        "Docenti": "111",
+        "Tecnici": "16"
+    },
+    {
+        "Area": "AREA SOCIALE",
+        "Dipartimento": "28. Scienze giuridiche - DSG",
+        "Docenti": "164",
+        "Tecnici": "14"
+    },
+    {
+        "Area": "AREA SOCIALE",
+        "Dipartimento": "29. Scienze politiche e sociali – SPS",
+        "Docenti": "112",
+        "Tecnici": "18"
+    },
+    {
+        "Area": "AREA SOCIALE",
+        "Dipartimento": "30. Scienze statistiche «Paolo Fortunati>> – STAT",
+        "Docenti": "92",
+        "Tecnici": "19"
+    },
+    {
+        "Area": "AREA SOCIALE",
+        "Dipartimento": "31. Sociologia e Diritto dell'Economia – SDE",
+        "Docenti": "71",
+        "Tecnici": "12"
+    }
+]

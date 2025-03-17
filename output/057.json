@@ -1,0 +1,84 @@
+{
+    "studenti_primo_secondo_ciclo": [
+        {
+            "anno": 2023,
+            "paesi_comunitari": 1.742,
+            "paesi_extra_comunitari": 6.318,
+            "totale": 8.06
+        },
+        {
+            "anno": 2022,
+            "paesi_comunitari": 1.713,
+            "paesi_extra_comunitari": 5.624,
+            "totale": 7.337
+        },
+        {
+            "anno": 2021,
+            "paesi_comunitari": 1.575,
+            "paesi_extra_comunitari": 5.209,
+            "totale": 6.784
+        }
+    ],
+    "dottorandi": [
+        {
+            "anno": 2023,
+            "paesi_comunitari": 91,
+            "paesi_extra_comunitari": 391,
+            "totale": 482
+        },
+        {
+            "anno": 2022,
+            "paesi_comunitari": 110,
+            "paesi_extra_comunitari": 360,
+            "totale": 470
+        },
+        {
+            "anno": 2021,
+            "paesi_comunitari": 102,
+            "paesi_extra_comunitari": 284,
+            "totale": 386
+        }
+    ],
+    "nuove_carriere": [
+        {
+            "cittadinanza": "Iran",
+            "numero": 473
+        },
+        {
+            "cittadinanza": "Cina Repubblica Popolare",
+            "numero": 321
+        },
+        {
+            "cittadinanza": "Turchia",
+            "numero": 195
+        },
+        {
+            "cittadinanza": "Romania",
+            "numero": 167
+        },
+        {
+            "cittadinanza": "Russia - Federazione Russa",
+            "numero": 135
+        },
+        {
+            "cittadinanza": "India",
+            "numero": 93
+        },
+        {
+            "cittadinanza": "Albania",
+            "numero": 91
+        },
+        {
+            "cittadinanza": "Camerun",
+            "numero": 90
+        },
+        {
+            "cittadinanza": "San Marino",
+            "numero": 88
+        },
+        {
+            "cittadinanza": "Kazakhstan",
+            "numero": 82
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "PersonaleDocenteRicercatore": [
+        {
+            "Categoria": "Ordinario",
+            "Anno": 2023,
+            "TempoPieno": 854,
+            "TempoDefinito": 87,
+            "Totale": 941
+        },
+        {
+            "Categoria": "Ordinario",
+            "Anno": 2022,
+            "TempoPieno": 788,
+            "TempoDefinito": 77,
+            "Totale": 865
+        },
+        {
+            "Categoria": "Ordinario",
+            "Anno": 2021,
+            "TempoPieno": 751,
+            "TempoDefinito": 76,
+            "Totale": 827
+        },
+        {
+            "Categoria": "Associato",
+            "Anno": 2023,
+            "TempoPieno": 1373,
+            "TempoDefinito": 63,
+            "Totale": 1436
+        },
+        {
+            "Categoria": "Associato",
+            "Anno": 2022,
+            "TempoPieno": 1410,
+            "TempoDefinito": 62,
+            "Totale": 1472
+        },
+        {
+            "Categoria": "Associato",
+            "Anno": 2021,
+            "TempoPieno": 1292,
+            "TempoDefinito": 59,
+            "Totale": 1351
+        },
+        {
+            "Categoria": "Ricercatore a tempo indeterminato",
+            "Anno": 2023,
+            "TempoPieno": 151,
+            "TempoDefinito": 27,
+            "Totale": 178
+        },
+        {
+            "Categoria": "Ricercatore a tempo indeterminato",
+            "Anno": 2022,
+            "TempoPieno": 163,
+            "TempoDefinito": 29,
+            "Totale": 192
+        },
+        {
+            "Categoria": "Ricercatore a tempo indeterminato",
+            "Anno": 2021,
+            "TempoPieno": 218,
+            "TempoDefinito": 35,
+            "Totale": 253
+        },
+        {
+            "Categoria": "Ricercatore a tempo determinato",
+            "Anno": 2023,
+            "TempoPieno": 808,
+            "TempoDefinito": 19,
+            "Totale": 827
+        },
+        {
+            "Categoria": "Ricercatore a tempo determinato",
+            "Anno": 2022,
+            "TempoPieno": 626,
+            "TempoDefinito": 21,
+            "Totale": 647
+        },
+        {
+            "Categoria": "Ricercatore a tempo determinato",
+            "Anno": 2021,
+            "TempoPieno": 552,
+            "TempoDefinito": 19,
+            "Totale": 571
+        }
+    ]
+}

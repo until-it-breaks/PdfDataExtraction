@@ -1,0 +1,102 @@
+{
+    "Corsi attivati": [
+        {
+            "Corsi": "Laurea",
+            "2021/22": 97,
+            "2022/23": 101,
+            "2023/24": 104
+        },
+        {
+            "Corsi": "Laurea magistrale",
+            "2021/22": 132,
+            "2022/23": 137,
+            "2023/24": 142
+        },
+        {
+            "Corsi": "Laurea magistrale a ciclo unico",
+            "2021/22": 14,
+            "2022/23": 14,
+            "2023/24": 14
+        },
+        {
+            "Corsi": "Scuole di specializzazione",
+            "2021/22": 56,
+            "2022/23": 59,
+            "2023/24": 59
+        },
+        {
+            "Corsi": "Dottorato di ricerca",
+            "2021/22": 48,
+            "2022/23": 51,
+            "2023/24": 51
+        },
+        {
+            "Corsi": "Master",
+            "2021/22": 91,
+            "2022/23": 94,
+            "2023/24": "86*"
+        },
+        {
+            "Corsi": "Corso di Alta Formazione e di Formazione Permanente",
+            "2021/22": 24,
+            "2022/23": 32,
+            "2023/24": "28*"
+        }
+    ],
+    "Immatricolazioni al primo anno": [
+        {
+            "Anno": "2021/22",
+            "L": 11.407,
+            "LM": 7.758,
+            "LMCU": 2.535
+        },
+        {
+            "Anno": "2021/22",
+            "Campus Bologna": 4.125,
+            "Campus Romagna": 15.532
+        },
+        {
+            "Anno": "2021/22",
+            "": [
+                2.364,
+                10.122
+            ]
+        },
+        {
+            "Anno": "2022/23",
+            "L": 11.054,
+            "LM": 6.829,
+            "LMCU": 2.286
+        },
+        {
+            "Anno": "2022/23",
+            "Campus Bologna": 3.878,
+            "Campus Romagna": 14.932
+        },
+        {
+            "Anno": "2022/23",
+            "": [
+                2.117,
+                8.946
+            ]
+        },
+        {
+            "Anno": "2023/24",
+            "L": 10.376,
+            "LM": 6.972,
+            "LMCU": 2.095
+        },
+        {
+            "Anno": "2023/24",
+            "Campus Bologna": 4.013,
+            "Campus Romagna": 14.389
+        },
+        {
+            "Anno": "2023/24",
+            "": [
+                2.122,
+                9.094
+            ]
+        }
+    ]
+}

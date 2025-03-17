@@ -1,0 +1,36 @@
+{
+    "Progetti_europei": {
+        "2021": {
+            "Horizon Europe": 0,
+            "Horizon 2020": 39,
+            "Altri programmi europei": 7
+        },
+        "2022": {
+            "Horizon Europe": 96,
+            "Horizon 2020": 0,
+            "Altri programmi europei": 19
+        },
+        "2023": {
+            "Horizon Europe": 87,
+            "Horizon 2020": 0,
+            "Altri programmi europei": 24
+        }
+    },
+    "Finanziamento_progetti_europei_(migliaia_di_euro)": {
+        "2021": {
+            "Horizon Europe": 0,
+            "Horizon 2020": 17.488,
+            "Altri programmi europei": 769
+        },
+        "2022": {
+            "Horizon Europe": 49.203,
+            "Horizon 2020": 0,
+            "Altri programmi europei": 4.382
+        },
+        "2023": {
+            "Horizon Europe": 35.868,
+            "Horizon 2020": 0,
+            "Altri programmi europei": 3.818
+        }
+    }
+}

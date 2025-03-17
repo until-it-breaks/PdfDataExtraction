@@ -1,0 +1,31 @@
+{
+    "Visiting Professors e PhD": {
+        "Docenti": {
+            "2021": 138,
+            "2022": 405,
+            "2023": 425
+        },
+        "Dottorandi": {
+            "2021": 141,
+            "2022": 239,
+            "2023": 290
+        },
+        "Totale": {
+            "2021": 279,
+            "2022": 644,
+            "2023": 715
+        }
+    },
+    "Paesi di provenienza": {
+        "Spagna": 231,
+        "Stati Uniti d'America": 165,
+        "Francia": 100,
+        "Brasile": 93,
+        "Polonia": 91,
+        "Germania": 89,
+        "Cina Repubblica Popolare": 88,
+        "Gran Bretagna e Irlanda del Nord": 71,
+        "Portogallo": 39,
+        "Italia": 38
+    }
+}

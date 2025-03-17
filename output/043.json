@@ -1,0 +1,24 @@
+{
+    "didattica": [
+        {
+            "corsi": 312,
+            "dottorati": 51
+        },
+        {
+            "studenti_iscritti": 87865,
+            "anno": 2023
+        },
+        {
+            "studenti_internazionali": 8060
+        },
+        {
+            "laureati": 19783
+        },
+        {
+            "borse_studio": 13180
+        },
+        {
+            "iscritti_in_corso": 81.2
+        }
+    ]
+}

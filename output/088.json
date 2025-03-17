@@ -1,0 +1,28 @@
+{
+    "Dati": [
+        {
+            "Categoria": "Imprese (M, P, G)",
+            "Percentuale": "48,3%"
+        },
+        {
+            "Categoria": "Organismi di Ricerca",
+            "Percentuale": "20,4%"
+        },
+        {
+            "Categoria": "Organismi di Ricerca vigilati MUR",
+            "Percentuale": "3,0%"
+        },
+        {
+            "Categoria": "Università pubbliche e private",
+            "Percentuale": "21,6%"
+        },
+        {
+            "Categoria": "Aziende ospedaliere e IRCS",
+            "Percentuale": "5,6%"
+        },
+        {
+            "Categoria": "AUSL",
+            "Percentuale": "1,1%"
+        }
+    ]
+}

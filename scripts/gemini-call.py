@@ -1,20 +1,18 @@
 import sys
 import json
 import re
-from pathlib import Path
 
+from pathlib import Path
 from PIL import Image
 from google import genai
 
-OUTPUT_FOLDER = Path("../pages")
-ERROR_MESSAGE = "Usage: python gemini-call.py <image_path> <Gemini_API_key>"
+OUTPUT_FOLDER_NAME = "output"
 PROMPT = (
     "Analizza l'immagine. Estrai dati da tabelle, grafici o infografiche, se presenti, in formato JSON valido. "
     "Se necessario, usa chiavi nella lingua nativa, inoltre cerca di essere sintetico con esse. "
-    "Se non trovi dati rilevanti, ma solo intestazioni immagini o testo non strutturato, restituisci un JSON vuoto."
+    "Se non trovi dati rilevanti, ma solo intestazioni, immagini o testo non strutturato, restituisci un JSON vuoto."
 )
 MODEL = "gemini-2.0-flash"
-
 
 def extract_json_content(text):
     """Extracts JSON content enclosed in triple backticks from text."""
@@ -24,7 +22,7 @@ def extract_json_content(text):
 def main():
 
     if (len(sys.argv) != 3):
-        print(ERROR_MESSAGE)
+        print("Usage: python gemini-call.py <image_path> <Gemini_API_key>")
         sys.exit(1)
 
     image_path = Path(sys.argv[1])
@@ -47,17 +45,21 @@ def main():
 
     if extracted_json is None:
         print("No JSON content extracted.")
-        return
+        sys.exit(1)
 
     try:
         data = json.loads(extracted_json)
-        output_path = OUTPUT_FOLDER / f"{image_name}.json"
-        OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
+        main_dir = Path(__file__).parent.resolve()
+        output_dir = main_dir.parent / OUTPUT_FOLDER_NAME
+        output_dir.mkdir(parents=True, exist_ok=True)
+        output_path = output_dir / f"{image_name}.json"
+
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
             print(f"JSON successfully saved to: {output_path}")
     except json.JSONDecodeError:
         print(f"Invalid JSON:\n{response.text}")
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()

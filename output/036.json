@@ -1,0 +1,51 @@
+{
+    "tabella": {
+        "rows": [
+            {
+                "voce": "Risorse umane",
+                "2023 (mln)": "469",
+                "%": "58%"
+            },
+            {
+                "voce": "di cui Personale docente e di ricerca",
+                "2023 (mln)": "331",
+                "%": "41%"
+            },
+            {
+                "voce": "di cui Personale dirigente e tecnico amministrativo",
+                "2023 (mln)": "138",
+                "%": "17%"
+            },
+            {
+                "voce": "Interventi a favore di studenti/esse",
+                "2023 (mln)": "124",
+                "%": "15%"
+            },
+            {
+                "voce": "Trasferimenti passivi verso terzi",
+                "2023 (mln)": "42",
+                "%": "5%"
+            },
+            {
+                "voce": "Fornitori",
+                "2023 (mln)": "141",
+                "%": "18%"
+            },
+            {
+                "voce": "Capitale di credito",
+                "2023 (mln)": "2",
+                "%": "0%"
+            },
+            {
+                "voce": "Pubblica amministrazione",
+                "2023 (mln)": "26",
+                "%": "3%"
+            },
+            {
+                "voce": "Totale",
+                "2023 (mln)": "805",
+                "%": "100%"
+            }
+        ]
+    }
+}

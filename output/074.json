@@ -1,0 +1,12 @@
+{
+    "OrientamentoInItinere": {
+        "Anno2023": {
+            "corsiPrimoCiclo": 118,
+            "questionari": 20222
+        },
+        "Anno2022": {
+            "corsi": 65,
+            "questionari": 12765
+        }
+    }
+}

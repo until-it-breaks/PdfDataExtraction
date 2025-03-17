@@ -1,0 +1,44 @@
+[
+    {
+        "categoria": "Dottori 2022 a 1 anno",
+        "borsa/assegno": "35,7%",
+        "altra attività": "60,1%",
+        "non occupati": "4,2%",
+        "totale occupati": "95,8%"
+    },
+    {
+        "categoria": "Dottori 2020 a 3 anni",
+        "borsa/assegno": "19,9%",
+        "altra attività": "77,8%",
+        "non occupati": "2,3%",
+        "totale occupati": "97,7%"
+    },
+    {
+        "categoria": "Dottori 2018 a 5 anni",
+        "borsa/assegno": "15,1%",
+        "altra attività": "81,6%",
+        "non occupati": "3,3%",
+        "totale occupati": "96,7%"
+    },
+    {
+        "categoria": "Laureati 2022 a 1 anno",
+        "borsa/assegno": "9,7%",
+        "altra attività": "67,7%",
+        "non occupati": "22,6%",
+        "totale occupati": "77,4%"
+    },
+    {
+        "categoria": "Laureati 2020 a 3 anni",
+        "borsa/assegno": "9,2%",
+        "altra attività": "76,4%",
+        "non occupati": "14,4%",
+        "totale occupati": "85,6%"
+    },
+    {
+        "categoria": "Laureati 2018 a 5 anni",
+        "borsa/assegno": "5,8%",
+        "altra attività": "83,1%",
+        "non occupati": "11,1%",
+        "totale occupati": "88,9%"
+    }
+]

@@ -1,0 +1,51 @@
+{
+    "Figura7": [
+        {
+            "anno": "2023/24",
+            "laurea": "49.119",
+            "laurea_magistrale": "23.057",
+            "lm_ciclo_unico": "15.150",
+            "vecchio_ordinamento": "539",
+            "totale": "87.865"
+        },
+        {
+            "anno": "2022/23",
+            "laurea": "49.910",
+            "laurea_magistrale": "24.086",
+            "lm_ciclo_unico": "15.039",
+            "vecchio_ordinamento": "649",
+            "totale": "89.684"
+        },
+        {
+            "anno": "2021/22",
+            "laurea": "49.666",
+            "laurea_magistrale": "24.440",
+            "lm_ciclo_unico": "14.847",
+            "vecchio_ordinamento": "762",
+            "totale": "89.715"
+        }
+    ],
+    "Figura8": [
+        {
+            "anno": "2023/24",
+            "master": "1.719",
+            "dottorato_ricerca": "2.600",
+            "alta_formazione": "493",
+            "totale": "4.812"
+        },
+        {
+            "anno": "2022/23",
+            "master": "2.053",
+            "dottorato_ricerca": "2.465",
+            "alta_formazione": "525",
+            "totale": "5.043"
+        },
+        {
+            "anno": "2021/22",
+            "master": "2.169",
+            "dottorato_ricerca": "2.096",
+            "alta_formazione": "448",
+            "totale": "4.713"
+        }
+    ]
+}

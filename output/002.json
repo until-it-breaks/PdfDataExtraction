@@ -1,0 +1,63 @@
+{
+    "Bilanci": [
+        {
+            "anno": 2022,
+            "tipo": "Bilancio di Sostenibilità"
+        },
+        {
+            "anno": 2021,
+            "tipo": "Bilancio Sociale"
+        },
+        {
+            "anno": 2020,
+            "tipo": "Bilancio Sociale",
+            "descrizione": "Una comunità anche a distanza"
+        },
+        {
+            "anno": 2019,
+            "tipo": "Bilancio Sociale",
+            "descrizione": "Passione, Rinascita, Legami"
+        },
+        {
+            "anno": 2018,
+            "tipo": "Bilancio Sociale",
+            "descrizione": "Competenza, Impegno, Comunità"
+        },
+        {
+            "anno": 2017,
+            "tipo": "Bilancio Sociale",
+            "descrizione": "Valore d'uso della conoscenza per la comunità e il territorio"
+        },
+        {
+            "anno": 2016,
+            "tipo": "Bilancio Sociale",
+            "descrizione": "Un percorso verso la sostenibilità"
+        },
+        {
+            "anno": 2015,
+            "tipo": "Bilancio Sociale",
+            "descrizione": "Un impegno verso il futuro"
+        },
+        {
+            "anno": 2014,
+            "tipo": "Bilancio Sociale",
+            "descrizione": "Una eredità dal passato, molti progetti per il futuro"
+        },
+        {
+            "anno": 2013,
+            "tipo": "Bilancio Sociale",
+            "descrizione": "Un bilancio di persone, progetti e risultati"
+        },
+        {
+            "anno": 2012,
+            "tipo": "Bilancio Sociale",
+            "descrizione": "Le persone al centro della conoscenza"
+        }
+    ],
+    "Impatto_CO2": {
+        "kg_CO2_equivalente": 1.105,
+        "sequestro_CO2_albero_anno": "10-20 kg",
+        "vita_media_albero": "30-50 anni",
+        "alberi_da_piantare": "2-4"
+    }
+}

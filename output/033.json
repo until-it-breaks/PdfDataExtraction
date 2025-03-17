@@ -1,0 +1,20 @@
+{
+    "dati": [
+        {
+            "valore": "957 mln €",
+            "descrizione": "VALORE ECONOMICO ATTRATTO"
+        },
+        {
+            "valore": "805 mln €",
+            "descrizione": "VALORE ECONOMICO DISTRIBUITO"
+        },
+        {
+            "percentuale": "17%",
+            "descrizione": "ACQUISTI VERDI"
+        },
+        {
+            "valore": "366.795 €",
+            "note": "5X1000"
+        }
+    ]
+}

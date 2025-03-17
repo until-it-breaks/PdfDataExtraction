@@ -1,0 +1,270 @@
+{
+    "Sezioni": [
+        {
+            "Titolo": "6.2 PERSONALE TECNICO AMMINISTRATIVO",
+            "Pagina": 121,
+            "Sottotitoli": [
+                {
+                    "Testo": "Politiche per il Personale Tecnico Amministrativo",
+                    "Pagina": 125
+                },
+                {
+                    "Testo": "Crescita professionale",
+                    "Pagina": 125
+                },
+                {
+                    "Testo": "Trattamento economico accessorio e incentivi economici",
+                    "Pagina": 126
+                },
+                {
+                    "Testo": "Mobilità interna ed esterna",
+                    "Pagina": 127
+                },
+                {
+                    "Testo": "Welfare di Ateneo e altre agevolazioni",
+                    "Pagina": 129
+                },
+                {
+                    "Testo": "Formazione",
+                    "Pagina": 130
+                },
+                {
+                    "Testo": "Lavoro a distanza",
+                    "Pagina": 133
+                }
+            ]
+        },
+        {
+            "Titolo": "6.3 GENERE E CITTADINANZA",
+            "Pagina": 134
+        },
+        {
+            "Titolo": "6.4 BENESSERE ORGANIZZATIVO",
+            "Pagina": 135,
+            "Sottotitoli": [
+                {
+                    "Testo": "Salute e sicurezza",
+                    "Pagina": 135
+                },
+                {
+                    "Testo": "Inclusione e tutela",
+                    "Pagina": 137
+                },
+                {
+                    "Testo": "Supporto psicologico",
+                    "Pagina": 137
+                },
+                {
+                    "Testo": "Circolo Università di Bologna (CUBO)",
+                    "Pagina": 139
+                }
+            ]
+        },
+        {
+            "Titolo": "7. SOCIETÀ",
+            "Pagina": 140
+        },
+        {
+            "Titolo": "7.1 TRASFERIMENTO TECNOLOGICO",
+            "Pagina": 142,
+            "Sottotitoli": [
+                {
+                    "Testo": "Accordi e convenzioni",
+                    "Pagina": 142
+                },
+                {
+                    "Testo": "Rete alta Tecnologia",
+                    "Pagina": 146
+                },
+                {
+                    "Testo": "La proprietà intellettuale ed i brevetti",
+                    "Pagina": 148
+                },
+                {
+                    "Testo": "Nuova imprenditorialità",
+                    "Pagina": 150
+                },
+                {
+                    "Testo": "Dottorati di ricerca finanziati da soggetti esterni",
+                    "Pagina": 151
+                },
+                {
+                    "Testo": "Enti di sostegno e fondazioni bancarie",
+                    "Pagina": 151
+                },
+                {
+                    "Testo": "Formazione continua e alta formazione",
+                    "Pagina": 152
+                }
+            ]
+        },
+        {
+            "Titolo": "7.2 DIMENSIONE INTERNAZIONALE",
+            "Pagina": 153,
+            "Sottotitoli": [
+                {
+                    "Testo": "Una Europa - L'Alleanza Universitaria Europea",
+                    "Pagina": 153
+                },
+                {
+                    "Testo": "Progetti di cooperazione, accordi e attività",
+                    "Pagina": 154
+                },
+                {
+                    "Testo": "Network internazionali",
+                    "Pagina": 156
+                },
+                {
+                    "Testo": "Osservatorio Magna Charta",
+                    "Pagina": 157
+                }
+            ]
+        },
+        {
+            "Titolo": "7.3 IMPEGNO PUBBLICO",
+            "Pagina": 158,
+            "Sottotitoli": [
+                {
+                    "Testo": "Valorizzazione della ricerca",
+                    "Pagina": 158
+                },
+                {
+                    "Testo": "Polo Penitenziario Universitario",
+                    "Pagina": 161
+                }
+            ]
+        },
+        {
+            "Titolo": "7.4 PATRIMONIO CULTURALE",
+            "Pagina": 162,
+            "Sottotitoli": [
+                {
+                    "Testo": "Musei",
+                    "Pagina": 162
+                }
+            ]
+        },
+        {
+            "Titolo": "7.5 COMUNICAZIONE E INFORMAZIONE",
+            "Pagina": 171,
+            "Sottotitoli": [
+                {
+                    "Testo": "UniboMagazine, ufficio stampa ed eventi",
+                    "Pagina": 171
+                },
+                {
+                    "Testo": "UniboCultura",
+                    "Pagina": 173
+                },
+                {
+                    "Testo": "Il sistema dei siti web istituzionali di Ateneo",
+                    "Pagina": 174
+                },
+                {
+                    "Testo": "I canali social",
+                    "Pagina": 174
+                },
+                {
+                    "Testo": "Ufficio relazioni con il pubblico",
+                    "Pagina": 177
+                }
+            ]
+        },
+        {
+            "Titolo": "7.6 SPORT E SALUTE",
+            "Pagina": 178,
+            "Sottotitoli": [
+                {
+                    "Testo": "Tutela della salute",
+                    "Pagina": 178
+                },
+                {
+                    "Testo": "Promozione del benessere",
+                    "Pagina": 179
+                }
+            ]
+        },
+        {
+            "Titolo": "7.7 IMPATTO SUGLI OBIETTIVI DI SOSTENIBILITÀ DELL'ONU SDGS",
+            "Pagina": 179
+        },
+        {
+            "Titolo": "8. AMBIENTE",
+            "Pagina": 182
+        },
+        {
+            "Titolo": "8.1 POLITICHE ENERGETICHE E CONSUMI",
+            "Pagina": 184,
+            "Sottotitoli": [
+                {
+                    "Testo": "Piano Energetico di Ateneo",
+                    "Pagina": 184
+                },
+                {
+                    "Testo": "Consumi",
+                    "Pagina": 188
+                },
+                {
+                    "Testo": "Risorsa acqua",
+                    "Pagina": 189
+                },
+                {
+                    "Testo": "Impianti fotovoltaici",
+                    "Pagina": 190
+                }
+            ]
+        },
+        {
+            "Titolo": "8.2 PATRIMONIO EDILIZIO",
+            "Pagina": 191,
+            "Sottotitoli": [
+                {
+                    "Testo": "Composizione ed uso",
+                    "Pagina": 191
+                },
+                {
+                    "Testo": "Progetto di sviluppo",
+                    "Pagina": 192
+                }
+            ]
+        },
+        {
+            "Titolo": "8.3 AZIONI A FAVORE DELLA SOSTENIBILITÀ",
+            "Pagina": 195,
+            "Sottotitoli": [
+                {
+                    "Testo": "Politiche e gestione dei rifiuti",
+                    "Pagina": 197
+                },
+                {
+                    "Testo": "Emissioni e politiche di trasporto",
+                    "Pagina": 199
+                }
+            ]
+        },
+        {
+            "Titolo": "8.4 DIDATTICA E FORMAZIONE SU TEMATICHE AMBIENTALI",
+            "Pagina": 201
+        },
+        {
+            "Titolo": "9. TAVOLA GRI",
+            "Pagina": 202
+        },
+        {
+            "Titolo": "10. INDICE DELLE TABELLE E DELLE FIGURE",
+            "Pagina": 220
+        },
+        {
+            "Titolo": "11. COMITATO TECNICO SCIENTIFICO E GRUPPO DI COORDINAMENTO",
+            "Pagina": 224
+        },
+        {
+            "Titolo": "Biblioteche",
+            "Pagina": 167
+        },
+        {
+            "Titolo": "Scienza aperta",
+            "Pagina": 170
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "nome": "Camilla Valentini",
+        "posizione": null,
+        "ruolo": null,
+        "recapiti": null
+    },
+    {
+        "nome": "Danilo Roberto Cinti",
+        "posizione": null,
+        "ruolo": null,
+        "recapiti": null
+    },
+    {
+        "nome": "Anna Rita D'Archi",
+        "posizione": null,
+        "ruolo": null,
+        "recapiti": null
+    },
+    {
+        "nome": "Vincenzo de Filippis",
+        "posizione": null,
+        "ruolo": null,
+        "recapiti": null
+    },
+    {
+        "nome": "Giancarlo Gentiluomo",
+        "posizione": null,
+        "ruolo": null,
+        "recapiti": null
+    },
+    {
+        "nome": "Gian Piero Mignoli",
+        "posizione": null,
+        "ruolo": null,
+        "recapiti": null
+    },
+    {
+        "nome": "Luca Ramazzotti",
+        "posizione": "Settore Programmazione d'Ateneo e analisi dati",
+        "ruolo": "Coordinamento nella rendicontazione, raccolta ed elaborazione dei dati e coordinamento editoriale",
+        "recapiti": "dwh@unibo.it"
+    },
+    {
+        "nome": "Anja Riceputi",
+        "posizione": "Settore Programmazione d'Ateneo e analisi dati",
+        "ruolo": "Coordinamento nella rendicontazione, raccolta ed elaborazione dei dati e coordinamento editoriale",
+        "recapiti": "dwh@unibo.it"
+    },
+    {
+        "nome": "Fabio Cumella",
+        "posizione": "Settore Programmazione d'Ateneo e analisi dati",
+        "ruolo": "Coordinamento nella rendicontazione, raccolta ed elaborazione dei dati e coordinamento editoriale",
+        "recapiti": "dwh@unibo.it"
+    },
+    {
+        "nome": "Nicola Reale",
+        "posizione": "Settore Programmazione d'Ateneo e analisi dati",
+        "ruolo": "Coordinamento nella rendicontazione, raccolta ed elaborazione dei dati e coordinamento editoriale",
+        "recapiti": "dwh@unibo.it"
+    },
+    {
+        "nome": "Stefano Piazza",
+        "posizione": "Settore Programmazione d'Ateneo e analisi dati",
+        "ruolo": "Coordinamento nella rendicontazione, raccolta ed elaborazione dei dati e coordinamento editoriale",
+        "recapiti": "dwh@unibo.it"
+    },
+    {
+        "nome": "Andrea Marti",
+        "posizione": "Settore Programmazione d'Ateneo e analisi dati",
+        "ruolo": "Coordinamento nella rendicontazione, raccolta ed elaborazione dei dati e coordinamento editoriale",
+        "recapiti": "dwh@unibo.it"
+    },
+    {
+        "nome": "Christian Valzania",
+        "posizione": "Settore Programmazione d'Ateneo e analisi dati",
+        "ruolo": "Coordinamento nella rendicontazione, raccolta ed elaborazione dei dati e coordinamento editoriale",
+        "recapiti": "dwh@unibo.it"
+    },
+    {
+        "nome": "Fabio Rosato",
+        "posizione": "Settore Programmazione d'Ateneo e analisi dati",
+        "ruolo": "Coordinamento nella rendicontazione, raccolta ed elaborazione dei dati e coordinamento editoriale",
+        "recapiti": "dwh@unibo.it"
+    },
+    {
+        "nome": "Mirella Cerato",
+        "posizione": null,
+        "ruolo": null,
+        "recapiti": null
+    },
+    {
+        "nome": "Michela Versari",
+        "posizione": null,
+        "ruolo": null,
+        "recapiti": null
+    },
+    {
+        "nome": "Alex Rinaldi",
+        "posizione": "Settore Comunicazione",
+        "ruolo": "Progetto e realizzazione grafica",
+        "recapiti": "grafica.comunicazione@unibo.it"
+    },
+    {
+        "nome": "Silvia Zaghetto",
+        "posizione": "Settore Comunicazione",
+        "ruolo": "Progetto e realizzazione grafica",
+        "recapiti": "grafica.comunicazione@unibo.it"
+    },
+    {
+        "nome": "Ilaria Bolognesi",
+        "posizione": "Settore Comunicazione",
+        "ruolo": "Progetto e realizzazione grafica",
+        "recapiti": "grafica.comunicazione@unibo.it"
+    },
+    {
+        "nome": "Irene Vandi",
+        "posizione": "Settore Comunicazione",
+        "ruolo": "Progetto e realizzazione grafica",
+        "recapiti": "grafica.comunicazione@unibo.it"
+    }
+]

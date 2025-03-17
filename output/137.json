@@ -1,0 +1,16 @@
+{
+    "Consigliera di Fiducia 2023": {
+        "Docenti": "56%",
+        "Personale TA": "27%",
+        "Studenti": "17%"
+    },
+    "Supporto psicologico": {
+        "Ore di supporto": "640",
+        "Richieste": "443",
+        "suddivisione richieste": {
+            "personale tecnico-amministrativo": "222",
+            "docenti e ricercatori": "98",
+            "assegnisti di ricerca": "53"
+        }
+    }
+}

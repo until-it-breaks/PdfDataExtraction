@@ -1,0 +1,48 @@
+{
+    "campus": [
+        {
+            "nome": "CESENA",
+            "docenti": 227,
+            "TA": 122,
+            "vocazioni": [
+                "Agro- alimentare",
+                "ICT e bioingegneria",
+                "Psicologia",
+                "Architettura",
+                "Economia"
+            ]
+        },
+        {
+            "nome": "FORLÌ",
+            "docenti": 245,
+            "TA": 151,
+            "vocazioni": [
+                "Internazionalizzazione e lingue",
+                "Ingegneria aerospaziale e meccanica",
+                "Economia e scienze sociali",
+                "Medicina"
+            ]
+        },
+        {
+            "nome": "RAVENNA",
+            "docenti": 196,
+            "TA": 98,
+            "vocazioni": [
+                "Ambiente e mare",
+                "Patrimonio culturale",
+                "Diritti",
+                "Medicina"
+            ]
+        },
+        {
+            "nome": "RIMINI",
+            "docenti": 176,
+            "TA": 108,
+            "vocazioni": [
+                "Benessere e sviluppo sostenibile",
+                "Turismo e Moda",
+                "Servizi alle persone, alle imprese, al territorio"
+            ]
+        }
+    ]
+}

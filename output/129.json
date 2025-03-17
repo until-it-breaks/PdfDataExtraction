@@ -1,0 +1,33 @@
+{
+    "tabella_agevolazioni": [
+        {
+            "agevolazione": "Contributo stanziato Mobilità (per dipendenti TA e CEL)",
+            "euro": "525.000"
+        },
+        {
+            "agevolazione": "Polizza sanitaria Unisalute",
+            "euro": "1.094.544"
+        },
+        {
+            "agevolazione": "Contributo per centri estivi e servizi di baby sitting",
+            "euro": "101.655"
+        },
+        {
+            "agevolazione": "Contributo erogato per l'iscrizione dei figli ai nidi di infanzia",
+            "euro": "43.683"
+        },
+        {
+            "agevolazione": "Premio di natalità",
+            "euro": "8.000"
+        },
+        {
+            "agevolazione": "Altri sussidi economici",
+            "euro": "55.155"
+        }
+    ],
+    "prestazioni_unisalute": {
+        "2021": "9.379",
+        "2022": "10.495",
+        "2023": "12.208"
+    }
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "GRI": "301-1",
+        "Materiali": "Materie prime utilizzate per peso o volume",
+        "Note": "8.1 - Politiche energetiche e i consumi"
+    },
+    {
+        "GRI": "301-2",
+        "Materiali": "Materiali riciclati utilizzati",
+        "Note": "8.3 - Azioni a favore della sostenibilità"
+    },
+    {
+        "GRI": "301-3",
+        "Materiali": "Prodotti venduti e relativo materiale di imballaggio",
+        "Note": "NA. L'Ateneo svolge un'attività di servizio che non richiede un utilizzo significativo di materiali di imballaggio"
+    },
+    {
+        "GRI": "302-1",
+        "Energia": "Consumo di energia all'interno dell'organizzazione",
+        "Note": "8.1 - Politiche energetiche e i consumi"
+    },
+    {
+        "GRI": "302-2",
+        "Energia": "Consumo di energia esterno all'organizzazione",
+        "Note": "8.1 - Politiche energetiche e i consumi"
+    },
+    {
+        "GRI": "302-3",
+        "Energia": "Intensità energetica",
+        "Note": "8.1 - Politiche energetiche e i consumi"
+    },
+    {
+        "GRI": "302-4",
+        "Energia": "Riduzione dei consumi energetici",
+        "Note": "8.1 - Politiche energetiche e i consumi"
+    },
+    {
+        "GRI": "302-5",
+        "Energia": "Aumento dell'efficienza energetica per prodotti e servizi",
+        "Note": "8.1 - Politiche energetiche e i consumi"
+    }
+]

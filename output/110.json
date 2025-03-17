@@ -1,0 +1,46 @@
+{
+    "ricerca_clinica": [
+        {
+            "anno": 2023,
+            "trials_clinici": 157
+        },
+        {
+            "tipo_fondi": "contratti di ricerca commissionata e consulenza",
+            "valore": "4,8 milioni di euro"
+        },
+        {
+            "tipo_fondi": "bandi competitivi",
+            "valore": "13,4 milioni di euro"
+        },
+        {
+            "anno": 2023,
+            "tipo_fondi": "contributi liberali",
+            "valore": "1,7 milioni di euro"
+        },
+        {
+            "anno": 2023,
+            "laboratori_aggiunti": 4
+        }
+    ],
+    "isa": [
+        {
+            "anno": 2023,
+            "senior_visiting_fellows": 23
+        },
+        {
+            "isa_lectures": 32
+        },
+        {
+            "conferenze_isa_topic": 13
+        },
+        {
+            "giornate_presentazione": 1
+        },
+        {
+            "giornate_vetrina_ricerca": 2
+        },
+        {
+            "incontri_presidio_qualita": 4
+        }
+    ]
+}

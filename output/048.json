@@ -1,0 +1,64 @@
+[
+    {
+        "Figura": "Figura 9 - Composizione iscrizioni per genere (L, LM e LMCU)",
+        "STEM": {
+            "2023/24": {
+                "Donne": "35,1%",
+                "Uomini": "64,9%"
+            },
+            "2022/23": {
+                "Donne": "34,1%",
+                "Uomini": "65,9%"
+            },
+            "2021/23": {
+                "Donne": "34,0%",
+                "Uomini": "66,0%"
+            }
+        },
+        "Non STEM": {
+            "2023/24": {
+                "Donne": "65,0%",
+                "Uomini": "35,0%"
+            },
+            "2022/23": {
+                "Donne": "64,5%",
+                "Uomini": "35,5%"
+            },
+            "2021/23": {
+                "Donne": "64,4%",
+                "Uomini": "35,6%"
+            }
+        },
+        "Totale": {
+            "2023/24": {
+                "Donne": "56,7%",
+                "Uomini": "43,3%"
+            },
+            "2022/23": {
+                "Donne": "56,3%",
+                "Uomini": "43,7%"
+            },
+            "2021/23": {
+                "Donne": "56,3%",
+                "Uomini": "43,7%"
+            }
+        }
+    },
+    {
+        "Figura": "Figura 10 - Iscrizioni ai corsi di studio per regione di residenza",
+        "Anni": {
+            "2023/24": {
+                "Emilia-Romagna": "43.455",
+                "Altre regioni ed estero": "44.410"
+            },
+            "2022/23": {
+                "Emilia-Romagna": "43.286",
+                "Altre regioni ed estero": "46.398"
+            },
+            "2021/22": {
+                "Emilia-Romagna": "43.027",
+                "Altre regioni ed estero": "46.688"
+            }
+        }
+    }
+]

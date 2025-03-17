@@ -1,0 +1,20 @@
+{
+    "numerosità": [
+        {
+            "tipo": "FONDAZIONI",
+            "valore": 67
+        },
+        {
+            "tipo": "CENTRI INTERUNIVERSITARI",
+            "valore": 47
+        },
+        {
+            "tipo": "SOCIETÀ",
+            "valore": 9
+        },
+        {
+            "tipo": "CONSORZI",
+            "valore": 38
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "Distribuzione Personale TA": {
+        "Struttura": [
+            "Amministrazione Generale",
+            "Dipartimenti",
+            "Campus",
+            "Altre Strutture",
+            "Totale"
+        ],
+        "Area Am.va - Gest.le": [
+            1257,
+            413,
+            96,
+            57,
+            1823
+        ],
+        "Area Tecnica": [
+            459,
+            507,
+            22,
+            65,
+            1053
+        ],
+        "Area Biblioteche": [
+            144,
+            43,
+            20,
+            13,
+            220
+        ],
+        "Area Socio-Sanitaria": [
+            5,
+            37,
+            138,
+            2,
+            44
+        ],
+        "Total": [
+            1865,
+            1000,
+            138,
+            137,
+            3140
+        ]
+    },
+    "Personale tecnico amministrativo": {
+        "Bologna": [
+            2548,
+            2671,
+            2753
+        ],
+        "Cesena": [
+            112,
+            112,
+            122
+        ],
+        "Forlì": [
+            152,
+            154,
+            151
+        ],
+        "Ravenna": [
+            88,
+            98,
+            98
+        ],
+        "Rimini": [
+            103,
+            108,
+            108
+        ],
+        "Year": [
+            "2021",
+            "2022",
+            "2023"
+        ]
+    }
+}

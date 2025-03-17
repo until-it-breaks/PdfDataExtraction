@@ -1,0 +1,30 @@
+{
+    "Dati": [
+        {
+            "Anno": "Dottori 2022 a 1 anno",
+            "Ricercatori e tecnici laureati nell'università": "50,4%",
+            "Altre professioni intellettuali, scientifiche e di elevata spec.": "35,5%",
+            "Imprenditori, legislatori e alta dirigenza": "5,0%",
+            "Formazione retribuita": "3,5%",
+            "Altre professioni": "4,1%",
+            "Non rispondono": "1,5%"
+        },
+        {
+            "Anno": "Dottori 2020 a 3 anni",
+            "Ricercatori e tecnici laureati nell'università": "45,4%",
+            "Altre professioni intellettuali, scientifiche e di elevata spec.": "46,8%",
+            "Imprenditori, legislatori e alta dirigenza": "0,7%",
+            "Formazione retribuita": "2%",
+            "Altre professioni": "4,7%",
+            "Non rispondono": "0,3%"
+        },
+        {
+            "Anno": "Dottori 2018 a 5 anni",
+            "Ricercatori e tecnici laureati nell'università": "40,3%",
+            "Altre professioni intellettuali, scientifiche e di elevata spec.": "52,1%",
+            "Imprenditori, legislatori e alta dirigenza": "2,3%",
+            "Formazione retribuita": "1,9%",
+            "Altre professioni": "3,4%"
+        }
+    ]
+}

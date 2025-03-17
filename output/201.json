@@ -1,0 +1,38 @@
+{
+    "SDGs": [
+        {
+            "obiettivo": "6",
+            "valore": 205
+        },
+        {
+            "obiettivo": "7",
+            "valore": 416
+        },
+        {
+            "obiettivo": "11",
+            "valore": 853
+        },
+        {
+            "obiettivo": "12",
+            "valore": 789
+        },
+        {
+            "obiettivo": "13",
+            "valore": 760
+        }
+    ],
+    "Didattica e Formazione su tematiche ambientali": [
+        {
+            "anno": "2021/22",
+            "valore": 1774
+        },
+        {
+            "anno": "2022/23",
+            "valore": 1871
+        },
+        {
+            "anno": "2023/24",
+            "valore": 1975
+        }
+    ]
+}

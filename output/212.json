@@ -1,0 +1,42 @@
+[
+    {
+        "GRI 306": "306-1",
+        "a) Rifiuti": "Generazione di rifiuti e impatti significativi correlati ai rifiuti",
+        "Raccordo con indice BS 2024 e/o note": "8.3 Azioni a favore della sostenibilità (Politiche e gestione dei rifiuti)"
+    },
+    {
+        "GRI 306": "306-2",
+        "a) Rifiuti": "Gestione di impatti significativi correlati ai rifiuti",
+        "Raccordo con indice BS 2024 e/o note": "8.3 Azioni a favore della sostenibilità (Politiche e gestione dei rifiuti)"
+    },
+    {
+        "GRI 306": "306-3",
+        "a) Rifiuti": "Rifiuti generati",
+        "Raccordo con indice BS 2024 e/o note": "8.3 Azioni a favore della sostenibilità (Politiche e gestione dei rifiuti)"
+    },
+    {
+        "GRI 306": "306-4",
+        "a) Rifiuti": "Rifiuti non conferiti in discarica",
+        "Raccordo con indice BS 2024 e/o note": "8.3 Azioni a favore della sostenibilità (Politiche e gestione dei rifiuti)"
+    },
+    {
+        "GRI 306": "306-5",
+        "a) Rifiuti": "Rifiuti conferiti in discarica",
+        "Raccordo con indice BS 2024 e/o note": "8.3 Azioni a favore della sostenibilità (Politiche e gestione dei rifiuti)"
+    },
+    {
+        "GRI 306": "306-6",
+        "b) Scarichi idrici e rifiuti": "Sversamenti significativi",
+        "Raccordo con indice BS 2024 e/o note": "Per gli sversamenti nei luoghi di lavoro esiste una procedura di controllo e bonifica dello sversamento riportata nei Manuali di gestione del rischio chimico e biologico. Per la registrazione dell'incidente si fa riferimento alla procedura di Ateno per la gestione degli infortuni e \"quasi incidenti\" che costituisce anche registrazione dei casi avvenuti e segnalati"
+    },
+    {
+        "GRI 308": "308-1",
+        "Valutazione ambientale dei fornitori": "Nuovi fornitori valutati sulla base di criteri ambientali",
+        "Raccordo con indice BS 2024 e/o note": "3.2 Valore economico distribuito (Gli acquisti green)"
+    },
+    {
+        "GRI 308": "308-1",
+        "Valutazione ambientale dei fornitori": "Impatti ambientali negativi nella supply chain e azioni intraprese",
+        "Raccordo con indice BS 2024 e/o note": "3.2 Valore economico distribuito (Gli acquisti green)"
+    }
+]

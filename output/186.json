@@ -1,0 +1,97 @@
+{
+    "MilestonePianoEnergetico": [
+        {
+            "Attività": "Dismissione gasolio e olio combustibile",
+            "Anni": [
+                2023,
+                2024,
+                2025
+            ]
+        },
+        {
+            "Attività": "Sostituzione totale illuminazioni tradizionali aree esterne",
+            "Anni": [
+                2023,
+                2024,
+                2025,
+                2026
+            ]
+        },
+        {
+            "Attività": "Sostituzione totale illuminazioni tradizionali aree interne",
+            "Anni": [
+                2023,
+                2024,
+                2025,
+                2026
+            ]
+        },
+        {
+            "Attività": "Nuovi impianti fotovoltaici",
+            "Anni": [
+                2023,
+                2024,
+                2025,
+                2026,
+                2027
+            ]
+        },
+        {
+            "Attività": "Certificazione UNI ENI ISO 50001",
+            "Anni": [
+                2023,
+                2024,
+                2025,
+                2026,
+                2027
+            ]
+        },
+        {
+            "Attività": "Registrazione impianti termici al Catasto regionale",
+            "Anni": [
+                2023,
+                2024,
+                2025,
+                2026,
+                2027
+            ]
+        },
+        {
+            "Attività": "Nuovi interventi di efficientamento edifici",
+            "Anni": [
+                2027,
+                2028,
+                2029,
+                2030
+            ]
+        },
+        {
+            "Attività": "Efficientamento impianti fotovoltaici",
+            "Anni": [
+                2028,
+                2029
+            ]
+        },
+        {
+            "Attività": "Completamento rete BMS",
+            "Anni": [
+                2023,
+                2024,
+                2025,
+                2026,
+                2027,
+                2028,
+                2029
+            ]
+        },
+        {
+            "Attività": "Sostituzione caldaie con pompe di calore",
+            "Anni": [
+                2027,
+                2028,
+                2029,
+                2030
+            ]
+        }
+    ]
+}

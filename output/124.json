@@ -1,0 +1,66 @@
+{
+    "fasce_età": [
+        {
+            "età": "65-69 anni",
+            "valore": 63
+        },
+        {
+            "età": "60-64 anni",
+            "valore": 424
+        },
+        {
+            "età": "55-59 anni",
+            "valore": 582
+        },
+        {
+            "età": "50-54 anni",
+            "valore": 641
+        },
+        {
+            "età": "45-49 anni",
+            "valore": 504
+        },
+        {
+            "età": "40-44 anni",
+            "valore": 369
+        },
+        {
+            "età": "35-39 anni",
+            "valore": 305
+        },
+        {
+            "età": "30-34 anni",
+            "valore": 229
+        },
+        {
+            "età": "25-29 anni",
+            "valore": 108
+        },
+        {
+            "età": "20-24 anni",
+            "valore": 10
+        }
+    ],
+    "assunzioni_cessazioni": [
+        {
+            "anno": "2021",
+            "assunzioni": 176,
+            "cessazioni": 112
+        },
+        {
+            "anno": "2022",
+            "assunzioni": 252,
+            "cessazioni": 150
+        },
+        {
+            "anno": "2023",
+            "assunzioni": 237,
+            "cessazioni": 145
+        },
+        {
+            "anno": "Totale",
+            "assunzioni": 665,
+            "cessazioni": 407
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "studenti_incoming": [
+        {
+            "nazione": "Spagna",
+            "numero": 2112
+        },
+        {
+            "nazione": "Francia",
+            "numero": 980
+        },
+        {
+            "nazione": "Germania",
+            "numero": 858
+        },
+        {
+            "nazione": "Stati Uniti d'America",
+            "numero": 441
+        },
+        {
+            "nazione": "Belgio",
+            "numero": 380
+        },
+        {
+            "nazione": "Paesi Bassi",
+            "numero": 332
+        },
+        {
+            "nazione": "Gran Bretagna e Irlanda del Nord",
+            "numero": 304
+        },
+        {
+            "nazione": "Portogallo",
+            "numero": 297
+        },
+        {
+            "nazione": "Polonia",
+            "numero": 284
+        },
+        {
+            "nazione": "Norvegia",
+            "numero": 202
+        }
+    ],
+    "borse_studio": {
+        "totale": {
+            "2020/21": 157,
+            "2021/22": 359,
+            "2022/23": 420
+        },
+        "europa": {
+            "2020/21": 140,
+            "2021/22": 275,
+            "2022/23": 312
+        },
+        "america": {
+            "2020/21": 14,
+            "2021/22": 52,
+            "2022/23": 66
+        },
+        "asia_africa_oceania": {
+            "2020/21": 3,
+            "2021/22": 32,
+            "2022/23": 42
+        }
+    }
+}

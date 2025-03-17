@@ -1,0 +1,76 @@
+{
+    "aree": [
+        {
+            "nome": "ACCE AREA DI CAMPUS CESENA",
+            "numero_personale": 81
+        },
+        {
+            "nome": "ACFO AREA DI CAMPUS FORLÌ",
+            "numero_personale": 103
+        },
+        {
+            "nome": "ACRA AREA DI CAMPUS RAVENNA",
+            "numero_personale": 59
+        },
+        {
+            "nome": "ACRN AREA DI CAMPUS RIMINI",
+            "numero_personale": 81
+        },
+        {
+            "nome": "APOS AREA DEL PERSONALE",
+            "numero_personale": 141
+        },
+        {
+            "nome": "APAT AREA DEL PATRIMONIO",
+            "numero_personale": 73
+        },
+        {
+            "nome": "ARAG AREA FINANZA E CONTABILITÀ",
+            "numero_personale": 93
+        },
+        {
+            "nome": "ATES AREA TECNICA EDILIZIA E SOSTENIBILITÀ",
+            "numero_personale": 166
+        },
+        {
+            "nome": "ARPAC AREA PATRIMONIO CULTURALE",
+            "numero_personale": 171
+        },
+        {
+            "nome": "APAP AREA APPALTI E APPROVVIGIONAMENTI",
+            "numero_personale": 44
+        },
+        {
+            "nome": "SAM AREA SERVICE AREA MEDICA",
+            "numero_personale": 169
+        },
+        {
+            "nome": "AFORM AREA FORMAZIONE E DOTTORATO",
+            "numero_personale": 263
+        },
+        {
+            "nome": "ASES AREA SERVIZI STUDENTI",
+            "numero_personale": 105
+        },
+        {
+            "nome": "ARIN AREA INNOVAZIONE",
+            "numero_personale": 122
+        },
+        {
+            "nome": "APPC AREA PIANIFICAZIONE, PROGRAMMAZIONE, COMUNICAZIONE",
+            "numero_personale": 78
+        },
+        {
+            "nome": "CESIA AREA SISTEMI E SERVIZI INFORMATICI",
+            "numero_personale": 157
+        },
+        {
+            "nome": "ARIC AREA RICERCA",
+            "numero_personale": 69
+        },
+        {
+            "nome": "SSRD STAFF RETTORE E DIRETTORE GENERALE",
+            "numero_personale": 74
+        }
+    ]
+}

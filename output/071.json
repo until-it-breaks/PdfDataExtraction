@@ -1,0 +1,25 @@
+{
+    "studentati_ergo": {
+        "totale": 29,
+        "bologna": 21,
+        "cesena": 3,
+        "forlì": 2,
+        "rimini": 2,
+        "ravenna": 1
+    },
+    "contributo_affitti_2023": {
+        "numero_contributi": 600,
+        "importo_unitario": "1.000 €",
+        "isee_max": "28.000,00 €",
+        "ispe_max": "62.000,00 €"
+    },
+    "sap": {
+        "budget_2023": "350.000 euro",
+        "domande_2023": 1200,
+        "bologna_domande_2023": 1015,
+        "campus_romagna_domande_2023": 185,
+        "domande_2022": 1035,
+        "domande_anni_precedenti": "circa 900",
+        "colloqui_2023": 3200
+    }
+}

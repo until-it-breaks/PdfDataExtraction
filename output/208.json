@@ -1,0 +1,42 @@
+[
+    {
+        "GRI": "205-1",
+        "Anticorruzione": "Monitoraggio del rischio di corruzione",
+        "Raccordo": "1.1 - Identità, principi e valori"
+    },
+    {
+        "GRI": "205-2",
+        "Anticorruzione": "Comunicazione e formazione sulle politiche e procedure di anticorruzione",
+        "Raccordo": "1.1 - Identità, principi e valori"
+    },
+    {
+        "GRI": "205-3",
+        "Anticorruzione": "Casi di corruzione verificati e azioni intraprese",
+        "Raccordo": "1.1 - Identità, principi e valori"
+    },
+    {
+        "GRI": "206-1",
+        "Comportamento anticompetitivo": "Azioni legali di concorrenza sleale, anti-trust e pratiche monopolistiche",
+        "Raccordo": "NA"
+    },
+    {
+        "GRI": "207-1",
+        "Tasse": "Approccio alle imposte",
+        "Raccordo": "NA"
+    },
+    {
+        "GRI": "207-2",
+        "Tasse": "Governance relativa alle imposte, controllo e gestione del rischio",
+        "Raccordo": "NA"
+    },
+    {
+        "GRI": "207-3",
+        "Tasse": "Coinvolgimento degli stakeholder e gestione delle preoccupazioni correlate alle imposte",
+        "Raccordo": "NA"
+    },
+    {
+        "GRI": "207-4",
+        "Tasse": "Reportistica per Paese",
+        "Raccordo": "NA"
+    }
+]

@@ -1,0 +1,86 @@
+{
+    "progetti": [
+        {
+            "tema": "Intelligenza artificiale: aspetti fondazionali",
+            "acronimo": "FAIR",
+            "descrizione": "Future Artificial Intelligence Research",
+            "codice": "PE1"
+        },
+        {
+            "tema": "Scenari energetici del futuro",
+            "acronimo": "NEST",
+            "descrizione": "Network 4 Energy Sustainable Transition",
+            "codice": "PE2"
+        },
+        {
+            "tema": "Rischi ambientali, naturali e antropici",
+            "acronimo": "RETURN",
+            "descrizione": "Multi-Risk science for resilient commUnities undeRa changing climate",
+            "codice": "PE3"
+        },
+        {
+            "tema": "Cultura umanistica e patrimonio culturale come laboratori di innovazione e creatività",
+            "acronimo": "CHANGES",
+            "descrizione": "Cultural Heritage Active Innovation for Sustainable Society",
+            "codice": "PE5"
+        },
+        {
+            "tema": "Diagnostica e terapie innovative nella medicina di precisione",
+            "acronimo": "HEAL ITALIA",
+            "descrizione": "Health Extended Alliance for Innovative Therapies, Advanced Lab-research, and Integrated Approaches of Precision Medicine",
+            "codice": "PE6"
+        },
+        {
+            "tema": "Cybersecurity, nuove tecnologie e tutela dei diritti",
+            "acronimo": "SERICS",
+            "descrizione": "Security and RIghts in the CyberSpace",
+            "codice": "PE7"
+        },
+        {
+            "tema": "Conseguenze e sfide dell'invecchiamento",
+            "acronimo": "AGE-IT",
+            "descrizione": "Italian Ageing Society",
+            "codice": "PE8"
+        },
+        {
+            "tema": "Sostenibilità economico-finanziaria dei sistemi e dei territori",
+            "acronimo": "GRINS",
+            "descrizione": "Growing Resilient, INclusive and Sustainable",
+            "codice": "PE9"
+        },
+        {
+            "tema": "Modelli per un'alimentazione sostenibile",
+            "acronimo": "ONFOODS",
+            "descrizione": "Research and innovation network on food and nutrition Sustainability, Safety and Security - Working ON Foods",
+            "codice": "PE10"
+        },
+        {
+            "tema": "Made in Italy circolare e sostenibile",
+            "acronimo": "MICS",
+            "descrizione": "Made in Italy Circolare e Sostenibile",
+            "codice": "PE11"
+        },
+        {
+            "tema": "Neuroscienze e neurofarmacologia",
+            "acronimo": "MNESYS",
+            "descrizione": "A multiscale integrated approach to the study of the nervous system in health and disease",
+            "codice": "PE12"
+        },
+        {
+            "tema": "Malattie infettive emergenti",
+            "acronimo": "INF-ACT",
+            "descrizione": "One Health Basic and Translational Research Actions addressing Unmet Needs on Emerging Infectious Diseases",
+            "codice": "PE13"
+        },
+        {
+            "tema": "Telecomunicazioni del future",
+            "acronimo": "RESTART",
+            "descrizione": "RESearch and innovation on future Telecommunica- tions systems and networks, to make Italy more smart",
+            "codice": "PE14"
+        },
+        {
+            "tema": "Agenzia Spaziale Italiana - Attività spaziali",
+            "codice": "ex PE15"
+        }
+    ]
+}

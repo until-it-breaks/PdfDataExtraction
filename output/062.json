@@ -1,0 +1,14 @@
+{
+    "corsi_lingua_italiana": {
+        "totale": 116,
+        "Bologna": 77,
+        "Campus della Romagna": 15,
+        "Percorsi online trasversali autoapprendimento assistito": 24
+    },
+    "iscrizioni_corsi_lingua_italiana": {
+        "totale": 1863,
+        "Bologna": 1300,
+        "Campus della Romagna": 180,
+        "Percorsi online trasversali autoapprendimento assistito": 383
+    }
+}

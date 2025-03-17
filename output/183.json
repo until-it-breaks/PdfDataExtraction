@@ -1,0 +1,25 @@
+{
+    "ambiente": [
+        {
+            "tipo": "superficie fotovoltaica",
+            "valore": "8.443 mq"
+        },
+        {
+            "tipo": "insegnamenti tematiche ambientali",
+            "valore": "1.975",
+            "anno": "A.A. 2023/24"
+        },
+        {
+            "tipo": "energia da fonti rinnovabili",
+            "valore": "1.103.885 kWh"
+        },
+        {
+            "tipo": "abbonamenti agevolati",
+            "valore": "20.369"
+        },
+        {
+            "tipo": "spesa abbonamenti agevolati",
+            "valore": "1.305.000 €"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "SDGs": [
+        {
+            "goal": "GOAL 1",
+            "insegnamenti": 360
+        },
+        {
+            "goal": "GOAL 2",
+            "insegnamenti": 249
+        },
+        {
+            "goal": "GOAL 3",
+            "insegnamenti": 1747
+        },
+        {
+            "goal": "GOAL 4",
+            "insegnamenti": 2781
+        },
+        {
+            "goal": "GOAL 5",
+            "insegnamenti": 1126
+        },
+        {
+            "goal": "GOAL 6",
+            "insegnamenti": 205
+        },
+        {
+            "goal": "GOAL 7",
+            "insegnamenti": 416
+        },
+        {
+            "goal": "GOAL 8",
+            "insegnamenti": 660
+        },
+        {
+            "goal": "GOAL 9",
+            "insegnamenti": 957
+        },
+        {
+            "goal": "GOAL 10",
+            "insegnamenti": 1142
+        },
+        {
+            "goal": "GOAL 11",
+            "insegnamenti": 853
+        },
+        {
+            "goal": "GOAL 12",
+            "insegnamenti": 789
+        },
+        {
+            "goal": "GOAL 13",
+            "insegnamenti": 760
+        },
+        {
+            "goal": "GOAL 14",
+            "insegnamenti": 170
+        },
+        {
+            "goal": "GOAL 15",
+            "insegnamenti": 477
+        },
+        {
+            "goal": "GOAL 16",
+            "insegnamenti": 511
+        },
+        {
+            "goal": "GOAL 17",
+            "insegnamenti": 439
+        }
+    ]
+}

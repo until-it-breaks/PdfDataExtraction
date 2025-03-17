@@ -1,0 +1,28 @@
+{
+    "tavola_gri": [
+        {
+            "GRI": "GRI 408",
+            "tema": "Lavoro minorile",
+            "408-1": "Operazioni e forniture con un rischio significativo di casi di lavoro minorile",
+            "raccordo": "Aspetto coperto dal rispetto della normativa nazionale sui diritti dei lavoratori"
+        },
+        {
+            "GRI": "GRI 409",
+            "tema": "Lavoro forzato",
+            "409-1": "Operazioni e forniture con un rischio significativo di casi di lavoro forzato",
+            "raccordo": "Aspetto coperto dal rispetto della normativa nazionale sui diritti dei lavoratori"
+        },
+        {
+            "GRI": "GRI 410",
+            "tema": "Pratiche di sicurezza",
+            "410-1": "Personale addetto alla sicurezza che ha ricevuto una formazione sulle procedure e sulle politiche riguardanti i diritti umani",
+            "raccordo": "Dato il tipo di attività svolta, l'Ateneo non entra direttamente in contatto con situazioni di possibile lesione dei diritti umani, poiché le pratiche di assunzione e in generale tutta l'operatività avvengono nel rispetto delle leggi nazionali che già tutelano i diritti in oggetto. L'Ateneo, comunque, svolge attività di formazione sul tema dei diritti umani rivolte a tutti i possibili interessati interni ed esterni all'Alma Mater"
+        },
+        {
+            "GRI": "GRI 411",
+            "tema": "Diritti delle comunità locali",
+            "411-1": "Casi di violazioni dei diritti delle comunità locali",
+            "raccordo": "7.2 - Dimensione internazionale (Progetti di cooperazione, accordi e attività)\n3.2-Valore economico distribuito (La politica di approvvigionamento)"
+        }
+    ]
+}

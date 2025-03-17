@@ -1,0 +1,40 @@
+{
+    "orientamento_in_ingresso": [
+        {
+            "attivita": "colloqui di orientamento rivolti agli studenti delle scuole superiori",
+            "anno": 2023,
+            "totale": 312,
+            "tipo": "colloqui"
+        },
+        {
+            "attivita": "incontri presso le scuole superiori",
+            "anno": 2023,
+            "totale": 85,
+            "tipo": "incontri"
+        },
+        {
+            "attivita": "eventi online e/o in presenza",
+            "anno": 2023,
+            "totale": 157,
+            "tipo": "eventi"
+        },
+        {
+            "attivita": "giornate dell'orientamento di Ateneo e di Campus",
+            "anno": 2023,
+            "totale": 7,
+            "tipo": "giornate"
+        },
+        {
+            "attivita": "informazioni tramite l'app myAlmaOrienta",
+            "anno": 2023,
+            "totale": 26697,
+            "tipo": "utenti"
+        },
+        {
+            "attivita": "iniziative rivolte agli studenti del terzo, quarto e quinto anno di scuola superiore",
+            "anno": 2023,
+            "totale": 145,
+            "tipo": "convenzioni"
+        }
+    ]
+}

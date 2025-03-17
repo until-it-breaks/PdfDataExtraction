@@ -1,0 +1,14 @@
+{
+    "corsiLingueStraniere": {
+        "Bologna": 103,
+        "Campus della Romagna": 43,
+        "Online trasversali": 64,
+        "Totale": 210
+    },
+    "iscrizioniCorsiLingueStraniere": {
+        "Bologna": 1534,
+        "Campus della Romagna": 896,
+        "Online trasversali": 836,
+        "Totale": 3266
+    }
+}
