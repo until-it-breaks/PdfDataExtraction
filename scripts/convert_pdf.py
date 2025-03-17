@@ -1,33 +1,37 @@
-import multiprocessing, sys, os, time, tempfile, shutil
+import multiprocessing
+import sys
+import os
+import time
+
+from tempfile import TemporaryDirectory
+from pathlib import Path
 from pdf2image import pdfinfo_from_path, convert_from_path
 
-if (len(sys.argv) == 1):
-    print("Missing target PDF path")
-    sys.exit()
+OUTPUT_FOLDER_NAME = "images"
+
+if (len(sys.argv) < 2):
+    print("Usage: python convert_pdf.py <PDF Path>")
+    sys.exit(1)
 
 pdf_path = sys.argv[1]
 pdf_info = pdfinfo_from_path(sys.argv[1])
 pages_count = pdf_info["Pages"]
 threads = multiprocessing.cpu_count()
 
-temp_folder = tempfile.mkdtemp() # Using a temporary directory yields better performance when using multiple threads
-output_folder = "pages"
+output_dir = (Path(__file__).parents[1] / OUTPUT_FOLDER_NAME).resolve()
+output_dir.mkdir(parents=True, exist_ok=True)
 
-print("Beginning conversion of {pages} pages from {path} with {count} threads".format(pages=pages_count, path=pdf_path, count=threads))
+print("Converting {} pages from {} with {} threads".format(pages_count, pdf_path, threads))
 
 start_time = time.time()
 
-os.makedirs(output_folder, exist_ok=True)
-
-images = convert_from_path(pdf_path, thread_count=threads, output_folder=temp_folder)
-
-for i, image in enumerate(images, start=1):
-    image_path = os.path.join(output_folder, "{}.jpeg".format(i))
-    image.save(image_path, "JPEG")
+# Using a temporary directory yields better performance when using multiple threads
+with TemporaryDirectory() as temp_folder:
+    images = convert_from_path(pdf_path, thread_count=threads, output_folder=temp_folder)
+    for i, image in enumerate(images, start=1):
+        image.save(output_dir / "{}.jpeg".format(str(i).zfill(3)), "JPEG")
 
 end_time = time.time()
 
-shutil.rmtree(temp_folder)
-
 print("Job done in {:.3f}s".format(end_time - start_time))
-print("You can find the output at {}".format(os.path.abspath(output_folder)))
+print("You can find the output at {}".format(os.path.abspath(output_dir)))
