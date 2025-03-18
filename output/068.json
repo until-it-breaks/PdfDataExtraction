@@ -1,16 +1,10 @@
 {
-    "dati": [
-        {
-            "anno_accademico": "2022/2023",
-            "studenti_borsa_studio": "13.180"
+    "Borse di Studio e Agevolazioni": {
+        "Anno Accademico 2022/2023": {
+            "Studenti beneficiari di borse di studio": "13.180",
+            "Borse di Studio per collaborazioni studentesche disponibili": "2.202",
+            "Studenti beneficiari di interventi per alluvione": "553"
         },
-        {
-            "anno_accademico": "2022/2023",
-            "borse_studio_disponibili": "2.202"
-        },
-        {
-            "anno_accademico": "2022/2023",
-            "studenti_aiutati_alluvione": "553"
-        }
-    ]
+        "Importo massimo per Borse di Studio per collaborazioni studentesche": "€1.125"
+    }
 }

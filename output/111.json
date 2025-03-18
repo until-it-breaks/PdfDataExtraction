@@ -1,1 +1,73 @@
-{}
+{
+    "Titolo": "Pubblicazioni Unibo pro-capite rispetto al benchmark europeo",
+    "Dati": [
+        {
+            "Goal": "GOAL 1",
+            "Valore": 100
+        },
+        {
+            "Goal": "GOAL 2",
+            "Valore": 180
+        },
+        {
+            "Goal": "GOAL 3",
+            "Valore": 110
+        },
+        {
+            "Goal": "GOAL 4",
+            "Valore": 100
+        },
+        {
+            "Goal": "GOAL 5",
+            "Valore": 80
+        },
+        {
+            "Goal": "GOAL 6",
+            "Valore": 175
+        },
+        {
+            "Goal": "GOAL 7",
+            "Valore": 195
+        },
+        {
+            "Goal": "GOAL 8",
+            "Valore": 180
+        },
+        {
+            "Goal": "GOAL 9",
+            "Valore": 260
+        },
+        {
+            "Goal": "GOAL 10",
+            "Valore": 90
+        },
+        {
+            "Goal": "GOAL 11",
+            "Valore": 200
+        },
+        {
+            "Goal": "GOAL 12",
+            "Valore": 330
+        },
+        {
+            "Goal": "GOAL 13",
+            "Valore": 60
+        },
+        {
+            "Goal": "GOAL 14",
+            "Valore": 200
+        },
+        {
+            "Goal": "GOAL 15",
+            "Valore": 80
+        },
+        {
+            "Goal": "GOAL 16",
+            "Valore": 135
+        },
+        {
+            "Goal": "GOAL 17",
+            "Valore": 130
+        }
+    ]
+}

@@ -1,37 +1,39 @@
-[
-    {
-        "Attività": "Job Incontra Online",
-        "Tipo": "aziende intervenute",
-        "2023": 3
-    },
-    {
-        "Attività": "Job Incontra Online",
-        "Tipo": "partecipanti",
-        "2023": 236
-    },
-    {
-        "Attività": "Job Incontra (iniziative con singole aziende in presenza)",
-        "Tipo": "aziende intervenute",
-        "2023": 6
-    },
-    {
-        "Attività": "Job Incontra (iniziative con singole aziende in presenza)",
-        "Tipo": "partecipanti",
-        "2023": 372
-    },
-    {
-        "Attività": "Visite aziendali",
-        "Tipo": "aziende intervenute",
-        "2023": 3
-    },
-    {
-        "Attività": "Visite aziendali",
-        "Tipo": "partecipanti",
-        "2023": 96
-    },
-    {
-        "Attività": "Job Corner - Aziende in Ateneo",
-        "Tipo": "aziende intervenute",
-        "2023": 10
-    }
-]
+{
+    "Job placement": [
+        {
+            "Attività": "Job Incontra Online",
+            "Aziende/Partecipanti": "aziende intervenute",
+            "2023": "3"
+        },
+        {
+            "Attività": "Job Incontra Online",
+            "Aziende/Partecipanti": "partecipanti",
+            "2023": "236"
+        },
+        {
+            "Attività": "Job Incontra (iniziative con singole aziende in presenza)",
+            "Aziende/Partecipanti": "aziende intervenute",
+            "2023": "6"
+        },
+        {
+            "Attività": "Job Incontra (iniziative con singole aziende in presenza)",
+            "Aziende/Partecipanti": "partecipanti",
+            "2023": "372"
+        },
+        {
+            "Attività": "Visite aziendali",
+            "Aziende/Partecipanti": "aziende intervenute",
+            "2023": "3"
+        },
+        {
+            "Attività": "Visite aziendali",
+            "Aziende/Partecipanti": "partecipanti",
+            "2023": "96"
+        },
+        {
+            "Attività": "Job Corner - Aziende in Ateneo",
+            "Aziende/Partecipanti": "aziende intervenute",
+            "2023": "10"
+        }
+    ]
+}

@@ -1,22 +1,24 @@
-[
-    {
-        "GRI": "401-1",
-        "Occupazione": "Nuove assunzioni e tasso di turnover",
-        "Raccordo BS": "6.1 - Personale docente e ricercatore\n6.2 - Personale tecnico amministrativo"
-    },
-    {
-        "GRI": "401-2",
-        "Occupazione": "Benefit previsti per i lavoratori a tempo pieno,\nma non per i lavoratori part-time ed a termine",
-        "Raccordo BS": "6.1 - Personale docente e ricercatore\n6.2 - Personale tecnico amministrativo\n6.4 - Benessere organizzativo"
-    },
-    {
-        "GRI": "401-3",
-        "Occupazione": "Congedo parentale",
-        "Raccordo BS": "6.1 - Personale docente e ricercatore\n6.2 - Personale tecnico amministrativo"
-    },
-    {
-        "GRI": "402-1",
-        "Gestione lavoro": "Periodo minimo di preavviso per modifiche\noperative",
-        "Raccordo BS": "6.2 - Personale tecnico amministrativo (Mobilità interna ed\nesterna). Per il personale docente l'inamovibilità e la libertà di\ninsegnamento sono garantite costituzionalmente; l'Ateneo ha\naggiornato nel 2023 il Regolamento per disciplinare la mobilità\ninterna tra Dipartimenti e tra sedi dello stesso Dipartimento"
-    }
-]
+{
+    "GRI 400 ASPETTI SOCIALI": [
+        {
+            "GRI 401": "Occupazione",
+            "401-1": "Nuove assunzioni e tasso di turnover",
+            "Raccordo con indice BS 2024 e/o note": "6.1 - Personale docente e ricercatore\n6.2 - Personale tecnico amministrativo"
+        },
+        {
+            "GRI 401": "Occupazione",
+            "401-2": "Benefit previsti per i lavoratori a tempo pieno, ma non per i lavoratori part-time ed a termine",
+            "Raccordo con indice BS 2024 e/o note": "6.1 - Personale docente e ricercatore\n6.2 - Personale tecnico amministrativo\n6.4 - Benessere organizzativo"
+        },
+        {
+            "GRI 401": "Occupazione",
+            "401-3": "Congedo parentale",
+            "Raccordo con indice BS 2024 e/o note": "6.1 - Personale docente e ricercatore\n6.2 - Personale tecnico amministrativo"
+        },
+        {
+            "GRI 402": "Gestione del lavoro e delle relazioni sindacali",
+            "402-1": "Periodo minimo di preavviso per modifiche operative",
+            "Raccordo con indice BS 2024 e/o note": "6.2 - Personale tecnico amministrativo (Mobilità interna ed esterna). Per il personale docente l'inamovibilità e la libertà di insegnamento sono garantite costituzionalmente; l'Ateneo ha aggiornato nel 2023 il Regolamento per disciplinare la mobilità interna tra Dipartimenti e tra sedi dello stesso Dipartimento"
+        }
+    ]
+}

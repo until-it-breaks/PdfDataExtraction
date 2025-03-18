@@ -1,29 +1,59 @@
 {
-    "Valore economico trattenuto": [
-        {
-            "Voce": "Ammortamenti e svalutazioni",
-            "2023 (mln)": "40",
-            "%": "26%"
+    "Valore distribuito (in mln di €)": {
+        "2021": {
+            "Pubblica amministrazione": "642,0",
+            "Fornitori *": "23,1",
+            "Trasferimenti passivi verso terzi": "117,5",
+            "Interventi per studenti/esse": "25,7",
+            "Risorse Umane": "384,0"
         },
-        {
-            "Voce": "Accantonamenti per rischi e oneri",
-            "2023 (mln)": "15",
-            "%": "10%"
+        "2022": {
+            "Pubblica amministrazione": "724,3",
+            "Fornitori *": "24,6",
+            "Trasferimenti passivi verso terzi": "139,5",
+            "Interventi per studenti/esse": "34,9",
+            "Risorse Umane": "412,3"
         },
-        {
-            "Voce": "Oneri diversi di gestione",
-            "2023 (mln)": "30",
-            "%": "19%"
-        },
-        {
-            "Voce": "Utile d'esercizio",
-            "2023 (mln)": "68",
-            "%": "45%"
-        },
-        {
-            "Voce": "Totale",
-            "2023 (mln)": "153",
-            "%": "100%"
+        "2023": {
+            "Pubblica amministrazione": "804,6",
+            "Fornitori *": "26,3",
+            "Trasferimenti passivi verso terzi": "143,5",
+            "Interventi per studenti/esse": "41,9",
+            "Risorse Umane": "469,1"
         }
-    ]
+    },
+    "Valore economico trattenuto": {
+        "columns": [
+            "Valore economico trattenuto",
+            "2023 (mln)",
+            "%"
+        ],
+        "rows": [
+            {
+                "Valore economico trattenuto": "Ammortamenti e svalutazioni",
+                "2023 (mln)": "40",
+                "%": "26%"
+            },
+            {
+                "Valore economico trattenuto": "Accantonamenti per rischi e oneri",
+                "2023 (mln)": "15",
+                "%": "10%"
+            },
+            {
+                "Valore economico trattenuto": "Oneri diversi di gestione",
+                "2023 (mln)": "30",
+                "%": "19%"
+            },
+            {
+                "Valore economico trattenuto": "Utile d'esercizio",
+                "2023 (mln)": "68",
+                "%": "45%"
+            },
+            {
+                "Valore economico trattenuto": "Totale",
+                "2023 (mln)": "153",
+                "%": "100%"
+            }
+        ]
+    }
 }

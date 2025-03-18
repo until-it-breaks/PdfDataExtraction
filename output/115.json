@@ -1,29 +1,25 @@
 {
-    "pers_doc_ric": {
-        "num": 3382,
-        "descr": "PERSONALE DOCENTE E RICERCATORE",
-        "perc": "+ 6,5%"
-    },
-    "pers_tec_amm": {
-        "num": 3242,
-        "descr": "PERSONALE TECNICO AMMINISTRATIVO",
-        "perc": "+2,8%"
-    },
-    "ore_formaz": {
-        "num": 96721,
-        "descr": "ORE DI FORMAZIONE FRUITE DAL PERSONALE NEL 2023",
-        "perc": "+19,8%"
-    },
-    "welfare": {
-        "num": "2.330.000€",
-        "descr": "WELFARE AZIENDALE PER IL PERSONALE TA"
-    },
-    "acc_smart": {
-        "num": 311,
-        "descr": "ACCORDI DI SMART WORKING"
-    },
-    "prog_telel": {
-        "num": 1963,
-        "descr": "PROGETTI DI TELELAVORO"
+    "Dati Personale": {
+        "Personale Docente e Ricercatore": {
+            "numero": "3.382",
+            "variazione": "+ 6,5%"
+        },
+        "Personale Tecnico Amministrativo": {
+            "numero": "3.242",
+            "variazione": "+2,8%"
+        },
+        "Ore di Formazione Fruite dal Personale nel 2023": {
+            "numero": "96.721",
+            "variazione": "+19,8%"
+        },
+        "Welfare Aziendale per il Personale TA": {
+            "importo": "2.330.000€"
+        },
+        "Accordi di Smart Working": {
+            "numero": "311"
+        },
+        "Progetti di Telelavoro": {
+            "numero": "1.963"
+        }
     }
 }

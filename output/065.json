@@ -1,48 +1,15 @@
 {
-    "tabella": [
-        {
-            "eventi_partecipanti": "Presentazioni presso scuole superiori italiane ed estere in presenza e online",
-            "2023": "85"
-        },
-        {
-            "eventi_partecipanti": "Nr. di partecipanti",
-            "2023": "10.024"
-        },
-        {
-            "eventi_partecipanti": "Presentazione specifica corsi di studio in presenza e in modalità webinar",
-            "2023": "157"
-        },
-        {
-            "eventi_partecipanti": "Nr. di partecipanti",
-            "2023": "14.800"
-        },
-        {
-            "eventi_partecipanti": "Giornate di Orientamento",
-            "2023": "7"
-        },
-        {
-            "eventi_partecipanti": "Nr. di partecipanti",
-            "2023": "23.460"
-        },
-        {
-            "eventi_partecipanti": "Nr. Convenzioni con le scuole per PCTO",
-            "2023": "145"
-        },
-        {
-            "eventi_partecipanti": "Nr. percorsi attivati",
-            "2023": "456"
-        },
-        {
-            "eventi_partecipanti": "Nr. studenti coinvolti",
-            "2023": "6.770"
-        },
-        {
-            "eventi_partecipanti": "Stand di Ateneo presso fiere di orientamento internazionali, in presenza o online",
-            "2023": "9"
-        },
-        {
-            "eventi_partecipanti": "Nr. partecipanti",
-            "2023": "1.078"
-        }
-    ]
+    "Orientamento in entrata": {
+        "Presentazioni presso scuole superiori italiane ed estere in presenza e online": 85,
+        "Nr. di partecipanti": 10024,
+        "Presentazione specifica corsi di studio in presenza e in modalità webinar": 157,
+        "Nr. di partecipanti (Presentazione specifica corsi di studio)": 14800,
+        "Giornate di Orientamento": 7,
+        "Nr. di partecipanti (Giornate di Orientamento)": 23460,
+        "Nr. Convenzioni con le scuole per PCTO": 145,
+        "Nr. percorsi attivati": 456,
+        "Nr. studenti coinvolti": 6770,
+        "Stand di Ateneo presso fiere di orientamento internazionali, in presenza o online": 9,
+        "Nr. partecipanti (Stand di Ateneo)": 1078
+    }
 }

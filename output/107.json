@@ -1,30 +1,14 @@
 {
-    "Dottorandi outgoing": [
-        {
-            "Anno": "2021",
-            "Valore": 386
+    "Mobilità dottorandi e docenti outgoing": {
+        "Dottorandi outgoing con almeno 30gg di mobilità nell'anno": {
+            "2021": 386,
+            "2022": 623,
+            "2023": 701
         },
-        {
-            "Anno": "2022",
-            "Valore": 623
-        },
-        {
-            "Anno": "2023",
-            "Valore": 701
+        "Docenti outgoing nell'anno": {
+            "2021": 1232,
+            "2022": 4453,
+            "2023": 5994
         }
-    ],
-    "Docenti outgoing": [
-        {
-            "Anno": "2021",
-            "Valore": 1232
-        },
-        {
-            "Anno": "2022",
-            "Valore": 4453
-        },
-        {
-            "Anno": "2023",
-            "Valore": 5994
-        }
-    ]
+    }
 }

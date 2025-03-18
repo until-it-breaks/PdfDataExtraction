@@ -9,8 +9,9 @@ from google import genai
 OUTPUT_FOLDER_NAME = "output"
 PROMPT = (
     "Analizza l'immagine. Estrai dati da tabelle, grafici o infografiche, se presenti, in formato JSON valido. "
-    "Se necessario, usa chiavi nella lingua nativa, inoltre cerca di essere sintetico con esse. "
-    "Se non trovi dati rilevanti, ma solo intestazioni, immagini o testo non strutturato, restituisci un JSON vuoto."
+    "Se presenti usa le chiavi in lingua nativa"
+    "Cerca di assegnare un titolo significativo ed evita di usare prefissi come figura e tabella"
+    "Se non trovi dati rilevanti, ma solo intestazioni, titoli, immagini, indici, introduzioni o testo non strutturato, restituisci un JSON vuoto."
 )
 MODEL = "gemini-2.0-flash"
 

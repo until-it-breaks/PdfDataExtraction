@@ -1,8 +1,10 @@
 {
-    "corsi_studio": 312,
-    "studenti_iscritti": 87865,
-    "studenti_internazionali": 8060,
-    "laureati": 19783,
-    "borse_studio": 13180,
-    "iscritti_in_corso": "81,2%"
+    "Dati Universitari": {
+        "Corsi di studio": "312 corsi di studio di vari livelli di cui 51 dottorati di ricerca",
+        "Studenti iscritti": "87.865 studenti iscritti ai corsi di studio dei vari livelli nel 2023",
+        "Studenti internazionali": "8.060 studenti internazionali iscritti",
+        "Laureati": "19.783 laureati nei corsi di studio dei vari livelli",
+        "Borse di studio": "13.180 borse di studio per gli studenti (erogate da ER.GO)",
+        "Iscritti in corso": "81,2% iscritti in corso"
+    }
 }

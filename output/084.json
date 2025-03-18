@@ -1,33 +1,42 @@
 {
-    "PNRR_milioni_euro": {
-        "M1": 15.63,
-        "M2": 40.73,
-        "M3": 19.81,
-        "M4": 30.88,
-        "M5": 25.13,
-        "M6": 59.33
-    },
-    "totale_PNRR_miliardi_euro": 191.5,
-    "M4.C1": "19,44 MLD EURO",
-    "M4.C2": "11,44 MLD EURO",
-    "attratto_UNIBO": "234 MILIONI",
-    "bandi_avviati": "18,5 MILIONI (37%)",
-    "dettaglio_investimenti": {
-        "PE": {
-            "milioni": 112.6,
-            "progetti": 13
+    "Piano Nazionale di Ripresa e Resilienza (PNRR)": {
+        "Totale finanziamento": "191,5 MLD EURO",
+        "Distribuzione per obiettivi": {
+            "M1. DIGITALIZZAZIONE, INNOVAZIONE, COMPETITIVITÀ, CULTURA E TURISMO": "40,73",
+            "M2. RIVOLUZIONE VERDE E TRANSIZIONE ECOLOGICA": "59,33",
+            "M3. INFRASTRUTTURE PER UNA MOBILITÀ SOSTENIBILE": "25,13",
+            "M4. ISTRUZIONE E RICERCA": "30,88",
+            "M5. INCLUSIONE E COESIONE": "19,81",
+            "M6. SALUTE": "15,63"
         },
-        "CN": {
-            "milioni": 83.7,
-            "progetti": 6
+        "Dettaglio M4 (Istruzione e Ricerca)": {
+            "M4.C1 POTENZIAMENTO DELL'OFFERTA DEI SERVIZI DI ISTRUZIONE DAGLI ASILI NIDO ALLE UNIVERSITÀ": "19,44 MLD EURO",
+            "M4.C2 DALLA RICERCA ALL'IMPRESA": "11,44 MLD EURO",
+            "Attratto UNIBO": "234 MILIONI",
+            "Di cui 50 milioni per bandi a cascata per soggetti terzi": "",
+            "Bandi avviati": "18,5 milioni (37%)"
         },
-        "ECOSISTER": {
-            "milioni": 25.8,
-            "progetti": 1
-        },
-        "IR": {
-            "milioni": 12.4,
-            "progetti": 8
+        "Investimenti Specifici": {
+            "Investimento 1.3 (PE)": {
+                "Descrizione": "Partenariati estesi a università, centri di ricerca, imprese e finanziamento progetti di ricerca",
+                "Finanziamento": "112,6 milioni",
+                "Progetti": "13"
+            },
+            "Investimento 1.4 (CN)": {
+                "Descrizione": "Potenziamento strutture di ricerca e potenziamento di “campioni nazionali” di R&S su alcune Key enabling technologies",
+                "Finanziamento": "83,7 milioni",
+                "Progetti": "6 (di cui DARE-PNC)"
+            },
+            "Investimento 1.5 (ECOSISTER)": {
+                "Descrizione": "Partenariati estesi a università, centri di ricerca, imprese e finanziamento progetti di ricerca",
+                "Finanziamento": "25,8 milioni",
+                "Progetti": "1"
+            },
+            "Investimento 3.1 (IR)": {
+                "Descrizione": "Fondo per la realizzazione di un sistema integrato di infrastrutture per la ricerca e l'innovazione",
+                "Finanziamento": "12,4 milioni",
+                "Progetti": "8"
+            }
         }
     }
 }

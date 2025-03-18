@@ -1,76 +1,22 @@
 {
-    "Aree": [
-        {
-            "Nome": "ACCE AREA DI CAMPUS CESENA",
-            "Numero personale TA": 81
-        },
-        {
-            "Nome": "ACFO AREA DI CAMPUS FORLÌ",
-            "Numero personale TA": 103
-        },
-        {
-            "Nome": "ACRA AREA DI CAMPUS RAVENNA",
-            "Numero personale TA": 59
-        },
-        {
-            "Nome": "ACRN AREA DI CAMPUS RIMINI",
-            "Numero personale TA": 81
-        },
-        {
-            "Nome": "APOS AREA DEL PERSONALE",
-            "Numero personale TA": 141
-        },
-        {
-            "Nome": "APAT AREA DEL PATRIMONIO",
-            "Numero personale TA": 73
-        },
-        {
-            "Nome": "ARAG AREA FINANZA E CONTABILITÀ",
-            "Numero personale TA": 93
-        },
-        {
-            "Nome": "ATES AREA TECNICA EDILIZIA E SOSTENIBILITÀ",
-            "Numero personale TA": 166
-        },
-        {
-            "Nome": "ARPAC AREA PATRIMONIO CULTURALE",
-            "Numero personale TA": 171
-        },
-        {
-            "Nome": "APAP AREA APPALTI E APPROVVIGIONAMENTI",
-            "Numero personale TA": 44
-        },
-        {
-            "Nome": "SAM AREA SERVICE AREA MEDICA",
-            "Numero personale TA": 169
-        },
-        {
-            "Nome": "AFORM AREA FORMAZIONE E DOTTORATO",
-            "Numero personale TA": 263
-        },
-        {
-            "Nome": "ASES AREA SERVIZI STUDENTI",
-            "Numero personale TA": 105
-        },
-        {
-            "Nome": "ARIN AREA INNOVAZIONE",
-            "Numero personale TA": 122
-        },
-        {
-            "Nome": "APPC AREA PIANIFICAZIONE, PROGRAMMAZIONE, COMUNICAZIONE",
-            "Numero personale TA": 78
-        },
-        {
-            "Nome": "CESIA AREA SISTEMI E SERVIZI INFORMATICI",
-            "Numero personale TA": 157
-        },
-        {
-            "Nome": "ARIC AREA RICERCA",
-            "Numero personale TA": 69
-        },
-        {
-            "Nome": "SSRD STAFF RETTORE E DIRETTORE GENERALE",
-            "Numero personale TA": 74
-        }
-    ]
+    "Numero del personale TA per Area": {
+        "ACCE AREA DI CAMPUS CESENA": 81,
+        "ACFO AREA DI CAMPUS FORLÌ": 103,
+        "ACRA AREA DI CAMPUS RAVENNA": 59,
+        "ACRN AREA DI CAMPUS RIMINI": 81,
+        "APOS AREA DEL PERSONALE": 141,
+        "APAT AREA DEL PATRIMONIO": 73,
+        "ARAG AREA FINANZA E CONTABILITÀ": 93,
+        "ATES AREA TECNICA EDILIZIA E SOSTENIBILITÀ": 166,
+        "ARPAC AREA PATRIMONIO CULTURALE": 171,
+        "APAP AREA APPALTI E APPROVVIGIONAMENTI": 44,
+        "SAM AREA SERVICE AREA MEDICA": 169,
+        "AFORM AREA FORMAZIONE E DOTTORATO": 263,
+        "ASES AREA SERVIZI STUDENTI": 105,
+        "ARIN AREA INNOVAZIONE": 122,
+        "APPC AREA PIANIFICAZIONE, PROGRAMMAZIONE, COMUNICAZIONE": 78,
+        "CESIA AREA SISTEMI E SERVIZI INFORMATICI": 157,
+        "ARIC AREA RICERCA": 69,
+        "SSRD STAFF RETTORE E DIRETTORE GENERALE": 74
+    }
 }

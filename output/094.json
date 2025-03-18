@@ -1,27 +1,35 @@
-[
-    {
-        "aree": {
-            "Tecnologica": 380,
-            "Scientifica": 189,
-            "Sociale": 102,
-            "Medica": 96,
-            "Umanistica": 39
-        }
+{
+    "Docenti e ricercatori coinvolti in progetti PNRR e PNC per area": {
+        "Area": [
+            "Tecnologica",
+            "Scientifica",
+            "Sociale",
+            "Medica",
+            "Umanistica"
+        ],
+        "Numero": [
+            380,
+            189,
+            102,
+            96,
+            39
+        ]
     },
-    {
-        "genere": {
-            "Ordinario": {
-                "Donne": "26,3%",
-                "Uomini": "73,7%"
-            },
-            "Associato": {
-                "Donne": "38,8%",
-                "Uomini": "61,2%"
-            },
-            "Ricercatore": {
-                "Donne": "42,0%",
-                "Uomini": "58,0%"
-            }
-        }
+    "Docenti e ricercatori coinvolti in progetti PNRR e PNC per genere": {
+        "Ruolo": [
+            "Ordinario",
+            "Associato",
+            "Ricercatore"
+        ],
+        "Donne": [
+            "26,3%",
+            "38,8%",
+            "42,0%"
+        ],
+        "Uomini": [
+            "73,7%",
+            "61,2%",
+            "58,0%"
+        ]
     }
-]
+}

@@ -1,18 +1,25 @@
 {
-    "DSA": {
-        "anno": 2023,
-        "valore_medio_soddisfazione": 4.03,
-        "scala": "1-5"
+    "Servizi_Studenti_con_Disabilità_e_DSA": {
+        "Anno": 2023,
+        "Valore_medio_soddisfazione": 4.03,
+        "Scala": "1 a 5"
     },
-    "carriera_alias": {
-        "anno": 2023,
-        "attivate": 75
+    "Carriera_Alias": {
+        "Anno": 2023,
+        "Carriere_attivate": 75
     },
-    "servizi_studio": {
-        "Bologna": 16,
-        "Cesena": 2,
-        "Forlì": 4,
-        "Ravenna": 7,
-        "Rimini": 2
+    "Servizi_per_lo_Studio": {
+        "Città": [
+            "Cesena",
+            "Forlì",
+            "Ravenna",
+            "Rimini"
+        ],
+        "Sale_studio": [
+            2,
+            4,
+            7,
+            2
+        ]
     }
 }

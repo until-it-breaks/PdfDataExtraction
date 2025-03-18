@@ -1,12 +1,14 @@
 {
-    "corsi_rischio_medio": 140,
-    "corsi_rischio_alto": 2,
-    "corsi_addetti_sicurezza": 38,
-    "corsi_rischio_alto_sicurezza": 1,
-    "partecipanti_formazione_emergenza": 213,
-    "edizioni_formazione_emergenza": 18,
-    "corsi_attrezzature_pericolose": 20,
-    "ore_formazione_totali": 442350,
-    "ore_formazione_e_learning": 87724,
-    "vaccinati_antinfluenzale": 1642
+    "Formazione_Sicurezza_2023": {
+        "Corsi_studenti_rischio_medio": 140,
+        "Corsi_studenti_rischio_alto": 2,
+        "Corsi_addetti_locali_sicurezza_rischio_medio": 38,
+        "Corsi_addetti_locali_sicurezza_rischio_alto": 1,
+        "Partecipanti_formazione_emergenza": 213,
+        "Edizioni_formazione_emergenza": 18,
+        "Corsi_attrezzature_pericolose_enti_esterni": 20,
+        "Ore_formazione_totali": 442350,
+        "Ore_formazione_e-learning": 87724,
+        "Dipendenti_vaccinati": 1642
+    }
 }

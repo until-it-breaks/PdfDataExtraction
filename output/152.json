@@ -1,20 +1,17 @@
 {
-    "corsi_aa_2023_2024": {
-        "totale": 65,
-        "CAF": 23,
-        "CFP": 25,
-        "SWS": 17
-    },
-    "convenzioni": [
-        "Lamborghini",
-        "Philip Morris",
-        "HPE Coxa",
-        "Assinter",
-        "IEG"
-    ],
-    "ore_docenza": 400,
-    "corsi_misura": 16,
-    "dipendenti_coinvolti": 300,
-    "progetti_finanziamento": 8,
-    "corsi_pilota_2023": 2
+    "Formazione": {
+        "Anno accademico 2023/2024": {
+            "Corsi attivati": "65",
+            "Corsi di Alta Formazione (CAF)": "23",
+            "Corsi di Formazione Permanente (CFP)": "25",
+            "Summer e Winter School (SWS)": "17"
+        },
+        "Formazione per i dipendenti aziendali": {
+            "Ore di docenza erogate": "400",
+            "Corsi su misura": "16",
+            "Dipendenti coinvolti": "oltre 300"
+        },
+        "Progetti legati alle opportunità di finanziamento": "8",
+        "Corsi pilota erogati nel 2023 (Ateneo UniBook)": "2"
+    }
 }

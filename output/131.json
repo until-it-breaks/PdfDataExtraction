@@ -1,5 +1,10 @@
 {
-    "oreFormazione": {
+    "Ore di formazione pro-capite per categoria": {
+        "Totale": {
+            "2021": 54.298,
+            "2022": 69.674,
+            "2023": 96.721
+        },
         "Dirigenti": {
             "2021": 56.2,
             "2022": 50.9,
@@ -24,14 +29,9 @@
             "2021": 13.0,
             "2022": 7.9,
             "2023": 11.7
-        },
-        "Totale": {
-            "2021": 54.298,
-            "2022": 69.674,
-            "2023": 96.721
         }
     },
-    "percentualeFormato": {
+    "Percentuale di personale formato": {
         "Dirigenti": {
             "2021": 100,
             "2022": 100,

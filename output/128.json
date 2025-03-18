@@ -1,54 +1,56 @@
 {
-    "Mobilità interna": [
-        {
-            "descr": "Numero di domande di mobilità interna (nuove domande + rinnovi)",
-            "2021": 69,
-            "2022": 100,
-            "2023": "5212"
-        },
-        {
-            "descr": "Domande accolte",
-            "2021": 24,
-            "2022": 37,
-            "2023": 23
-        },
-        {
-            "descr": "Numero bandi e avvisi di mobilità interna",
-            "2021": 47,
-            "2022": 20,
-            "2023": 36
-        },
-        {
-            "descr": "Numero trasferimenti interni personale (da bando e non; esclusi cambi di unità all'interno della medesima struttura)",
-            "2021": 80,
-            "2022": 128,
-            "2023": 173
-        }
-    ],
-    "Mobilità esterna": [
-        {
-            "descr": "Numero richieste di nullaosta per mobilità esterna in uscita",
-            "2021": 17,
-            "2022": 67,
-            "2023": 26
-        },
-        {
-            "descr": "Numero richieste di nullaosta per mobilità esterna accolte",
-            "2021": 15,
-            "2022": 54,
-            "2023": 25
-        },
-        {
-            "descr": "Numero di richieste di nullaosta con diniego",
-            "2021": 2,
-            "2022": 13,
-            "2023": 3
-        },
-        {
-            "descr": "Numero di trasferimenti per mobilità esterna in uscita",
-            "2021": 18,
-            "2022": 15,
-            "2023": 13
-        }
-    ]
+    "Mobilità interna ed esterna": {
+        "Mobilità interna": [
+            {
+                "Dati": "Numero di domande di mobilità interna (nuove domande + rinnovi)",
+                "2021": "69",
+                "2022": "100",
+                "2023": "52"
+            },
+            {
+                "Dati": "Domande accolte",
+                "2021": "24",
+                "2022": "37",
+                "2023": "23"
+            },
+            {
+                "Dati": "Numero bandi e avvisi di mobilità interna",
+                "2021": "47",
+                "2022": "20",
+                "2023": "36"
+            },
+            {
+                "Dati": "Numero trasferimenti interni personale (da bando e non; esclusi cambi di unità all'interno della medesima struttura)",
+                "2021": "80",
+                "2022": "128",
+                "2023": "173"
+            }
+        ],
+        "Mobilità esterna": [
+            {
+                "Dati": "Numero richieste di nullaosta per mobilità esterna in uscita",
+                "2021": "17",
+                "2022": "67",
+                "2023": "26"
+            },
+            {
+                "Dati": "Numero richieste di nullaosta per mobilità esterna accolte",
+                "2021": "15",
+                "2022": "54",
+                "2023": "25"
+            },
+            {
+                "Dati": "Numero di richieste di nullaosta con diniego",
+                "2021": "2",
+                "2022": "13",
+                "2023": "3"
+            },
+            {
+                "Dati": "Numero di trasferimenti per mobilità esterna in uscita",
+                "2021": "18",
+                "2022": "15",
+                "2023": "13"
+            }
+        ]
+    }
 }

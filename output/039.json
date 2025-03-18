@@ -1,17 +1,1 @@
-{
-    "soggetti_unibo": [
-        "FONDAZIONE ALMA RICERCA ex \"Fanti Melloni\"",
-        "BEHOLD S.R.L. A SOCIO UNICO",
-        "FONDAZIONE ALMA MATER",
-        "FUNDACIÓN ALMA MATER STUDIORUM UNIVERSITÁ DI BOLOGNA",
-        "FONDAZIONE \"CENTRO UNIVERSITARIO DI BERTINORO CE.U.B\"",
-        "FONDAZIONE LUCIANO TOSO MONTANARI",
-        "FONDAZIONE FEDERICO ZERI"
-    ],
-    "include_alma_ricerca": [
-        "ex Fondazione \"Agraria Sperimentale Castelvetri\"",
-        "ex Fondazione \"Ferruccio Avoni\"",
-        "ex Fondazione \"Gaetano Salvioli\"",
-        "ex Fondazione \"Pasquale Sfameni\""
-    ]
-}
+{}

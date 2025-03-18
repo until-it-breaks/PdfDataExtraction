@@ -1,28 +1,28 @@
 {
-    "Salute e sicurezza sul lavoro": [
+    "Salute e Sicurezza sul Lavoro": [
         {
             "GRI 403": "403-1",
-            "Titolo": "Sistema di gestione della salute e sicurezza sul lavoro",
+            "Tema": "Sistema di gestione della salute e sicurezza sul lavoro",
             "Raccordo con indice BS 2024 e/o note": "D. Lgs. 81/08 - Il sistema di gestione è definito e descritto al capitolo 1 del Manuale Sicurezza e Salute pubblicato sulla pagina intranet dell'Ateneo"
         },
         {
             "GRI 403": "403-2",
-            "Titolo": "Identificazione dei pericoli, valutazione dei rischi e indagini sugli incidenti",
-            "Raccordo con indice BS 2024 e/o note": "L'Ateneo redige un Documento generale di indirizzo nella riunione periodica annuale (art. 35 D.Lgs. 81/08). Annualmente viene verificato il possesso dei requisiti richiesti dal D.Lgs. 81/08 in merito alle competenze del personale che esegue le valutazioni del rischio. Si tratta di una verifica interna basata su requisiti formativi. Ogni documento è completo di un programma di miglioramento con scadenze e verifica periodica. I lavoratori svolgono i corsi formativi previsti dal D.Lgs. 81/08 e conoscono le figure competenti in materia. e nelle singole strutture sono informati su chi ricopra i ruoli. Rispetto alle ritorsioni possono rivol-gersi a molteplici figure (garante, consigliera di fiducia etc.) e si segue il codice etico (art. 9). Art. 33 co. 2 D.Lgs 81/08 - \"I componenti del servizio di prevenzione e protezione sono tenuti al segreto in ordine ai processi lavorativi di cui vengono a conoscenza nell'esercizio delle funzioni di cui al presente decreto legislativo. Procedura gestione incidenti (P11/SPP)"
+            "Tema": "Identificazione dei pericoli, valutazione dei rischi e indagini sugli incidenti",
+            "Raccordo con indice BS 2024 e/o note": "L'Ateneo redige un Documento generale di indirizzo nella riunione periodica annuale (art. 35 D.Lgs. 81/08). Annualmente viene verificato il possesso dei requisiti richiesti dal D.Lgs. 81/08 in merito alle competenze del personale che esegue le valutazioni del rischio. Si tratta di una verifica interna basata su requisiti formativi. Ogni documento è completo di un programma di miglioramento con scadenze e verifica periodica. I lavoratori svolgono i corsi formativi previsti dal D.Lgs. 81/08 e conoscono le figure competenti in materia. e nelle singole strutture sono informati su chi ricopra i ruoli. Rispetto alle ritorsioni possono rivolgersi a molteplici figure (garante, consigliera di fiducia etc.) e si segue il codice etico (art. 9). Art. 33 co. 2 D.Lgs 81/08 - \"I componenti del servizio di prevenzione e protezione sono tenuti al segreto in ordine ai processi lavorativi di cui vengono a conoscenza nell'esercizio delle funzioni di cui al presente decreto legislativo. Procedura gestione incidenti (P11/SPP)"
         },
         {
             "GRI 403": "403-3",
-            "Titolo": "Servizi di medicina del lavoro",
+            "Tema": "Servizi di medicina del lavoro",
             "Raccordo con indice BS 2024 e/o note": "Il servizio non rendiconta le tipologia principali di malattie professionali. NA non sono pertinenti al servizio i pericoli sul lavoro che costituiscono un rischio di malattia professionale"
         },
         {
             "GRI 403": "403-4",
-            "Titolo": "Partecipazione e consultazione dei lavoratori e comunicazione in materia di salute e sicurezza sul lavoro",
+            "Tema": "Partecipazione e consultazione dei lavoratori e comunicazione in materia di salute e sicurezza sul lavoro",
             "Raccordo con indice BS 2024 e/o note": "La Medicina del Lavoro organizza la sorveglianza sanitaria dei lavoratori ai sensi del D.L. 81/2008 e del D.L. 101/2020. E' compito del Servizio di Prevenzione e Protezione quello di effettuare la Valutazione dei Rischi e di identificare i Pericoli presenti in Ateneo, promuovendo la Sicurezza in tutti i suoi aspetti.\nLa medicina del lavoro coopera con il Servizio di prevenzione e protezione ai fini della tutela della salute dei lavoratori, come riportato dall'art. 25 comma 1 lettera a) del Dlgs 81/2008"
         },
         {
             "GRI 403": "403-5",
-            "Titolo": "Formazione dei lavoratori in materia di salute e sicurezza sul lavoro",
+            "Tema": "Formazione dei lavoratori in materia di salute e sicurezza sul lavoro",
             "Raccordo con indice BS 2024 e/o note": "La relazione annuale presentata alla riunione periodica (art. 35 D.Lgs. 81/08) comprende il Report annuale APOS (in concomitanza con la riunione periodica) e il Piano formativo SPP"
         }
     ]

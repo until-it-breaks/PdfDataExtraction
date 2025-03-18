@@ -1,20 +1,8 @@
 {
-    "valore_economico": [
-        {
-            "valore": "957 mln €",
-            "descrizione": "VALORE ECONOMICO ATTRATTO"
-        },
-        {
-            "valore": "805 mln €",
-            "descrizione": "VALORE ECONOMICO DISTRIBUITO"
-        },
-        {
-            "percentuale": "17%",
-            "descrizione": "ACQUISTI VERDI"
-        },
-        {
-            "valore": "366.795 €",
-            "scala": "5X1000"
-        }
-    ]
+    "Valore Economico": {
+        "Valore Economico Attratto": "957 mln €",
+        "Valore Economico Distribuito": "805 mln €",
+        "Acquisti Verdi": "17%",
+        "5X1000": "366.795 €"
+    }
 }

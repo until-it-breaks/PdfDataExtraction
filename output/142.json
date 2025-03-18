@@ -1,5 +1,7 @@
 {
-    "convenzioni_tirocini_2023": 13000,
-    "nuove_convenzioni_tirocini_2023": 3388,
-    "convenzioni_strutture_internazionali": 239
+    "Convenzioni_tirocini_2023": {
+        "Totale": "13.000",
+        "Nuove": "3.388",
+        "Strutture_internazionali": "239"
+    }
 }

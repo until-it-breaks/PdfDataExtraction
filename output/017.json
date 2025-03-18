@@ -1,28 +1,10 @@
 {
-    "costi": [
-        {
-            "ambito": "Persone (stipendi)",
-            "percentuale": "38%"
-        },
-        {
-            "ambito": "Persone",
-            "percentuale": "18%"
-        },
-        {
-            "ambito": "Ricerca",
-            "percentuale": "19%"
-        },
-        {
-            "ambito": "Didattica e comunità studentesca",
-            "percentuale": "17%"
-        },
-        {
-            "ambito": "Società",
-            "percentuale": "7%"
-        },
-        {
-            "ambito": "Generali",
-            "percentuale": "1%"
-        }
-    ]
+    "Costi per ambito strategico": {
+        "Persone (stipendi)*": "38%",
+        "Persone": "18%",
+        "Ricerca": "19%",
+        "Didattica e comunità studentesca": "17%",
+        "Società": "7%",
+        "Generali": "1%"
+    }
 }

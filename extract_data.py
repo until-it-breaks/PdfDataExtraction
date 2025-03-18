@@ -20,15 +20,20 @@ length = len(images)
 
 start_time = time.time()
 count = 0
+processes = []
 
 for i in range(length):
     if (count == RPM):
-        print("Waiting a minute before next batch")
+        print("Waiting a {}s before next batch".format(MINUTE + EXTRA_TIME))
         time.sleep(MINUTE + EXTRA_TIME)
         count = 0
 
-    subprocess.Popen(["python", "gemini-call.py", images[i], api_key])
+    process = subprocess.Popen(["python", "gemini-call.py", images[i], api_key])
+    processes.append(process)
     # print("Progress: {:.1f}%".format((i+1) / length * 100))
     count += 1
 
-# print("Job Done")
+for process in processes:
+    process.wait()
+
+print("Job Done")

@@ -1,93 +1,65 @@
 {
-    "MilestonePianoEnergetico": [
-        {
-            "attività": "Dismissione gasolio e olio combustibile",
-            "anni": [
-                "2023",
-                "2024",
-                "2025"
-            ]
+    "Milestone del Piano energetico": {
+        "Dismissione gasolio e olio combustibile": {
+            "2023": true,
+            "2024": true,
+            "2025": true
         },
-        {
-            "attività": "Sostituzione totale illuminazioni tradizionali aree esterne",
-            "anni": [
-                "2023",
-                "2024",
-                "2025"
-            ]
+        "Sostituzione totale illuminazioni tradizionali aree esterne": {
+            "2023": true,
+            "2024": true,
+            "2025": true
         },
-        {
-            "attività": "Sostituzione totale illuminazioni tradizionali aree interne",
-            "anni": [
-                "2023",
-                "2024",
-                "2025",
-                "2026"
-            ]
+        "Sostituzione totale illuminazioni tradizionali aree interne": {
+            "2023": true,
+            "2024": true,
+            "2025": true,
+            "2026": true
         },
-        {
-            "attività": "Nuovi impianti fotovoltaici",
-            "anni": [
-                "2023",
-                "2024",
-                "2025",
-                "2026",
-                "2027"
-            ]
+        "Nuovi impianti fotovoltaici": {
+            "2023": true,
+            "2024": true,
+            "2025": true,
+            "2026": true,
+            "2027": true
         },
-        {
-            "attività": "Certificazione UNI ENI ISO 50001",
-            "anni": [
-                "2023",
-                "2024",
-                "2025",
-                "2026",
-                "2027"
-            ]
+        "Certificazione UNI ENI ISO 50001": {
+            "2023": true,
+            "2024": true,
+            "2025": true,
+            "2026": true,
+            "2027": true
         },
-        {
-            "attività": "Registrazione impianti termici al Catasto regionale",
-            "anni": [
-                "2023",
-                "2024",
-                "2025",
-                "2026",
-                "2027"
-            ]
+        "Registrazione impianti termici al Catasto regionale": {
+            "2023": true,
+            "2024": true,
+            "2025": true,
+            "2026": true,
+            "2027": true
         },
-        {
-            "attività": "Nuovi interventi di efficientamento edifici",
-            "anni": [
-                "2026",
-                "2027",
-                "2028",
-                "2029",
-                "2030"
-            ]
+        "Nuovi interventi di efficientamento edifici": {
+            "2027": true,
+            "2028": true,
+            "2029": true,
+            "2030": true
         },
-        {
-            "attività": "Efficientamento impianti fotovoltaici",
-            "anni": [
-                "2028",
-                "2029"
-            ]
+        "Efficientamento impianti fotovoltaici": {
+            "2028": true,
+            "2029": true
         },
-        {
-            "attività": "Completamento rete BMS",
-            "anni": [
-                "2023",
-                "2024",
-                "2025",
-                "2026"
-            ]
+        "Completamento rete BMS": {
+            "2023": true,
+            "2024": true,
+            "2025": true,
+            "2026": true,
+            "2027": true,
+            "2028": true
         },
-        {
-            "attività": "Sostituzione caldaie con pompe di calore",
-            "anni": [
-                "2027",
-                "2028",
-                "2029"
-            ]
+        "Sostituzione caldaie con pompe di calore": {
+            "2026": true,
+            "2027": true,
+            "2028": true,
+            "2029": true
         }
-    ]
+    }
 }

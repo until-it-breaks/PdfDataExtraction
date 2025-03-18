@@ -1,5 +1,5 @@
 {
-    "docenti_ricercatori": {
+    "Personale Docente e Ricercatore": {
         "Bologna": {
             "2021": 2229,
             "2022": 2365,
@@ -26,7 +26,7 @@
             "2023": 176
         }
     },
-    "fasce_età": {
+    "Fasce di Età del Personale Docente e Ricercatore al 31/12/2023": {
         "Ordinario": {
             "70-74 anni": 3,
             "65-69 anni": 183,

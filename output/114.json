@@ -1,4 +1,7 @@
 {
-    "numero": "6",
-    "tipo": "Persone"
+    "titolo": "Informazioni presentazione",
+    "dati": {
+        "numero": "6",
+        "tema": "PERSONE"
+    }
 }

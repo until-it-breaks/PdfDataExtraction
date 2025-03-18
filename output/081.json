@@ -1,72 +1,21 @@
 {
-    "studenti_per_sdgs": [
-        {
-            "goal": "GOAL 1",
-            "numero_studenti": 27.954
-        },
-        {
-            "goal": "GOAL 2",
-            "numero_studenti": 14.089
-        },
-        {
-            "goal": "GOAL 3",
-            "numero_studenti": 134.546
-        },
-        {
-            "goal": "GOAL 4",
-            "numero_studenti": 209.673
-        },
-        {
-            "goal": "GOAL 5",
-            "numero_studenti": 91.721
-        },
-        {
-            "goal": "GOAL 6",
-            "numero_studenti": 11.95
-        },
-        {
-            "goal": "GOAL 7",
-            "numero_studenti": 26.133
-        },
-        {
-            "goal": "GOAL 8",
-            "numero_studenti": 49.703
-        },
-        {
-            "goal": "GOAL 9",
-            "numero_studenti": 66.427
-        },
-        {
-            "goal": "GOAL 10",
-            "numero_studenti": 89.041
-        },
-        {
-            "goal": "GOAL 11",
-            "numero_studenti": 47.095
-        },
-        {
-            "goal": "GOAL 12",
-            "numero_studenti": 48.865
-        },
-        {
-            "goal": "GOAL 13",
-            "numero_studenti": 40.885
-        },
-        {
-            "goal": "GOAL 14",
-            "numero_studenti": 7.883
-        },
-        {
-            "goal": "GOAL 15",
-            "numero_studenti": 27.079
-        },
-        {
-            "goal": "GOAL 16",
-            "numero_studenti": 43.197
-        },
-        {
-            "goal": "GOAL 17",
-            "numero_studenti": 30.032
-        }
-    ]
+    "Studenti per SDGs": {
+        "GOAL 1": "27.954",
+        "GOAL 2": "14.089",
+        "GOAL 3": "134.546",
+        "GOAL 4": "209.673",
+        "GOAL 5": "91.721",
+        "GOAL 6": "11.950",
+        "GOAL 7": "26.133",
+        "GOAL 8": "49.703",
+        "GOAL 9": "66.427",
+        "GOAL 10": "89.041",
+        "GOAL 11": "47.095",
+        "GOAL 12": "48.865",
+        "GOAL 13": "40.885",
+        "GOAL 14": "7.883",
+        "GOAL 15": "27.079",
+        "GOAL 16": "43.197",
+        "GOAL 17": "30.032"
+    }
 }

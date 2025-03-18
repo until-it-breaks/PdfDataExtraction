@@ -1,71 +1,61 @@
 {
-    "Figura 68": [
-        {
-            "Struttura": "Amministrazione Generale",
+    "Distribuzione Personale TA": {
+        "Amministrazione Generale": {
             "Area Am.va - Gest.le": 1257,
             "Area Tecnica": 459,
             "Area Biblioteche": 144,
             "Area Socio-Sanitaria": 5
         },
-        {
-            "Struttura": "Dipartimenti",
+        "Dipartimenti": {
             "Area Am.va - Gest.le": 413,
             "Area Tecnica": 507,
             "Area Biblioteche": 43,
             "Area Socio-Sanitaria": 37
         },
-        {
-            "Struttura": "Campus",
+        "Campus": {
             "Area Am.va - Gest.le": 96,
             "Area Tecnica": 22,
             "Area Biblioteche": 20,
             "Area Socio-Sanitaria": null
         },
-        {
-            "Struttura": "Altre Strutture",
+        "Altre Strutture": {
             "Area Am.va - Gest.le": 57,
             "Area Tecnica": 65,
             "Area Biblioteche": 13,
             "Area Socio-Sanitaria": 2
         },
-        {
-            "Struttura": "Totale",
+        "Totale": {
             "Area Am.va - Gest.le": 1823,
             "Area Tecnica": 1053,
             "Area Biblioteche": 220,
             "Area Socio-Sanitaria": 44
         }
-    ],
-    "Figura 69": [
-        {
-            "Città": "Bologna",
+    },
+    "Personale Tecnico Amministrativo": {
+        "Bologna": {
             "2021": 2548,
             "2022": 2671,
             "2023": 2753
         },
-        {
-            "Città": "Cesena",
+        "Cesena": {
             "2021": 112,
             "2022": 112,
             "2023": 122
         },
-        {
-            "Città": "Forlì",
+        "Forlì": {
             "2021": 152,
             "2022": 154,
             "2023": 151
         },
-        {
-            "Città": "Ravenna",
+        "Ravenna": {
             "2021": 88,
             "2022": 98,
             "2023": 98
         },
-        {
-            "Città": "Rimini",
+        "Rimini": {
             "2021": 103,
             "2022": 108,
             "2023": 108
         }
-    ]
+    }
 }

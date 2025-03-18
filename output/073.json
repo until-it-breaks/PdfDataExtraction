@@ -1,40 +1,48 @@
 {
-    "TabellaServizi": [
-        {
-            "descrizione": "Studenti con disabilità",
-            "2020/21": "750",
-            "2021/22": "856",
-            "2022/23": "992"
-        },
-        {
-            "descrizione": "Beneficiari del servizio per studenti affetti da disturbi specifici dell'apprendimento",
-            "2020/21": "1.207",
-            "2021/22": "1.378",
-            "2022/23": "1.571"
-        },
-        {
-            "descrizione": "Contributi finanziari per l'acquisto di ausili a studenti con disabilità e con DSA",
-            "2020/21": "124",
-            "2021/22": "75",
-            "2022/23": "85"
-        },
-        {
-            "descrizione": "Contributi erogati alle Associazioni studentesche (€)",
-            "2020/21": "400.000",
-            "2021/22": "400.000",
-            "2022/23": "200.000*"
-        },
-        {
-            "descrizione": "Nr. Associazioni/Cooperative studentesche universitarie accreditate",
-            "2020/21": "39",
-            "2021/22": "30",
-            "2022/23": "30"
-        },
-        {
-            "descrizione": "Nr. di attività realizzate delle Associazioni studentesche",
-            "2020/21": "174",
-            "2021/22": "235",
-            "2022/23": "229"
-        }
-    ]
+    "Servizi per il miglioramento delle condizioni di vita e di studio": {
+        "Beneficiari, contributi, associazioni e attività": [
+            {
+                "Studenti con disabilità": {
+                    "2020/21": "750",
+                    "2021/22": "856",
+                    "2022/23": "992"
+                }
+            },
+            {
+                "Beneficiari del servizio per studenti affetti da disturbi specifici dell'apprendimento": {
+                    "2020/21": "1.207",
+                    "2021/22": "1.378",
+                    "2022/23": "1.571"
+                }
+            },
+            {
+                "Contributi finanziari per l'acquisto di ausili a studenti con disabilità e con DSA": {
+                    "2020/21": "124",
+                    "2021/22": "75",
+                    "2022/23": "85"
+                }
+            },
+            {
+                "Contributi erogati alle Associazioni studentesche (€)": {
+                    "2020/21": "400.000",
+                    "2021/22": "400.000",
+                    "2022/23": "200.000*"
+                }
+            },
+            {
+                "Nr. Associazioni/Cooperative studentesche universitarie accreditate": {
+                    "2020/21": "39",
+                    "2021/22": "30",
+                    "2022/23": "30"
+                }
+            },
+            {
+                "Nr. di attività realizzate delle Associazioni studentesche": {
+                    "2020/21": "174",
+                    "2021/22": "235",
+                    "2022/23": "229"
+                }
+            }
+        ]
+    }
 }

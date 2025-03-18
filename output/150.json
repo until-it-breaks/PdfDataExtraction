@@ -1,12 +1,16 @@
 {
-    "imprese_accreditate_2023": 59,
-    "spin_off": 43,
-    "startup": 16,
-    "incremento_rispetto_2022": 7,
-    "spin_off_partecipate_unibo": 23,
-    "spin_off_detenute_behold": 14,
-    "progetti_presentati_call_startup_2023": 116,
-    "progetti_selezionati_call_startup": 30,
-    "startup_costituite": 3,
-    "partecipanti_startup_day_2023": "oltre 1.700"
+    "Imprese accreditate Università di Bologna (Fine 2023)": {
+        "Totale": "59",
+        "Spin-off": "43",
+        "Startup": "16",
+        "Nuove imprese accreditate rispetto al 2022": "7"
+    },
+    "Call for Startup (2023)": {
+        "Progetti presentati": "116",
+        "Progetti selezionati": "30",
+        "Start-up costituite": "3"
+    },
+    "Startup Day (2023)": {
+        "Partecipanti": "Oltre 1.700"
+    }
 }

@@ -1,46 +1,228 @@
-[
-    {
-        "Investimento 1.3": {
-            "PE1 - FAIR": "8,09 mln",
-            "PE2 - NEST": "5,62 mln",
-            "PE3 - RETURN": "8,75 mln",
-            "PE5 - CHANGES": "9,49 mln",
-            "PE6 - HEAL-ITALIA": "9,16 mln",
-            "PE7 - SERICS": "10,46 mln",
-            "PE8 - AGE-IT": "6,90 mln",
-            "PE9 - GRINS": "17,65 mln",
-            "PE10 - ONFOODS": "10,39 mln",
-            "PE11 - MICS": "4,95 mln",
-            "PE12 - MNESYS": "8,10 mln",
-            "PE13 - INF-ACT": "4,42 mln",
-            "PE14 - RESTART": "8,56 mln"
+{
+    "AvanzamentoProgetti": [
+        {
+            "Investimento": "1.3",
+            "Progetto": "PE1 - FAIR",
+            "Rendicontato": "29%",
+            "BandiAvviati": "41%",
+            "BandiDaAvviare": "19%",
+            "Valore": "8,09 mln"
+        },
+        {
+            "Investimento": "1.3",
+            "Progetto": "PE2 - NEST",
+            "Rendicontato": "19%",
+            "BandiAvviati": null,
+            "BandiDaAvviare": null,
+            "Valore": "5,62 mln"
+        },
+        {
+            "Investimento": "1.3",
+            "Progetto": "PE3 - RETURN",
+            "Rendicontato": "17%",
+            "BandiAvviati": "25%",
+            "BandiDaAvviare": null,
+            "Valore": "8,75 mln"
+        },
+        {
+            "Investimento": "1.3",
+            "Progetto": "PE5 - CHANGES",
+            "Rendicontato": "22%",
+            "BandiAvviati": "28%",
+            "BandiDaAvviare": null,
+            "Valore": "9,49 mln"
+        },
+        {
+            "Investimento": "1.3",
+            "Progetto": "PE6 - HEAL-ITALIA",
+            "Rendicontato": "16%",
+            "BandiAvviati": null,
+            "BandiDaAvviare": null,
+            "Valore": "9,16 mln"
+        },
+        {
+            "Investimento": "1.3",
+            "Progetto": "PE7 - SERICS",
+            "Rendicontato": "18%",
+            "BandiAvviati": "48%",
+            "BandiDaAvviare": null,
+            "Valore": "10,46 mln"
+        },
+        {
+            "Investimento": "1.3",
+            "Progetto": "PE8 - AGE-IT",
+            "Rendicontato": "16%",
+            "BandiAvviati": "14%",
+            "BandiDaAvviare": null,
+            "Valore": "6,90 mln"
+        },
+        {
+            "Investimento": "1.3",
+            "Progetto": "PE9 - GRINS",
+            "Rendicontato": "15%",
+            "BandiAvviati": "28%",
+            "BandiDaAvviare": null,
+            "Valore": "17,65 mln"
+        },
+        {
+            "Investimento": "1.3",
+            "Progetto": "PE10 - ONFOODS",
+            "Rendicontato": "17%",
+            "BandiAvviati": "16%",
+            "BandiDaAvviare": "15%",
+            "Valore": "10,39 mln"
+        },
+        {
+            "Investimento": "1.3",
+            "Progetto": "PE11 - MICS",
+            "Rendicontato": "24%",
+            "BandiAvviati": null,
+            "BandiDaAvviare": null,
+            "Valore": "4,95 mln"
+        },
+        {
+            "Investimento": "1.3",
+            "Progetto": "PE12 - MNESYS",
+            "Rendicontato": "24%",
+            "BandiAvviati": "27%",
+            "BandiDaAvviare": null,
+            "Valore": "8,10 mln"
+        },
+        {
+            "Investimento": "1.3",
+            "Progetto": "PE13 - INF-ACT",
+            "Rendicontato": "17%",
+            "BandiAvviati": null,
+            "BandiDaAvviare": null,
+            "Valore": "4,42 mln"
+        },
+        {
+            "Investimento": "1.3",
+            "Progetto": "PE14 - RESTART",
+            "Rendicontato": "23%",
+            "BandiAvviati": "20%",
+            "BandiDaAvviare": "7%",
+            "Valore": "8,56 mln"
+        },
+        {
+            "Investimento": "1.4",
+            "Progetto": "CN1 - HPC",
+            "Rendicontato": "22%",
+            "BandiAvviati": "29%",
+            "BandiDaAvviare": null,
+            "Valore": "22,89 mln"
+        },
+        {
+            "Investimento": "1.4",
+            "Progetto": "CN2 - AGRITECH",
+            "Rendicontato": "11%",
+            "BandiAvviati": "16%",
+            "BandiDaAvviare": null,
+            "Valore": "7,70 mln"
+        },
+        {
+            "Investimento": "1.4",
+            "Progetto": "CN3 - mRNA",
+            "Rendicontato": "24%",
+            "BandiAvviati": null,
+            "BandiDaAvviare": null,
+            "Valore": "10,94 mln"
+        },
+        {
+            "Investimento": "1.4",
+            "Progetto": "CN4 - MOST",
+            "Rendicontato": "18%",
+            "BandiAvviati": "17%",
+            "BandiDaAvviare": null,
+            "Valore": "13,39 mln"
+        },
+        {
+            "Investimento": "1.4",
+            "Progetto": "CN5 - BIODIV",
+            "Rendicontato": "24%",
+            "BandiAvviati": null,
+            "BandiDaAvviare": null,
+            "Valore": "4,08 mln"
+        },
+        {
+            "Investimento": "1.4",
+            "Progetto": "DARE (PNC)",
+            "Rendicontato": "5%",
+            "BandiAvviati": "31%",
+            "BandiDaAvviare": null,
+            "Valore": "24,67 mln"
+        },
+        {
+            "Investimento": "1.5",
+            "Progetto": "ECOSISTER",
+            "Rendicontato": "30%",
+            "BandiAvviati": "8%",
+            "BandiDaAvviare": "11%",
+            "Valore": "25,77 mln"
+        },
+        {
+            "Investimento": "3.1",
+            "Progetto": "IR STILES",
+            "Rendicontato": "16%",
+            "BandiAvviati": null,
+            "BandiDaAvviare": null,
+            "Valore": "3,79 mln"
+        },
+        {
+            "Investimento": "3.1",
+            "Progetto": "IR SOBIGDATA",
+            "Rendicontato": "2%",
+            "BandiAvviati": null,
+            "BandiDaAvviare": null,
+            "Valore": "0,36 mln"
+        },
+        {
+            "Investimento": "3.1",
+            "Progetto": "IR ENTRANCE@ENL",
+            "Rendicontato": "16%",
+            "BandiAvviati": null,
+            "BandiDaAvviare": null,
+            "Valore": "1,65 mln"
+        },
+        {
+            "Investimento": "3.1",
+            "Progetto": "IR ETIC",
+            "Rendicontato": "10%",
+            "BandiAvviati": null,
+            "BandiDaAvviare": null,
+            "Valore": "0,76 mln"
+        },
+        {
+            "Investimento": "3.1",
+            "Progetto": "IR ELIXIRxNextGenIT",
+            "Rendicontato": "2%",
+            "BandiAvviati": null,
+            "BandiDaAvviare": null,
+            "Valore": "0,19 mln"
+        },
+        {
+            "Investimento": "3.1",
+            "Progetto": "IR ECCSELLENT",
+            "Rendicontato": "1%",
+            "BandiAvviati": null,
+            "BandiDaAvviare": null,
+            "Valore": "3,95 mln"
+        },
+        {
+            "Investimento": "3.1",
+            "Progetto": "IR CTA+",
+            "Rendicontato": "9%",
+            "BandiAvviati": null,
+            "BandiDaAvviare": null,
+            "Valore": "1,24 mln"
+        },
+        {
+            "Investimento": "3.1",
+            "Progetto": "IR BBMRI",
+            "Rendicontato": "2%",
+            "BandiAvviati": null,
+            "BandiDaAvviare": null,
+            "Valore": "0,49 mln"
         }
-    },
-    {
-        "Investimento 1.4": {
-            "CN1 - HPC": "22,89 mln",
-            "CN2 - AGRITECH": "7,70 mln",
-            "CN3 - mRNA": "10,94 mln",
-            "CN4 - MOST": "13,39 mln",
-            "CN5 - BIODIV": "4,08 mln",
-            "DARE (PNC)": "24,67 mln"
-        }
-    },
-    {
-        "Investimento 1.5": {
-            "ECOSISTER": "25,77 mln"
-        }
-    },
-    {
-        "Investimento 3.1": {
-            "IR STILES": "3,79 mln",
-            "IR SOBIGDATA": "0,36 mln",
-            "IR ENTRANCE@ENL": "1,65 mln",
-            "IR ETIC": "0,76 mln",
-            "IR ELIXIRxNextGenIT": "0,19 mln",
-            "IR ECCSELLENT": "3,95 mln",
-            "IR CTA+": "1,24 mln",
-            "IR BBMRI": "0,49 mln"
-        }
-    }
-]
+    ]
+}

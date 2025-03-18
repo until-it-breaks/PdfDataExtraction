@@ -1,39 +1,31 @@
 {
-    "tabella_obiettivi_2030": [
-        {
-            "obiettivi": "Riduzione emissione CO2 al 2030 rispetto al 1990",
-            "FIT for 55%": "55%",
-            "PEA Unibo": ">70%"
-        },
-        {
-            "obiettivi": "Quota rinnovabile sui consumi di energia primaria",
-            "FIT for 55%": "49%",
-            "PEA Unibo": "24%"
-        },
-        {
-            "obiettivi": "Incremento annuale 2020-26 della quota rinnovabile sui consumi di energia primaria per condizionamento e riscaldamento",
-            "FIT for 55%": "+0,8%",
-            "PEA Unibo": "+2,1%"
-        },
-        {
-            "obiettivi": "Incremento annuale 2026-30 della quota rinnovabile sui consumi di energia primaria per condizionamento e riscaldamento",
-            "FIT for 55%": "+1,1%",
-            "PEA Unibo": "+7,0%"
-        },
-        {
-            "obiettivi": "Riduzione consumi energetici finali 2020-2030",
-            "FIT for 55%": "-11,7%",
-            "PEA Unibo": "-16,4%"
-        },
-        {
-            "obiettivi": "Riduzione consumi annui medi",
-            "FIT for 55%": "-1,9%",
-            "PEA Unibo": "-2,3%"
-        },
-        {
-            "obiettivi": "Superficie rinnovata all'anno",
-            "FIT for 55%": "3,0%",
-            "PEA Unibo": "3,8%"
-        }
-    ]
+    "Obiettivi Piano Energetico 2030": {
+        "Obiettivi": [
+            "Riduzione emissione CO2 al 2030 rispetto al 1990",
+            "Quota rinnovabile sui consumi di energia primaria",
+            "Incremento annuale 2020-26 della quota rinnovabile sui consumi di energia primaria per condizionamento e riscaldamento",
+            "Incremento annuale 2026-30 della quota rinnovabile sui consumi di energia primaria per condizionamento e riscaldamento",
+            "Riduzione consumi energetici finali 2020-2030",
+            "Riduzione consumi annui medi",
+            "Superficie rinnovata all'anno"
+        ],
+        "FIT for 55%": [
+            "55%",
+            "49%",
+            "+0,8%",
+            "+1,1%",
+            "-11,7%",
+            "-1,9%",
+            "3,0%"
+        ],
+        "PEA Unibo": [
+            ">70%",
+            "24%",
+            "+2,1%",
+            "+7,0%",
+            "-16,4%",
+            "-2,3%",
+            "3,8%"
+        ]
+    }
 }

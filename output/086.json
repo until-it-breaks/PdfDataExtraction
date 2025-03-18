@@ -1,86 +1,86 @@
 {
-    "progetti": [
+    "Progetti Vincitori PNRR": [
         {
-            "titolo": "Intelligenza artificiale: aspetti fondazionali",
-            "acronimo": "FAIR",
-            "descrizione": "Future Artificial Intelligence Research",
-            "PE": "PE1"
+            "Tema": "Intelligenza artificiale: aspetti fondazionali",
+            "Sigla": "PE1",
+            "Acronimo": "FAIR",
+            "Descrizione": "Future Artificial Intelligence Research"
         },
         {
-            "titolo": "Scenari energetici del futuro",
-            "acronimo": "NEST",
-            "descrizione": "Network 4 Energy Sustainable Transition",
-            "PE": "PE2"
+            "Tema": "Scenari energetici del futuro",
+            "Sigla": "PE2",
+            "Acronimo": "NEST",
+            "Descrizione": "Network 4 Energy Sustainable Transition"
         },
         {
-            "titolo": "Rischi ambientali, naturali e antropici",
-            "acronimo": "RETURN",
-            "descrizione": "Multi-Risk science for resilient commUnities undeRa changing climate",
-            "PE": "PE3"
+            "Tema": "Rischi ambientali, naturali e antropici",
+            "Sigla": "PE3",
+            "Acronimo": "RETURN",
+            "Descrizione": "Multi-Risk science for resilient commUnities undeRa changing climate"
         },
         {
-            "titolo": "Cultura umanistica e patrimonio culturale come laboratori di innovazione e creatività",
-            "acronimo": "CHANGES",
-            "descrizione": "Cultural Heritage Active Innovation for Sustainable Society",
-            "PE": "PE5"
+            "Tema": "Cultura umanistica e patrimonio culturale come laboratori di innovazione e creatività",
+            "Sigla": "PE5",
+            "Acronimo": "CHANGES",
+            "Descrizione": "Cultural Heritage Active Innovation for Sustainable Society"
         },
         {
-            "titolo": "Diagnostica e terapie innovative nella medicina di precisione",
-            "acronimo": "HEAL ITALIA",
-            "descrizione": "Health Extended Alliance for Innovative Therapies, Advanced Lab-research, and Integrated Approaches of Precision Medicine",
-            "PE": "PE6"
+            "Tema": "Diagnostica e terapie innovative nella medicina di precisione",
+            "Sigla": "PE6",
+            "Acronimo": "HEAL ITALIA",
+            "Descrizione": "Health Extended Alliance for Innovative Therapies, Advanced Lab-research, and Integrated Approaches of Precision Medicine"
         },
         {
-            "titolo": "Cybersecurity, nuove tecnologie e tutela dei diritti",
-            "acronimo": "SERICS",
-            "descrizione": "Security and RIghts in the CyberSpace",
-            "PE": "PE7"
+            "Tema": "Cybersecurity, nuove tecnologie e tutela dei diritti",
+            "Sigla": "PE7",
+            "Acronimo": "SERICS",
+            "Descrizione": "Security and RIghts in the CyberSpace"
         },
         {
-            "titolo": "Conseguenze e sfide dell'invecchiamento",
-            "acronimo": "AGE-IT",
-            "descrizione": "Italian Ageing Society",
-            "PE": "PE8"
+            "Tema": "Conseguenze e sfide dell'invecchiamento",
+            "Sigla": "PE8",
+            "Acronimo": "AGE-IT",
+            "Descrizione": "Italian Ageing Society"
         },
         {
-            "titolo": "Sostenibilità economico-finanziaria dei sistemi e dei territori",
-            "acronimo": "GRINS",
-            "descrizione": "Growing Resilient, INclusive and Sustainable",
-            "PE": "PE9"
+            "Tema": "Sostenibilità economico-finanziaria dei sistemi e dei territori",
+            "Sigla": "PE9",
+            "Acronimo": "GRINS",
+            "Descrizione": "Growing Resilient, INclusive and Sustainable"
         },
         {
-            "titolo": "Modelli per un'alimentazione sostenibile",
-            "acronimo": "ONFOODS",
-            "descrizione": "Research and innovation network on food and nutrition Sustainability, Safety and Security - Working ON Foods",
-            "PE": "PE10"
+            "Tema": "Modelli per un'alimentazione sostenibile",
+            "Sigla": "PE10",
+            "Acronimo": "ONFOODS",
+            "Descrizione": "Research and innovation network on food and nutrition Sustainability, Safety and Security - Working ON Foods"
         },
         {
-            "titolo": "Made in Italy circolare e sostenibile",
-            "acronimo": "MICS",
-            "descrizione": "Made in Italy Circolare e Sostenibile",
-            "PE": "PE11"
+            "Tema": "Made in Italy circolare e sostenibile",
+            "Sigla": "PE11",
+            "Acronimo": "MICS",
+            "Descrizione": "Made in Italy Circolare e Sostenibile"
         },
         {
-            "titolo": "Neuroscienze e neurofarmacologia",
-            "acronimo": "MNESYS",
-            "descrizione": "A multiscale integrated approach to the study of the nervous system in health and disease",
-            "PE": "PE12"
+            "Tema": "Neuroscienze e neurofarmacologia",
+            "Sigla": "PE12",
+            "Acronimo": "MNESYS",
+            "Descrizione": "A multiscale integrated approach to the study of the nervous system in health and disease"
         },
         {
-            "titolo": "Malattie infettive emergenti",
-            "acronimo": "INF-ACT",
-            "descrizione": "One Health Basic and Translational Research Actions addressing Unmet Needs on Emerging Infectious Diseases",
-            "PE": "PE13"
+            "Tema": "Malattie infettive emergenti",
+            "Sigla": "PE13",
+            "Acronimo": "INF-ACT",
+            "Descrizione": "One Health Basic and Translational Research Actions addressing Unmet Needs on Emerging Infectious Diseases"
         },
         {
-            "titolo": "Telecomunicazioni del future",
-            "acronimo": "RESTART",
-            "descrizione": "RESearch and innovation on future Telecommunica- tions systems and networks, to make Italy more smart",
-            "PE": "PE14"
+            "Tema": "Telecomunicazioni del future",
+            "Sigla": "PE14",
+            "Acronimo": "RESTART",
+            "Descrizione": "RESearch and innovation on future Telecommunica- tions systems and networks, to make Italy more smart"
         },
         {
-            "titolo": "Agenzia Spaziale Italiana - Attività spaziali",
-            "PE": "PE15"
+            "Tema": "Agenzia Spaziale Italiana - Attività spaziali",
+            "Sigla": "ex PE15"
         }
     ]
 }

@@ -1,24 +1,12 @@
 {
-    "principi": [
-        {
-            "etichetta": "P1",
-            "descrizione": "Rafforzare il nostro carattere di Università pubblica, autonoma, laica e pluralistica"
+    "Quattro principi dell'Alma Mater": {
+        "Internazionalizzazione": {
+            "P1": "Rafforzare il nostro carattere di Università pubblica, autonoma, laica e pluralistica",
+            "P2": "Promuovere lo sviluppo di tutti i campi del sapere, il loro reciproco dialogo e le loro ricadute formative"
         },
-        {
-            "etichetta": "P2",
-            "descrizione": "Promuovere lo sviluppo di tutti i campi del sapere, il loro reciproco dialogo e le loro ricadute formative"
-        },
-        {
-            "etichetta": "P3",
-            "descrizione": "Incrementare il senso della nostra responsabilità sociale in tutte le attività"
-        },
-        {
-            "etichetta": "P4",
-            "descrizione": "Favorire in ogni ambito l'applicazione dei principi di equità, sostenibilità, inclusione, rispetto delle diversità"
+        "Transizione Digitale": {
+            "P3": "Incrementare il senso della nostra responsabilità sociale in tutte le attività",
+            "P4": "Favorire in ogni ambito l'applicazione dei principi di equità, sostenibilità, inclusione, rispetto delle diversità"
         }
-    ],
-    "azioni": [
-        "Internazionalizzazione",
-        "Transizione Digitale"
-    ]
+    }
 }

@@ -1,34 +1,13 @@
 {
-    "dati": [
-        {
-            "tipo": "riviste scientifiche e accademiche",
-            "quantità": "oltre 101.000"
-        },
-        {
-            "tipo": "monografie scientifiche",
-            "quantità": "oltre 143.000"
-        },
-        {
-            "tipo": "collezioni di ricerca",
-            "quantità": "oltre 330.000 file"
-        },
-        {
-            "tipo": "documenti digitali",
-            "quantità": "oltre 125.000"
-        },
-        {
-            "anno": "2023",
-            "riviste": "65",
-            "nuove collane monografiche": "4"
-        },
-        {
-            "metadati nuove pubblicazioni": "oltre 14.500"
-        },
-        {
-            "contributi scientifici": "oltre 30.000"
-        },
-        {
-            "consulenze": "oltre 4.500"
-        }
-    ]
+    "Dati Scienza Aperta": {
+        "Riviste scientifiche e accademiche ad accesso aperto gratuito": "oltre 101.000",
+        "Monografie scientifiche ad accesso aperto gratuito": "oltre 143.000",
+        "Collezioni di ricerca digitalizzate": "oltre 330.000 file",
+        "Documenti digitali accessibili": "oltre 125.000",
+        "Riviste presenti nel 2023": "65",
+        "Nuove collane monografiche avviate nel 2023": "4",
+        "Metadati verificati di nuove pubblicazioni": "oltre 14.500",
+        "Contributi scientifici disponibili attraverso IRIS-IR": "oltre 30.000",
+        "Consulenze fornite ai ricercatori": "oltre 4.500"
+    }
 }

@@ -1,34 +1,29 @@
 {
-    "DatiGrafico": [
-        {
-            "tipo": "Personale Docente Ordinario",
-            "anno_2021": 19,
-            "anno_2022": 18,
-            "anno_2023": 21
+    "Numerosità del personale con cittadinanza estera": {
+        "Personale Docente Ordinario": {
+            "2021": 19,
+            "2022": 18,
+            "2023": 21
         },
-        {
-            "tipo": "Personale Docente Associato",
-            "anno_2021": 41,
-            "anno_2022": 46,
-            "anno_2023": 49
+        "Personale Docente Associato": {
+            "2021": 41,
+            "2022": 46,
+            "2023": 49
         },
-        {
-            "tipo": "Personale Ricercatore",
-            "anno_2021": 33,
-            "anno_2022": 36,
-            "anno_2023": 43
+        "Personale Ricercatore": {
+            "2021": 33,
+            "2022": 36,
+            "2023": 43
         },
-        {
-            "tipo": "Personale TA Lettrici, lettori e CEL",
-            "anno_2021": 20,
-            "anno_2022": 25,
-            "anno_2023": 27
+        "Personale TA Cat. EP, D, B, C": {
+            "2021": 20,
+            "2022": 25,
+            "2023": 27
         },
-        {
-            "tipo": "Personale TA Lettrici, lettori e CEL",
-            "anno_2021": 47,
-            "anno_2022": 51,
-            "anno_2023": 49
+        "Lettrici, lettori e CEL": {
+            "2021": 47,
+            "2022": 51,
+            "2023": 49
         }
-    ]
+    }
 }

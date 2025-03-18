@@ -1,66 +1,34 @@
 {
-    "fasce_eta": [
-        {
-            "eta": "65-69 anni",
-            "valore": 63
-        },
-        {
-            "eta": "60-64 anni",
-            "valore": 424
-        },
-        {
-            "eta": "55-59 anni",
-            "valore": 582
-        },
-        {
-            "eta": "50-54 anni",
-            "valore": 641
-        },
-        {
-            "eta": "45-49 anni",
-            "valore": 504
-        },
-        {
-            "eta": "40-44 anni",
-            "valore": 369
-        },
-        {
-            "eta": "35-39 anni",
-            "valore": 305
-        },
-        {
-            "eta": "30-34 anni",
-            "valore": 229
-        },
-        {
-            "eta": "25-29 anni",
-            "valore": 108
-        },
-        {
-            "eta": "20-24 anni",
-            "valore": 10
-        }
-    ],
-    "assunzioni_cessazioni": [
-        {
-            "anno": "2021",
-            "assunzioni": 176,
-            "cessazioni": 112
-        },
-        {
-            "anno": "2022",
-            "assunzioni": 252,
-            "cessazioni": 150
-        },
-        {
-            "anno": "2023",
-            "assunzioni": 237,
-            "cessazioni": 145
-        },
-        {
-            "anno": "Totale",
-            "assunzioni": 665,
-            "cessazioni": 407
-        }
-    ]
+    "Fasce di età del personale TA": {
+        "65-69 anni": 63,
+        "60-64 anni": 424,
+        "55-59 anni": 582,
+        "50-54 anni": 641,
+        "45-49 anni": 504,
+        "40-44 anni": 369,
+        "35-39 anni": 305,
+        "30-34 anni": 229,
+        "25-29 anni": 108,
+        "20-24 anni": 10
+    },
+    "Assunzioni e cessazioni del personale TA a tempo indeterminato": {
+        "Anno": [
+            "2021",
+            "2022",
+            "2023",
+            "Totale"
+        ],
+        "Assunzioni": [
+            176,
+            252,
+            237,
+            665
+        ],
+        "Cessazioni": [
+            112,
+            150,
+            145,
+            407
+        ]
+    }
 }

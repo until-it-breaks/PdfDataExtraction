@@ -1,5 +1,5 @@
 {
-    "Consumi (Tep)": {
+    "Serie storica dei consumi (Tep)": {
         "2021": {
             "Energia elettrica": 7.615,
             "Gas naturale": 3.061,
@@ -19,7 +19,7 @@
             "Totale": 12.59
         }
     },
-    "Emissioni (tCO2)": {
+    "Serie storica delle emissioni (tCO2)": {
         "2021": {
             "Energia elettrica": 17.64,
             "Gas naturale": 7.48,

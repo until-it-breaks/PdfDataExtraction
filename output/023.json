@@ -1,48 +1,46 @@
 {
-    "campus": [
-        {
-            "nome": "CESENA",
-            "docenti": 227,
-            "ta": 122,
-            "vocazioni": [
-                "Agro- alimentare",
-                "ICT e bioingegneria",
-                "Psicologia",
-                "Architettura",
-                "Economia"
-            ]
-        },
-        {
-            "nome": "FORLÌ",
-            "docenti": 245,
-            "ta": 151,
-            "vocazioni": [
-                "Internazionalizzazione e lingue",
-                "Ingegneria aerospaziale e meccanica",
-                "Economia e scienze sociali",
-                "Medicina"
-            ]
-        },
-        {
-            "nome": "RAVENNA",
-            "docenti": 196,
-            "ta": 98,
-            "vocazioni": [
-                "Ambiente e mare",
-                "Patrimonio culturale",
-                "Diritti",
-                "Medicina"
-            ]
-        },
-        {
-            "nome": "RIMINI",
-            "docenti": 176,
-            "ta": 108,
-            "vocazioni": [
-                "Benessere e sviluppo sostenibile",
-                "Turismo e Moda",
-                "Servizi alle persone, alle imprese, al territorio"
-            ]
-        }
-    ]
+    "Vocazioni dei Campus dell'Università di Bologna": {
+        "Campus": [
+            "Cesena",
+            "Forlì",
+            "Ravenna",
+            "Rimini"
+        ],
+        "Numero del personale Docente": [
+            "227",
+            "245",
+            "196",
+            "176"
+        ],
+        "Numero del personale TA": [
+            "122",
+            "151",
+            "98",
+            "108"
+        ],
+        "Cesena_Vocazioni": [
+            "Agro- alimentare",
+            "ICT e bioingegneria",
+            "Psicologia",
+            "Architettura",
+            "Economia"
+        ],
+        "Forlì_Vocazioni": [
+            "Internazionalizzazione e lingue",
+            "Ingegneria aerospaziale e meccanica",
+            "Economia e scienze sociali",
+            "Medicina"
+        ],
+        "Ravenna_Vocazioni": [
+            "Ambiente e mare",
+            "Patrimonio culturale",
+            "Diritti",
+            "Medicina"
+        ],
+        "Rimini_Vocazioni": [
+            "Benessere e sviluppo sostenibile",
+            "Turismo e Moda",
+            "Servizi alle persone, alle imprese, al territorio"
+        ]
+    }
 }

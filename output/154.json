@@ -1,7 +1,9 @@
 {
-    "università": 11,
-    "studenti": "600.000",
-    "aree_tematiche": 6,
-    "personale": "100.000",
-    "partner_associati": 38
+    "Dati Università di Bologna": {
+        "Università": "11",
+        "Studenti": "600.000",
+        "Aree tematiche interdisciplinari": "6",
+        "Personale docente e tecnico amministrativo": "100.000",
+        "Partner associati nel progetto finanziato 1Europe": "38"
+    }
 }

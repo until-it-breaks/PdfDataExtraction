@@ -1,94 +1,95 @@
 {
-    "tabella": [
+    "Titolo": "Obiettivi sociali",
+    "Dati": [
         {
             "Dimensione": "SOCIALE",
             "Ambito": "Didattica e comunità studentesca",
             "Descrizione": "Ridurre la dispersione studentesca e favorire la regolarità degli studi, potenziando i servizi",
-            "GRI": "GRI 401: Occupazione\nGRI 402: Gestione del lavoro e delle relazioni sindacali\nGRI 403: Salute e sicurezza sul lavoro (2018)",
+            "GRI": "GRI 401: Occupazione\nGRI 402: Gestione del lavoro e delle relazioni sindacali\nGRI 403: Salute e sicurezza sul lavoro (2018)\nGRI 404: Formazione e istruzione\nGRI 405: Diversità e pari opportunità\nGRI 406: Non discriminazione\nGRI 407: Libertà di associazione e contrattazione collettiva",
             "Stakeholder": "Studenti, Docenti, Enti di sostegno, Network internazionali"
         },
         {
             "Dimensione": "SOCIALE",
             "Ambito": "Didattica e comunità studentesca",
             "Descrizione": "Incrementare socialità studentesca e partecipazione alla vita accademica",
-            "GRI": "GRI 404: Formazione e istruzione",
+            "GRI": "GRI 401: Occupazione\nGRI 402: Gestione del lavoro e delle relazioni sindacali\nGRI 403: Salute e sicurezza sul lavoro (2018)\nGRI 404: Formazione e istruzione\nGRI 405: Diversità e pari opportunità\nGRI 406: Non discriminazione\nGRI 407: Libertà di associazione e contrattazione collettiva",
             "Stakeholder": "Studenti, Docenti, Enti di sostegno, Network internazionali"
         },
         {
             "Dimensione": "SOCIALE",
             "Ambito": "Didattica e comunità studentesca",
             "Descrizione": "Assicurare una didattica innovativa, percorsi professionalizzanti e promuovere l'occupazione dei laureati",
-            "GRI": "GRI 405: Diversità e pari opportunità\nGRI 406: Non discriminazione\nGRI 407: Libertà di associazione e contrattazione collettiva",
+            "GRI": "GRI 401: Occupazione\nGRI 402: Gestione del lavoro e delle relazioni sindacali\nGRI 403: Salute e sicurezza sul lavoro (2018)\nGRI 404: Formazione e istruzione\nGRI 405: Diversità e pari opportunità\nGRI 406: Non discriminazione\nGRI 407: Libertà di associazione e contrattazione collettiva",
             "Stakeholder": "Studenti, Docenti, Enti di sostegno, Network internazionali"
         },
         {
             "Dimensione": "SOCIALE",
             "Ambito": "Didattica e comunità studentesca",
             "Descrizione": "Rafforzare la dimensione internazionale della didattica",
-            "GRI": "GRI 408: Lavoro minorile\nGRI 409: Lavoro forzato",
+            "GRI": "GRI 401: Occupazione\nGRI 402: Gestione del lavoro e delle relazioni sindacali\nGRI 403: Salute e sicurezza sul lavoro (2018)\nGRI 404: Formazione e istruzione\nGRI 405: Diversità e pari opportunità\nGRI 406: Non discriminazione\nGRI 407: Libertà di associazione e contrattazione collettiva",
             "Stakeholder": "Studenti, Docenti, Enti di sostegno, Network internazionali"
         },
         {
             "Dimensione": "SOCIALE",
             "Ambito": "Ricerca",
             "Descrizione": "Tutelare la libertà e l'autonomia della ricerca",
-            "GRI": "GRI 410: Pratiche di sicurezza",
+            "GRI": "GRI 408: Lavoro minorile\nGRI 409: Lavoro forzato",
             "Stakeholder": "Docenti, Imprese, Comunità scientifiche, Istituzioni nazionali, regionali e locali"
         },
         {
             "Dimensione": "SOCIALE",
             "Ambito": "Ricerca",
             "Descrizione": "Rafforzare la qualità della ricerca e degli spazi e attrezzature a disposizione",
-            "GRI": "GRI 411: Diritti delle comunità locali\nGRI 413: Comunità locali",
+            "GRI": "GRI 408: Lavoro minorile\nGRI 409: Lavoro forzato",
             "Stakeholder": "Docenti, Imprese, Comunità scientifiche, Istituzioni nazionali, regionali e locali"
         },
         {
             "Dimensione": "SOCIALE",
             "Ambito": "Ricerca",
             "Descrizione": "Qualificare il dottorato e rafforzarne gli sbocchi professionali",
-            "GRI": "GRI 414: Valutazione sociale dei fornitori",
+            "GRI": "GRI 408: Lavoro minorile\nGRI 409: Lavoro forzato",
             "Stakeholder": "Docenti, Imprese, Comunità scientifiche, Istituzioni nazionali, regionali e locali"
         },
         {
             "Dimensione": "SOCIALE",
             "Ambito": "Ricerca",
             "Descrizione": "Rafforzare la ricerca biomedica e il collegamento con le reti assistenziali",
-            "GRI": "GRI 415: Politica pubblica",
+            "GRI": "GRI 408: Lavoro minorile\nGRI 409: Lavoro forzato",
             "Stakeholder": "Docenti, Imprese, Comunità scientifiche, Istituzioni nazionali, regionali e locali"
         },
         {
             "Dimensione": "SOCIALE",
             "Ambito": "Ricerca",
             "Descrizione": "Monitorare le ricadute sociali della ricerca",
-            "GRI": "GRI 416: Salute e sicurezza dei clienti",
+            "GRI": "GRI 408: Lavoro minorile\nGRI 409: Lavoro forzato",
             "Stakeholder": "Docenti, Imprese, Comunità scientifiche, Istituzioni nazionali, regionali e locali"
         },
         {
             "Dimensione": "SOCIALE",
             "Ambito": "Società",
             "Descrizione": "Assicurare la qualità e la trasparenza di tutte le informazioni",
-            "GRI": "GRI 417: Marketing e etichettatura",
+            "GRI": "GRI 410: Pratiche di sicurezza\nGRI 411: Diritti delle comunità locali\nGRI 413: Comunità locali\nGRI 414: Valutazione sociale dei fornitori\nGRI 415: Politica pubblica\nGRI 416: Salute e sicurezza dei clienti\nGRI 417: Marketing e etichettatura",
             "Stakeholder": "Istituzioni nazionali, regionali e locali, Studenti, Famiglie, Enti di sostegno, Imprese"
         },
         {
             "Dimensione": "SOCIALE",
             "Ambito": "Società",
             "Descrizione": "Valorizzare il ruolo dell'Alma Mater come luogo di accoglienza",
-            "GRI": "GRI 417: Marketing e etichettatura",
+            "GRI": "GRI 410: Pratiche di sicurezza\nGRI 411: Diritti delle comunità locali\nGRI 413: Comunità locali\nGRI 414: Valutazione sociale dei fornitori\nGRI 415: Politica pubblica\nGRI 416: Salute e sicurezza dei clienti\nGRI 417: Marketing e etichettatura",
             "Stakeholder": "Istituzioni nazionali, regionali e locali, Studenti, Famiglie, Enti di sostegno, Imprese"
         },
         {
             "Dimensione": "SOCIALE",
             "Ambito": "Società",
             "Descrizione": "Rafforzare l'integrazione con il Servizio sanitario migliorando l'efficacia dei modelli assistenziali e delle politiche per la salute",
-            "GRI": "GRI 417: Marketing e etichettatura",
+            "GRI": "GRI 410: Pratiche di sicurezza\nGRI 411: Diritti delle comunità locali\nGRI 413: Comunità locali\nGRI 414: Valutazione sociale dei fornitori\nGRI 415: Politica pubblica\nGRI 416: Salute e sicurezza dei clienti\nGRI 417: Marketing e etichettatura",
             "Stakeholder": "Istituzioni nazionali, regionali e locali, Studenti, Famiglie, Enti di sostegno, Imprese"
         },
         {
             "Dimensione": "SOCIALE",
             "Ambito": "Società",
             "Descrizione": "Promuovere il dialogo con le istituzioni scolastiche",
-            "GRI": "GRI 417: Marketing e etichettatura",
+            "GRI": "GRI 410: Pratiche di sicurezza\nGRI 411: Diritti delle comunità locali\nGRI 413: Comunità locali\nGRI 414: Valutazione sociale dei fornitori\nGRI 415: Politica pubblica\nGRI 416: Salute e sicurezza dei clienti\nGRI 417: Marketing e etichettatura",
             "Stakeholder": "Istituzioni nazionali, regionali e locali, Studenti, Famiglie, Enti di sostegno, Imprese"
         }
     ]

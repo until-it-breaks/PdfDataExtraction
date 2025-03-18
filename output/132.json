@@ -1,46 +1,30 @@
-[
-    {
-        "Area Tematica": "Area comunicazione",
-        "Ore Fruite": "1.687"
-    },
-    {
-        "Area Tematica": "Area controllo di gestione",
-        "Ore Fruite": "1.434"
-    },
-    {
-        "Area Tematica": "Area economico-finanziaria",
-        "Ore Fruite": "13.816"
-    },
-    {
-        "Area Tematica": "Area giuridico-normativa",
-        "Ore Fruite": "22.470"
-    },
-    {
-        "Area Tematica": "Area informatica e telematica",
-        "Ore Fruite": "22.267"
-    },
-    {
-        "Area Tematica": "Area internazionale",
-        "Ore Fruite": "2.248"
-    },
-    {
-        "Area Tematica": "Area linguistica",
-        "Ore Fruite": "11.271"
-    },
-    {
-        "Area Tematica": "Area manageriale",
-        "Ore Fruite": "4.421"
-    },
-    {
-        "Area Tematica": "Area organizzazione e personale",
-        "Ore Fruite": "7.464"
-    },
-    {
-        "Area Tematica": "Area tecnico-specialistica",
-        "Ore Fruite": "9.643"
-    },
-    {
-        "Area Tematica": "Totale complessivo",
-        "Ore Fruite": "96.721"
+{
+    "Ore di formazione per area tematica": {
+        "Area Tematica": [
+            "Area comunicazione",
+            "Area controllo di gestione",
+            "Area economico-finanziaria",
+            "Area giuridico-normativa",
+            "Area informatica e telematica",
+            "Area internazionale",
+            "Area linguistica",
+            "Area manageriale",
+            "Area organizzazione e personale",
+            "Area tecnico-specialistica",
+            "Totale complessivo"
+        ],
+        "Ore Fruite": [
+            "1.687",
+            "1.434",
+            "13.816",
+            "22.470",
+            "22.267",
+            "2.248",
+            "11.271",
+            "4.421",
+            "7.464",
+            "9.643",
+            "96.721"
+        ]
     }
-]
+}

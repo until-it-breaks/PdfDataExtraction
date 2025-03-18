@@ -1,20 +1,8 @@
 {
-    "enti_partecipati": [
-        {
-            "tipo": "FONDAZIONI",
-            "numero": 67
-        },
-        {
-            "tipo": "CENTRI INTERUNIVERSITARI",
-            "numero": 47
-        },
-        {
-            "tipo": "CONSORZI",
-            "numero": 38
-        },
-        {
-            "tipo": "SOCIETÀ",
-            "numero": 9
-        }
-    ]
+    "Enti Partecipati Università di Bologna al 31.12.2023": {
+        "FONDAZIONI": 67,
+        "CENTRI INTERUNIVERSITARI": 47,
+        "CONSORZI": 38,
+        "SOCIETÀ": 9
+    }
 }

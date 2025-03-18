@@ -1,86 +1,72 @@
-[
-    {
-        "tipo": "Ordinario",
-        "anno": "2023",
-        "tempo_pieno": 854,
-        "tempo_definito": 87,
-        "totale": 941
-    },
-    {
-        "tipo": "Ordinario",
-        "anno": "2022",
-        "tempo_pieno": 788,
-        "tempo_definito": 77,
-        "totale": 865
-    },
-    {
-        "tipo": "Ordinario",
-        "anno": "2021",
-        "tempo_pieno": 751,
-        "tempo_definito": 76,
-        "totale": 827
-    },
-    {
-        "tipo": "Associato",
-        "anno": "2023",
-        "tempo_pieno": 1373,
-        "tempo_definito": 63,
-        "totale": 1436
-    },
-    {
-        "tipo": "Associato",
-        "anno": "2022",
-        "tempo_pieno": 1410,
-        "tempo_definito": 62,
-        "totale": 1472
-    },
-    {
-        "tipo": "Associato",
-        "anno": "2021",
-        "tempo_pieno": 1292,
-        "tempo_definito": 59,
-        "totale": 1351
-    },
-    {
-        "tipo": "Ricercatore a tempo determinato",
-        "anno": "2023",
-        "tempo_pieno": 151,
-        "tempo_definito": 27,
-        "totale": 178
-    },
-    {
-        "tipo": "Ricercatore a tempo determinato",
-        "anno": "2022",
-        "tempo_pieno": 163,
-        "tempo_definito": 29,
-        "totale": 192
-    },
-    {
-        "tipo": "Ricercatore a tempo determinato",
-        "anno": "2021",
-        "tempo_pieno": 218,
-        "tempo_definito": 35,
-        "totale": 253
-    },
-    {
-        "tipo": "Ricercatore a tempo indeterminato",
-        "anno": "2023",
-        "tempo_pieno": 808,
-        "tempo_definito": 19,
-        "totale": 827
-    },
-    {
-        "tipo": "Ricercatore a tempo indeterminato",
-        "anno": "2022",
-        "tempo_pieno": 626,
-        "tempo_definito": 21,
-        "totale": 647
-    },
-    {
-        "tipo": "Ricercatore a tempo indeterminato",
-        "anno": "2021",
-        "tempo_pieno": 552,
-        "tempo_definito": 19,
-        "totale": 571
+{
+    "Personale docente e ricercatore": {
+        "Ordinario": {
+            "2023": {
+                "Tempo Pieno": 854,
+                "Tempo Definito": 87,
+                "Totale": 941
+            },
+            "2022": {
+                "Tempo Pieno": 788,
+                "Tempo Definito": 77,
+                "Totale": 865
+            },
+            "2021": {
+                "Tempo Pieno": 751,
+                "Tempo Definito": 76,
+                "Totale": 827
+            }
+        },
+        "Associato": {
+            "2023": {
+                "Tempo Pieno": 1373,
+                "Tempo Definito": 63,
+                "Totale": 1436
+            },
+            "2022": {
+                "Tempo Pieno": 1410,
+                "Tempo Definito": 62,
+                "Totale": 1472
+            },
+            "2021": {
+                "Tempo Pieno": 1292,
+                "Tempo Definito": 59,
+                "Totale": 1351
+            }
+        },
+        "Ricercatore a tempo indeterminato": {
+            "2023": {
+                "Tempo Pieno": 151,
+                "Tempo Definito": 27,
+                "Totale": 178
+            },
+            "2022": {
+                "Tempo Pieno": 163,
+                "Tempo Definito": 29,
+                "Totale": 192
+            },
+            "2021": {
+                "Tempo Pieno": 218,
+                "Tempo Definito": 35,
+                "Totale": 253
+            }
+        },
+        "Ricercatore a tempo determinato": {
+            "2023": {
+                "Tempo Pieno": 808,
+                "Tempo Definito": 19,
+                "Totale": 827
+            },
+            "2022": {
+                "Tempo Pieno": 626,
+                "Tempo Definito": 21,
+                "Totale": 647
+            },
+            "2021": {
+                "Tempo Pieno": 552,
+                "Tempo Definito": 19,
+                "Totale": 571
+            }
+        }
     }
-]
+}

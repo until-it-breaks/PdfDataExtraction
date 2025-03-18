@@ -1,18 +1,18 @@
 {
-    "Percorsi": [
+    "Percorsi per le scuole": [
         {
-            "Scuola": "dell'infanzia",
-            "N°": 11
+            "Tipologia di scuola": "scuola dell'infanzia",
+            "Numero percorsi": 11
         },
         {
-            "Scuola": "primaria",
-            "N°": 53,
-            "OnAir": 14
+            "Tipologia di scuola": "scuola primaria",
+            "Numero percorsi": 53,
+            "Disponibili on air": 14
         },
         {
-            "Scuola": "secondaria di primo grado",
-            "N°": 40,
-            "OnAir": 10
+            "Tipologia di scuola": "scuola secondaria di primo grado",
+            "Numero percorsi": 40,
+            "Disponibili on air": 10
         }
     ]
 }

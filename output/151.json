@@ -1,5 +1,5 @@
 {
-    "enti_sostegno": [
+    "Enti di sostegno e fondazioni bancarie": [
         "Fondazione Flaminia",
         "Fondazione del Monte di Bologna e Ravenna",
         "Fondazione Cassa di Riparmio di Cesena",
@@ -9,16 +9,16 @@
         "Ser.In.Ar",
         "Uni.Rimini"
     ],
-    "dottorati": [
+    "Dottorati di ricerca finanziati da soggetti esterni": [
         {
             "ciclo": "XXIX",
-            "borse_sogg_esterni": 142,
-            "borse_ateneo": 216
+            "borse finanziate da soggetti esterni": 142,
+            "borse complessivamente finanziate dall'Ateneo": 216
         },
         {
             "ciclo": "XXIX",
-            "borse_pnrr": 329,
-            "borse_cofinanziate_imprese": 113
+            "borse assegnate nell'ambito del PNRR": 329,
+            "borse cofinanziate da imprese": 113
         }
     ]
 }

@@ -1,66 +1,36 @@
 {
-    "StudentiIncoming": [
-        {
-            "nazione": "Spagna",
-            "numero": 2112
-        },
-        {
-            "nazione": "Francia",
-            "numero": 980
-        },
-        {
-            "nazione": "Germania",
-            "numero": 858
-        },
-        {
-            "nazione": "Stati Uniti d'America",
-            "numero": 441
-        },
-        {
-            "nazione": "Belgio",
-            "numero": 380
-        },
-        {
-            "nazione": "Paesi Bassi",
-            "numero": 332
-        },
-        {
-            "nazione": "Gran Bretagna e Irlanda del Nord",
-            "numero": 304
-        },
-        {
-            "nazione": "Portogallo",
-            "numero": 297
-        },
-        {
-            "nazione": "Polonia",
-            "numero": 284
-        },
-        {
-            "nazione": "Norvegia",
-            "numero": 202
-        }
-    ],
-    "BorseDiStudio": {
-        "Totale": {
-            "2020/21": 157,
-            "2021/22": 359,
-            "2022/23": 420
-        },
+    "Studenti incoming per nazione di provenienza": {
+        "Spagna": "2.112",
+        "Francia": "980",
+        "Germania": "858",
+        "Stati Uniti d'America": "441",
+        "Belgio": "380",
+        "Paesi Bassi": "332",
+        "Gran Bretagna e Irlanda del Nord": "304",
+        "Portogallo": "297",
+        "Polonia": "284",
+        "Norvegia": "202"
+    },
+    "Borse di studio per tesi all'estero": {
         "Europa": {
-            "2020/21": 140,
-            "2021/22": 275,
-            "2022/23": 312
+            "2020/21": "140",
+            "2021/22": "275",
+            "2022/23": "312"
         },
         "America": {
-            "2020/21": 14,
-            "2021/22": 52,
-            "2022/23": 66
+            "2020/21": "14",
+            "2021/22": "52",
+            "2022/23": "66"
         },
-        "AsiaAfricaOceania": {
-            "2020/21": 3,
-            "2021/22": 32,
-            "2022/23": 42
+        "Asia, Africa e Oceania": {
+            "2020/21": "3",
+            "2021/22": "32",
+            "2022/23": "42"
+        },
+        "Totale": {
+            "2020/21": "157",
+            "2021/22": "359",
+            "2022/23": "420"
         }
     }
 }

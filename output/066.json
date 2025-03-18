@@ -1,9 +1,7 @@
 {
-    "no_tax_area_2023_2024": {
-        "soglia_isee": "27.000,00 €"
-    },
-    "flat_tax": {
-        "anno_accademico": "2022/2023",
-        "beneficiari_2023_2024": "2.044"
+    "Tasse ed esoneri": {
+        "Anno accademico 2023/2024": {
+            "Beneficiari Flat Tax": "2.044"
+        }
     }
 }

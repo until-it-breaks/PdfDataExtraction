@@ -1,27 +1,29 @@
-[
-    {
-        "GRI 403": "403-6",
-        "Salute e sicurezza sul lavoro": "Promozione della salute dei lavoratori",
-        "Raccordo con indice BS 2024 e/o note": "6.2 - Personale tecnico amministrativo (Polizza sanitaria)\n6.4 - Benessere organizzativo (Salute e sicurezza)\n7.6 - Sport e salute"
-    },
-    {
-        "GRI 403": "403-7",
-        "Salute e sicurezza sul lavoro": "Prevenzione e mitigazione degli impatti in materia di salute e sicurezza sul lavoro all'interno delle relazioni commerciali",
-        "Raccordo con indice BS 2024 e/o note": "Applicazione art. 26 D.Lgs. 81/08 con procedura P08/SPP"
-    },
-    {
-        "GRI 403": "403-8",
-        "Salute e sicurezza sul lavoro": "Lavoratori coperti da un sistema di gestione della salute e sicurezza sul lavoro",
-        "Raccordo con indice BS 2024 e/o note": "Le modalità di gestione della salute e sicurezza sul lavoro in ateneo è esplicitata nella P01/SPP e nel \"Regolamento per la sicurezza e la salute nei luoghi di lavoro\" (decreto rettorale prot. 87 del 7 febbraio 2013 e smi) richiamato anche al cap. 1 del Manuale Sicurezza e Salute"
-    },
-    {
-        "GRI 403": "403-9",
-        "Salute e sicurezza sul lavoro": "Infortuni sul lavoro",
-        "Raccordo con indice BS 2024 e/o note": "6.4 Benessere organizzativo (Salute e sicurezza)"
-    },
-    {
-        "GRI 403": "403-10",
-        "Salute e sicurezza sul lavoro": "Malattie professionali",
-        "Raccordo con indice BS 2024 e/o note": "Compito del Medico non è l'identificazione e l'eliminazione dei pericoli e neppure la minimizzazione dei rischi, se non nel senso di protezione del lavoratore mediante le visite mediche e l'espressione dei giudizi di idoneità che possono prevedere provvedimenti prescrittivi o limitativi.\nLa Medicina del Lavoro quindi organizza la sorveglianza sanitaria dei lavoratori ai sensi del D.L. 81/2008 e del D.L. 101/2020. E' compito del Servizio di Prevenzione e Protezione quello dieffettuare la Valutazione dei Rischi e di identificare i Pericoli presenti in Ateneo, promuovendo la Sicurezza in tutti i suoi aspetti. La medicina del lavoro, tuttavia, coopera con il Servizio di prevenzione e protezione ai fini della tutela della salute dei lavoratori, come riportato dall' art. 25 comma 1 lettera a) del Digs 81/2008: \"II Medico Competente collabora con il datore di lavoro e con il servizio di prevenzione e protezione alla valutazione dei rischi, anche ai fini della programmazione, ove necessario, della sorveglianza sanitaria, alla predisposizione della attuazione delle misure per la tutela della salute e della integrità psico-fisica dei lavoratori, all'attività di formazione e informazione nei confronti dei lavoratori, per la parte di competenza, e alla organizzazione del servizio di primo soccorso considerando i particolari tipi di lavorazione ed esposizione e le peculiari modalità organizzative del lavoro. Collabora inoltre alla attuazione e valorizzazione di programmi volontari di \"promozione della salute\", secondo i principi della responsabilità sociale"
-    }
-]
+{
+    "Salute e sicurezza sul lavoro": [
+        {
+            "GRI 403": "403-6",
+            "Salute e sicurezza sul lavoro": "Promozione della salute dei lavoratori",
+            "Raccordo con indice BS 2024 e/o note": "6.2 - Personale tecnico amministrativo (Polizza sanitaria)\n6.4 - Benessere organizzativo (Salute e sicurezza)\n7.6 - Sport e salute"
+        },
+        {
+            "GRI 403": "403-7",
+            "Salute e sicurezza sul lavoro": "Prevenzione e mitigazione degli impatti in materia di salute e sicurezza sul lavoro all'interno delle relazioni commerciali",
+            "Raccordo con indice BS 2024 e/o note": "Applicazione art. 26 D.Lgs. 81/08 con procedura P08/SPP"
+        },
+        {
+            "GRI 403": "403-8",
+            "Salute e sicurezza sul lavoro": "Lavoratori coperti da un sistema di gestione della salute e sicurezza sul lavoro",
+            "Raccordo con indice BS 2024 e/o note": "Le modalità di gestione della salute e sicurezza sul lavoro in ateneo è esplicitata nella P01/SPP e nel \"Regolamento per la sicurezza e la salute nei luoghi di lavoro\" (decreto rettorale prot. 87 del 7 febbraio 2013 e smi) richiamato anche al cap. 1 del Manuale Sicurezza e Salute"
+        },
+        {
+            "GRI 403": "403-9",
+            "Salute e sicurezza sul lavoro": "Infortuni sul lavoro",
+            "Raccordo con indice BS 2024 e/o note": "6.4 Benessere organizzativo (Salute e sicurezza)"
+        },
+        {
+            "GRI 403": "403-10",
+            "Salute e sicurezza sul lavoro": "Malattie professionali",
+            "Raccordo con indice BS 2024 e/o note": "Compito del Medico non è l'identificazione e l'eliminazione dei pericoli e neppure la minimizzazione dei rischi, se non nel senso di protezione del lavoratore mediante le visite mediche e l'espressione dei giudizi di idoneità che possono prevedere provvedimenti prescrittivi o limitativi.\nLa Medicina del Lavoro quindi organizza la sorveglianza sanitaria dei lavoratori ai sensi del D.L. 81/2008 e del D.L. 101/2020. E' compito del Servizio di Prevenzione e Protezione quello dieffettuare la Valutazione dei Rischi e di identificare i Pericoli presenti in Ateneo, promuovendo la Sicurezza in tutti i suoi aspetti. La medicina del lavoro, tuttavia, coopera con il Servizio di prevenzione e protezione ai fini della tutela della salute dei lavoratori, come riportato dall' art. 25 comma 1 lettera a) del Digs 81/2008: \"II Medico Competente collabora con il datore di lavoro e con il servizio di prevenzione e protezione alla valutazione dei rischi, anche ai fini della programmazione, ove necessario, della sorveglianza sanitaria, alla predisposizione della attuazione delle misure per la tutela della sa-lute e della integrità psico-fisica dei lavoratori, all'attività di formazione e informazione nei confronti dei lavoratori, per la parte di competenza, e alla organizzazione del servizio di primo soccorso considerando i par-ticolari tipi di lavorazione ed esposizione e le peculiari modalità orga-nizzative del lavoro. Collabora inoltre alla attuazione e valorizzazione di programmi volontari di \"promozione della salute\", secondo i principi della responsabilità sociale"
+        }
+    ]
+}

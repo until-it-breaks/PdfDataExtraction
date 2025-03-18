@@ -1,23 +1,12 @@
 {
-    "Consigliera di Fiducia 2023": {
-        "persone assistite": 75,
-        "distribuzione": {
-            "docenti": "56%",
-            "personale TA": "27%",
-            "studenti": "17%"
-        }
+    "Consigliera di Fiducia: Distribuzione degli utenti nel 2023": {
+        "Docenti": "56%",
+        "Personale TA": "27%",
+        "Studenti": "17%"
     },
-    "Supporto psicologico 2022-2023": {
-        "ore supporto": "circa 640",
-        "richieste": 443,
-        "suddivisione richieste": {
-            "personale tecnico-amministrativo": 222,
-            "docenti e ricercatori": 98,
-            "assegnisti di ricerca": 53
-        },
-        "gradimento": "oltre l'85%"
-    },
-    "Inclusione e tutela": {
-        "dipendenti con disabilità al 31/12/2023": 196
+    "Supporto psicologico: Richieste suddivise per categoria di personale": {
+        "Personale tecnico-amministrativo": "222",
+        "Docenti e ricercatori": "98",
+        "Assegnisti di ricerca": "53"
     }
 }

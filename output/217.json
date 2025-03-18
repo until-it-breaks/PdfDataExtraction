@@ -1,30 +1,32 @@
-[
-    {
-        "GRI": "GRI 408",
-        "Titolo": "Lavoro minorile",
-        "Codice": "408-1",
-        "Descrizione": "Operazioni e forniture con un rischio significativo di casi di lavoro minorile",
-        "Note": "Aspetto coperto dal rispetto della normativa nazionale sui diritti dei lavoratori"
-    },
-    {
-        "GRI": "GRI 409",
-        "Titolo": "Lavoro forzato",
-        "Codice": "409-1",
-        "Descrizione": "Operazioni e forniture con un rischio significativo di casi di lavoro forzato",
-        "Note": "Aspetto coperto dal rispetto della normativa nazionale sui diritti dei lavoratori"
-    },
-    {
-        "GRI": "GRI 410",
-        "Titolo": "Pratiche di sicurezza",
-        "Codice": "410-1",
-        "Descrizione": "Personale addetto alla sicurezza che ha ricevuto una formazione sulle procedure e sulle politiche riguardanti i diritti umani",
-        "Note": "Dato il tipo di attività svolta, l'Ateneo non entra direttamente in contatto con situazioni di possibile lesione dei diritti umani, poiché le pratiche di assunzione e in generale tutta l'operatività avvengono nel rispetto delle leggi nazionali che già tutelano i diritti in oggetto. L'Ateneo, comunque, svolge attività di formazione sul tema dei diritti umani rivolte a tutti i possibili interessati interni ed esterni all'Alma Mater"
-    },
-    {
-        "GRI": "GRI 411",
-        "Titolo": "Diritti delle comunità locali",
-        "Codice": "411-1",
-        "Descrizione": "Casi di violazioni dei diritti delle comunità locali",
-        "Note": "7.2 - Dimensione internazionale (Progetti di cooperazione, accordi e attività)\n3.2-Valore economico distribuito (La politica di approvvigionamento)"
-    }
-]
+{
+    "Tavola GRI": [
+        {
+            "GRI": "408",
+            "Argomento": "Lavoro minorile",
+            "Riferimento": "408-1",
+            "Descrizione": "Operazioni e forniture con un rischio significativo di casi di lavoro minorile",
+            "Raccordo con indice BS 2024 e/o note": "Aspetto coperto dal rispetto della normativa nazionale sui diritti dei lavoratori"
+        },
+        {
+            "GRI": "409",
+            "Argomento": "Lavoro forzato",
+            "Riferimento": "409-1",
+            "Descrizione": "Operazioni e forniture con un rischio significativo di casi di lavoro forzato",
+            "Raccordo con indice BS 2024 e/o note": "Aspetto coperto dal rispetto della normativa nazionale sui diritti dei lavoratori"
+        },
+        {
+            "GRI": "410",
+            "Argomento": "Pratiche di sicurezza",
+            "Riferimento": "410-1",
+            "Descrizione": "Personale addetto alla sicurezza che ha ricevuto una formazione sulle procedure e sulle politiche riguardanti i diritti umani",
+            "Raccordo con indice BS 2024 e/o note": "Dato il tipo di attività svolta, l'Ateneo non entra direttamente in contatto con situazioni di possibile lesione dei diritti umani, poi-ché le pratiche di assunzione e in generale tutta l'operatività avvengono nel rispetto delle leggi nazionali che già tutelano i diritti in oggetto. L'Ateneo, comunque, svolge attività di formazione sul tema dei diritti umani rivolte a tutti i possibili interessati interni ed esterni all'Alma Mater"
+        },
+        {
+            "GRI": "411",
+            "Argomento": "Diritti delle comunità locali",
+            "Riferimento": "411-1",
+            "Descrizione": "Casi di violazioni dei diritti delle comunità locali",
+            "Raccordo con indice BS 2024 e/o note": "7.2 - Dimensione internazionale (Progetti di cooperazione, accordi e attività)\n3.2-Valore economico distribuito (La politica di approvvigionamento)"
+        }
+    ]
+}

@@ -1,73 +1,23 @@
 {
-    "SDGs": [
-        {
-            "obiettivo": "1",
-            "programmi": "3"
-        },
-        {
-            "obiettivo": "2",
-            "programmi": "7"
-        },
-        {
-            "obiettivo": "3",
-            "programmi": "11"
-        },
-        {
-            "obiettivo": "4",
-            "programmi": "68"
-        },
-        {
-            "obiettivo": "5",
-            "programmi": "3"
-        },
-        {
-            "obiettivo": "6",
-            "programmi": "1"
-        },
-        {
-            "obiettivo": "7",
-            "programmi": "3"
-        },
-        {
-            "obiettivo": "8",
-            "programmi": "14"
-        },
-        {
-            "obiettivo": "9",
-            "programmi": "0"
-        },
-        {
-            "obiettivo": "10",
-            "programmi": "3"
-        },
-        {
-            "obiettivo": "11",
-            "programmi": "8"
-        },
-        {
-            "obiettivo": "12",
-            "programmi": "1"
-        },
-        {
-            "obiettivo": "13",
-            "programmi": "6"
-        },
-        {
-            "obiettivo": "14",
-            "programmi": "1"
-        },
-        {
-            "obiettivo": "15",
-            "programmi": "4"
-        },
-        {
-            "obiettivo": "16",
-            "programmi": "7"
-        },
-        {
-            "obiettivo": "17",
-            "programmi": "10"
-        }
-    ],
-    "Totale progetti": "119"
+    "Titolo": "Impatto sugli Obiettivi di Sostenibilità dell'ONU SDGS",
+    "Dati": {
+        "Obiettivo 1: No Poverty": 3,
+        "Obiettivo 2: Zero Hunger": 7,
+        "Obiettivo 3: Good Health and Well-being": 11,
+        "Obiettivo 4: Quality Education": 68,
+        "Obiettivo 5: Gender Equality": 3,
+        "Obiettivo 6: Clean Water and Sanitation": 1,
+        "Obiettivo 7: Affordable and Clean Energy": 3,
+        "Obiettivo 8: Decent Work and Economic Growth": 14,
+        "Obiettivo 9: Industry, Innovation and Infrastructure": 0,
+        "Obiettivo 10: Reduced Inequalities": 3,
+        "Obiettivo 11: Sustainable Cities and Communities": 8,
+        "Obiettivo 12: Responsible Consumption and Production": 1,
+        "Obiettivo 13: Climate Action": 6,
+        "Obiettivo 14: Life Below Water": 1,
+        "Obiettivo 15: Life on Land": 4,
+        "Obiettivo 16: Peace, Justice and Strong Institutions": 7,
+        "Obiettivo 17: Partnerships for the Goals": 10
+    },
+    "Totale Programmi e Progetti Attivi": 119
 }

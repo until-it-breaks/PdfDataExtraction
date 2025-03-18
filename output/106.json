@@ -1,9 +1,25 @@
 {
-    "distribuzione_iu": {
-        "IU < 0,2": "11,7%",
-        "IU 0,2 - 0,5": "23,1%",
-        "IU 0,5 - 0,7": "0,9%",
-        "IU 0,7 - 0,9": "22,9%",
-        "IU >= 0,9": "41,4%"
-    }
+    "titolo": "Distribuzione pubblicazioni dell'Ateneo per Indice Unico",
+    "dati": [
+        {
+            "IU": "< 0,2",
+            "percentuale": "11,7%"
+        },
+        {
+            "IU": "0,2 - 0,5",
+            "percentuale": "23,1%"
+        },
+        {
+            "IU": "0,5 - 0,7",
+            "percentuale": "0,9%"
+        },
+        {
+            "IU": "0,7 - 0,9",
+            "percentuale": "41,4%"
+        },
+        {
+            "IU": ">= 0,9",
+            "percentuale": "22,9%"
+        }
+    ]
 }

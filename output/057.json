@@ -1,84 +1,84 @@
 {
-    "composizione_studenti": [
+    "Composizione studenti di primo e secondo ciclo per provenienza": [
         {
-            "anno": 2023,
-            "paesi_comunitari": 1742,
-            "paesi_extra_comunitari": 6318,
-            "totale": 8060
+            "Anno": "2023",
+            "Paesi comunitari": 1.742,
+            "Paesi extra-comunitari": 6.318,
+            "Totale": 8.06
         },
         {
-            "anno": 2022,
-            "paesi_comunitari": 1713,
-            "paesi_extra_comunitari": 5624,
-            "totale": 7337
+            "Anno": "2022",
+            "Paesi comunitari": 1.713,
+            "Paesi extra-comunitari": 5.624,
+            "Totale": 7.337
         },
         {
-            "anno": 2021,
-            "paesi_comunitari": 1575,
-            "paesi_extra_comunitari": 5209,
-            "totale": 6784
+            "Anno": "2021",
+            "Paesi comunitari": 1.575,
+            "Paesi extra-comunitari": 5.209,
+            "Totale": 6.784
         }
     ],
-    "composizione_dottorandi": [
+    "Composizione dottorandi per provenienza": [
         {
-            "anno": 2023,
-            "paesi_comunitari": 91,
-            "paesi_extra_comunitari": 391,
-            "totale": 482
+            "Anno": "2023",
+            "Paesi comunitari": 91,
+            "Paesi extra-comunitari": 391,
+            "Totale": 482
         },
         {
-            "anno": 2022,
-            "paesi_comunitari": 110,
-            "paesi_extra_comunitari": 360,
-            "totale": 470
+            "Anno": "2022",
+            "Paesi comunitari": 110,
+            "Paesi extra-comunitari": 360,
+            "Totale": 470
         },
         {
-            "anno": 2021,
-            "paesi_comunitari": 102,
-            "paesi_extra_comunitari": 284,
-            "totale": 386
+            "Anno": "2021",
+            "Paesi comunitari": 102,
+            "Paesi extra-comunitari": 284,
+            "Totale": 386
         }
     ],
-    "nuove_carriere": [
+    "Nuove Carriere (23-24) per Cittadinanza di provenienza": [
         {
-            "cittadinanza": "Iran",
-            "numero": 473
+            "Cittadinanza": "Iran",
+            "Numero": 473
         },
         {
-            "cittadinanza": "Cina Repubblica Popolare",
-            "numero": 321
+            "Cittadinanza": "Cina Repubblica Popolare",
+            "Numero": 321
         },
         {
-            "cittadinanza": "Turchia",
-            "numero": 195
+            "Cittadinanza": "Turchia",
+            "Numero": 195
         },
         {
-            "cittadinanza": "Romania",
-            "numero": 167
+            "Cittadinanza": "Romania",
+            "Numero": 167
         },
         {
-            "cittadinanza": "Russia - Federazione Russa",
-            "numero": 135
+            "Cittadinanza": "Russia - Federazione Russa",
+            "Numero": 135
         },
         {
-            "cittadinanza": "India",
-            "numero": 93
+            "Cittadinanza": "India",
+            "Numero": 93
         },
         {
-            "cittadinanza": "Albania",
-            "numero": 91
+            "Cittadinanza": "Albania",
+            "Numero": 91
         },
         {
-            "cittadinanza": "Camerun",
-            "numero": 90
+            "Cittadinanza": "Camerun",
+            "Numero": 90
         },
         {
-            "cittadinanza": "San Marino",
-            "numero": 88
+            "Cittadinanza": "San Marino",
+            "Numero": 88
         },
         {
-            "cittadinanza": "Kazakhstan",
-            "numero": 82
+            "Cittadinanza": "Kazakhstan",
+            "Numero": 82
         }
     ]
 }

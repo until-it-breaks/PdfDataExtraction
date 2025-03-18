@@ -1,100 +1,67 @@
-[
-    {
-        "Dimensione": "ECONOMICO",
-        "Ambito": "Didattica e comunità studentesca",
-        "Descrizione": "Incrementare gli interventi per il diritto allo studio e la disponibilità alloggi",
-        "GRI": null,
-        "Stakeholder": "Studenti, Enti di sostegno, Istituzioni nazionali, regionali e locali, Famiglie"
-    },
-    {
-        "Dimensione": "ECONOMICO",
-        "Ambito": "Ricerca",
-        "Descrizione": "Incrementare la partecipazione a bandi competitivi",
-        "GRI": "GRI 201: Performance economica",
-        "Stakeholder": "Comunità scientifiche, Docenti, Network internazionali"
-    },
-    {
-        "Dimensione": "ECONOMICO",
-        "Ambito": "Società",
-        "Descrizione": "Favorire lo sviluppo dei territori e valorizzarne le vocazioni",
-        "GRI": "GRI 202: Presenza sul mercato",
-        "Stakeholder": "Famiglie, Istituzioni nazionali, regionali e locali, Imprese"
-    },
-    {
-        "Dimensione": "ECONOMICO",
-        "Ambito": "Società",
-        "Descrizione": "Promuovere iniziative di fundrasing",
-        "GRI": "GRI 203: Impatti economici indiretti",
-        "Stakeholder": "Famiglie, Istituzioni nazionali, regionali e locali, Imprese"
-    },
-    {
-        "Dimensione": "ECONOMICO",
-        "Ambito": "Società",
-        "Descrizione": "Valorizzare l'imprenditorialità e il trasferimento tecnologico",
-        "GRI": "GRI 204: Pratiche di approwigionamento",
-        "Stakeholder": "Famiglie, Istituzioni nazionali, regionali e locali, Imprese"
-    },
-    {
-        "Dimensione": "ECONOMICO",
-        "Ambito": "Persone",
-        "Descrizione": "Semplificare i processi, anche mediante la trasformazione digitale",
-        "GRI": null,
-        "Stakeholder": "Docenti, Personale Tecnico Amministrativo, Studenti e famiglie"
-    },
-    {
-        "Dimensione": "AMBIENTALE",
-        "Ambito": "Società",
-        "Descrizione": "Promuovere l'efficientamento energetico",
-        "GRI": "GRI 301: Materiali",
-        "Stakeholder": "Istituzioni nazionali, regionali e locali, Studenti, Famiglie, Imprese, comunità scientifiche"
-    },
-    {
-        "Dimensione": "AMBIENTALE",
-        "Ambito": "Società",
-        "Descrizione": "Promuovere una mobilità a basso impatto ambientale",
-        "GRI": "GRI 302: Energia",
-        "Stakeholder": "Istituzioni nazionali, regionali e locali, Studenti, Famiglie, Imprese, comunità scientifiche"
-    },
-    {
-        "Dimensione": "AMBIENTALE",
-        "Ambito": "Società",
-        "Descrizione": "Promuovere modelli di gestione ambientale efficiente e economia circolare",
-        "GRI": "GRI 303: Acqua ed effluenti (mod 2018)",
-        "Stakeholder": "Istituzioni nazionali, regionali e locali, Studenti, Famiglie, Imprese, comunità scientifiche"
-    },
-    {
-        "Dimensione": "AMBIENTALE",
-        "Ambito": "Società",
-        "Descrizione": "Promuovere modelli di gestione ambientale efficiente e economia circolare",
-        "GRI": "GRI 304: Biodiversità",
-        "Stakeholder": "Istituzioni nazionali, regionali e locali, Studenti, Famiglie, Imprese, comunità scientifiche"
-    },
-    {
-        "Dimensione": "AMBIENTALE",
-        "Ambito": "Società",
-        "Descrizione": "Promuovere modelli di gestione ambientale efficiente e economia circolare",
-        "GRI": "GRI 305: Emissioni",
-        "Stakeholder": "Istituzioni nazionali, regionali e locali, Studenti, Famiglie, Imprese, comunità scientifiche"
-    },
-    {
-        "Dimensione": "AMBIENTALE",
-        "Ambito": "Società",
-        "Descrizione": "Promuovere modelli di gestione ambientale efficiente e economia circolare",
-        "GRI": "GRI 306: Rifiuti",
-        "Stakeholder": "Istituzioni nazionali, regionali e locali, Studenti, Famiglie, Imprese, comunità scientifiche"
-    },
-    {
-        "Dimensione": "AMBIENTALE",
-        "Ambito": "Persone",
-        "Descrizione": "Incrementare sicurezza e accessibilità degli edifici e degli spazi",
-        "GRI": null,
-        "Stakeholder": "Studenti, Docenti, Personale tecnico amministrativo"
-    },
-    {
-        "Dimensione": "AMBIENTALE",
-        "Ambito": "Persone",
-        "Descrizione": "Valorizzare il patrimonio immobiliare",
-        "GRI": "GRI 308: Valutazione ambientale dei fornitori",
-        "Stakeholder": "Studenti, Docenti, Personale tecnico amministrativo"
-    }
-]
+{
+    "Materialità": [
+        {
+            "Dimensione": "ECONOMICO",
+            "Ambito": "Didattica e comunità studentesca",
+            "Descrizione": "Incrementare gli interventi per il diritto allo studio e la disponibilità alloggi",
+            "GRI": "GRI 201: Performance economica",
+            "Stakeholder": "Studenti, Enti di sostegno, Istituzioni nazionali, regionali e locali, Famiglie"
+        },
+        {
+            "Dimensione": "ECONOMICO",
+            "Ambito": "Ricerca",
+            "Descrizione": "Incrementare la partecipazione a bandi competitivi",
+            "GRI": "GRI 202: Presenza sul mercato",
+            "Stakeholder": "Comunità scientifiche, Docenti, Network internazionali"
+        },
+        {
+            "Dimensione": "ECONOMICO",
+            "Ambito": "Società",
+            "Descrizione": "Favorire lo sviluppo dei territori e valorizzarne le vocazioni",
+            "GRI": "GRI 203: Impatti economici indiretti",
+            "Stakeholder": "Famiglie, Istituzioni nazionali, regionali e locali, Imprese"
+        },
+        {
+            "Dimensione": "ECONOMICO",
+            "Ambito": "Persone",
+            "Descrizione": "Semplificare i processi, anche mediante la trasformazione digitale",
+            "GRI": "GRI 204: Pratiche di approwigionamento",
+            "Stakeholder": "Docenti, Personale Tecnico Amministrativo, Studenti e famiglie"
+        },
+        {
+            "Dimensione": "AMBIENTALE",
+            "Ambito": "Società",
+            "Descrizione": "Promuovere l'efficientamento energetico",
+            "GRI": "GRI 301: Materiali\nGRI 302: Energia\nGRI 303: Acqua ed effluenti (mod 2018)",
+            "Stakeholder": "Istituzioni nazionali, regionali e locali, Studenti, Famiglie, Imprese, comunità scientifiche"
+        },
+        {
+            "Dimensione": "AMBIENTALE",
+            "Ambito": "Società",
+            "Descrizione": "Promuovere una mobilità a basso impatto ambientale",
+            "GRI": "GRI 304: Biodiversità\nGRI 305: Emissioni\nGRI 306: Rifiuti",
+            "Stakeholder": "Istituzioni nazionali, regionali e locali, Studenti, Famiglie, Imprese, comunità scientifiche"
+        },
+        {
+            "Dimensione": "AMBIENTALE",
+            "Ambito": "Società",
+            "Descrizione": "Promuovere modelli di gestione ambientale efficiente e economia circolare",
+            "GRI": "GRI 304: Biodiversità\nGRI 305: Emissioni\nGRI 306: Rifiuti",
+            "Stakeholder": "Istituzioni nazionali, regionali e locali, Studenti, Famiglie, Imprese, comunità scientifiche"
+        },
+        {
+            "Dimensione": "AMBIENTALE",
+            "Ambito": "Persone",
+            "Descrizione": "Incrementare sicurezza e accessibilità degli edifici e degli spazi",
+            "GRI": "GRI 308: Valutazione ambientale dei fornitori",
+            "Stakeholder": "Studenti, Docenti, Personale tecnico amministrativo"
+        },
+        {
+            "Dimensione": "AMBIENTALE",
+            "Ambito": "Persone",
+            "Descrizione": "Valorizzare il patrimonio immobiliare",
+            "GRI": "GRI 308: Valutazione ambientale dei fornitori",
+            "Stakeholder": "Studenti, Docenti, Personale tecnico amministrativo"
+        }
+    ]
+}

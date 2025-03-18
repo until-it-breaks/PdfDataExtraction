@@ -1,72 +1,21 @@
 {
-    "dati": [
-        {
-            "Goal": "GOAL 1",
-            "Valore": 3
-        },
-        {
-            "Goal": "GOAL 2",
-            "Valore": 4
-        },
-        {
-            "Goal": "GOAL 3",
-            "Valore": 10
-        },
-        {
-            "Goal": "GOAL 4",
-            "Valore": 38
-        },
-        {
-            "Goal": "GOAL 5",
-            "Valore": 2
-        },
-        {
-            "Goal": "GOAL 6",
-            "Valore": 1
-        },
-        {
-            "Goal": "GOAL 7",
-            "Valore": 3
-        },
-        {
-            "Goal": "GOAL 8",
-            "Valore": 7
-        },
-        {
-            "Goal": "GOAL 9",
-            "Valore": 0
-        },
-        {
-            "Goal": "GOAL 10",
-            "Valore": 2
-        },
-        {
-            "Goal": "GOAL 11",
-            "Valore": 5
-        },
-        {
-            "Goal": "GOAL 12",
-            "Valore": 0
-        },
-        {
-            "Goal": "GOAL 13",
-            "Valore": 5
-        },
-        {
-            "Goal": "GOAL 14",
-            "Valore": 1
-        },
-        {
-            "Goal": "GOAL 15",
-            "Valore": 4
-        },
-        {
-            "Goal": "GOAL 16",
-            "Valore": 5
-        },
-        {
-            "Goal": "GOAL 17",
-            "Valore": 4
-        }
-    ]
+    "Progetti di cooperazione e collaborazione internazionale": {
+        "GOAL 1": 3,
+        "GOAL 2": 4,
+        "GOAL 3": 10,
+        "GOAL 4": 38,
+        "GOAL 5": 2,
+        "GOAL 6": 1,
+        "GOAL 7": 3,
+        "GOAL 8": 7,
+        "GOAL 9": 0,
+        "GOAL 10": 2,
+        "GOAL 11": 5,
+        "GOAL 12": 0,
+        "GOAL 13": 5,
+        "GOAL 14": 1,
+        "GOAL 15": 4,
+        "GOAL 16": 5,
+        "GOAL 17": 4
+    }
 }

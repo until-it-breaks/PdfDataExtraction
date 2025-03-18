@@ -1,28 +1,10 @@
 {
-    "dati_grafico": [
-        {
-            "categoria": "Imprese (M, P, G)",
-            "percentuale": "48,3%"
-        },
-        {
-            "categoria": "Organismi di Ricerca",
-            "percentuale": "20,4%"
-        },
-        {
-            "categoria": "Organismi di Ricerca vigilati MUR",
-            "percentuale": "3,0%"
-        },
-        {
-            "categoria": "Università pubbliche e private",
-            "percentuale": "21,6%"
-        },
-        {
-            "categoria": "Aziende ospedaliere e IRCS",
-            "percentuale": "5,6%"
-        },
-        {
-            "categoria": "AUSL",
-            "percentuale": "1,1%"
-        }
-    ]
+    "Relazioni PNRR Unibo con altri soggetti": {
+        "Imprese (M, P, G)": "48.3%",
+        "Organismi di Ricerca": "20.4%",
+        "Organismi di Ricerca vigilati MUR": "3.0%",
+        "Università pubbliche e private": "21.6%",
+        "Aziende ospedaliere e IRCS": "5.6%",
+        "AUSL": "1.1%"
+    }
 }

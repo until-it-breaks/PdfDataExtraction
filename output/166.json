@@ -1,34 +1,36 @@
 {
-    "Comunicazione digitale SMA": [
-        {
-            "Social e portale": "Follower Facebook",
-            "2021": 21564,
-            "2022": 23372,
-            "2023": 26781
-        },
-        {
-            "Social e portale": "Follower Instagram",
-            "2021": 1718,
-            "2022": 2605,
-            "2023": 3846
-        },
-        {
-            "Social e portale": "Iscritti Canale YouTube",
-            "2021": 203,
-            "2022": 416,
-            "2023": 525
-        },
-        {
-            "Social e portale": "Iscritti alla newsletter",
-            "2021": 7514,
-            "2022": 7301,
-            "2023": 7286
-        },
-        {
-            "Social e portale": "Visite al sito web",
-            "2021": 123211,
-            "2022": 157272,
-            "2023": 191051
-        }
-    ]
+    "La comunicazione digitale di SMA": {
+        "Social e portale": [
+            {
+                "2021": "21.564",
+                "2022": "23.372",
+                "2023": "26.781",
+                "Tipologia": "Follower Facebook"
+            },
+            {
+                "2021": "1.718",
+                "2022": "2.605",
+                "2023": "3.846",
+                "Tipologia": "Follower Instagram"
+            },
+            {
+                "2021": "203",
+                "2022": "416",
+                "2023": "525",
+                "Tipologia": "Iscritti Canale YouTube"
+            },
+            {
+                "2021": "7.514",
+                "2022": "7.301",
+                "2023": "7.286",
+                "Tipologia": "Iscritti alla newsletter"
+            },
+            {
+                "2021": "123.211",
+                "2022": "157.272",
+                "2023": "191.051",
+                "Tipologia": "Visite al sito web"
+            }
+        ]
+    }
 }

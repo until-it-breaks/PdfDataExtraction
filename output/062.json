@@ -1,36 +1,14 @@
 {
-    "Figura 29": {
-        "Titolo": "Corsi di lingua italiana",
-        "Dati": [
-            {
-                "Bologna": 77
-            },
-            {
-                "Campus della Romagna": 15
-            },
-            {
-                "Percorsi online trasversali autoapprendimento assistito": 24
-            },
-            {
-                "Totale": 116
-            }
-        ]
+    "Corsi di lingua italiana": {
+        "Bologna": 77,
+        "Campus della Romagna": 15,
+        "Percorsi online trasversali autoapprendimento assistito": 24,
+        "Totale": 116
     },
-    "Figura 30": {
-        "Titolo": "Iscrizioni ai corsi di lingua italiana",
-        "Dati": [
-            {
-                "Bologna": 1300
-            },
-            {
-                "Campus della Romagna": 180
-            },
-            {
-                "Percorsi online trasversali autoapprendimento assistito": 383
-            },
-            {
-                "Totale": 1863
-            }
-        ]
+    "Iscrizioni ai corsi di lingua italiana": {
+        "Bologna": 1300,
+        "Campus della Romagna": 180,
+        "Percorsi online trasversali autoapprendimento assistito": 383,
+        "Totale": 1863
     }
 }

@@ -1,14 +1,40 @@
 {
-    "eventi_2023": {
-        "seminari": 534,
-        "presentazioni": 497,
-        "visite_mostre": 153,
-        "spettacoli": 107,
-        "altro": 32
-    },
-    "totale_eventi": {
-        "2021": 1151,
-        "2022": 1272,
-        "2023": 1323
+    "Eventi del 2023": {
+        "Eventi": [
+            {
+                "Categoria": "Seminari",
+                "Valore": 534
+            },
+            {
+                "Categoria": "Presentazioni",
+                "Valore": 497
+            },
+            {
+                "Categoria": "Visite e mostre",
+                "Valore": 153
+            },
+            {
+                "Categoria": "Spettacoli",
+                "Valore": 107
+            },
+            {
+                "Categoria": "Altro",
+                "Valore": 32
+            }
+        ],
+        "Totale Eventi per Anno": [
+            {
+                "Anno": "2021",
+                "Valore": 1151
+            },
+            {
+                "Anno": "2022",
+                "Valore": 1272
+            },
+            {
+                "Anno": "2023",
+                "Valore": 1323
+            }
+        ]
     }
 }

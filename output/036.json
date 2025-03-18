@@ -1,49 +1,37 @@
 {
-    "Valore economico distribuito": [
-        {
-            "Voce": "Risorse umane",
-            "2023 (mln)": 469,
-            "%": "58%"
-        },
-        {
-            "Voce": "di cui Personale docente e di ricerca",
-            "2023 (mln)": 331,
-            "%": "41%"
-        },
-        {
-            "Voce": "di cui Personale dirigente e tecnico amministrativo",
-            "2023 (mln)": 138,
-            "%": "17%"
-        },
-        {
-            "Voce": "Interventi a favore di studenti/esse",
-            "2023 (mln)": 124,
-            "%": "15%"
-        },
-        {
-            "Voce": "Trasferimenti passivi verso terzi",
-            "2023 (mln)": 42,
-            "%": "5%"
-        },
-        {
-            "Voce": "Fornitori",
-            "2023 (mln)": 141,
-            "%": "18%"
-        },
-        {
-            "Voce": "Capitale di credito",
-            "2023 (mln)": 2,
-            "%": "0%"
-        },
-        {
-            "Voce": "Pubblica amministrazione",
-            "2023 (mln)": 26,
-            "%": "3%"
-        },
-        {
-            "Voce": "Totale",
-            "2023 (mln)": 805,
-            "%": "100%"
-        }
-    ]
+    "Valore economico distribuito": {
+        "Valore economico distribuito": [
+            "Risorse umane",
+            "di cui Personale docente e di ricerca",
+            "di cui Personale dirigente e tecnico amministrativo",
+            "Interventi a favore di studenti/esse",
+            "Trasferimenti passivi verso terzi",
+            "Fornitori",
+            "Capitale di credito",
+            "Pubblica amministrazione",
+            "Totale"
+        ],
+        "2023 (mln)": [
+            "469",
+            "331",
+            "138",
+            "124",
+            "42",
+            "141",
+            "2",
+            "26",
+            "805"
+        ],
+        "%": [
+            "58%",
+            "41%",
+            "17%",
+            "15%",
+            "5%",
+            "18%",
+            "0%",
+            "3%",
+            "100%"
+        ]
+    }
 }

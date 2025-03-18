@@ -1,44 +1,44 @@
 {
-    "Rapporto_TA_Docenti": [
-        {
-            "Anno": 2021,
-            "Pers_doc_ric": 3.002,
-            "Pers_tec_amm": 3.384,
-            "Rapporto": 1.0
-        },
-        {
-            "Anno": 2022,
-            "Pers_doc_ric": 3.01,
-            "Pers_tec_amm": 3.153,
-            "Rapporto": 0.99
-        },
-        {
-            "Anno": 2023,
-            "Pers_doc_ric": 3.176,
-            "Pers_tec_amm": 3.242,
-            "Rapporto": 0.96
-        }
-    ],
-    "Distribuzione_Personale_TA": [
-        {
-            "Categoria": "Cat. EP",
-            "Indeterminato": 171,
-            "Determinato": null
-        },
-        {
-            "Categoria": "Cat. D",
-            "Indeterminato": 1385,
-            "Determinato": 76
-        },
-        {
-            "Categoria": "Cat. C",
-            "Indeterminato": 1290,
-            "Determinato": 47
-        },
-        {
-            "Categoria": "Cat. B",
-            "Indeterminato": null,
-            "Determinato": 171
-        }
-    ]
+    "Rapporto TA - Docenti": {
+        "Anni": [
+            "2021",
+            "2022",
+            "2023"
+        ],
+        "Personale docente e ricercatore": [
+            "3.002",
+            "3.176",
+            "3.384"
+        ],
+        "Personale tecnico amministrativo": [
+            "3.010",
+            "3.153",
+            "3.242"
+        ],
+        "Rapporto TA/Docenti": [
+            "1,00",
+            "0,99",
+            "0,96"
+        ]
+    },
+    "Distribuzione del Personale TA (EP, D, C, B) per tipologia contrattuale": {
+        "Categoria": [
+            "Cat. EP",
+            "Cat. D",
+            "Cat. C",
+            "Cat. B"
+        ],
+        "Indeterminato": [
+            "171",
+            "1.385",
+            "1.290",
+            "171"
+        ],
+        "Determinato": [
+            null,
+            "76",
+            "47",
+            null
+        ]
+    }
 }

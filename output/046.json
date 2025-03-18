@@ -43,69 +43,57 @@
             "2023/24": "28*"
         }
     ],
-    "Immatricolazioni al primo anno": [
-        {
-            "Anno": "2023/24",
-            "Livello": "L",
-            "Bologna": 10376,
-            "Romagna": 4013,
-            "Totale": 14389
+    "Immatricolazioni al primo anno": {
+        "2023/24": {
+            "L": [
+                10376,
+                4013,
+                14389
+            ],
+            "LM": [
+                6972,
+                2122,
+                9094
+            ],
+            "LMCU": [
+                2095,
+                492,
+                2587
+            ]
         },
-        {
-            "Anno": "2023/24",
-            "Livello": "LM",
-            "Bologna": 6972,
-            "Romagna": 2122,
-            "Totale": 9094
+        "2022/23": {
+            "L": [
+                11054,
+                3878,
+                14932
+            ],
+            "LM": [
+                6829,
+                2117,
+                8946
+            ],
+            "LMCU": [
+                2286,
+                465,
+                2751
+            ]
         },
-        {
-            "Anno": "2023/24",
-            "Livello": "LMCU",
-            "Bologna": 2095,
-            "Romagna": 492,
-            "Totale": 2587
-        },
-        {
-            "Anno": "2022/23",
-            "Livello": "L",
-            "Bologna": 11054,
-            "Romagna": 3878,
-            "Totale": 14932
-        },
-        {
-            "Anno": "2022/23",
-            "Livello": "LM",
-            "Bologna": 6829,
-            "Romagna": 2117,
-            "Totale": 8946
-        },
-        {
-            "Anno": "2022/23",
-            "Livello": "LMCU",
-            "Bologna": 2286,
-            "Romagna": 465,
-            "Totale": 2751
-        },
-        {
-            "Anno": "2021/22",
-            "Livello": "L",
-            "Bologna": 11407,
-            "Romagna": 4125,
-            "Totale": 15532
-        },
-        {
-            "Anno": "2021/22",
-            "Livello": "LM",
-            "Bologna": 7758,
-            "Romagna": 2364,
-            "Totale": 10122
-        },
-        {
-            "Anno": "2021/22",
-            "Livello": "LMCU",
-            "Bologna": 2535,
-            "Romagna": 387,
-            "Totale": 2922
+        "2021/22": {
+            "L": [
+                11407,
+                4125,
+                15532
+            ],
+            "LM": [
+                7758,
+                2364,
+                10122
+            ],
+            "LMCU": [
+                2535,
+                387,
+                2922
+            ]
         }
-    ]
+    }
 }

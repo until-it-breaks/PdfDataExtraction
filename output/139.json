@@ -1,10 +1,6 @@
 {
-    "dati": [
-        {
-            "soci iscritti": 900
-        },
-        {
-            "partecipanti eventi": 3000
-        }
-    ]
+    "CUBO": {
+        "Soci iscritti": "900",
+        "Partecipanti agli eventi": "3.000"
+    }
 }
