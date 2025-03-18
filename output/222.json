@@ -1,1 +1,228 @@
-{}
+{
+    "Figure": [
+        {
+            "descrizione": "Costi per ambito strategico (mln di euro)",
+            "pagina": 17
+        },
+        {
+            "descrizione": "Andamento Valore economico attratto (in mln di €)",
+            "pagina": 35
+        },
+        {
+            "descrizione": "FFO 2022-2023 (in mln di €)",
+            "pagina": 35
+        },
+        {
+            "descrizione": "Valore distribuito (in mln di €)",
+            "pagina": 37
+        },
+        {
+            "descrizione": "Provenienza geografica dei fornitori",
+            "pagina": 38
+        },
+        {
+            "descrizione": "Immatricolazioni al primo anno",
+            "pagina": 46
+        },
+        {
+            "descrizione": "Iscrizioni alle Lauree, Lauree Magistrali e LM a Ciclo Unico",
+            "pagina": 47
+        },
+        {
+            "descrizione": "Iscrizioni ai Master, ai Dottorati e ai Corsi di alta formazione",
+            "pagina": 47
+        },
+        {
+            "descrizione": "Composizione iscrizioni per genere (L, LM e LMCU)",
+            "pagina": 48
+        },
+        {
+            "descrizione": "Iscrizioni ai corsi di studio per regione di residenza",
+            "pagina": 48
+        },
+        {
+            "descrizione": "Iscritti per regione di provenienza (Heat Map Italia; percentuali)",
+            "pagina": 48
+        },
+        {
+            "descrizione": "Iscrizioni ai corsi di studio per classe di età",
+            "pagina": 49
+        },
+        {
+            "descrizione": "Valutazioni positive sulla didattica",
+            "pagina": 50
+        },
+        {
+            "descrizione": "Lauree",
+            "pagina": 51
+        },
+        {
+            "descrizione": "Tempistiche di conseguimento della laurea",
+            "pagina": 51
+        },
+        {
+            "descrizione": "Condizione occupazionale a un anno dalla laurea",
+            "pagina": 52
+        },
+        {
+            "descrizione": "Condizione occupazionale a un anno dalla laurea per Campus",
+            "pagina": 54
+        },
+        {
+            "descrizione": "Offerta formativa internazionale",
+            "pagina": 56
+        },
+        {
+            "descrizione": "Composizione studenti di primo e secondo ciclo per provenienza",
+            "pagina": 57
+        },
+        {
+            "descrizione": "Composizione dottorandi per provenienza",
+            "pagina": 57
+        },
+        {
+            "descrizione": "Nuove Carriere (23-24) per Cittadinanza di provenienza",
+            "pagina": 57
+        },
+        {
+            "descrizione": "Accordi attivi",
+            "pagina": 58
+        },
+        {
+            "descrizione": "Mobilità studentesca",
+            "pagina": 59
+        },
+        {
+            "descrizione": "Studenti outgoing per nazione di destinazione (primi 10 Paesi - triennio 21-23)",
+            "pagina": 59
+        },
+        {
+            "descrizione": "Studenti incoming per nazione di provenienza (primi 10 Paesi - triennio 21-23)",
+            "pagina": 60
+        },
+        {
+            "descrizione": "Borse di studio per tesi all'estero",
+            "pagina": 60
+        },
+        {
+            "descrizione": "Corsi di lingue straniere",
+            "pagina": 61
+        },
+        {
+            "descrizione": "Iscrizioni ai corsi di lingue straniere",
+            "pagina": 61
+        },
+        {
+            "descrizione": "Corsi di lingua italiana",
+            "pagina": 62
+        },
+        {
+            "descrizione": "Iscrizioni ai corsi di lingua italiana",
+            "pagina": 62
+        },
+        {
+            "descrizione": "Esoneri totali",
+            "pagina": 67
+        },
+        {
+            "descrizione": "Insegnamenti per SDGs",
+            "pagina": 80
+        },
+        {
+            "descrizione": "Studenti per SDGs",
+            "pagina": 81
+        },
+        {
+            "descrizione": "Relazioni PNRR Unibo con altri soggetti",
+            "pagina": 88
+        },
+        {
+            "descrizione": "Ripartizione voci di budget PNRR e PNC",
+            "pagina": 92
+        },
+        {
+            "descrizione": "Composizione del nuovo personale",
+            "pagina": 92
+        },
+        {
+            "descrizione": "Nuovo personale di ricerca per aree scientifiche e genere",
+            "pagina": 93
+        },
+        {
+            "descrizione": "Docenti e ricercatori coinvolti in progetti PNRR e PNC per area e genere",
+            "pagina": 94
+        },
+        {
+            "descrizione": "Progetti europei",
+            "pagina": 97
+        },
+        {
+            "descrizione": "Finanziamento progetti europei (contributo in migliaia di euro)",
+            "pagina": 97
+        },
+        {
+            "descrizione": "Dipartimenti eccellenti - Finanziamenti 23-27",
+            "pagina": 99
+        },
+        {
+            "descrizione": "Assegni di ricerca",
+            "pagina": 100
+        },
+        {
+            "descrizione": "Laureati LM e LMCU in Italia",
+            "pagina": 101
+        },
+        {
+            "descrizione": "Accessi al dottorato presso Unibo",
+            "pagina": 101
+        },
+        {
+            "descrizione": "Soddisfazione per le attività formative strutturate (scala 0-10)",
+            "pagina": 102
+        },
+        {
+            "descrizione": "Soddisfazione per l'esperienza di dottorato (scala 0-10)",
+            "pagina": 102
+        },
+        {
+            "descrizione": "Dottori di ricerca occupati, confronto con laureati",
+            "pagina": 103
+        },
+        {
+            "descrizione": "Dottori di ricerca occupati, per professione",
+            "pagina": 104
+        },
+        {
+            "descrizione": "Prodotti della ricerca per tipologia",
+            "pagina": 105
+        },
+        {
+            "descrizione": "Prodotti della ricerca per area scientifico disciplinare",
+            "pagina": 105
+        },
+        {
+            "descrizione": "Confronto distribuzione pubblicazioni dell'Ateneo per Indice Unico",
+            "pagina": 106
+        },
+        {
+            "descrizione": "Dottorandi outgoing con almeno 30gg di mobilità nell'anno",
+            "pagina": 107
+        },
+        {
+            "descrizione": "Docenti outgoing nell'anno",
+            "pagina": 107
+        },
+        {
+            "descrizione": "Principali paesi di destinazione docenti e ricercatori ( triennio 20-22)",
+            "pagina": 108
+        },
+        {
+            "descrizione": "Visiting Professors e PhD",
+            "pagina": 109
+        },
+        {
+            "descrizione": "Principali paesi di provenienza di Visiting Professors e PhD (triennio 20-22)",
+            "pagina": 109
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "università": 11,
     "studenti": "600.000",
-    "aree tematiche interdisciplinari": 6,
-    "personale docente e tecnico amministrativo": "100.000",
-    "partner associati": 38
+    "aree_tematiche": 6,
+    "personale": "100.000",
+    "partner_associati": 38
 }

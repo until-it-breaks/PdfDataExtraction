@@ -1,54 +1,61 @@
 {
-    "tabellaValoreEconomicoAttratto": [
-        {
-            "Voce": "Contribuzione studentesca",
-            "2023 (mln)": "132",
-            "%": "14%"
-        },
-        {
-            "Voce": "Contributi dallo Stato",
-            "2023 (mln)": "639",
-            "%": "67%"
-        },
-        {
-            "Voce": "di cui FFO",
-            "2023 (mln)": "516",
-            "%": "54%"
-        },
-        {
-            "Voce": "Contributi dalle Regioni",
-            "2023 (mln)": "5",
-            "%": "1%"
-        },
-        {
-            "Voce": "Contributi da UE e resto del mondo",
-            "2023 (mln)": "8",
-            "%": "1%"
-        },
-        {
-            "Voce": "Contributi da altri soggetti",
-            "2023 (mln)": "37",
-            "%": "4%"
-        },
-        {
-            "Voce": "Proventi da ricerche commissionate e trasferimento tecnologico",
-            "2023 (mln)": "14",
-            "%": "1%"
-        },
-        {
-            "Voce": "Proventi di ricerca",
-            "2023 (mln)": "95",
-            "%": "10%"
-        },
-        {
-            "Voce": "Altri proventi",
-            "2023 (mln)": "27",
-            "%": "3%"
-        },
-        {
-            "Voce": "Totale",
-            "2023 (mln)": "957",
-            "%": "100%"
-        }
-    ]
+    "tabella": {
+        "colonne": [
+            "Voce",
+            "2023 (mln)",
+            "%"
+        ],
+        "righe": [
+            {
+                "Voce": "Contribuzione studentesca",
+                "2023 (mln)": "132",
+                "%": "14%"
+            },
+            {
+                "Voce": "Contributi dallo Stato",
+                "2023 (mln)": "639",
+                "%": "67%"
+            },
+            {
+                "Voce": "di cui FFO",
+                "2023 (mln)": "516",
+                "%": "54%"
+            },
+            {
+                "Voce": "Contributi dalle Regioni",
+                "2023 (mln)": "5",
+                "%": "1%"
+            },
+            {
+                "Voce": "Contributi da UE e resto del mondo",
+                "2023 (mln)": "8",
+                "%": "1%"
+            },
+            {
+                "Voce": "Contributi da altri soggetti",
+                "2023 (mln)": "37",
+                "%": "4%"
+            },
+            {
+                "Voce": "Proventi da ricerche commissionate e trasferimento tecnologico",
+                "2023 (mln)": "14",
+                "%": "1%"
+            },
+            {
+                "Voce": "Proventi di ricerca",
+                "2023 (mln)": "95",
+                "%": "10%"
+            },
+            {
+                "Voce": "Altri proventi",
+                "2023 (mln)": "27",
+                "%": "3%"
+            },
+            {
+                "Voce": "Totale",
+                "2023 (mln)": "957",
+                "%": "100%"
+            }
+        ]
+    }
 }

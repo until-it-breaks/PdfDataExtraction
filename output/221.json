@@ -1,138 +1,140 @@
-[
-    {
-        "tabella": "Tabella 1- Materialità",
-        "pagina": "29"
-    },
-    {
-        "tabella": "Tabella 2- Valore economico attratto",
-        "pagina": "34"
-    },
-    {
-        "tabella": "Tabella 3 - Valore economico distribuito",
-        "pagina": "36"
-    },
-    {
-        "tabella": "Tabella 4 - Valore economico trattenuto",
-        "pagina": "37"
-    },
-    {
-        "tabella": "Tabella 5 - Offerta formativa 2023/2024 nel Multicampus",
-        "pagina": "45"
-    },
-    {
-        "tabella": "Tabella 6- Corsi attivati",
-        "pagina": "46"
-    },
-    {
-        "tabella": "Tabella 7- Orientamento in entrata",
-        "pagina": "65"
-    },
-    {
-        "tabella": "Tabella 8 - Distribuzione degli iscritti per ISEE",
-        "pagina": "67"
-    },
-    {
-        "tabella": "Tabella 9 - Agevolazioni economiche",
-        "pagina": "70"
-    },
-    {
-        "tabella": "Tabella 10 - Servizi per il miglioramento delle condizioni di vita e di studio",
-        "pagina": "73"
-    },
-    {
-        "tabella": "Tabella 11 - Attività di Orientamento al lavoro (presenze)",
-        "pagina": "76"
-    },
-    {
-        "tabella": "Tabella 12 - Job placement",
-        "pagina": "77"
-    },
-    {
-        "tabella": "Tabella 13 - Interventi edilizi nell'ambito dei progetti PNRR/PNC",
-        "pagina": "95"
-    },
-    {
-        "tabella": "Tabella 14-I dipartimenti eccellenti - finanziamenti per Dipartimento (euro)",
-        "pagina": "98"
-    },
-    {
-        "tabella": "Tabella 15 - Progressione economica dei professori e dei ricercatori universitari (procedura di attribuzione delle classi stipendiali)",
-        "pagina": "120"
-    },
-    {
-        "tabella": "Tabella 16 - Compensi regolamento premialità docenti e ricercatori",
-        "pagina": "120"
-    },
-    {
-        "tabella": "Tabella 17 - Procedure PEV concluse al 31/12/2023 per categoria",
-        "pagina": "125"
-    },
-    {
-        "tabella": "Tabella 18 - Risorse e dati di sintesi PEO 2023",
-        "pagina": "126"
-    },
-    {
-        "tabella": "Tabella 19 - Mobilità interna ed esterna",
-        "pagina": "128"
-    },
-    {
-        "tabella": "Tabella 20 - Principali agevolazioni erogate",
-        "pagina": "129"
-    },
-    {
-        "tabella": "Tabella 21 - Polizza sanitaria Unisalute",
-        "pagina": "130"
-    },
-    {
-        "tabella": "Tabella 22 - Ore di formazione per area tematica",
-        "pagina": "132"
-    },
-    {
-        "tabella": "Tabella 23 - I numeri del lavoro a distanza",
-        "pagina": "133"
-    },
-    {
-        "tabella": "Tabella 24 - Accordi con centri di ricerca esterni",
-        "pagina": "147"
-    },
-    {
-        "tabella": "Tabella 25 - Risultati CIRI",
-        "pagina": "147"
-    },
-    {
-        "tabella": "Tabella 26 - La comunicazione digitale di SMA",
-        "pagina": "166"
-    },
-    {
-        "tabella": "Tabella 27 - Strutture, servizi, patrimonio e dati di attività 2023",
-        "pagina": "168"
-    },
-    {
-        "tabella": "Tabella 28 - UniboMagazine e Ufficio stampa: i numeri nel 2023",
-        "pagina": "171"
-    },
-    {
-        "tabella": "Tabella 29 - Numeri del portale e siti web",
-        "pagina": "174"
-    },
-    {
-        "tabella": "Tabella 30 - I canali social istituzionali",
-        "pagina": "175"
-    },
-    {
-        "tabella": "Tabella 31 - Obiettivi del Piano energetico per il 2030",
-        "pagina": "185"
-    },
-    {
-        "tabella": "Tabella 32 - Costi e consumi Acqua",
-        "pagina": "190"
-    },
-    {
-        "tabella": "Tabella 33 - Progetti del Bando MUR sull'Edilizia Universitaria",
-        "pagina": "193"
-    },
-    {
-        "tabella": "Tabella 34 - La Carbon Footprint",
-        "pagina": "199"
-    }
-]
+{
+    "tabelle": [
+        {
+            "nome": "Tabella 1- Materialità",
+            "pagina": 29
+        },
+        {
+            "nome": "Tabella 2- Valore economico attratto",
+            "pagina": 34
+        },
+        {
+            "nome": "Tabella 3 - Valore economico distribuito",
+            "pagina": 36
+        },
+        {
+            "nome": "Tabella 4 - Valore economico trattenuto",
+            "pagina": 37
+        },
+        {
+            "nome": "Tabella 5 - Offerta formativa 2023/2024 nel Multicampus",
+            "pagina": 45
+        },
+        {
+            "nome": "Tabella 6- Corsi attivati",
+            "pagina": 46
+        },
+        {
+            "nome": "Tabella 7- Orientamento in entrata",
+            "pagina": 65
+        },
+        {
+            "nome": "Tabella 8 - Distribuzione degli iscritti per ISEE",
+            "pagina": 67
+        },
+        {
+            "nome": "Tabella 9 - Agevolazioni economiche",
+            "pagina": 70
+        },
+        {
+            "nome": "Tabella 10 - Servizi per il miglioramento delle condizioni di vita e di studio",
+            "pagina": 73
+        },
+        {
+            "nome": "Tabella 11 - Attività di Orientamento al lavoro (presenze)",
+            "pagina": 76
+        },
+        {
+            "nome": "Tabella 12 - Job placement",
+            "pagina": 77
+        },
+        {
+            "nome": "Tabella 13 - Interventi edilizi nell'ambito dei progetti PNRR/PNC",
+            "pagina": 95
+        },
+        {
+            "nome": "Tabella 14-I dipartimenti eccellenti - finanziamenti per Dipartimento (euro)",
+            "pagina": 98
+        },
+        {
+            "nome": "Tabella 15 - Progressione economica dei professori e dei ricercatori universitari (procedura di attribuzione delle classi stipendiali)",
+            "pagina": 120
+        },
+        {
+            "nome": "Tabella 16 - Compensi regolamento premialità docenti e ricercatori",
+            "pagina": 120
+        },
+        {
+            "nome": "Tabella 17 - Procedure PEV concluse al 31/12/2023 per categoria",
+            "pagina": 125
+        },
+        {
+            "nome": "Tabella 18 - Risorse e dati di sintesi PEO 2023",
+            "pagina": 126
+        },
+        {
+            "nome": "Tabella 19 - Mobilità interna ed esterna",
+            "pagina": 128
+        },
+        {
+            "nome": "Tabella 20 - Principali agevolazioni erogate",
+            "pagina": 129
+        },
+        {
+            "nome": "Tabella 21 - Polizza sanitaria Unisalute",
+            "pagina": 130
+        },
+        {
+            "nome": "Tabella 22 - Ore di formazione per area tematica",
+            "pagina": 132
+        },
+        {
+            "nome": "Tabella 23 - I numeri del lavoro a distanza",
+            "pagina": 133
+        },
+        {
+            "nome": "Tabella 24 - Accordi con centri di ricerca esterni",
+            "pagina": 147
+        },
+        {
+            "nome": "Tabella 25 - Risultati CIRI",
+            "pagina": 147
+        },
+        {
+            "nome": "Tabella 26 - La comunicazione digitale di SMA",
+            "pagina": 166
+        },
+        {
+            "nome": "Tabella 27 - Strutture, servizi, patrimonio e dati di attività 2023",
+            "pagina": 168
+        },
+        {
+            "nome": "Tabella 28 - UniboMagazine e Ufficio stampa: i numeri nel 2023",
+            "pagina": 171
+        },
+        {
+            "nome": "Tabella 29 - Numeri del portale e siti web",
+            "pagina": 174
+        },
+        {
+            "nome": "Tabella 30 - I canali social istituzionali",
+            "pagina": 175
+        },
+        {
+            "nome": "Tabella 31 - Obiettivi del Piano energetico per il 2030",
+            "pagina": 185
+        },
+        {
+            "nome": "Tabella 32 - Costi e consumi Acqua",
+            "pagina": 190
+        },
+        {
+            "nome": "Tabella 33 - Progetti del Bando MUR sull'Edilizia Universitaria",
+            "pagina": 193
+        },
+        {
+            "nome": "Tabella 34 - La Carbon Footprint",
+            "pagina": 199
+        }
+    ]
+}

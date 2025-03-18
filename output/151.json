@@ -8,5 +8,17 @@
         "Fondazione Cassa di Riparmio di Forlì",
         "Ser.In.Ar",
         "Uni.Rimini"
+    ],
+    "dottorati": [
+        {
+            "ciclo": "XXIX",
+            "borse_sogg_esterni": 142,
+            "borse_ateneo": 216
+        },
+        {
+            "ciclo": "XXIX",
+            "borse_pnrr": 329,
+            "borse_cofinanziate_imprese": 113
+        }
     ]
 }

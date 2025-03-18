@@ -1,40 +1,42 @@
-[
-    {
-        "Figura 14 - Lauree": {
-            "2023": {
-                "Campus Bologna": "14.836",
-                "Campus Romagna": "4.947",
-                "Totale": "19.783"
-            },
-            "2022": {
-                "Campus Bologna": "14.149",
-                "Campus Romagna": "4.786",
-                "Totale": "18.935"
-            },
-            "2021": {
-                "Campus Bologna": "15.171",
-                "Campus Romagna": "4.915",
-                "Totale": "20.086"
-            }
+{
+    "Lauree": [
+        {
+            "Anno": "2023",
+            "Campus Bologna": "14.836",
+            "Campus Romagna": "4.947",
+            "Totale": "19.783"
+        },
+        {
+            "Anno": "2022",
+            "Campus Bologna": "14.149",
+            "Campus Romagna": "4.786",
+            "Totale": "18.935"
+        },
+        {
+            "Anno": "2021",
+            "Campus Bologna": "15.171",
+            "Campus Romagna": "4.915",
+            "Totale": "20.086"
         }
-    },
-    {
-        "Figura 15 - Tempistiche di conseguimento della laurea": {
-            "2023": {
-                "In corso": "69,9%",
-                "1º anno fuori corso": "19,5%",
-                "2° anno fuori corso e oltre": "10,7%"
-            },
-            "2022": {
-                "In corso": "71,9%",
-                "1º anno fuori corso": "17,7%",
-                "2° anno fuori corso e oltre": "10,3%"
-            },
-            "2021": {
-                "In corso": "69,0%",
-                "1º anno fuori corso": "18,3%",
-                "2° anno fuori corso e oltre": "12,6%"
-            }
+    ],
+    "Tempistiche di conseguimento della laurea": [
+        {
+            "Anno": "2023",
+            "In corso": "69,9%",
+            "1° anno fuori corso": "19,5%",
+            "2° anno fuori corso e oltre": "10,7%"
+        },
+        {
+            "Anno": "2022",
+            "In corso": "71,9%",
+            "1° anno fuori corso": "17,7%",
+            "2° anno fuori corso e oltre": "10,3%"
+        },
+        {
+            "Anno": "2021",
+            "In corso": "69,0%",
+            "1° anno fuori corso": "18,3%",
+            "2° anno fuori corso e oltre": "12,6%"
         }
-    }
-]
+    ]
+}

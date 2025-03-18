@@ -1,24 +1,27 @@
-{
-    "Abbonamenti agevolati": [
-        {
-            "Beneficiario": "Studenti",
-            "Abbonamenti totali": "17.006, di cui 326 ai campus romagnoli"
-        },
-        {
-            "Beneficiario": "Studenti Erasmus",
-            "Abbonamenti totali": "229, di cui 60 ai campus romagnoli"
-        },
-        {
-            "Beneficiario": "Dottorandi, altre categorie",
-            "Abbonamenti totali": "781"
-        },
-        {
-            "Beneficiario": "Personale (docente e TA)",
-            "Abbonamenti totali": "1.884"
-        },
-        {
-            "Beneficiario": "Personale (docente e TA)",
-            "Abbonamenti totali": "469"
-        }
-    ]
-}
+[
+    {
+        "Mezzo": "Bus",
+        "Beneficiario": "Studenti",
+        "Abbonamenti totali": "17.006, di cui 326 ai campus romagnoli"
+    },
+    {
+        "Mezzo": "Bus",
+        "Beneficiario": "Studenti Erasmus",
+        "Abbonamenti totali": "229, di cui 60 ai campus romagnoli"
+    },
+    {
+        "Mezzo": "Bus",
+        "Beneficiario": "Dottorandi, altre categorie",
+        "Abbonamenti totali": "781"
+    },
+    {
+        "Mezzo": "Bus",
+        "Beneficiario": "Personale (docente e TA)",
+        "Abbonamenti totali": "1.884"
+    },
+    {
+        "Mezzo": "Treno",
+        "Beneficiario": "Personale (docente e TA)",
+        "Abbonamenti totali": "469"
+    }
+]

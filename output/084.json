@@ -1,29 +1,33 @@
 {
-    "totale_pnrr": "191,5 MLD EURO",
-    "missione_4_c1": "19,44 MLD EURO",
-    "missione_4_c2": "11,44 MLD EURO",
-    "attratto_unibo": "234 MILIONI",
+    "PNRR_milioni_euro": {
+        "M1": 15.63,
+        "M2": 40.73,
+        "M3": 19.81,
+        "M4": 30.88,
+        "M5": 25.13,
+        "M6": 59.33
+    },
+    "totale_PNRR_miliardi_euro": 191.5,
+    "M4.C1": "19,44 MLD EURO",
+    "M4.C2": "11,44 MLD EURO",
+    "attratto_UNIBO": "234 MILIONI",
     "bandi_avviati": "18,5 MILIONI (37%)",
-    "investimenti": [
-        {
-            "tipo": "PE",
-            "importo": "112,6 milioni",
-            "progetti": "13 progetti"
+    "dettaglio_investimenti": {
+        "PE": {
+            "milioni": 112.6,
+            "progetti": 13
         },
-        {
-            "tipo": "CN",
-            "importo": "83,7 milioni",
-            "progetti": "6 progetti (di cui DARE-PNC)"
+        "CN": {
+            "milioni": 83.7,
+            "progetti": 6
         },
-        {
-            "tipo": "ECOSISTER",
-            "importo": "25,8 milioni",
-            "progetti": "1 progetto"
+        "ECOSISTER": {
+            "milioni": 25.8,
+            "progetti": 1
         },
-        {
-            "tipo": "IR",
-            "importo": "12,4 milioni",
-            "progetti": "8 progetti"
+        "IR": {
+            "milioni": 12.4,
+            "progetti": 8
         }
-    ]
+    }
 }

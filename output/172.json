@@ -1,14 +1,14 @@
 {
-    "Eventi": {
-        "Totale": {
-            "2021": 1151,
-            "2022": 1272,
-            "2023": 1323
-        },
-        "Seminari": 534,
-        "Presentazioni": 497,
-        "Visite e mostre": 153,
-        "Spettacoli": 107,
-        "Altro": 32
+    "eventi_2023": {
+        "seminari": 534,
+        "presentazioni": 497,
+        "visite_mostre": 153,
+        "spettacoli": 107,
+        "altro": 32
+    },
+    "totale_eventi": {
+        "2021": 1151,
+        "2022": 1272,
+        "2023": 1323
     }
 }

@@ -1,28 +1,41 @@
 {
     "GRI 202": {
-        "202-1": {
-            "Presenza sul mercato": "Rapporto tra lo stipendio standard dei neo-assunti e lo stipendio minimo locale per sesso",
-            "Raccordo con indice BS 2024 e/o note": "NA. Le remunerazioni sono stabilite sulla base delle categorie contrattuali come da contrattazione collettiva"
+        "Presenza sul mercato": {
+            "202-1": "Rapporto tra lo stipendio standard dei neo-assunti e lo stipendio minimo locale per sesso",
+            "202-2": "Percentuale di senior management assunti che provengono dalla comunità locale"
         },
-        "202-2": {
-            "Presenza sul mercato": "Percentuale di senior management assunti che provengono dalla comunità locale",
-            "Raccordo con indice BS 2024 e/o note": "NA. La disciplina delle assunzioni del personale dell'Ateneo è definita per legge in base a procedure di valutazione comparativa e a bandi di concorso pubblici, nonché al rispetto della normativa sul diritto al lavoro delle persone con disabilità. L'89% dei dirigenti risiede nella regione Emilia-Romagna, in particolare il 75% nella provincia di Bologna, il 6,25% nella provincia di Rimini, il 6,25% nella provincia di Ravenna e il 12,5% nella provincia di Forlì-Cesena"
+        "Raccordo con indice BS 2024 e/o note": {
+            "202-1": "NA. Le remunerazioni sono stabilite sulla base delle categorie contrattuali come da contrattazione collettiva",
+            "202-2": "NA. La disciplina delle assunzioni del personale dell'Ateneo è definita per legge in base a procedure di valutazione comparativa e a bandi di concorso pubblici, nonché al rispetto della normativa sul diritto al lavoro delle persone con disabilità. L'89% dei dirigenti risiede nella regione Emilia-Romagna, in particolare il 75% nella provincia di Bologna, il 6,25% nella provincia di Rimini, il 6,25% nella provincia di Ravenna e il 12,5% nella provincia di Forlì-Cesena"
         }
     },
     "GRI 203": {
-        "203-1": {
-            "Impatti economici indiretti": "Investimenti in infrastrutture e servizi supportati",
-            "Raccordo con indice BS 2024 e/o note": "7.4 - Patrimonio culturale (musei, biblioteche)\n7.6 - Sport e salute\n8.1 - Politiche energetiche e i consumi\n8.2 - Il patrimonio edilizio"
+        "Impatti economici indiretti": {
+            "203-1": "Investimenti in infrastrutture e servizi supportati",
+            "203-2": "Analisi e descrizione dei principali impatti economici indiretti"
         },
-        "203-2": {
-            "Impatti economici indiretti": "Analisi e descrizione dei principali impatti economici indiretti",
-            "Raccordo con indice BS 2024 e/o note": "3 - Valore economico\n4.4 - Servizi alla comunità studentesca\n6.2 - Personale tecnico amministrativo (welfare di Ateneo)\n8.3 - Azioni a favore della sostenibilità (I network per la sostenibilità)\n5 - Ricerca"
+        "Raccordo con indice BS 2024 e/o note": {
+            "203-1": [
+                "7.4 - Patrimonio culturale (musei, biblioteche)",
+                "7.6 - Sport e salute",
+                "8.1 - Politiche energetiche e i consumi",
+                "8.2-II patrimonio edilizio"
+            ],
+            "203-2": [
+                "3 - Valore economico",
+                "4.4 - Servizi alla comunità studentesca",
+                "6.2 - Personale tecnico amministrativo (welfare di Ateneo)",
+                "8.3 - Azioni a favore della sostenibilità (I network per la sostenibilità)",
+                "5 - Ricerca"
+            ]
         }
     },
     "GRI 204": {
-        "204-1": {
-            "Pratiche di approvvigionamento": "Percentuale di spesa concentrata sui fornitori locali",
-            "Raccordo con indice BS 2024 e/o note": "3.2 - Valore economico distribuito"
+        "Pratiche di approvvigionamento": {
+            "204-1": "Percentuale di spesa concentrata sui fornitori locali"
+        },
+        "Raccordo con indice BS 2024 e/o note": {
+            "204-1": "3.2 - Valore economico distribuito"
         }
     }
 }

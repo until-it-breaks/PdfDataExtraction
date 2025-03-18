@@ -1,72 +1,72 @@
 {
-    "SDGs": [
+    "dati": [
         {
-            "goal": "GOAL 1",
-            "insegnamenti": 360
+            "Goal": "GOAL 1",
+            "Insegnamenti": 360
         },
         {
-            "goal": "GOAL 2",
-            "insegnamenti": 249
+            "Goal": "GOAL 2",
+            "Insegnamenti": 249
         },
         {
-            "goal": "GOAL 3",
-            "insegnamenti": 1747
+            "Goal": "GOAL 3",
+            "Insegnamenti": 1747
         },
         {
-            "goal": "GOAL 4",
-            "insegnamenti": 2781
+            "Goal": "GOAL 4",
+            "Insegnamenti": 2781
         },
         {
-            "goal": "GOAL 5",
-            "insegnamenti": 1126
+            "Goal": "GOAL 5",
+            "Insegnamenti": 1126
         },
         {
-            "goal": "GOAL 6",
-            "insegnamenti": 205
+            "Goal": "GOAL 6",
+            "Insegnamenti": 205
         },
         {
-            "goal": "GOAL 7",
-            "insegnamenti": 416
+            "Goal": "GOAL 7",
+            "Insegnamenti": 416
         },
         {
-            "goal": "GOAL 8",
-            "insegnamenti": 660
+            "Goal": "GOAL 8",
+            "Insegnamenti": 660
         },
         {
-            "goal": "GOAL 9",
-            "insegnamenti": 957
+            "Goal": "GOAL 9",
+            "Insegnamenti": 957
         },
         {
-            "goal": "GOAL 10",
-            "insegnamenti": 1142
+            "Goal": "GOAL 10",
+            "Insegnamenti": 1142
         },
         {
-            "goal": "GOAL 11",
-            "insegnamenti": 853
+            "Goal": "GOAL 11",
+            "Insegnamenti": 853
         },
         {
-            "goal": "GOAL 12",
-            "insegnamenti": 789
+            "Goal": "GOAL 12",
+            "Insegnamenti": 789
         },
         {
-            "goal": "GOAL 13",
-            "insegnamenti": 760
+            "Goal": "GOAL 13",
+            "Insegnamenti": 760
         },
         {
-            "goal": "GOAL 14",
-            "insegnamenti": 170
+            "Goal": "GOAL 14",
+            "Insegnamenti": 170
         },
         {
-            "goal": "GOAL 15",
-            "insegnamenti": 477
+            "Goal": "GOAL 15",
+            "Insegnamenti": 477
         },
         {
-            "goal": "GOAL 16",
-            "insegnamenti": 511
+            "Goal": "GOAL 16",
+            "Insegnamenti": 511
         },
         {
-            "goal": "GOAL 17",
-            "insegnamenti": 439
+            "Goal": "GOAL 17",
+            "Insegnamenti": 439
         }
     ]
 }

@@ -2,72 +2,72 @@
     "SDGs": [
         {
             "obiettivo": "1",
-            "valore": "3"
+            "programmi": "3"
         },
         {
             "obiettivo": "2",
-            "valore": "7"
+            "programmi": "7"
         },
         {
             "obiettivo": "3",
-            "valore": "11"
+            "programmi": "11"
         },
         {
             "obiettivo": "4",
-            "valore": "68"
+            "programmi": "68"
         },
         {
             "obiettivo": "5",
-            "valore": "3"
+            "programmi": "3"
         },
         {
             "obiettivo": "6",
-            "valore": "1"
+            "programmi": "1"
         },
         {
             "obiettivo": "7",
-            "valore": "3"
+            "programmi": "3"
         },
         {
             "obiettivo": "8",
-            "valore": "14"
+            "programmi": "14"
         },
         {
             "obiettivo": "9",
-            "valore": "0"
+            "programmi": "0"
         },
         {
             "obiettivo": "10",
-            "valore": "3"
+            "programmi": "3"
         },
         {
             "obiettivo": "11",
-            "valore": "8"
+            "programmi": "8"
         },
         {
             "obiettivo": "12",
-            "valore": "1"
+            "programmi": "1"
         },
         {
             "obiettivo": "13",
-            "valore": "6"
+            "programmi": "6"
         },
         {
             "obiettivo": "14",
-            "valore": "1"
+            "programmi": "1"
         },
         {
             "obiettivo": "15",
-            "valore": "4"
+            "programmi": "4"
         },
         {
             "obiettivo": "16",
-            "valore": "7"
+            "programmi": "7"
         },
         {
             "obiettivo": "17",
-            "valore": "10"
+            "programmi": "10"
         }
     ],
-    "totale_programmi": "119"
+    "Totale progetti": "119"
 }

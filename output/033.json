@@ -1,5 +1,5 @@
 {
-    "dati": [
+    "valore_economico": [
         {
             "valore": "957 mln €",
             "descrizione": "VALORE ECONOMICO ATTRATTO"
@@ -14,7 +14,7 @@
         },
         {
             "valore": "366.795 €",
-            "note": "5X1000"
+            "scala": "5X1000"
         }
     ]
 }

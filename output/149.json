@@ -1,16 +1,16 @@
 {
-    "Famiglie brevettuali": [
+    "famiglie_brevettuali": [
         {
-            "Anno": 2021,
-            "Valore": 262
+            "anno": 2021,
+            "valore": 262
         },
         {
-            "Anno": 2022,
-            "Valore": 292
+            "anno": 2022,
+            "valore": 292
         },
         {
-            "Anno": 2023,
-            "Valore": 310
+            "anno": 2023,
+            "valore": 310
         }
     ]
 }

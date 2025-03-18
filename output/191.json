@@ -1,11 +1,9 @@
 {
-    "Distribuzione territoriale": {
+    "distribuzione_territoriale": {
         "Bologna": "84,3%",
         "Forlì": "5,6%",
         "Cesena": "4,7%",
         "Rimini": "2,8%",
         "Ravenna": "2,6%"
-    },
-    "Copertura fabbricati": "1.242.920 MQ",
-    "Copertura terreni": "550 ETTARI"
+    }
 }

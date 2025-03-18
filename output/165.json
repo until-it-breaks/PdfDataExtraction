@@ -1,18 +1,18 @@
 {
     "Percorsi": [
         {
-            "scuola": "infanzia",
-            "numero": 11
+            "Scuola": "dell'infanzia",
+            "N°": 11
         },
         {
-            "scuola": "primaria",
-            "numero": 53,
-            "on_air": 14
+            "Scuola": "primaria",
+            "N°": 53,
+            "OnAir": 14
         },
         {
-            "scuola": "secondaria primo grado",
-            "numero": 40,
-            "on_air": 10
+            "Scuola": "secondaria di primo grado",
+            "N°": 40,
+            "OnAir": 10
         }
     ]
 }

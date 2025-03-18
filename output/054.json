@@ -1,88 +1,88 @@
 {
-    "condizione_occupazionale": [
+    "dati": [
         {
             "ciclo": "1º Ciclo",
             "sede": "Bologna",
             "occupati": "34,5%",
-            "non_occupati_formazione": "57,5%",
-            "non_occupati_non_formazione": "7,9%"
+            "non_occupati_in_formazione": "57,5%",
+            "ne_occupati_ne_in_formazione": "7,9%"
         },
         {
             "ciclo": "1º Ciclo",
             "sede": "Cesena",
             "occupati": "33,0%",
-            "non_occupati_formazione": "59,7%",
-            "non_occupati_non_formazione": "7,3%"
+            "non_occupati_in_formazione": "59,7%",
+            "ne_occupati_ne_in_formazione": "7,3%"
         },
         {
             "ciclo": "1º Ciclo",
             "sede": "Forlì",
             "occupati": "30,4%",
-            "non_occupati_formazione": "61,3%",
-            "non_occupati_non_formazione": "8,3%"
+            "non_occupati_in_formazione": "61,3%",
+            "ne_occupati_ne_in_formazione": "8,3%"
         },
         {
             "ciclo": "1º Ciclo",
             "sede": "Ravenna",
             "occupati": "51,2%",
-            "non_occupati_formazione": "39,3%",
-            "non_occupati_non_formazione": "9,5%"
+            "non_occupati_in_formazione": "39,3%",
+            "ne_occupati_ne_in_formazione": "9,5%"
         },
         {
             "ciclo": "1º Ciclo",
             "sede": "Rimini",
             "occupati": "50,6%",
-            "non_occupati_formazione": "37,9%",
-            "non_occupati_non_formazione": "11,5%"
+            "non_occupati_in_formazione": "37,9%",
+            "ne_occupati_ne_in_formazione": "11,5%"
         },
         {
             "ciclo": "1º Ciclo",
             "sede": "Totale",
             "occupati": "36,0%",
-            "non_occupati_formazione": "55,8%",
-            "non_occupati_non_formazione": "8,3%"
+            "non_occupati_in_formazione": "55,8%",
+            "ne_occupati_ne_in_formazione": "8,3%"
         },
         {
             "ciclo": "Ciclo unico e 2º ciclo",
             "sede": "Bologna",
             "occupati": "77,2%",
-            "non_occupati_formazione": "5,5%",
-            "non_occupati_non_formazione": "17,3%"
+            "non_occupati_in_formazione": "5,5%",
+            "ne_occupati_ne_in_formazione": "17,3%"
         },
         {
             "ciclo": "Ciclo unico e 2º ciclo",
             "sede": "Cesena",
             "occupati": "73,3%",
-            "non_occupati_formazione": "7,9%",
-            "non_occupati_non_formazione": "18,9%"
+            "non_occupati_in_formazione": "7,9%",
+            "ne_occupati_ne_in_formazione": "18,9%"
         },
         {
             "ciclo": "Ciclo unico e 2º ciclo",
             "sede": "Forlì",
             "occupati": "80,9%",
-            "non_occupati_formazione": "3,6%",
-            "non_occupati_non_formazione": "15,5%"
+            "non_occupati_in_formazione": "3,6%",
+            "ne_occupati_ne_in_formazione": "15,5%"
         },
         {
             "ciclo": "Ciclo unico e 2º ciclo",
             "sede": "Ravenna",
             "occupati": "76,2%",
-            "non_occupati_formazione": "4,6%",
-            "non_occupati_non_formazione": "19,2%"
+            "non_occupati_in_formazione": "4,6%",
+            "ne_occupati_ne_in_formazione": "19,2%"
         },
         {
             "ciclo": "Ciclo unico e 2º ciclo",
             "sede": "Rimini",
             "occupati": "82,1%",
-            "non_occupati_formazione": "2,2%",
-            "non_occupati_non_formazione": "15,8%"
+            "non_occupati_in_formazione": "2,2%",
+            "ne_occupati_ne_in_formazione": "15,8%"
         },
         {
             "ciclo": "Ciclo unico e 2º ciclo",
             "sede": "Totale",
             "occupati": "77,4%",
-            "non_occupati_formazione": "5,3%",
-            "non_occupati_non_formazione": "17,3%"
+            "non_occupati_in_formazione": "5,3%",
+            "ne_occupati_ne_in_formazione": "17,3%"
         }
     ]
 }

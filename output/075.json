@@ -1,4 +1,6 @@
 {
-    "Anno": 2023,
-    "Studenti": "1.700"
+    "orientamento": {
+        "anno": 2023,
+        "num_studenti": 1700
+    }
 }

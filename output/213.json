@@ -2,21 +2,21 @@
     {
         "GRI": "401-1",
         "Occupazione": "Nuove assunzioni e tasso di turnover",
-        "Raccordo": "6.1 - Personale docente e ricercatore\n6.2 - Personale tecnico amministrativo"
+        "Raccordo BS": "6.1 - Personale docente e ricercatore\n6.2 - Personale tecnico amministrativo"
     },
     {
         "GRI": "401-2",
         "Occupazione": "Benefit previsti per i lavoratori a tempo pieno,\nma non per i lavoratori part-time ed a termine",
-        "Raccordo": "6.1 - Personale docente e ricercatore\n6.2 - Personale tecnico amministrativo\n6.4 - Benessere organizzativo"
+        "Raccordo BS": "6.1 - Personale docente e ricercatore\n6.2 - Personale tecnico amministrativo\n6.4 - Benessere organizzativo"
     },
     {
         "GRI": "401-3",
         "Occupazione": "Congedo parentale",
-        "Raccordo": "6.1 - Personale docente e ricercatore\n6.2 - Personale tecnico amministrativo"
+        "Raccordo BS": "6.1 - Personale docente e ricercatore\n6.2 - Personale tecnico amministrativo"
     },
     {
         "GRI": "402-1",
-        "Gestione del lavoro e delle relazioni sindacali": "Periodo minimo di preavviso per modifiche\noperative",
-        "Raccordo": "6.2 - Personale tecnico amministrativo (Mobilità interna ed\nesterna). Per il personale docente l'inamovibilità e la libertà di\ninsegnamento sono garantite costituzionalmente; l'Ateneo ha\naggiornato nel 2023 il Regolamento per disciplinare la mobilità\ninterna tra Dipartimenti e tra sedi dello stesso Dipartimento"
+        "Gestione lavoro": "Periodo minimo di preavviso per modifiche\noperative",
+        "Raccordo BS": "6.2 - Personale tecnico amministrativo (Mobilità interna ed\nesterna). Per il personale docente l'inamovibilità e la libertà di\ninsegnamento sono garantite costituzionalmente; l'Ateneo ha\naggiornato nel 2023 il Regolamento per disciplinare la mobilità\ninterna tra Dipartimenti e tra sedi dello stesso Dipartimento"
     }
 ]

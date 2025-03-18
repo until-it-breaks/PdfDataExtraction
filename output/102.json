@@ -1,19 +1,58 @@
 {
-    "Attività formative strutturate": {
-        "Competenza del supervisore su argomento tesi": 8.1,
-        "Acquisizione di nuove competenze e abilità specifiche": 7.8,
-        "Capacità del supervisore di inserire in reti di rapporti": 7.6,
-        "Padronanza di tecniche di ricerca": 7.4,
-        "Approfondimento di contenuti teorici": 7.2,
-        "Qualità della ricerca di base": 7.1,
-        "Prospettive di carriera": 6.5,
-        "Padronanza di tecniche per la didattica": 6.1
-    },
-    "Esperienza di dottorato": {
-        "Competenza dei docenti": 8.1,
-        "Adeguatezza del carico didattico rispetto all'attività di ricerca": 6.9,
-        "Livello di approfondimento/aggiornamento degli argomenti": 6.7,
-        "Coerenza con gli obiettivi generali del dottorato": 6.5,
-        "Addestramento alla ricerca": 6.0
-    }
+    "Figura 45": [
+        {
+            "Attività": "Competenza del supervisore su argomento tesi",
+            "Valore": 8.1
+        },
+        {
+            "Attività": "Acquisizione di nuove competenze e abilità specifiche",
+            "Valore": 7.8
+        },
+        {
+            "Attività": "Capacità del supervisore di inserire in reti di rapporti",
+            "Valore": 7.6
+        },
+        {
+            "Attività": "Padronanza di tecniche di ricerca",
+            "Valore": 7.4
+        },
+        {
+            "Attività": "Approfondimento di contenuti teorici",
+            "Valore": 7.2
+        },
+        {
+            "Attività": "Qualità della ricerca di base",
+            "Valore": 7.1
+        },
+        {
+            "Attività": "Prospettive di carriera",
+            "Valore": 6.5
+        },
+        {
+            "Attività": "Padronanza di tecniche per la didattica",
+            "Valore": 6.1
+        }
+    ],
+    "Figura 46": [
+        {
+            "Attività": "Competenza dei docenti",
+            "Valore": 8.1
+        },
+        {
+            "Attività": "Adeguatezza del carico didattico rispetto all'attività di ricerca",
+            "Valore": 6.9
+        },
+        {
+            "Attività": "Livello di approfondimento/aggiornamento degli argomenti",
+            "Valore": 6.7
+        },
+        {
+            "Attività": "Coerenza con gli obiettivi generali del dottorato",
+            "Valore": 6.5
+        },
+        {
+            "Attività": "Addestramento alla ricerca",
+            "Valore": 6.0
+        }
+    ]
 }

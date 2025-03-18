@@ -1,39 +1,37 @@
-{
-    "tabella": [
-        {
-            "Categoria": "EP",
-            "Ammessi": 140,
-            "Beneficiari": 13,
-            "% Beneficiari/ammessi": "9,3%",
-            "Risorse stanziate": 32656
-        },
-        {
-            "Categoria": "D",
-            "Ammessi": 774,
-            "Beneficiari": 128,
-            "% Beneficiari/ammessi": "16,5%",
-            "Risorse stanziate": 191116
-        },
-        {
-            "Categoria": "C",
-            "Ammessi": 873,
-            "Beneficiari": 215,
-            "% Beneficiari/ammessi": "24,6%",
-            "Risorse stanziate": 215561
-        },
-        {
-            "Categoria": "B",
-            "Ammessi": 153,
-            "Beneficiari": 32,
-            "% Beneficiari/ammessi": "20,9%",
-            "Risorse stanziate": 37779
-        },
-        {
-            "Categoria": "Totale",
-            "Ammessi": 1940,
-            "Beneficiari": 388,
-            "% Beneficiari/ammessi": "12,4%",
-            "Risorse stanziate": 477112
-        }
-    ]
-}
+[
+    {
+        "Categoria": "EP",
+        "Ammessi": "140",
+        "Beneficiari": "13",
+        "% Beneficiari/ammessi": "9,3%",
+        "Risorse stanziate": "32.656"
+    },
+    {
+        "Categoria": "D",
+        "Ammessi": "774",
+        "Beneficiari": "128",
+        "% Beneficiari/ammessi": "16,5%",
+        "Risorse stanziate": "191.116"
+    },
+    {
+        "Categoria": "C",
+        "Ammessi": "873",
+        "Beneficiari": "215",
+        "% Beneficiari/ammessi": "24,6%",
+        "Risorse stanziate": "215.561"
+    },
+    {
+        "Categoria": "B",
+        "Ammessi": "153",
+        "Beneficiari": "32",
+        "% Beneficiari/ammessi": "20,9%",
+        "Risorse stanziate": "37.779"
+    },
+    {
+        "Categoria": "Totale",
+        "Ammessi": "1.940",
+        "Beneficiari": "388",
+        "% Beneficiari/ammessi": "12,4%",
+        "Risorse stanziate": "477.112"
+    }
+]

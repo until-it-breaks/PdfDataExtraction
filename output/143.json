@@ -1,6 +1,6 @@
 {
-    "Convenzioni totali": 12923,
-    "Distribuzione": {
+    "convenzioni_totali": 12923,
+    "fonte_percentuale": {
         "Imprese/studi professionali": "65%",
         "Associazione/Fondazione/Org. no profit/ONG": "17%",
         "Ente pubblico": "9%",

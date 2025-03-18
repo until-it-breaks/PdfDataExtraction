@@ -1,39 +1,38 @@
 {
-    "classifiche": [
+    "ranking": [
         {
-            "nome": "QS WORLD UNIVERSITY RANKING",
+            "classifica": "QS World University Ranking",
             "italia": "3°",
             "mondo": "154°"
         },
         {
-            "nome": "TIMES HIGHER EDUCATION WORLD RANKING",
+            "classifica": "Times Higher Education World Ranking",
             "italia": "1°",
             "mondo": "155°"
         },
         {
-            "nome": "QS SUSTAINABILITY",
+            "classifica": "QS Sustainability",
             "italia": "1°",
             "mondo": "108°"
         },
         {
-            "nome": "THE IMPACT SDGS 5 UN 2030 (UGUAGLIANZA DI GENERE)",
+            "classifica": "The Impact SDGs 5 UN 2030 (Uguaglianza di Genere)",
             "italia": "1°",
             "mondo": "2°"
         },
         {
-            "nome": "GREEN METRIC",
+            "classifica": "Green Metric",
             "italia": "1°",
             "mondo": "12°"
         },
         {
-            "nome": "CENSIS",
+            "classifica": "Censis",
             "italia": "1°",
-            "mondo": "MEGA ATENEI"
+            "mondo": "Mega Atenei"
         }
     ],
     "strutture": {
         "scuole": 5,
-        "dipartimenti": 31,
-        "altro": "ALTRE STRUTTURE"
+        "dipartimenti": 31
     }
 }

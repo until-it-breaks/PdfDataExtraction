@@ -1,28 +1,29 @@
-{
-    "Incentivi_TA_CEL": {
-        "2021": {
-            "Fondo Incentivi funzioni tecniche*": 2.33,
-            "Welfare aziendale": 0.19,
-            "Fondo per la premialità (ex art. 9 L 240/2010)": 1.12,
-            "Conto terzi": 3.67,
-            "Fondo Accessorio (comprensivo costo PEO a bilancio)": 14.73,
-            "Totale": 21.84
-        },
-        "2022": {
-            "Fondo Incentivi funzioni tecniche*": 2.33,
-            "Welfare aziendale": 0.51,
-            "Fondo per la premialità (ex art. 9 L 240/2010)": 1.56,
-            "Conto terzi": 3.82,
-            "Fondo Accessorio (comprensivo costo PEO a bilancio)": 14.65,
-            "Totale": 22.35
-        },
-        "2023": {
-            "Fondo Incentivi funzioni tecniche*": 2.33,
-            "Welfare aziendale": 0.69,
-            "Fondo per la premialità (ex art. 9 L 240/2010)": 1.7,
-            "Conto terzi": 3.58,
-            "Fondo Accessorio (comprensivo costo PEO a bilancio)": 14.93,
-            "Totale": 22.53
-        }
+[
+    {
+        "Anno": "2021",
+        "Fondo Incentivi per funzioni tecniche*": "2,33",
+        "Welfare aziendale": "1,12",
+        "Fondo per la premialità (ex art. 9 L 240/2010)": "3,67",
+        "Conto terzi": "14,73",
+        "Fondo Accessorio (comprensivo costo PEO a bilancio)": "21,84",
+        "altro": "0,19"
+    },
+    {
+        "Anno": "2022",
+        "Fondo Incentivi per funzioni tecniche*": "2,33",
+        "Welfare aziendale": "1,56",
+        "Fondo per la premialità (ex art. 9 L 240/2010)": "3,82",
+        "Conto terzi": "14,65",
+        "Fondo Accessorio (comprensivo costo PEO a bilancio)": "22,35",
+        "altro": "0,51"
+    },
+    {
+        "Anno": "2023",
+        "Fondo Incentivi per funzioni tecniche*": "2,33",
+        "Welfare aziendale": "1,70",
+        "Fondo per la premialità (ex art. 9 L 240/2010)": "3,58",
+        "Conto terzi": "14,93",
+        "Fondo Accessorio (comprensivo costo PEO a bilancio)": "22,53",
+        "altro": "0,69"
     }
-}
+]

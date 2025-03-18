@@ -1,36 +1,36 @@
 {
-    "AccordiConCentriDiRicercaEsterni": [
+    "accordi_ricerca": [
         {
-            "Centro di ricerca": "Agenzia Spaziale Italiana",
-            "Accordo": "2022-5-HH.O \"Navigazione operativa di missioni CubeSat in Deep Space\"",
-            "Durata": "1,5 anni"
+            "centro_ricerca": "Agenzia Spaziale Italiana",
+            "accordo": "2022-5-HH.O \"Navigazione operativa di missioni CubeSat in Deep Space\"",
+            "durata": "1,5 anni"
         },
         {
-            "Centro di ricerca": "Agenzia Spaziale Italiana",
-            "Accordo": "2022-8-HH.O Missione HERA \"Attività scientifiche per la Missione HERA\"",
-            "Durata": "3 anni"
+            "centro_ricerca": "Agenzia Spaziale Italiana",
+            "accordo": "2022-8-HH.O Missione HERA \"Attività scientifiche per la Missione HERA\"",
+            "durata": "3 anni"
         }
     ],
-    "RisultatiCIRI": [
+    "risultati_ciri": [
         {
-            "Progetti di ricerca competitivi": "Totale progetti",
-            "Progetti in corso": 83,
-            "Importo": "11.760.000 euro"
+            "tipo_progetto": "Totale progetti",
+            "progetti_in_corso": 83,
+            "importo": "11.760.000 euro"
         },
         {
-            "Progetti di ricerca competitivi": "Nazionali",
-            "Progetti in corso": 11,
-            "Importo": "450.000 euro"
+            "tipo_progetto": "Nazionali",
+            "progetti_in_corso": 11,
+            "importo": "450.000 euro"
         },
         {
-            "Progetti di ricerca competitivi": "Regionali",
-            "Progetti in corso": 65,
-            "Importo": "9.732.000 euro"
+            "tipo_progetto": "Regionali",
+            "progetti_in_corso": 65,
+            "importo": "9.732.000 euro"
         },
         {
-            "Progetti di ricerca competitivi": "Internazionali",
-            "Progetti in corso": 7,
-            "Importo": "1.578.000 euro"
+            "tipo_progetto": "Internazionali",
+            "progetti_in_corso": 7,
+            "importo": "1.578.000 euro"
         }
     ]
 }

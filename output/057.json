@@ -1,25 +1,25 @@
 {
-    "studenti_primo_secondo_ciclo": [
+    "composizione_studenti": [
         {
             "anno": 2023,
-            "paesi_comunitari": 1.742,
-            "paesi_extra_comunitari": 6.318,
-            "totale": 8.06
+            "paesi_comunitari": 1742,
+            "paesi_extra_comunitari": 6318,
+            "totale": 8060
         },
         {
             "anno": 2022,
-            "paesi_comunitari": 1.713,
-            "paesi_extra_comunitari": 5.624,
-            "totale": 7.337
+            "paesi_comunitari": 1713,
+            "paesi_extra_comunitari": 5624,
+            "totale": 7337
         },
         {
             "anno": 2021,
-            "paesi_comunitari": 1.575,
-            "paesi_extra_comunitari": 5.209,
-            "totale": 6.784
+            "paesi_comunitari": 1575,
+            "paesi_extra_comunitari": 5209,
+            "totale": 6784
         }
     ],
-    "dottorandi": [
+    "composizione_dottorandi": [
         {
             "anno": 2023,
             "paesi_comunitari": 91,

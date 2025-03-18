@@ -1,44 +1,42 @@
-{
-    "condizione_occupazionale": [
-        {
-            "anno": "2023",
-            "laurea": "Unibo",
-            "occupati": "36,0%",
-            "non_occupati": "55,8%",
-            "altro": "8,3%",
-            "laureati_intervistati": "6.795"
-        },
-        {
-            "anno": "2023",
-            "laurea": "Italia*",
-            "occupati": "38,5%",
-            "non_occupati": "53,9%",
-            "altro": "7,6%",
-            "laureati_intervistati": "113.811"
-        },
-        {
-            "anno": "2023",
-            "laurea": "Grandi Atenei*",
-            "occupati": "38,6%",
-            "non_occupati": "53,6%",
-            "altro": "7,8%",
-            "laureati_intervistati": "32.752"
-        },
-        {
-            "anno": "2021 2022",
-            "laurea": "Unibo",
-            "occupati": "39,7%",
-            "non_occupati": "53,0%",
-            "altro": "7,3%",
-            "laureati_intervistati": "6.838"
-        },
-        {
-            "anno": "2021 2022",
-            "laurea": "Unibo",
-            "occupati": "35,9%",
-            "non_occupati": "56,8%",
-            "altro": "7,3%",
-            "laureati_intervistati": "6.537"
-        }
-    ]
-}
+[
+    {
+        "Anno": "2023",
+        "Laurea": "Unibo",
+        "Occupati": "36,0%",
+        "Non cercano lavoro": "55,8%",
+        "Cercano lavoro": "8,3%",
+        "Intervistati": "6.795"
+    },
+    {
+        "Anno": "2023",
+        "Laurea": "Italia*",
+        "Occupati": "38,5%",
+        "Non cercano lavoro": "53,9%",
+        "Cercano lavoro": "7,6%",
+        "Intervistati": "113.811"
+    },
+    {
+        "Anno": "2023",
+        "Laurea": "Grandi Atenei*",
+        "Occupati": "38,6%",
+        "Non cercano lavoro": "53,6%",
+        "Cercano lavoro": "7,8%",
+        "Intervistati": "32.752"
+    },
+    {
+        "Anno": "2021 2022",
+        "Laurea": "Unibo",
+        "Occupati": "39,7%",
+        "Non cercano lavoro": "53,0%",
+        "Cercano lavoro": "7,3%",
+        "Intervistati": "6.838"
+    },
+    {
+        "Anno": "2021 2022",
+        "Laurea": "Unibo",
+        "Occupati": "35,9%",
+        "Non cercano lavoro": "56,8%",
+        "Cercano lavoro": "7,3%",
+        "Intervistati": "6.537"
+    }
+]

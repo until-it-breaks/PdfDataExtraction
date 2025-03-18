@@ -1,1 +1,11 @@
-{}
+{
+    "Collegio Superiore": {
+        "ore_lezioni_curriculari_seminari_2023": 330,
+        "ore_conferenze_internazionali_2023": 45
+    },
+    "Bologna Business School": {
+        "anno_inizio_attivita": 2014,
+        "studenti_annui": 1600,
+        "paesi_provenienza": 103
+    }
+}

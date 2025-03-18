@@ -3,16 +3,16 @@
         "accordi attivi": 39
     },
     "Africa": {
-        "progetti capacity building": 3,
+        "nuovi progetti capacity building": 3,
+        "paesi coinvolti": [
+            "Botswana",
+            "Sud Africa",
+            "Kenya",
+            "Nigeria",
+            "Zambia",
+            "Ghana",
+            "Mauritius"
+        ],
         "progetti cooperazione internazionale": 8
-    },
-    "Balcani occidentali": {
-        "progetti capacity building": 1
-    },
-    "Bologna": {
-        "nuovi progetti": 3
-    },
-    "Asia e Medio Oriente": {
-        "progetti capacity building": 1
     }
 }

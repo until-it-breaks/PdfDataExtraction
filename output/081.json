@@ -1,72 +1,72 @@
 {
-    "SDGs": [
+    "studenti_per_sdgs": [
         {
             "goal": "GOAL 1",
-            "studenti": 27954
+            "numero_studenti": 27.954
         },
         {
             "goal": "GOAL 2",
-            "studenti": 14089
+            "numero_studenti": 14.089
         },
         {
             "goal": "GOAL 3",
-            "studenti": 134546
+            "numero_studenti": 134.546
         },
         {
             "goal": "GOAL 4",
-            "studenti": 209673
+            "numero_studenti": 209.673
         },
         {
             "goal": "GOAL 5",
-            "studenti": 91721
+            "numero_studenti": 91.721
         },
         {
             "goal": "GOAL 6",
-            "studenti": 11950
+            "numero_studenti": 11.95
         },
         {
             "goal": "GOAL 7",
-            "studenti": 26133
+            "numero_studenti": 26.133
         },
         {
             "goal": "GOAL 8",
-            "studenti": 49703
+            "numero_studenti": 49.703
         },
         {
             "goal": "GOAL 9",
-            "studenti": 66427
+            "numero_studenti": 66.427
         },
         {
             "goal": "GOAL 10",
-            "studenti": 89041
+            "numero_studenti": 89.041
         },
         {
             "goal": "GOAL 11",
-            "studenti": 47095
+            "numero_studenti": 47.095
         },
         {
             "goal": "GOAL 12",
-            "studenti": 48865
+            "numero_studenti": 48.865
         },
         {
             "goal": "GOAL 13",
-            "studenti": 40885
+            "numero_studenti": 40.885
         },
         {
             "goal": "GOAL 14",
-            "studenti": 7883
+            "numero_studenti": 7.883
         },
         {
             "goal": "GOAL 15",
-            "studenti": 27079
+            "numero_studenti": 27.079
         },
         {
             "goal": "GOAL 16",
-            "studenti": 43197
+            "numero_studenti": 43.197
         },
         {
             "goal": "GOAL 17",
-            "studenti": 30032
+            "numero_studenti": 30.032
         }
     ]
 }

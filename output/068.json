@@ -1,16 +1,16 @@
 {
-    "Borse di studio": [
+    "dati": [
         {
-            "Anno accademico": "2022/2023",
-            "Studenti beneficiari": "13.180"
+            "anno_accademico": "2022/2023",
+            "studenti_borsa_studio": "13.180"
         },
         {
-            "Anno accademico": "2022/2023",
-            "Borse disponibili (collaborazioni studentesche)": "2.202"
+            "anno_accademico": "2022/2023",
+            "borse_studio_disponibili": "2.202"
         },
         {
-            "Anno accademico": "2022/2023",
-            "Studenti beneficiari (alluvione)": "553"
+            "anno_accademico": "2022/2023",
+            "studenti_aiutati_alluvione": "553"
         }
     ]
 }

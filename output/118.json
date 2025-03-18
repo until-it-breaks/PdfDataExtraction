@@ -1,141 +1,65 @@
 {
-    "personaleDocentiRicercatori": [
-        {
-            "sede": "Bologna",
-            "anno": "2021",
-            "valore": "2.229"
+    "docenti_ricercatori": {
+        "Bologna": {
+            "2021": 2229,
+            "2022": 2365,
+            "2023": 2538
         },
-        {
-            "sede": "Bologna",
-            "anno": "2022",
-            "valore": "2.365"
+        "Cesena": {
+            "2021": 207,
+            "2022": 218,
+            "2023": 227
         },
-        {
-            "sede": "Bologna",
-            "anno": "2023",
-            "valore": "2.538"
+        "Forlì": {
+            "2021": 225,
+            "2022": 232,
+            "2023": 245
         },
-        {
-            "sede": "Cesena",
-            "anno": "2021",
-            "valore": "207"
+        "Ravenna": {
+            "2021": 181,
+            "2022": 196,
+            "2023": 196
         },
-        {
-            "sede": "Cesena",
-            "anno": "2022",
-            "valore": "218"
-        },
-        {
-            "sede": "Cesena",
-            "anno": "2023",
-            "valore": "227"
-        },
-        {
-            "sede": "Forlì",
-            "anno": "2021",
-            "valore": "225"
-        },
-        {
-            "sede": "Forlì",
-            "anno": "2022",
-            "valore": "232"
-        },
-        {
-            "sede": "Forlì",
-            "anno": "2023",
-            "valore": "245"
-        },
-        {
-            "sede": "Ravenna",
-            "anno": "2021",
-            "valore": "181"
-        },
-        {
-            "sede": "Ravenna",
-            "anno": "2022",
-            "valore": "196"
-        },
-        {
-            "sede": "Ravenna",
-            "anno": "2023",
-            "valore": "196"
-        },
-        {
-            "sede": "Rimini",
-            "anno": "2021",
-            "valore": "160"
-        },
-        {
-            "sede": "Rimini",
-            "anno": "2022",
-            "valore": "165"
-        },
-        {
-            "sede": "Rimini",
-            "anno": "2023",
-            "valore": "176"
+        "Rimini": {
+            "2021": 160,
+            "2022": 165,
+            "2023": 176
         }
-    ],
-    "fasceEta": [
-        {
-            "eta": "70 - 74 anni",
-            "ordinario": "3",
-            "associato": "2",
-            "ricercatore": "1"
+    },
+    "fasce_età": {
+        "Ordinario": {
+            "70-74 anni": 3,
+            "65-69 anni": 183,
+            "60-64 anni": 214,
+            "55-59 anni": 242,
+            "50-54 anni": 184,
+            "45-49 anni": 88,
+            "40-44 anni": 21,
+            "35-39 anni": 5,
+            "30-34 anni": 1
         },
-        {
-            "eta": "65 - 69 anni",
-            "ordinario": "183",
-            "associato": "82",
-            "ricercatore": "15"
+        "Associato": {
+            "70-74 anni": 2,
+            "65-69 anni": 82,
+            "60-64 anni": 164,
+            "55-59 anni": 233,
+            "50-54 anni": 323,
+            "45-49 anni": 338,
+            "40-44 anni": 219,
+            "35-39 anni": 72,
+            "30-34 anni": 3
         },
-        {
-            "eta": "60 - 64 anni",
-            "ordinario": "214",
-            "associato": "164",
-            "ricercatore": "60"
-        },
-        {
-            "eta": "55 - 59 anni",
-            "ordinario": "242",
-            "associato": "233",
-            "ricercatore": "60"
-        },
-        {
-            "eta": "50 - 54 anni",
-            "ordinario": "184",
-            "associato": "323",
-            "ricercatore": "60"
-        },
-        {
-            "eta": "45 - 49 anni",
-            "ordinario": "88",
-            "associato": "338",
-            "ricercatore": "95"
-        },
-        {
-            "eta": "40 - 44 anni",
-            "ordinario": "21",
-            "associato": "219",
-            "ricercatore": "181"
-        },
-        {
-            "eta": "35 - 39 anni",
-            "ordinario": "5",
-            "associato": "72",
-            "ricercatore": "314"
-        },
-        {
-            "eta": "30 - 34 anni",
-            "ordinario": "1",
-            "associato": "3",
-            "ricercatore": "210"
-        },
-        {
-            "eta": "25 - 29 anni",
-            "ordinario": null,
-            "associato": null,
-            "ricercatore": "9"
+        "Ricercatore": {
+            "70-74 anni": 1,
+            "65-69 anni": 15,
+            "60-64 anni": 60,
+            "55-59 anni": 60,
+            "50-54 anni": 60,
+            "45-49 anni": 95,
+            "40-44 anni": 181,
+            "35-39 anni": 314,
+            "30-34 anni": 210,
+            "25-29 anni": 9
         }
-    ]
+    }
 }

@@ -1,10 +1,4 @@
 {
-    "valorizzazione_merito": {
-        "anno": "2022/2023",
-        "studenti_beneficiari": 512
-    },
-    "assegni_tutorato": {
-        "anno": 2023,
-        "numero": 615
-    }
+    "esoneri_tasse_studenti_meritevoli_2022_2023": 512,
+    "assegni_tutorato_2023": 615
 }

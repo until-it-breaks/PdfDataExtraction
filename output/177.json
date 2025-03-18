@@ -1,21 +1,21 @@
 {
-    "Modalità di contatto URP": {
-        "Telefono": "56,8%",
-        "Email": "30,6%",
-        "Social": "11,5%",
-        "Front end": "1,2%"
+    "modalita_contatto_urp": {
+        "Telefono": "56.8%",
+        "Email": "30.6%",
+        "Social": "11.5%",
+        "Front end": "1.2%"
     },
-    "Utenza URP": {
+    "utenza_urp": {
         "Studente potenziale": "41%",
         "Familiare": "18%",
-        "Studente Unibo": "12,2%",
-        "Azienda/PA": "9,3%",
-        "Studente Laureato": "6,6%",
-        "Università/Scuola": "4,1%",
+        "Studente Unibo": "12.2%",
+        "Azienda/PA": "9.3%",
+        "Studente Laureato": "6.6%",
+        "Università/Scuola": "4.1%",
         "Cittadino": "4%",
-        "Ex studente": "2,5%",
-        "Altro": "1,2%",
-        "Interno": "0,7%",
-        "Erasmus Incoming": "0,5%"
+        "Ex studente": "2.5%",
+        "Altro": "1.2%",
+        "Interno": "0.7%",
+        "Erasmus Incoming": "0.5%"
     }
 }

@@ -1,5 +1,5 @@
 {
-    "studenti_incoming": [
+    "StudentiIncoming": [
         {
             "nazione": "Spagna",
             "numero": 2112
@@ -41,23 +41,23 @@
             "numero": 202
         }
     ],
-    "borse_studio": {
-        "totale": {
+    "BorseDiStudio": {
+        "Totale": {
             "2020/21": 157,
             "2021/22": 359,
             "2022/23": 420
         },
-        "europa": {
+        "Europa": {
             "2020/21": 140,
             "2021/22": 275,
             "2022/23": 312
         },
-        "america": {
+        "America": {
             "2020/21": 14,
             "2021/22": 52,
             "2022/23": 66
         },
-        "asia_africa_oceania": {
+        "AsiaAfricaOceania": {
             "2020/21": 3,
             "2021/22": 32,
             "2022/23": 42

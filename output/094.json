@@ -1,37 +1,27 @@
 [
     {
-        "area": "Tecnologica",
-        "totale": 380
+        "aree": {
+            "Tecnologica": 380,
+            "Scientifica": 189,
+            "Sociale": 102,
+            "Medica": 96,
+            "Umanistica": 39
+        }
     },
     {
-        "area": "Scientifica",
-        "totale": 189
-    },
-    {
-        "area": "Sociale",
-        "totale": 102
-    },
-    {
-        "area": "Medica",
-        "totale": 96
-    },
-    {
-        "area": "Umanistica",
-        "totale": 39
-    },
-    {
-        "categoria": "Ordinario",
-        "donne": "26,3%",
-        "uomini": "73,7%"
-    },
-    {
-        "categoria": "Associato",
-        "donne": "38,8%",
-        "uomini": "61,2%"
-    },
-    {
-        "categoria": "Ricercatore",
-        "donne": "42,0%",
-        "uomini": "58,0%"
+        "genere": {
+            "Ordinario": {
+                "Donne": "26,3%",
+                "Uomini": "73,7%"
+            },
+            "Associato": {
+                "Donne": "38,8%",
+                "Uomini": "61,2%"
+            },
+            "Ricercatore": {
+                "Donne": "42,0%",
+                "Uomini": "58,0%"
+            }
+        }
     }
 ]

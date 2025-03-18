@@ -1,4 +1,10 @@
 {
-    "soci_iscritti": "900",
-    "partecipanti_eventi": "3.000"
+    "dati": [
+        {
+            "soci iscritti": 900
+        },
+        {
+            "partecipanti eventi": 3000
+        }
+    ]
 }

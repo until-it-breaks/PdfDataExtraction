@@ -1,17 +1,29 @@
 {
-    "persDocRic": {
-        "valore": 3382,
-        "incremento": 6.5
+    "pers_doc_ric": {
+        "num": 3382,
+        "descr": "PERSONALE DOCENTE E RICERCATORE",
+        "perc": "+ 6,5%"
     },
-    "persTecAmm": {
-        "valore": 3242,
-        "incremento": 2.8
+    "pers_tec_amm": {
+        "num": 3242,
+        "descr": "PERSONALE TECNICO AMMINISTRATIVO",
+        "perc": "+2,8%"
     },
-    "oreFormaz": {
-        "valore": 96721,
-        "incremento": 19.8
+    "ore_formaz": {
+        "num": 96721,
+        "descr": "ORE DI FORMAZIONE FRUITE DAL PERSONALE NEL 2023",
+        "perc": "+19,8%"
     },
-    "welfare": 2330000,
-    "accSW": 311,
-    "progTelel": 1963
+    "welfare": {
+        "num": "2.330.000€",
+        "descr": "WELFARE AZIENDALE PER IL PERSONALE TA"
+    },
+    "acc_smart": {
+        "num": 311,
+        "descr": "ACCORDI DI SMART WORKING"
+    },
+    "prog_telel": {
+        "num": 1963,
+        "descr": "PROGETTI DI TELELAVORO"
+    }
 }

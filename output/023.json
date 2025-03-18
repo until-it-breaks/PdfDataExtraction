@@ -3,7 +3,7 @@
         {
             "nome": "CESENA",
             "docenti": 227,
-            "TA": 122,
+            "ta": 122,
             "vocazioni": [
                 "Agro- alimentare",
                 "ICT e bioingegneria",
@@ -15,7 +15,7 @@
         {
             "nome": "FORLÌ",
             "docenti": 245,
-            "TA": 151,
+            "ta": 151,
             "vocazioni": [
                 "Internazionalizzazione e lingue",
                 "Ingegneria aerospaziale e meccanica",
@@ -26,7 +26,7 @@
         {
             "nome": "RAVENNA",
             "docenti": 196,
-            "TA": 98,
+            "ta": 98,
             "vocazioni": [
                 "Ambiente e mare",
                 "Patrimonio culturale",
@@ -37,7 +37,7 @@
         {
             "nome": "RIMINI",
             "docenti": 176,
-            "TA": 108,
+            "ta": 108,
             "vocazioni": [
                 "Benessere e sviluppo sostenibile",
                 "Turismo e Moda",

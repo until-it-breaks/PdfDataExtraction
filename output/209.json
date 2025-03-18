@@ -1,42 +1,46 @@
-[
-    {
-        "GRI": "301-1",
-        "Materiali": "Materie prime utilizzate per peso o volume",
-        "Note": "8.1 - Politiche energetiche e i consumi"
-    },
-    {
-        "GRI": "301-2",
-        "Materiali": "Materiali riciclati utilizzati",
-        "Note": "8.3 - Azioni a favore della sostenibilità"
-    },
-    {
-        "GRI": "301-3",
-        "Materiali": "Prodotti venduti e relativo materiale di imballaggio",
-        "Note": "NA. L'Ateneo svolge un'attività di servizio che non richiede un utilizzo significativo di materiali di imballaggio"
-    },
-    {
-        "GRI": "302-1",
-        "Energia": "Consumo di energia all'interno dell'organizzazione",
-        "Note": "8.1 - Politiche energetiche e i consumi"
-    },
-    {
-        "GRI": "302-2",
-        "Energia": "Consumo di energia esterno all'organizzazione",
-        "Note": "8.1 - Politiche energetiche e i consumi"
-    },
-    {
-        "GRI": "302-3",
-        "Energia": "Intensità energetica",
-        "Note": "8.1 - Politiche energetiche e i consumi"
-    },
-    {
-        "GRI": "302-4",
-        "Energia": "Riduzione dei consumi energetici",
-        "Note": "8.1 - Politiche energetiche e i consumi"
-    },
-    {
-        "GRI": "302-5",
-        "Energia": "Aumento dell'efficienza energetica per prodotti e servizi",
-        "Note": "8.1 - Politiche energetiche e i consumi"
-    }
-]
+{
+    "GRI 301": [
+        {
+            "codice": "301-1",
+            "materiale": "Materie prime utilizzate per peso o volume",
+            "raccordo": "8.1 - Politiche energetiche e i consumi"
+        },
+        {
+            "codice": "301-2",
+            "materiale": "Materiali riciclati utilizzati",
+            "raccordo": "8.3 – Azioni a favore della sostenibilità"
+        },
+        {
+            "codice": "301-3",
+            "materiale": "Prodotti venduti e relativo materiale di imballaggio",
+            "raccordo": "NA. L'Ateneo svolge un'attività di servizio che non richiede un utilizzo significativo di materiali di imballaggio"
+        }
+    ],
+    "GRI 302": [
+        {
+            "codice": "302-1",
+            "energia": "Consumo di energia all'interno dell'organizzazione",
+            "raccordo": "8.1 - Politiche energetiche e i consumi"
+        },
+        {
+            "codice": "302-2",
+            "energia": "Consumo di energia esterno all'organizzazione",
+            "raccordo": "8.1 - Politiche energetiche e i consumi"
+        },
+        {
+            "codice": "302-3",
+            "energia": "Intensità energetica",
+            "raccordo": "8.1 - Politiche energetiche e i consumi"
+        },
+        {
+            "codice": "302-4",
+            "energia": "Riduzione dei consumi energetici",
+            "raccordo": "8.1 - Politiche energetiche e i consumi"
+        },
+        {
+            "codice": "302-5",
+            "energia": "Aumento dell'efficienza energetica per prodotti e servizi",
+            "raccordo": "8.1 - Politiche energetiche e i consumi"
+        }
+    ]
+}

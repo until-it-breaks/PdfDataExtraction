@@ -1,23 +1,23 @@
 {
     "principi": [
         {
-            "id": "P1",
+            "etichetta": "P1",
             "descrizione": "Rafforzare il nostro carattere di Università pubblica, autonoma, laica e pluralistica"
         },
         {
-            "id": "P2",
+            "etichetta": "P2",
             "descrizione": "Promuovere lo sviluppo di tutti i campi del sapere, il loro reciproco dialogo e le loro ricadute formative"
         },
         {
-            "id": "P3",
+            "etichetta": "P3",
             "descrizione": "Incrementare il senso della nostra responsabilità sociale in tutte le attività"
         },
         {
-            "id": "P4",
+            "etichetta": "P4",
             "descrizione": "Favorire in ogni ambito l'applicazione dei principi di equità, sostenibilità, inclusione, rispetto delle diversità"
         }
     ],
-    "azioni_trasversali": [
+    "azioni": [
         "Internazionalizzazione",
         "Transizione Digitale"
     ]

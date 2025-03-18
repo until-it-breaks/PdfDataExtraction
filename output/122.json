@@ -1,44 +1,44 @@
 {
-    "TA_Docenti": [
+    "Rapporto_TA_Docenti": [
         {
-            "anno": "2021",
-            "personale_docente_ricercatore": "3.002",
-            "personale_tecnico_amministrativo": "3.010",
-            "rapporto_TA_docenti": "1.00"
+            "Anno": 2021,
+            "Pers_doc_ric": 3.002,
+            "Pers_tec_amm": 3.384,
+            "Rapporto": 1.0
         },
         {
-            "anno": "2022",
-            "personale_docente_ricercatore": "3.176",
-            "personale_tecnico_amministrativo": "3.153",
-            "rapporto_TA_docenti": "0.99"
+            "Anno": 2022,
+            "Pers_doc_ric": 3.01,
+            "Pers_tec_amm": 3.153,
+            "Rapporto": 0.99
         },
         {
-            "anno": "2023",
-            "personale_docente_ricercatore": "3.384",
-            "personale_tecnico_amministrativo": "3.242",
-            "rapporto_TA_docenti": "0.96"
+            "Anno": 2023,
+            "Pers_doc_ric": 3.176,
+            "Pers_tec_amm": 3.242,
+            "Rapporto": 0.96
         }
     ],
-    "Distribuzione_TA": [
+    "Distribuzione_Personale_TA": [
         {
-            "categoria": "Cat. EP",
-            "indeterminato": "171",
-            "determinato": null
+            "Categoria": "Cat. EP",
+            "Indeterminato": 171,
+            "Determinato": null
         },
         {
-            "categoria": "Cat. D",
-            "indeterminato": "1385",
-            "determinato": "76"
+            "Categoria": "Cat. D",
+            "Indeterminato": 1385,
+            "Determinato": 76
         },
         {
-            "categoria": "Cat. C",
-            "indeterminato": "1290",
-            "determinato": "47"
+            "Categoria": "Cat. C",
+            "Indeterminato": 1290,
+            "Determinato": 47
         },
         {
-            "categoria": "Cat. B",
-            "indeterminato": "171",
-            "determinato": null
+            "Categoria": "Cat. B",
+            "Indeterminato": null,
+            "Determinato": 171
         }
     ]
 }

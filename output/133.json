@@ -1,6 +1,12 @@
 {
     "tabella_lavoro_distanza": {
-        "rows": [
+        "colonne": [
+            "Tipologia",
+            "2021",
+            "2022",
+            "2023"
+        ],
+        "righe": [
             {
                 "Tipologia": "Telelavoro domiciliare",
                 "2021": "461",

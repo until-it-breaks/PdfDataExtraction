@@ -1,42 +1,42 @@
 [
     {
         "GRI 2": "2-1",
-        "Org. e pratiche": "Dettagli organizzativi",
-        "Raccordo": "1.3 - Governance e organizzazione\n6 - Persone"
+        "1. L'organizzazione e pratiche di rendicontazione": "Dettagli organizzativi",
+        "Raccordo con indice BS 2024 e/o note": "1.3 - Governance e organizzazione\n6- Persone"
     },
     {
         "GRI 2": "2-2",
-        "Org. e pratiche": "Soggetti inclusi nella rendicontazione\ndi sostenibilità dell'organizzazione",
-        "Raccordo": "1.3 - Governance e organizzazione\n6 - Persone"
+        "1. L'organizzazione e pratiche di rendicontazione": "Soggetti inclusi nella rendicontazione di sostenibilità dell'organizzazione",
+        "Raccordo con indice BS 2024 e/o note": "1.3 - Governance e organizzazione\n6- Persone"
     },
     {
         "GRI 2": "2-3",
-        "Org. e pratiche": "Periodo di rendicontazione, frequenza\ne referenti",
-        "Raccordo": "Guida alla lettura"
+        "1. L'organizzazione e pratiche di rendicontazione": "Periodo di rendicontazione, frequenza e referenti",
+        "Raccordo con indice BS 2024 e/o note": "Guida alla lettura"
     },
     {
         "GRI 2": "2-4",
-        "Org. e pratiche": "Riformulazione delle informazioni",
-        "Raccordo": "Guida alla lettura"
+        "1. L'organizzazione e pratiche di rendicontazione": "Riformulazione delle informazioni",
+        "Raccordo con indice BS 2024 e/o note": "Guida alla lettura"
     },
     {
         "GRI 2": "2-5",
-        "Org. e pratiche": "Assurance esterna",
-        "Raccordo": "Analisi di fattibilità per prossime edizioni"
+        "1. L'organizzazione e pratiche di rendicontazione": "Assurance esterna",
+        "Raccordo con indice BS 2024 e/o note": "Analisi di fattibilità per prossime edizioni"
     },
     {
         "GRI 2": "2-6",
-        "Attività e dipendenti": "Attività, catena del valore e altre relazioni\ncommerciali",
-        "Raccordo": "3 - Valore economico"
+        "2. Attività e dipendenti": "Attività, catena del valore e altre relazioni commerciali",
+        "Raccordo con indice BS 2024 e/o note": "3- Valore economico"
     },
     {
         "GRI 2": "2-7",
-        "Attività e dipendenti": "Dipendenti",
-        "Raccordo": "6.1 - Personale docente e ricercatore\n6.2 - Personale Tecnico Amministrativo"
+        "2. Attività e dipendenti": "Dipendenti",
+        "Raccordo con indice BS 2024 e/o note": "6.1 - Personale docente e ricercatore\n6.2 - Personale Tecnico Amministrativo"
     },
     {
         "GRI 2": "2-8",
-        "Attività e dipendenti": "Lavoratori che non sono dipendenti",
-        "Raccordo": "6.1 - Personale docente e ricercatore\n6.2 - Personale Tecnico Amministrativo"
+        "2. Attività e dipendenti": "Lavoratori che non sono dipendenti",
+        "Raccordo con indice BS 2024 e/o note": "6.1 - Personale docente e ricercatore\n6.2 - Personale Tecnico Amministrativo"
     }
 ]

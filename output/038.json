@@ -1,26 +1,26 @@
 {
-    "provenienzaFornitori": [
+    "provenienza_geografica_fornitori": [
         {
-            "anno": 2023,
-            "provinciaBologna": "38,4%",
-            "emiliaRomagna": "10,1%",
-            "restoItalia": "47,5%",
+            "anno": "2023",
+            "provincia_bologna": "38,4%",
+            "emilia_romagna": "10,1%",
+            "resto_italia": "47,5%",
             "estero": "4,1%"
         },
         {
-            "anno": 2022,
-            "provinciaBologna": "36,8%",
-            "emiliaRomagna": "13,5%",
-            "restoItalia": "44,2%",
+            "anno": "2022",
+            "provincia_bologna": "36,8%",
+            "emilia_romagna": "13,5%",
+            "resto_italia": "44,2%",
             "estero": "5,5%"
         },
         {
-            "anno": 2021,
-            "provinciaBologna": "33,2%",
-            "emiliaRomagna": "14,1%",
-            "restoItalia": "46,8%",
+            "anno": "2021",
+            "provincia_bologna": "33,2%",
+            "emilia_romagna": "14,1%",
+            "resto_italia": "46,8%",
             "estero": "5,9%"
         }
     ],
-    "indiceTempestivitaPagamenti2023": -12.77
+    "indice_tempestivita_pagamenti_2023": "-12,77"
 }

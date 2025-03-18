@@ -1,22 +1,22 @@
 [
     {
-        "personale": "DOCENTI",
-        "compito_tempo_pieno": "350 ore annue (almeno 120 didattica frontale)",
-        "compito_tempo_definito": "250 ore annue (almeno 80 didattica frontale)"
+        "Personale": "DOCENTI",
+        "Compito didattico tempo pieno": "350 ore annue\n(almeno 120 didattica frontale)",
+        "Compito didattico tempo definito": "250 ore annue\n(almeno 80 didattica frontale)"
     },
     {
-        "personale": "RICERCATORI JUNIOR",
-        "compito_tempo_pieno": "350 ore annue (massimo 60 didattica frontale)",
-        "compito_tempo_definito": "200 ore annue (massimo 60 di didattica frontale)"
+        "Personale": "RICERCATORI JUNIOR",
+        "Compito didattico tempo pieno": "350 ore annue\n(massimo 60 didattica frontale)",
+        "Compito didattico tempo definito": "200 ore annue\n(massimo 60 di didattica frontale)"
     },
     {
-        "personale": "RICERCATORI SENIOR",
-        "compito_tempo_pieno": "350 ore annue (almeno 60 didattica frontale)",
-        "compito_tempo_definito": "---"
+        "Personale": "RICERCATORI SENIOR",
+        "Compito didattico tempo pieno": "350 ore annue\n(almeno 60 didattica frontale)",
+        "Compito didattico tempo definito": null
     },
     {
-        "personale": "RICERCATORI IN TENURE TRACK",
-        "compito_tempo_pieno": "350 ore annue (almeno 60 didattica frontale)",
-        "compito_tempo_definito": "200 ore annue (massimo 60 didattica frontale)"
+        "Personale": "RICERCATORI IN TENURE TRACK",
+        "Compito didattico tempo pieno": "350 ore annue\n(almeno 60 didattica frontale)",
+        "Compito didattico tempo definito": "200 ore annue\n(massimo 60 didattica frontale)"
     }
 ]

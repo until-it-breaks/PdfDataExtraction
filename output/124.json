@@ -1,43 +1,43 @@
 {
-    "fasce_età": [
+    "fasce_eta": [
         {
-            "età": "65-69 anni",
+            "eta": "65-69 anni",
             "valore": 63
         },
         {
-            "età": "60-64 anni",
+            "eta": "60-64 anni",
             "valore": 424
         },
         {
-            "età": "55-59 anni",
+            "eta": "55-59 anni",
             "valore": 582
         },
         {
-            "età": "50-54 anni",
+            "eta": "50-54 anni",
             "valore": 641
         },
         {
-            "età": "45-49 anni",
+            "eta": "45-49 anni",
             "valore": 504
         },
         {
-            "età": "40-44 anni",
+            "eta": "40-44 anni",
             "valore": 369
         },
         {
-            "età": "35-39 anni",
+            "eta": "35-39 anni",
             "valore": 305
         },
         {
-            "età": "30-34 anni",
+            "eta": "30-34 anni",
             "valore": 229
         },
         {
-            "età": "25-29 anni",
+            "eta": "25-29 anni",
             "valore": 108
         },
         {
-            "età": "20-24 anni",
+            "eta": "20-24 anni",
             "valore": 10
         }
     ],

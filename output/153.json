@@ -1,1 +1,23 @@
-{}
+{
+    "staff_week": [
+        {
+            "anno": 2021,
+            "modalità": "online",
+            "partecipanti": 150
+        },
+        {
+            "anno": 2022,
+            "modalità": "blended",
+            "partecipanti": 31
+        },
+        {
+            "anno": 2023,
+            "modalità": "fisica",
+            "partecipanti": 52
+        }
+    ],
+    "live_my_life": {
+        "edizioni": 3,
+        "partecipanti": 134
+    }
+}

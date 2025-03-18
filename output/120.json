@@ -1,20 +1,21 @@
 [
     {
-        "tabella_15": [
+        "tabella": "Progressione economica dei professori e dei ricercatori universitari",
+        "dati": [
             {
-                "docenti_e_ricercatori": "Aventi diritto",
+                "Docenti e ricercatori": "Aventi diritto",
                 "2021": "1.361",
                 "2022": "931",
                 "2023": "1.382"
             },
             {
-                "docenti_e_ricercatori": "Esito positivo",
+                "Docenti e ricercatori": "Esito positivo",
                 "2021": "1.139",
                 "2022": "735",
                 "2023": "1.162"
             },
             {
-                "docenti_e_ricercatori": "% esito positivo",
+                "Docenti e ricercatori": "% esito positivo",
                 "2021": "83,7%",
                 "2022": "78,9%",
                 "2023": "84,0%"
@@ -22,9 +23,10 @@
         ]
     },
     {
-        "tabella_16": [
+        "tabella": "Compensi regolamento premialità docenti e ricercatori",
+        "dati": [
             {
-                "misura_incentivante": "Fondo per la premialità (ex art. 9 L 240/2010)",
+                "Misura incentivante": "Fondo per la premialità (ex art. 9 L 240/2010)",
                 "2021": "€ 1.040.341",
                 "2022": "€ 2.237.377",
                 "2023": "€ 1.752.473"

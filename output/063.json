@@ -1,12 +1,17 @@
 {
-    "medici_formazione_specialistica": 2401,
-    "scuole_specializzazione_accreditate": 45,
-    "contratti_formazione_specialistica": 463,
-    "borse_studio_ministeriali": 518,
-    "contratti_formazione_specialistica_emilia_romagna": 28,
-    "aziende_enti_sanitari_coinvolti": "oltre 40",
-    "unita_operative": "più di 300",
-    "studenti_medicina_chirurgia": "oltre 4.000",
-    "studenti_professioni_sanitarie": "2.700",
-    "personale_universitario_convenzionato": 383
+    "dati": [
+        {
+            "anno": "2023 (a.a. 22/23)",
+            "medici_formazione_specialistica": "2.401",
+            "scuole_specializzazione_accreditate": "45",
+            "contratti_formazione_specialistica": "463",
+            "borse_studio_ministeriali": "518",
+            "contratti_ulteriori_formazione_specialistica": "28"
+        },
+        {
+            "studenti_medicina_chirurgia": "4.000",
+            "studenti_professioni_sanitarie": "2.700",
+            "personale_universitario_convenzionato": "383"
+        }
+    ]
 }

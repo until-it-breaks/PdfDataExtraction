@@ -7,13 +7,13 @@
             "tipo": "colloqui"
         },
         {
-            "attivita": "incontri presso le scuole superiori",
+            "attivita": "incontri presso le scuole superiori del territorio di ogni sede di Campus",
             "anno": 2023,
             "totale": 85,
             "tipo": "incontri"
         },
         {
-            "attivita": "eventi online e/o in presenza",
+            "attivita": "eventi online e/o in presenza di presentazione dei corsi di studio",
             "anno": 2023,
             "totale": 157,
             "tipo": "eventi"
@@ -31,7 +31,7 @@
             "tipo": "utenti"
         },
         {
-            "attivita": "iniziative rivolte agli studenti del terzo, quarto e quinto anno di scuola superiore",
+            "attivita": "iniziative rivolte agli studenti nell'ambito di PCTO, PLS e POT",
             "anno": 2023,
             "totale": 145,
             "tipo": "convenzioni"

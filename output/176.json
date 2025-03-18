@@ -1,16 +1,7 @@
 {
-    "telegram_stats": [
-        {
-            "lingua": "italiano",
-            "percentuale": "56%"
-        },
-        {
-            "lingua": "inglese",
-            "percentuale": "39%"
-        },
-        {
-            "lingua": "altro",
-            "percentuale": "5%"
-        }
-    ]
+    "telegram": {
+        "percentuale_italiano": "56%",
+        "percentuale_inglese": "39%",
+        "percentuale_altre_lingue": "5%"
+    }
 }

@@ -1,36 +1,36 @@
 [
     {
         "Linee bando MUR": "A",
-        "Interventi presentati": 11.0,
-        "Quadri economici candidati (€)": 58997000.0,
-        "Cofinanziamento richiesto al MUR (€)": 35398200.0,
-        "Anno ammissibilità al finanziamento": 2022.0
+        "Interventi presentati": 11,
+        "Quadri economici candidati (€)": 58997000,
+        "Cofinanziamento richiesto al MUR (€)": 35398200,
+        "Anno ammissibilità al finanziamento": 2022
     },
     {
         "Linee bando MUR": "B",
-        "Interventi presentati": 14.0,
-        "Quadri economici candidati (€)": 60003600.0,
-        "Cofinanziamento richiesto al MUR (€)": 33102160.0,
-        "Anno ammissibilità al finanziamento": 2023.0
+        "Interventi presentati": 14,
+        "Quadri economici candidati (€)": 60003600,
+        "Cofinanziamento richiesto al MUR (€)": 33102160,
+        "Anno ammissibilità al finanziamento": 2023
     },
     {
         "Linee bando MUR": "C",
-        "Interventi presentati": 3.0,
-        "Quadri economici candidati (€)": 11525000.0,
-        "Cofinanziamento richiesto al MUR (€)": 6915000.0,
-        "Anno ammissibilità al finanziamento": 2023.0
+        "Interventi presentati": 3,
+        "Quadri economici candidati (€)": 11525000,
+        "Cofinanziamento richiesto al MUR (€)": 6915000,
+        "Anno ammissibilità al finanziamento": 2023
     },
     {
         "Linee bando MUR": "E",
-        "Interventi presentati": 4.0,
-        "Quadri economici candidati (€)": 26445000.0,
-        "Cofinanziamento richiesto al MUR (€)": 15827332.0,
+        "Interventi presentati": 4,
+        "Quadri economici candidati (€)": 26445000,
+        "Cofinanziamento richiesto al MUR (€)": 15827332,
         "Anno ammissibilità al finanziamento": "in attesa"
     },
     {
         "Linee bando MUR": "TOT.",
-        "Interventi presentati": 32.0,
-        "Quadri economici candidati (€)": 156970600.0,
-        "Cofinanziamento richiesto al MUR (€)": 91242692.0
+        "Interventi presentati": 32,
+        "Quadri economici candidati (€)": 156970600,
+        "Cofinanziamento richiesto al MUR (€)": 91242692
     }
 ]

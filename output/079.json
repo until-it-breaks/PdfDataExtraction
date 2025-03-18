@@ -1,8 +1,6 @@
 {
-    "Associazioni studentesche": [
-        {
-            "Anno": 2023,
-            "Numero associazioni accreditate": 32
-        }
-    ]
+    "associazioni_studentesche": 32,
+    "anno": 2023,
+    "evento": "Alluvione in Emilia-Romagna",
+    "mese": "Maggio"
 }

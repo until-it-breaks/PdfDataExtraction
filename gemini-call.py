@@ -50,7 +50,7 @@ def main():
     try:
         data = json.loads(extracted_json)
         main_dir = Path(__file__).parent.resolve()
-        output_dir = main_dir.parent / OUTPUT_FOLDER_NAME
+        output_dir = main_dir / OUTPUT_FOLDER_NAME
         output_dir.mkdir(parents=True, exist_ok=True)
         output_path = output_dir / f"{image_name}.json"
 

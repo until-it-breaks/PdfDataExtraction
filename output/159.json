@@ -1,10 +1,9 @@
 {
-    "NotteRicercatori": [
-        {
-            "anno": "2023",
-            "num_ricercatori": "450",
-            "perc_prima_volta": "55%",
-            "perc_ampliato_conoscenze": "83%"
-        }
-    ]
+    "Notte dei Ricercatori": {
+        "anno": 2023,
+        "num_ricercatori": 450,
+        "questionari_raccolti": 400,
+        "partecipanti_prima_volta": "55%",
+        "ampliato_conoscenze": "83%"
+    }
 }

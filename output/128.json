@@ -1,25 +1,25 @@
 {
     "Mobilità interna": [
         {
-            "descrizione": "Numero di domande di mobilità interna (nuove domande + rinnovi)",
+            "descr": "Numero di domande di mobilità interna (nuove domande + rinnovi)",
             "2021": 69,
             "2022": 100,
-            "2023": "52"
+            "2023": "5212"
         },
         {
-            "descrizione": "Domande accolte",
+            "descr": "Domande accolte",
             "2021": 24,
             "2022": 37,
             "2023": 23
         },
         {
-            "descrizione": "Numero bandi e avvisi di mobilità interna",
+            "descr": "Numero bandi e avvisi di mobilità interna",
             "2021": 47,
             "2022": 20,
             "2023": 36
         },
         {
-            "descrizione": "Numero trasferimenti interni personale (da bando e non; esclusi cambi di unità all'interno della medesima struttura)",
+            "descr": "Numero trasferimenti interni personale (da bando e non; esclusi cambi di unità all'interno della medesima struttura)",
             "2021": 80,
             "2022": 128,
             "2023": 173
@@ -27,25 +27,25 @@
     ],
     "Mobilità esterna": [
         {
-            "descrizione": "Numero richieste di nullaosta per mobilità esterna in uscita",
+            "descr": "Numero richieste di nullaosta per mobilità esterna in uscita",
             "2021": 17,
             "2022": 67,
             "2023": 26
         },
         {
-            "descrizione": "Numero richieste di nullaosta per mobilità esterna accolte",
+            "descr": "Numero richieste di nullaosta per mobilità esterna accolte",
             "2021": 15,
             "2022": 54,
             "2023": 25
         },
         {
-            "descrizione": "Numero di richieste di nullaosta con diniego",
+            "descr": "Numero di richieste di nullaosta con diniego",
             "2021": 2,
             "2022": 13,
             "2023": 3
         },
         {
-            "descrizione": "Numero di trasferimenti per mobilità esterna in uscita",
+            "descr": "Numero di trasferimenti per mobilità esterna in uscita",
             "2021": 18,
             "2022": 15,
             "2023": 13

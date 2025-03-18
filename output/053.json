@@ -1,84 +1,84 @@
 {
-    "laurea_magistrale": [
+    "Laurea magistrale": [
         {
-            "anno": 2023,
-            "sede": "Unibo",
+            "anno": "2023",
+            "istituto": "Unibo",
             "occupati": "78,3%",
-            "non_occupati_impegnati": "3,3%",
+            "non_occupati_ma_impegnati": "3,3%",
             "ne_occupati_ne_impegnati": "18,4%",
             "laureati_intervistati": "5.181"
         },
         {
-            "anno": 2023,
-            "sede": "Italia*",
+            "anno": "2023",
+            "istituto": "Italia*",
             "occupati": "77,1%",
-            "non_occupati_impegnati": "4,1%",
+            "non_occupati_ma_impegnati": "4,1%",
             "ne_occupati_ne_impegnati": "18,8%",
             "laureati_intervistati": "67.593"
         },
         {
-            "anno": 2023,
-            "sede": "Grandi Atenei*",
+            "anno": "2023",
+            "istituto": "Grandi Atenei*",
             "occupati": "77,3%",
-            "non_occupati_impegnati": "4,2%",
+            "non_occupati_ma_impegnati": "4,2%",
             "ne_occupati_ne_impegnati": "18,5%",
             "laureati_intervistati": "22.264"
         },
         {
             "anno": "2021 2022",
-            "sede": "Unibo",
+            "istituto": "Unibo",
             "occupati": "79,5%",
-            "non_occupati_impegnati": "3,6%",
+            "non_occupati_ma_impegnati": "3,6%",
             "ne_occupati_ne_impegnati": "17,0%",
             "laureati_intervistati": "5.189"
         },
         {
             "anno": "2021 2022",
-            "sede": "Unibo",
+            "istituto": "Unibo",
             "occupati": "75,6%",
-            "non_occupati_impegnati": "4,5%",
+            "non_occupati_ma_impegnati": "4,5%",
             "ne_occupati_ne_impegnati": "20,0%",
             "laureati_intervistati": "4.348"
         }
     ],
-    "laurea_magistrale_ciclo_unico": [
+    "Laurea magistrale a ciclo unico": [
         {
-            "anno": 2023,
-            "sede": "Unibo",
+            "anno": "2023",
+            "istituto": "Unibo",
             "occupati": "73,8%",
-            "non_occupati_impegnati": "13,3%",
+            "non_occupati_ma_impegnati": "13,3%",
             "ne_occupati_ne_impegnati": "12,9%",
             "laureati_intervistati": "1.279"
         },
         {
-            "anno": 2023,
-            "sede": "Italia*",
+            "anno": "2023",
+            "istituto": "Italia*",
             "occupati": "74,2%",
-            "non_occupati_impegnati": "11,7%",
+            "non_occupati_ma_impegnati": "11,7%",
             "ne_occupati_ne_impegnati": "14,1%",
             "laureati_intervistati": "22.806"
         },
         {
-            "anno": 2023,
-            "sede": "Grandi Atenei*",
+            "anno": "2023",
+            "istituto": "Grandi Atenei*",
             "occupati": "75,7%",
-            "non_occupati_impegnati": "11,2%",
+            "non_occupati_ma_impegnati": "11,2%",
             "ne_occupati_ne_impegnati": "13,1%",
             "laureati_intervistati": "6.737"
         },
         {
             "anno": "2021 2022",
-            "sede": "Unibo",
+            "istituto": "Unibo",
             "occupati": "76,9%",
-            "non_occupati_impegnati": "12,9%",
+            "non_occupati_ma_impegnati": "12,9%",
             "ne_occupati_ne_impegnati": "10,2%",
             "laureati_intervistati": "1.366"
         },
         {
             "anno": "2021 2022",
-            "sede": "Unibo",
+            "istituto": "Unibo",
             "occupati": "69,5%",
-            "non_occupati_impegnati": "16,0%",
+            "non_occupati_ma_impegnati": "16,0%",
             "ne_occupati_ne_impegnati": "14,5%",
             "laureati_intervistati": "1.378"
         }

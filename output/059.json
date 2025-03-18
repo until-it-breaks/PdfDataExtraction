@@ -1,76 +1,76 @@
 {
     "Mobilità studentesca": [
         {
-            "Categoria": "In Entrata da paesi europei",
+            "tipo": "In Entrata da paesi europei",
             "2020/21": 1.361,
             "2021/22": 2.936,
             "2022/23": 3.297
         },
         {
-            "Categoria": "In Entrata da paesi extra-europei",
+            "tipo": "In Entrata da paesi extra-europei",
             "2020/21": 119,
             "2021/22": 455,
             "2022/23": 603
         },
         {
-            "Categoria": "In Uscita verso paesi europei",
+            "tipo": "In Uscita verso paesi europei",
             "2020/21": 1.847,
             "2021/22": 3.159,
             "2022/23": 3.299
         },
         {
-            "Categoria": "In Uscita verso paesi extra-europei",
+            "tipo": "In Uscita verso paesi extra-europei",
             "2020/21": 80,
             "2021/22": 163,
             "2022/23": 292
         },
         {
-            "Categoria": "Laureati/e con crediti acquisiti all'estero riconosciuti",
+            "tipo": "Laureati/e con crediti acquisiti all'estero riconosciuti*",
             "2020/21": 2.912,
             "2021/22": 3.056,
             "2022/23": 3.651
         }
     ],
-    "Studenti outgoing per nazione di destinazione (primi 10 Paesi - triennio 21-23)": [
+    "Studenti outgoing per nazione di destinazione": [
         {
-            "Paese": "Spagna",
-            "Valore": 2.05
+            "paese": "Spagna",
+            "valore": 2.05
         },
         {
-            "Paese": "Francia",
-            "Valore": 1.325
+            "paese": "Francia",
+            "valore": 1.325
         },
         {
-            "Paese": "Germania",
-            "Valore": 903
+            "paese": "Germania",
+            "valore": 903
         },
         {
-            "Paese": "Belgio",
-            "Valore": 665
+            "paese": "Belgio",
+            "valore": 665
         },
         {
-            "Paese": "Gran Bretagna e Irlanda del Nord",
-            "Valore": 498
+            "paese": "Gran Bretagna e Irlanda del Nord",
+            "valore": 498
         },
         {
-            "Paese": "Paesi Bassi",
-            "Valore": 498
+            "paese": "Paesi Bassi",
+            "valore": 498
         },
         {
-            "Paese": "Portogallo",
-            "Valore": 435
+            "paese": "Portogallo",
+            "valore": 435
         },
         {
-            "Paese": "Svezia",
-            "Valore": 264
+            "paese": "Svezia",
+            "valore": 264
         },
         {
-            "Paese": "Austria",
-            "Valore": 261
+            "paese": "Austria",
+            "valore": 261
         },
         {
-            "Paese": "Danimarca",
-            "Valore": 240
+            "paese": "Danimarca",
+            "valore": 240
         }
     ]
 }

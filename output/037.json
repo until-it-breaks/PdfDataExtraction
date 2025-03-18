@@ -1,27 +1,29 @@
-[
-    {
-        "Voce": "Ammortamenti e svalutazioni",
-        "2023 (mln)": "40",
-        "%": "26%"
-    },
-    {
-        "Voce": "Accantonamenti per rischi e oneri",
-        "2023 (mln)": "15",
-        "%": "10%"
-    },
-    {
-        "Voce": "Oneri diversi di gestione",
-        "2023 (mln)": "30",
-        "%": "19%"
-    },
-    {
-        "Voce": "Utile d'esercizio",
-        "2023 (mln)": "68",
-        "%": "45%"
-    },
-    {
-        "Voce": "Totale",
-        "2023 (mln)": "153",
-        "%": "100%"
-    }
-]
+{
+    "Valore economico trattenuto": [
+        {
+            "Voce": "Ammortamenti e svalutazioni",
+            "2023 (mln)": "40",
+            "%": "26%"
+        },
+        {
+            "Voce": "Accantonamenti per rischi e oneri",
+            "2023 (mln)": "15",
+            "%": "10%"
+        },
+        {
+            "Voce": "Oneri diversi di gestione",
+            "2023 (mln)": "30",
+            "%": "19%"
+        },
+        {
+            "Voce": "Utile d'esercizio",
+            "2023 (mln)": "68",
+            "%": "45%"
+        },
+        {
+            "Voce": "Totale",
+            "2023 (mln)": "153",
+            "%": "100%"
+        }
+    ]
+}

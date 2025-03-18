@@ -2,43 +2,43 @@
     {
         "Bando": "CN",
         "Acr. progetto": "HPC",
-        "Titolo intervento": "Realizzazione di Laboratori di Ricerca DEI presso Ex Clinica Neuro, via Ugo Foscolo 7 - Bologna",
-        "MQ oggetto intervento": "349,56 mq",
-        "Postazioni": "28 postazioni di lavoro + 1 sala riunioni"
+        "Titolo": "Realizzazione di Laboratori di Ricerca DEI presso Ex Clinica Neuro, via Ugo Foscolo 7 - Bologna",
+        "MQ oggetto": "349,56 mq",
+        "Posti lavoro": "28 postazioni di lavoro + 1 sala riunioni"
     },
     {
         "Bando": "CN",
         "Acr. progetto": "BIODIV",
-        "Titolo intervento": "Lavori per la realizzazione nuovi laboratori di ricerca presso il Fano Marine Center - Fano",
-        "MQ oggetto intervento": "985 mq",
-        "Postazioni": "34 postazioni di lavoro"
+        "Titolo": "Lavori per la realizzazione nuovi laboratori di ricerca presso il Fano Marine Center - Fano",
+        "MQ oggetto": "985 mq",
+        "Posti lavoro": "34 postazioni di lavoro"
     },
     {
         "Bando": "CN",
         "Acr. progetto": "BIODIV",
-        "Titolo intervento": "Opere per la realizzazione di una cabina elettrica propedeutica alla realizzazione dei nuovi laboratori di ricerca presso il Fano Marine Center - Fano",
-        "MQ oggetto intervento": "A servizio dell'intero edificio del FMC = 3.484 mq",
-        "Postazioni": "a servizio di circa 88 postazioni di lavoro tra quelle già esistenti e quelle realizzate ex novo + 100 posti aula magna"
+        "Titolo": "Opere per la realizzazione di una cabina elettrica propedeutica alla realizzazione dei nuovi laboratori di ricerca presso il Fano Marine Center - Fano",
+        "MQ oggetto": "A servizio dell'intero edificio del FMC = 3.484 mq",
+        "Posti lavoro": "a servizio di circa 88 postazioni di lavoro tra quelle già esistenti e quelle realizzate ex novo + 100 posti aula magna"
     },
     {
         "Bando": "CN",
         "Acr. progetto": "AGRITECH",
-        "Titolo intervento": "Lavori per la realizzazione di pista prove trattori Cadriano (Spoke3) presso le sedi di Cadriano comune di Granarolo Emilia (Bo)",
-        "MQ oggetto intervento": "3.796 mq",
-        "Postazioni": "3 ricercatori possono operare contemporaneamente"
+        "Titolo": "Lavori per la realizzazione di pista prove trattori Ca- driano (Spoke3) presso le sedi di Cadriano comune di Granarolo Emilia (Bo)",
+        "MQ oggetto": "3.796 mq",
+        "Posti lavoro": "3 ricercatori possono operare contemporanea- mente"
     },
     {
         "Bando": "PE",
         "Acr. progetto": "PE09 - GRINS",
-        "Titolo intervento": "Intervento di riqualificazione per realizzazione di un laboratorio computazionale, P.zza Scaravilli 2 - Bologna",
-        "MQ oggetto intervento": "188 mq",
-        "Postazioni": "24 postazioni di lavoro"
+        "Titolo": "Intervento di riqualificazione per realizzazione di un laboratorio computazionale, P.zza Scaravilli 2 - Bo- logna",
+        "MQ oggetto": "188 mq",
+        "Posti lavoro": "24 postazioni di lavoro"
     },
     {
         "Bando": "PNC",
-        "Acr. progetto": "PNC-DARE",
-        "Titolo intervento": "Rifunzionalizzazione di spazi per ricercatori del Dip. DEI - via Saragozza, 8 a Bologna (cod. edif. 339)",
-        "MQ oggetto intervento": "350 mq",
-        "Postazioni": "22 postazioni di lavoro"
+        "Acr. progetto": "PNC- DARE",
+        "Titolo": "Rifunzionalizzazione di spazi per ricercatori del Dip. DEI - via Saragozza, 8 a Bologna (cod. edif. 339)",
+        "MQ oggetto": "350 mq",
+        "Posti lavoro": "22 postazioni di lavoro"
     }
 ]

@@ -1,10 +1,18 @@
 {
-    "soddisfazione_utenti_dsa_2023": 4.03,
-    "scala_valutazione_soddisfazione_dsa": "1 a 5",
-    "carriere_alias_attivate_2023": 75,
-    "sale_studio_bologna": 16,
-    "sale_studio_cesena": 2,
-    "sale_studio_forlì": 4,
-    "sale_studio_ravenna": 7,
-    "sale_studio_rimini": 2
+    "DSA": {
+        "anno": 2023,
+        "valore_medio_soddisfazione": 4.03,
+        "scala": "1-5"
+    },
+    "carriera_alias": {
+        "anno": 2023,
+        "attivate": 75
+    },
+    "servizi_studio": {
+        "Bologna": 16,
+        "Cesena": 2,
+        "Forlì": 4,
+        "Ravenna": 7,
+        "Rimini": 2
+    }
 }

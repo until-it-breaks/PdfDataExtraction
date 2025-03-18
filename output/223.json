@@ -1,155 +1,155 @@
 {
-    "indice_tabelle_figure": [
+    "Figure": [
         {
-            "figura": "Figura 57 - Pubblicazioni Unibo pro-capite rispetto a quella del benchmark europeo (valore benchmark europeo uguale a 100)",
+            "nome": "Figura 57 - Pubblicazioni Unibo pro-capite rispetto a quella del benchmark europeo (valore benchmark europeo uguale a 100)",
             "pagina": "111"
         },
         {
-            "figura": "Figura 58 - Citazioni Unibo pro-capite rispetto a quella del benchmark europeo (valore benchmark europeo uguale a 100)",
+            "nome": "Figura 58 - Citazioni Unibo pro-capite rispetto a quella del benchmark europeo (valore benchmark europeo uguale a 100)",
             "pagina": "112"
         },
         {
-            "figura": "Figura 59 - Contributo 2023 in progetti Horizon Europe (valori in migliaia di €)",
+            "nome": "Figura 59 - Contributo 2023 in progetti Horizon Europe (valori in migliaia di €)",
             "pagina": "113"
         },
         {
-            "figura": "Figura 60 - Personale docente e ricercatore",
+            "nome": "Figura 60 - Personale docente e ricercatore",
             "pagina": "117"
         },
         {
-            "figura": "Figura 61 - Personale docente e ricercatore per Bologna e Campus Romagna",
+            "nome": "Figura 61 - Personale docente e ricercatore per Bologna e Campus Romagna",
             "pagina": "118"
         },
         {
-            "figura": "Figura 62 - Fasce di età del personale docente e ricercatore al 31/12/2023",
+            "nome": "Figura 62 - Fasce di età del personale docente e ricercatore al 31/12/2023",
             "pagina": "118"
         },
         {
-            "figura": "Figura 63 - Assunzioni del personale Docente",
+            "nome": "Figura 63 - Assunzioni del personale Docente",
             "pagina": "119"
         },
         {
-            "figura": "Figura 64 - Cessazioni del personale Docente",
+            "nome": "Figura 64 - Cessazioni del personale Docente",
             "pagina": "119"
         },
         {
-            "figura": "Figura 65 - Personale TA con contratto Full-time o Part-time",
+            "nome": "Figura 65 - Personale TA con contratto Full-time o Part-time",
             "pagina": "121"
         },
         {
-            "figura": "Figura 66 - Rapporto TA - Docenti",
+            "nome": "Figura 66 - Rapporto TA - Docenti",
             "pagina": "122"
         },
         {
-            "figura": "Figura 67 - Distribuzione del Personale TA (EP, D, C, B) per tipologia contrattuale",
+            "nome": "Figura 67 - Distribuzione del Personale TA (EP, D, C, B) per tipologia contrattuale",
             "pagina": "122"
         },
         {
-            "figura": "Figura 68 - Distribuzione del Personale TA per struttura e area funzionale",
+            "nome": "Figura 68 - Distribuzione del Personale TA per struttura e area funzionale",
             "pagina": "123"
         },
         {
-            "figura": "Figura 69 - Personale Tecnico Amministrativo per Bologna e Campus Romagna",
+            "nome": "Figura 69 - Personale Tecnico Amministrativo per Bologna e Campus Romagna",
             "pagina": "123"
         },
         {
-            "figura": "Figura 70 - Fasce di età del personale TA",
+            "nome": "Figura 70 - Fasce di età del personale TA",
             "pagina": "124"
         },
         {
-            "figura": "Figura 71 - Assunzioni e cessazioni del personale TA a tempo indeterminato",
+            "nome": "Figura 71 - Assunzioni e cessazioni del personale TA a tempo indeterminato",
             "pagina": "124"
         },
         {
-            "figura": "Figura 72 - Incentivi per il personale TA e CEL",
+            "nome": "Figura 72 - Incentivi per il personale TA e CEL",
             "pagina": "127"
         },
         {
-            "figura": "Figura 73 - Numero prestazioni erogate (Unisalute)",
+            "nome": "Figura 73 - Numero prestazioni erogate (Unisalute)",
             "pagina": "129"
         },
         {
-            "figura": "Figura 74 - Ore di formazione pro-capite per categoria",
+            "nome": "Figura 74 - Ore di formazione pro-capite per categoria",
             "pagina": "131"
         },
         {
-            "figura": "Figura 75 - Percentuale di personale formato",
+            "nome": "Figura 75 - Percentuale di personale formato",
             "pagina": "131"
         },
         {
-            "figura": "Figura 76 - Distribuzione del personale per genere",
+            "nome": "Figura 76 - Distribuzione del personale per genere",
             "pagina": "134"
         },
         {
-            "figura": "Figura 77 - Numerosità del personale con cittadinanza estera",
+            "nome": "Figura 77 - Numerosità del personale con cittadinanza estera",
             "pagina": "135"
         },
         {
-            "figura": "Figura 78 - Il servizio \"Avrò cura di te\"",
+            "nome": "Figura 78 - Il servizio \"Avrò cura di te\"",
             "pagina": "138"
         },
         {
-            "figura": "Figura 79 - Convenzioni attive per tirocini nel 2023",
+            "nome": "Figura 79 - Convenzioni attive per tirocini nel 2023",
             "pagina": "143"
         },
         {
-            "figura": "Figura 80 - Famiglie brevettuali",
+            "nome": "Figura 80 - Famiglie brevettuali",
             "pagina": "149"
         },
         {
-            "figura": "Figura 81 - Iscrizioni al PUP per area di studio",
+            "nome": "Figura 81 - Iscrizioni al PUP per area di studio",
             "pagina": "161"
         },
         {
-            "figura": "Figura 82 - Andamento visitatori dei musei",
+            "nome": "Figura 82 - Andamento visitatori dei musei",
             "pagina": "162"
         },
         {
-            "figura": "Figura 83 - Eventi del 2023",
+            "nome": "Figura 83 - Eventi del 2023",
             "pagina": "172"
         },
         {
-            "figura": "Figura 84 - Partecipanti visite guidate 2023",
+            "nome": "Figura 84 - Partecipanti visite guidate 2023",
             "pagina": "173"
         },
         {
-            "figura": "Figura 85 - Modalità di contatto URP",
+            "nome": "Figura 85 - Modalità di contatto URP",
             "pagina": "177"
         },
         {
-            "figura": "Figura 86 - Utenza URP",
+            "nome": "Figura 86 - Utenza URP",
             "pagina": "177"
         },
         {
-            "figura": "Figura 87 - Progetti di cooperazione e collaborazione internazionale (terza missione)",
+            "nome": "Figura 87 - Progetti di cooperazione e collaborazione internazionale (terza missione)",
             "pagina": "181"
         },
         {
-            "figura": "Figura 88 - Serie storica dei consumi (Tep)",
+            "nome": "Figura 88 - Serie storica dei consumi (Tep)",
             "pagina": "188"
         },
         {
-            "figura": "Figura 89 - Serie storica delle emissioni (tCO2)",
+            "nome": "Figura 89 - Serie storica delle emissioni (tCO2)",
             "pagina": "188"
         },
         {
-            "figura": "Figura 90 - Serie storica dei costi dei consumi energetici (milioni di euro)",
+            "nome": "Figura 90 - Serie storica dei costi dei consumi energetici (milioni di euro)",
             "pagina": "189"
         },
         {
-            "figura": "Figura 91 - Distribuzione territoriale del patrimonio edilizio (esclusi gli spazi esterni)",
+            "nome": "Figura 91 - Distribuzione territoriale del patrimonio edilizio (esclusi gli spazi esterni)",
             "pagina": "191"
         },
         {
-            "figura": "Figura 92 - Destinazione d'uso del patrimonio edilizio",
+            "nome": "Figura 92 - Destinazione d'uso del patrimonio edilizio",
             "pagina": "192"
         },
         {
-            "figura": "Figura 93 - Rifiuti speciali smaltiti (in kg)",
+            "nome": "Figura 93 - Rifiuti speciali smaltiti (in kg)",
             "pagina": "198"
         },
         {
-            "figura": "Figura 94 - Didattica e Formazione su tematiche ambientali",
+            "nome": "Figura 94 - Didattica e Formazione su tematiche ambientali",
             "pagina": "201"
         }
     ]

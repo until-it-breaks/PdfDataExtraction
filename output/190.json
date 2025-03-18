@@ -10,9 +10,11 @@
             "Costo (in euro) 2023": 1036.04
         }
     ],
-    "Impianti fotovoltaici": {
-        "Superficie fotovoltaica": "8.443 mq",
-        "% energia prodotta nel 2023": "3%",
-        "Potenza totale installata": "1.185,81 kWp"
-    }
+    "Impianti fotovoltaici": [
+        {
+            "Superficie fotovoltaica": "8.443 mq",
+            "Energia prodotta nel 2023": "3%",
+            "Potenza totale installata": "1.185,81 kWp"
+        }
+    ]
 }

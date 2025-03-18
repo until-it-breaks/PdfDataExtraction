@@ -1,37 +1,37 @@
 {
-    "tabella": [
+    "tabella_obiettivi_2030": [
         {
-            "Obiettivi": "Riduzione emissione CO2 al 2030 rispetto al 1990",
+            "obiettivi": "Riduzione emissione CO2 al 2030 rispetto al 1990",
             "FIT for 55%": "55%",
             "PEA Unibo": ">70%"
         },
         {
-            "Obiettivi": "Quota rinnovabile sui consumi di energia primaria",
+            "obiettivi": "Quota rinnovabile sui consumi di energia primaria",
             "FIT for 55%": "49%",
             "PEA Unibo": "24%"
         },
         {
-            "Obiettivi": "Incremento annuale 2020-26 della quota rinnovabile sui consumi di energia primaria per condizionamento e riscaldamento",
+            "obiettivi": "Incremento annuale 2020-26 della quota rinnovabile sui consumi di energia primaria per condizionamento e riscaldamento",
             "FIT for 55%": "+0,8%",
             "PEA Unibo": "+2,1%"
         },
         {
-            "Obiettivi": "Incremento annuale 2026-30 della quota rinnovabile sui consumi di energia primaria per condizionamento e riscaldamento",
+            "obiettivi": "Incremento annuale 2026-30 della quota rinnovabile sui consumi di energia primaria per condizionamento e riscaldamento",
             "FIT for 55%": "+1,1%",
             "PEA Unibo": "+7,0%"
         },
         {
-            "Obiettivi": "Riduzione consumi energetici finali 2020-2030",
+            "obiettivi": "Riduzione consumi energetici finali 2020-2030",
             "FIT for 55%": "-11,7%",
             "PEA Unibo": "-16,4%"
         },
         {
-            "Obiettivi": "Riduzione consumi annui medi",
+            "obiettivi": "Riduzione consumi annui medi",
             "FIT for 55%": "-1,9%",
             "PEA Unibo": "-2,3%"
         },
         {
-            "Obiettivi": "Superficie rinnovata all'anno",
+            "obiettivi": "Superficie rinnovata all'anno",
             "FIT for 55%": "3,0%",
             "PEA Unibo": "3,8%"
         }

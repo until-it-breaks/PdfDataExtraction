@@ -13,24 +13,22 @@ EXTRA_TIME = 10
 def cls():
     os.system("cls" if os.name == "nt" else "clear")
 
-API_KEY = sys.argv[1]
+api_key = sys.argv[1]
 
-pages = [os.path.abspath(os.path.join("images", f)) for f in os.listdir("images")]
-length = len(pages)
+images = [os.path.abspath(os.path.join("images", f)) for f in os.listdir("images")]
+length = len(images)
 
-count = 0
 start_time = time.time()
+count = 0
 
 for i in range(length):
     if (count == RPM):
-        elapsed = time.time() - start_time
-        if (elapsed < MINUTE):
-            time.sleep(MINUTE + EXTRA_TIME - elapsed)
+        print("Waiting a minute before next batch")
+        time.sleep(MINUTE + EXTRA_TIME)
         count = 0
-        start_time = time.time()
 
-    subprocess.run(["python.exe", "scripts/gemini-call.py", pages[i], API_KEY])
-    print("Progress: {:.1f}%".format((i+1) / length * 100))
+    subprocess.Popen(["python", "gemini-call.py", images[i], api_key])
+    # print("Progress: {:.1f}%".format((i+1) / length * 100))
     count += 1
 
-print("Job Done")
+# print("Job Done")
