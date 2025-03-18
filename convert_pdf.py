@@ -18,7 +18,7 @@ pdf_info = pdfinfo_from_path(sys.argv[1])
 pages_count = pdf_info["Pages"]
 threads = multiprocessing.cpu_count()
 
-output_dir = (Path(__file__).parents[1] / OUTPUT_FOLDER_NAME).resolve()
+output_dir = (Path(__file__).parent/ OUTPUT_FOLDER_NAME).resolve()
 output_dir.mkdir(parents=True, exist_ok=True)
 
 print("Converting {} pages from {} with {} threads".format(pages_count, pdf_path, threads))
