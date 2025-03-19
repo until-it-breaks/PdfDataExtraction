@@ -1,247 +1,570 @@
 {
-    "indice": [
-      {
-        "numero": "1",
-        "titolo": "Strategia",
-        "pagina": 10,
-        "sottosezioni": [
-          {
-            "numero": "1.1",
-            "titolo": "Identità, principi e valori",
-            "pagina": 12
-          },
-          {
-            "numero": "1.2",
-            "titolo": "Azioni e risultati",
-            "pagina": 14
-          },
-          {
-            "numero": "1.3",
-            "titolo": "Governance e organizzazione",
-            "pagina": 18
-          }
-        ]
-      },
-      {
-        "numero": "2",
-        "titolo": "Governo della sostenibilità",
-        "pagina": 24,
-        "sottosezioni": [
-          {
-            "numero": "2.1",
-            "titolo": "Linee guida",
-            "pagina": 25
-          },
-          {
-            "numero": "2.2",
-            "titolo": "Stakeholder e coinvolgimento",
-            "pagina": 26
-          },
-          {
-            "numero": "2.3",
-            "titolo": "Materialità",
-            "pagina": 27
-          }
-        ]
-      },
-      {
-        "numero": "3",
-        "titolo": "Valore economico",
-        "pagina": 32,
-        "sottosezioni": [
-          {
-            "numero": "3.1",
-            "titolo": "Valore economico attratto",
-            "pagina": 34
-          },
-          {
-            "numero": "3.2",
-            "titolo": "Valore economico distribuito",
-            "pagina": 36
-          },
-          {
-            "numero": "3.3",
-            "titolo": "Valore economico del gruppo Unibo",
-            "pagina": 39
-          }
-        ]
-      },
-      {
-        "numero": "4",
-        "titolo": "Didattica e comunità studentesca",
-        "pagina": 42,
-        "sottosezioni": [
-          {
-            "numero": "4.1",
-            "titolo": "Didattica, qualità e innovazione",
-            "pagina": 44,
-            "sezioni": [
-              {
-                "titolo": "Offerta didattica",
-                "pagina": 46
-              },
-              {
-                "titolo": "Qualità della didattica",
-                "pagina": 50
-              },
-              {
-                "titolo": "Innovazione didattica",
-                "pagina": 51
-              },
-              {
-                "titolo": "Laureati e condizione occupazionale",
-                "pagina": 51
-              },
-              {
-                "titolo": "Centri di formazione post-universitaria",
-                "pagina": 55
-              }
-            ]
-          },
-          {
-            "numero": "4.2",
-            "titolo": "L'internazionalizzazione della didattica",
-            "pagina": 56,
-            "sezioni": [
-              {
-                "titolo": "Mobilità internazionale",
-                "pagina": 58
-              },
-              {
-                "titolo": "Centro Linguistico d'Ateneo e corsi di lingue",
-                "pagina": 61
-              }
-            ]
-          },
-          {
-            "numero": "4.3",
-            "titolo": "Didattica in ambito clinico e rapporti con il SSN",
-            "pagina": 63
-          },
-          {
-            "numero": "4.4",
-            "titolo": "Servizi alla comunità studentesca",
-            "pagina": 64,
-            "sezioni": [
-              {
-                "titolo": "Orientamento in ingresso",
-                "pagina": 64
-              },
-              {
-                "titolo": "Tasse ed esoneri",
-                "pagina": 66
-              },
-              {
-                "titolo": "Borse di studio e agevolazioni",
-                "pagina": 68
-              },
-              {
-                "titolo": "Servizi abitativi",
-                "pagina": 71
-              },
-              {
-                "titolo": "Miglioramento delle condizioni di vita e di studio",
-                "pagina": 71
-              },
-              {
-                "titolo": "Orientamento in itinere",
-                "pagina": 74
-              },
-              {
-                "titolo": "Orientamento in uscita",
-                "pagina": 75
-              },
-              {
-                "titolo": "Job Placement",
-                "pagina": 77
-              },
-              {
-                "titolo": "Associazioni studentesche",
-                "pagina": 79
-              }
-            ]
-          },
-          {
-            "numero": "4.5",
-            "titolo": "Impatto sugli obiettivi di sostenibilità dell’ONU SDGs",
-            "pagina": 80
-          }
-        ]
-      },
-      {
-        "numero": "5",
-        "titolo": "Ricerca",
-        "pagina": 82,
-        "sottosezioni": [
-          {
-            "numero": "5.1",
-            "titolo": "Piano nazionale di ripresa e resilienza (PNRR) e Piano nazionale complementare (PNC) – Progetti di ricerca",
-            "pagina": 84
-          },
-          {
-            "numero": "5.2",
-            "titolo": "Progetti competitivi",
-            "pagina": 95,
-            "sezioni": [
-              {
-                "titolo": "Horizon Europe e altri programmi europei",
-                "pagina": 96
-              },
-              {
-                "titolo": "Progetti nazionali",
-                "pagina": 98
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "numero": "6",
-        "titolo": "Persone",
-        "pagina": 114,
-        "sottosezioni": [
-          {
-            "numero": "6.1",
-            "titolo": "Personale docente e ricercatore",
-            "pagina": 116,
-            "sezioni": [
-              {
-                "titolo": "Politiche per il personale docente e ricercatore",
-                "pagina": 119
-              },
-              {
-                "titolo": "Formazione del personale docente e ricercatore",
-                "pagina": 120
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "numero": "7",
-        "titolo": "Società",
-        "pagina": 140
-      },
-      {
-        "numero": "8",
-        "titolo": "Ambiente",
-        "pagina": 182
-      },
-      {
-        "numero": "9",
-        "titolo": "Tavola GRI",
-        "pagina": 202
-      },
-      {
-        "numero": "10",
-        "titolo": "Indice delle tabelle e delle figure",
-        "pagina": 220
-      },
-      {
-        "numero": "11",
-        "titolo": "Comitato tecnico scientifico e gruppo di coordinamento",
-        "pagina": 224
-      }
-    ]
-  }
-  
+  "capitoli": [
+    {
+      "numero": null,
+      "titolo": "INTRODUZIONE",
+      "pagina": 7
+    },
+    {
+      "numero": null,
+      "titolo": "GUIDA ALLA LETTURA",
+      "pagina": 9
+    },
+    {
+      "numero": "1",
+      "titolo": "STRATEGIA",
+      "pagina": 10,
+      "sottocapitoli": [
+        {
+          "numero": "1.1",
+          "titolo": "IDENTITÀ, PRINCIPI E VALORI",
+          "pagina": 12
+        },
+        {
+          "numero": "1.2",
+          "titolo": "AZIONI E RISULTATI",
+          "pagina": 14
+        },
+        {
+          "numero": "1.3",
+          "titolo": "GOVERNANCE E ORGANIZZAZIONE",
+          "pagina": 18
+        }
+      ]
+    },
+    {
+      "numero": "2",
+      "titolo": "GOVERNO DELLA SOSTENIBILITÀ",
+      "pagina": 24,
+      "sottocapitoli": [
+        {
+          "numero": "2.1",
+          "titolo": "LINEE GUIDA",
+          "pagina": 25
+        },
+        {
+          "numero": "2.2",
+          "titolo": "STAKEHOLDER E COINVOLGIMENTO",
+          "pagina": 26
+        },
+        {
+          "numero": "2.3",
+          "titolo": "MATERIALITÀ",
+          "pagina": 27
+        }
+      ]
+    },
+    {
+      "numero": "3",
+      "titolo": "VALORE ECONOMICO",
+      "pagina": 32,
+      "sottocapitoli": [
+        {
+          "numero": "3.1",
+          "titolo": "VALORE ECONOMICO ATTRATTO",
+          "pagina": 34
+        },
+        {
+          "numero": "3.2",
+          "titolo": "VALORE ECONOMICO DISTRIBUITO",
+          "pagina": 36
+        },
+        {
+          "numero": "3.3",
+          "titolo": "VALORE ECONOMICO DEL GRUPPO UNIBO",
+          "pagina": 39
+        }
+      ]
+    },
+    {
+      "numero": "4",
+      "titolo": "DIDATTICA E COMUNITÀ STUDENTESCA",
+      "pagina": 42,
+      "sottocapitoli": [
+        {
+          "numero": "4.1",
+          "titolo": "DIDATTICA, QUALITÀ E INNOVAZIONE",
+          "pagina": 44,
+          "sezioni": [
+            {
+              "titolo": "Offerta didattica",
+              "pagina": 46
+            },
+            {
+              "titolo": "Qualità della didattica",
+              "pagina": 50
+            },
+            {
+              "titolo": "Innovazione didattica",
+              "pagina": 51
+            },
+            {
+              "titolo": "Laureati e condizione occupazionale",
+              "pagina": 51
+            },
+            {
+              "titolo": "Centri di formazione post-universitaria",
+              "pagina": 55
+            }
+          ]
+        },
+        {
+          "numero": "4.2",
+          "titolo": "L’INTERNAZIONALIZZAZIONE DELLA DIDATTICA",
+          "pagina": 56,
+          "sezioni": [
+            {
+              "titolo": "Mobilità internazionale",
+              "pagina": 58
+            },
+            {
+              "titolo": "Centro Linguistico d’Ateneo e corsi di lingue",
+              "pagina": 61
+            }
+          ]
+        },
+        {
+          "numero": "4.3",
+          "titolo": "DIDATTICA IN AMBITO CLINICO E RAPPORTI CON IL SSN",
+          "pagina": 63
+        },
+        {
+          "numero": "4.4",
+          "titolo": "SERVIZI ALLA COMUNITÀ STUDENTESCA",
+          "pagina": 64,
+          "sezioni": [
+            {
+              "titolo": "Orientamento in ingresso",
+              "pagina": 64
+            },
+            {
+              "titolo": "Tasse ed esoneri",
+              "pagina": 66
+            },
+            {
+              "titolo": "Borse di studio e agevolazioni",
+              "pagina": 68
+            },
+            {
+              "titolo": "Servizi abitativi",
+              "pagina": 71
+            },
+            {
+              "titolo": "Miglioramento delle condizioni di vita e di studio",
+              "pagina": 71
+            },
+            {
+              "titolo": "Orientamento in itinere",
+              "pagina": 73
+            },
+            {
+              "titolo": "Orientamento in uscita",
+              "pagina": 75
+            },
+            {
+              "titolo": "Job Placement",
+              "pagina": 77
+            },
+            {
+              "titolo": "Associazioni studentesche",
+              "pagina": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": "4.5",
+      "titolo": "IMPATTO SUGLI OBIETTIVI DI SOSTENIBILITÀ DELL’ONU SDGS",
+      "pagina": 80
+    },
+    {
+      "numero": "5",
+      "titolo": "RICERCA",
+      "pagina": 82,
+      "sottocapitoli": [
+        {
+          "numero": "5.1",
+          "titolo": "PIANO NAZIONALE DI RIPRESA E RESILIENZA (PNRR) E PIANO NAZIONALE COMPLEMENTARE (PNC) – PROGETTI DI RICERCA",
+          "pagina": 84
+        },
+        {
+          "numero": "5.2",
+          "titolo": "PROGETTI COMPETITIVI",
+          "pagina": 95,
+          "sezioni": [
+            {
+              "titolo": "Horizon Europe e altri programmi europei",
+              "pagina": 96
+            },
+            {
+              "titolo": "Progetti nazionali",
+              "pagina": 98
+            }
+          ]
+        },
+        {
+          "numero": "5.3",
+          "titolo": "INVESTIMENTI NELLA RICERCA",
+          "pagina": 100
+        },
+        {
+          "numero": "5.4",
+          "titolo": "DOTTORATO",
+          "pagina": 101
+        },
+        {
+          "numero": "5.5",
+          "titolo": "PUBBLICAZIONI E PRODOTTI DELLA RICERCA",
+          "pagina": 105,
+          "sezioni": [
+            {
+              "titolo": "La nuova Valutazione della Ricerca",
+              "pagina": 106
+            },
+            {
+              "titolo": "La qualità della ricerca",
+              "pagina": 106
+            }
+          ]
+        },
+        {
+          "numero": "5.6",
+          "titolo": "MOBILITÀ",
+          "pagina": 107,
+          "sezioni": [
+            {
+              "titolo": "Mobilità in uscita",
+              "pagina": 107
+            },
+            {
+              "titolo": "Mobilità in ingresso",
+              "pagina": 108
+            }
+          ]
+        },
+        {
+          "numero": "5.7",
+          "titolo": "RICERCA IN AMBITO CLINICO E RAPPORTI CON IL SSN",
+          "pagina": 110
+        },
+        {
+          "numero": "5.8",
+          "titolo": "IMPATTO SUGLI OBIETTIVI DI SOSTENIBILITÀ DELL’ONU SDGS",
+          "pagina": 111
+        }
+      ]
+    },
+    {
+      "numero": "6",
+      "titolo": "PERSONE",
+      "pagina": 114,
+      "sottocapitoli": [
+        {
+          "numero": "6.1",
+          "titolo": "PERSONALE DOCENTE E RICERCATORE",
+          "pagina": 116,
+          "sezioni": [
+            {
+              "titolo": "Politiche per il personale docente e ricercatore",
+              "pagina": 119
+            },
+            {
+              "titolo": "Formazione del personale docente e ricercatore",
+              "pagina": 120
+            }
+          ]
+        },
+        {
+          "numero": "6.2",
+          "titolo": "PERSONALE TECNICO AMMINISTRATIVO",
+          "pagina": 121,
+          "sezioni": [
+            {
+              "titolo": "Politiche per il Personale Tecnico Amministrativo",
+              "pagina": 125
+            },
+            {
+              "titolo": "Crescita professionale",
+              "pagina": 125
+            },
+            {
+              "titolo": "Trattamento economico accessorio e incentivi economici",
+              "pagina": 126
+            },
+            {
+              "titolo": "Mobilità interna ed esterna",
+              "pagina": 127
+            },
+            {
+              "titolo": "Welfare di Ateneo e altre agevolazioni",
+              "pagina": 129
+            },
+            {
+              "titolo": "Formazione",
+              "pagina": 130
+            },
+            {
+              "titolo": "Lavoro a distanza",
+              "pagina": 133
+            }
+          ]
+        },
+        {
+          "numero": "6.3",
+          "titolo": "GENERE E CITTADINANZA",
+          "pagina": 134
+        },
+        {
+          "numero": "6.4",
+          "titolo": "BENESSERE ORGANIZZATIVO",
+          "pagina": 135,
+          "sezioni": [
+            {
+              "titolo": "Salute e sicurezza",
+              "pagina": 135
+            },
+            {
+              "titolo": "Inclusione e tutela",
+              "pagina": 137
+            },
+            {
+              "titolo": "Supporto psicologico",
+              "pagina": 137
+            },
+            {
+              "titolo": "Circolo Università di Bologna (CUBO)",
+              "pagina": 139
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": "7",
+      "titolo": "SOCIETÀ",
+      "pagina": 140,
+      "sottocapitoli": [
+        {
+          "numero": "7.1",
+          "titolo": "TRASFERIMENTO TECNOLOGICO",
+          "pagina": 142,
+          "sezioni": [
+            {
+              "titolo": "Accordi e convenzioni",
+              "pagina": 142
+            },
+            {
+              "titolo": "Rete alta Tecnologia",
+              "pagina": 146
+            },
+            {
+              "titolo": "La proprietà intellettuale ed i brevetti",
+              "pagina": 148
+            },
+            {
+              "titolo": "Nuova imprenditorialità",
+              "pagina": 150
+            },
+            {
+              "titolo": "Dottorati di ricerca finanziati da soggetti esterni",
+              "pagina": 151
+            },
+            {
+              "titolo": "Enti di sostegno e fondazioni bancarie",
+              "pagina": 151
+            },
+            {
+              "titolo": "Formazione continua e alta formazione",
+              "pagina": 152
+            }
+          ]
+        },
+        {
+          "numero": "7.2",
+          "titolo": "DIMENSIONE INTERNAZIONALE",
+          "pagina": 153,
+          "sezioni": [
+            {
+              "titolo": "Una Europa – L'Alleanza Universitaria Europea",
+              "pagina": 153
+            },
+            {
+              "titolo": "Progetti di cooperazione, accordi e attività",
+              "pagina": 154
+            },
+            {
+              "titolo": "Network internazionali",
+              "pagina": 156
+            },
+            {
+              "titolo": "Osservatorio Magna Charta",
+              "pagina": 157
+            }
+          ]
+        },
+        {
+          "numero": "7.3",
+          "titolo": "IMPEGNO PUBBLICO",
+          "pagina": 158,
+          "sezioni": [
+            {
+              "titolo": "Valorizzazione della ricerca",
+              "pagina": 158
+            },
+            {
+              "titolo": "Polo Penitenziario Universitario",
+              "pagina": 161
+            }
+          ]
+        },
+        {
+          "numero": "7.4",
+          "titolo": "PATRIMONIO CULTURALE",
+          "pagina": 162,
+          "sezioni": [
+            {
+              "titolo": "Musei",
+              "pagina": 162
+            },
+            {
+              "titolo": "Biblioteche",
+              "pagina": 167
+            },
+            {
+              "titolo": "Scienza aperta",
+              "pagina": 170
+            }
+          ]
+        },
+        {
+          "numero": "7.5",
+          "titolo": "COMUNICAZIONE E INFORMAZIONE",
+          "pagina": 171,
+          "sezioni": [
+            {
+              "titolo": "UniboMagazine, ufficio stampa ed eventi",
+              "pagina": 171
+            },
+            {
+              "titolo": "UniboCultura",
+              "pagina": 173
+            },
+            {
+              "titolo": "Il sistema dei siti web istituzionali di Ateneo",
+              "pagina": 174
+            },
+            {
+              "titolo": "I canali social",
+              "pagina": 174
+            },
+            {
+              "titolo": "Ufficio relazioni con il pubblico",
+              "pagina": 177
+            }
+          ]
+        },
+        {
+          "numero": "7.6",
+          "titolo": "SPORT E SALUTE",
+          "pagina": 178,
+          "sezioni": [
+            {
+              "titolo": "Tutela della salute",
+              "pagina": 178
+            },
+            {
+              "titolo": "Promozione del benessere",
+              "pagina": 179
+            }
+          ]
+        },
+        {
+          "numero": "7.7",
+          "titolo": "IMPATTO SUGLI OBIETTIVI DI SOSTENIBILITÀ DELL’ONU SDGS",
+          "pagina": 179
+        }
+      ]
+    },
+    {
+      "numero": "8",
+      "titolo": "AMBIENTE",
+      "pagina": 182,
+      "sottocapitoli": [
+        {
+          "numero": "8.1",
+          "titolo": "POLITICHE ENERGETICHE E CONSUMI",
+          "pagina": 184,
+          "sezioni": [
+            {
+              "titolo": "Piano Energetico di Ateneo",
+              "pagina": 184
+            },
+            {
+              "titolo": "Consumi",
+              "pagina": 188
+            },
+            {
+              "titolo": "Risorsa acqua",
+              "pagina": 189
+            },
+            {
+              "titolo": "Impianti fotovoltaici",
+              "pagina": 190
+            }
+          ]
+        },
+        {
+          "numero": "8.2",
+          "titolo": "PATRIMONIO EDILIZIO",
+          "pagina": 191,
+          "sezioni": [
+            {
+              "titolo": "Composizione ed uso",
+              "pagina": 191
+            },
+            {
+              "titolo": "Progetto di sviluppo",
+              "pagina": 192
+            }
+          ]
+        },
+        {
+          "numero": "8.3",
+          "titolo": "AZIONI A FAVORE DELLA SOSTENIBILITÀ",
+          "pagina": 195,
+          "sezioni": [
+            {
+              "titolo": "Politiche e gestione dei rifiuti",
+              "pagina": 197
+            },
+            {
+              "titolo": "Emissioni e politiche di trasporto",
+              "pagina": 199
+            }
+          ]
+        },
+        {
+          "numero": "8.4",
+          "titolo": "DIDATTICA E FORMAZIONE SU TEMATICHE AMBIENTALI",
+          "pagina": 201
+        }
+      ]
+    },
+    {
+      "numero": "9",
+      "titolo": "TAVOLA GRI",
+      "pagina": 202
+    },
+    {
+      "numero": "10",
+      "titolo": "INDICE DELLE TABELLE E DELLE FIGURE",
+      "pagina": 220
+    },
+    {
+      "numero": "11",
+      "titolo": "COMITATO TECNICO SCIENTIFICO E GRUPPO DI COORDINAMENTO",
+      "pagina": 224
+    }
+  ]
+}
