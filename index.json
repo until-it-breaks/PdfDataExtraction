@@ -155,7 +155,7 @@
             },
             {
               "titolo": "Orientamento in itinere",
-              "pagina": 73
+              "pagina": 74
             },
             {
               "titolo": "Orientamento in uscita",
@@ -482,7 +482,8 @@
         {
           "numero": "7.7",
           "titolo": "IMPATTO SUGLI OBIETTIVI DI SOSTENIBILITÀ DELL’ONU SDGS",
-          "pagina": 179
+          "_comment": "the page in the original pdf was 179, which was wrong",
+          "pagina": 180
         }
       ]
     },
