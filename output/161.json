@@ -5,11 +5,13 @@
             "2022": "61",
             "2023": "65"
         },
-        "Umanistica": "15",
-        "Giuridica": "22",
-        "Agro-alimentare": "14",
-        "Politico-sociale": "10",
-        "Psico-pedagogica": "2",
-        "Economica": "2"
+        "Area di studio": {
+            "Umanistica": "15",
+            "Giuridica": "22",
+            "Agro-alimentare": "14",
+            "Politico-sociale": "10",
+            "Psico-pedagogica": "2",
+            "Economica": "2"
+        }
     }
 }

@@ -1,14 +1,12 @@
 {
-    "Mobilità dottorandi e docenti outgoing": {
-        "Dottorandi outgoing con almeno 30gg di mobilità nell'anno": {
-            "2021": 386,
-            "2022": 623,
-            "2023": 701
-        },
-        "Docenti outgoing nell'anno": {
-            "2021": 1232,
-            "2022": 4453,
-            "2023": 5994
-        }
+    "Dottorandi outgoing con almeno 30gg di mobilità nell'anno": {
+        "2021": "386",
+        "2022": "623",
+        "2023": "701"
+    },
+    "Docenti outgoing nell'anno": {
+        "2021": "1.232",
+        "2022": "4.453",
+        "2023": "5.994"
     }
 }

@@ -1,25 +1,25 @@
 {
     "Valore distribuito (in mln di €)": {
         "2021": {
-            "Pubblica amministrazione": "642,0",
-            "Fornitori *": "23,1",
-            "Trasferimenti passivi verso terzi": "117,5",
-            "Interventi per studenti/esse": "25,7",
-            "Risorse Umane": "384,0"
+            "Pubblica amministrazione": 23.1,
+            "Fornitori *": 117.5,
+            "Trasferimenti passivi verso terzi": 25.7,
+            "Interventi per studenti/esse": 91.7,
+            "Risorse Umane": 384.0
         },
         "2022": {
-            "Pubblica amministrazione": "724,3",
-            "Fornitori *": "24,6",
-            "Trasferimenti passivi verso terzi": "139,5",
-            "Interventi per studenti/esse": "34,9",
-            "Risorse Umane": "412,3"
+            "Pubblica amministrazione": 24.6,
+            "Fornitori *": 139.5,
+            "Trasferimenti passivi verso terzi": 34.9,
+            "Interventi per studenti/esse": 113.0,
+            "Risorse Umane": 412.3
         },
         "2023": {
-            "Pubblica amministrazione": "804,6",
-            "Fornitori *": "26,3",
-            "Trasferimenti passivi verso terzi": "143,5",
-            "Interventi per studenti/esse": "41,9",
-            "Risorse Umane": "469,1"
+            "Pubblica amministrazione": 26.3,
+            "Fornitori *": 41.9,
+            "Trasferimenti passivi verso terzi": 123.8,
+            "Interventi per studenti/esse": 143.5,
+            "Risorse Umane": 469.1
         }
     },
     "Valore economico trattenuto": {
@@ -28,7 +28,7 @@
             "2023 (mln)",
             "%"
         ],
-        "rows": [
+        "data": [
             {
                 "Valore economico trattenuto": "Ammortamenti e svalutazioni",
                 "2023 (mln)": "40",

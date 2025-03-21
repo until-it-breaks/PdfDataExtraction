@@ -1,77 +1,66 @@
 {
-    "Andamento Valore economico attratto (in mln di €)": [
-        {
-            "Anno": "2021",
-            "Contribuzione studentesca": "132,9",
-            "Contributi dallo Stato": "490,8",
-            "Altre entrate": "173,1",
-            "Totale": "796,8"
+    "Andamento Valore economico attratto (in mln di €)": {
+        "2021": {
+            "Altre entrate": 173.1,
+            "Contributi dallo Stato": 490.8,
+            "Contribuzione studentesca": 132.9
         },
-        {
-            "Anno": "2022",
-            "Contribuzione studentesca": "134,6",
-            "Contributi dallo Stato": "549,0",
-            "Altre entrate": "193,5",
-            "Totale": "877,1"
+        "2022": {
+            "Altre entrate": 193.5,
+            "Contributi dallo Stato": 549.0,
+            "Contribuzione studentesca": 134.6
         },
-        {
-            "Anno": "2023",
-            "Contribuzione studentesca": "131,6",
-            "Contributi dallo Stato": "638,8",
-            "Altre entrate": "186,7",
-            "Totale": "957,1"
+        "2023": {
+            "Altre entrate": 186.7,
+            "Contributi dallo Stato": 638.8,
+            "Contribuzione studentesca": 131.6
+        },
+        "Totali": {
+            "2021": 796.8,
+            "2022": 877.1,
+            "2023": 957.1
         }
-    ],
-    "FFO 2022-2023 (in mln di €)": [
-        {
-            "Università": "Roma La Sapienza",
-            "2023": "479",
-            "2022": "461"
+    },
+    "FFO 2022-2023 (in mln di €)": {
+        "Roma La Sapienza": {
+            "2023": 479,
+            "2022": 461
         },
-        {
-            "Università": "Bologna",
-            "2023": "398",
-            "2022": "371"
+        "Bologna": {
+            "2023": 398,
+            "2022": 371
         },
-        {
-            "Università": "Napoli Federico II",
-            "2023": "364",
-            "2022": "354"
+        "Napoli Federico II": {
+            "2023": 364,
+            "2022": 354
         },
-        {
-            "Università": "Padova",
-            "2023": "319",
-            "2022": "295"
+        "Padova": {
+            "2023": 319,
+            "2022": 295
         },
-        {
-            "Università": "Torino",
-            "2023": "298",
-            "2022": "286"
+        "Torino": {
+            "2023": 298,
+            "2022": 286
         },
-        {
-            "Università": "Milano",
-            "2023": "282",
-            "2022": "274"
+        "Milano": {
+            "2023": 282,
+            "2022": 274
         },
-        {
-            "Università": "Firenze",
-            "2023": "228",
-            "2022": "222"
+        "Firenze": {
+            "2023": 228,
+            "2022": 222
         },
-        {
-            "Università": "Pisa",
-            "2023": "198",
-            "2022": "194"
+        "Pisa": {
+            "2023": 198,
+            "2022": 194
         },
-        {
-            "Università": "Palermo",
-            "2023": "193",
-            "2022": "189"
+        "Palermo": {
+            "2023": 193,
+            "2022": 189
         },
-        {
-            "Università": "Bari",
-            "2023": "180",
-            "2022": "177"
+        "Bari": {
+            "2023": 180,
+            "2022": 177
         }
-    ]
+    }
 }

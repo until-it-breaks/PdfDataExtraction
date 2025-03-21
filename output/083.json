@@ -1,10 +1,11 @@
 {
     "Ricerca": {
-        "Progetti Horizon Europe": "67",
-        "Assegni di ricerca": "1.369",
-        "Docenti outgoing": "5.994",
-        "Finanziamenti bandi PNRR e PNC": "234 MLN €",
+        "Horizon Europe": "67 Progetti",
+        "Assegni di Ricerca": "1.369",
+        "Docenti Outgoing": "5.994",
+        "Finanziamenti": "234 MLN €",
+        "Dettagli Finanziamenti": "DI CUI 50 MILIONI PER I BANDI A CASCATA PNRR E PNC",
         "Pubblicazioni": "11.976",
-        "Visiting professors e PHD": "715"
+        "Visiting Professors e PhD": "715"
     }
 }

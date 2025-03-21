@@ -1,60 +1,46 @@
 {
-    "Assunzioni e cessazioni del personale Docente": [
-        {
-            "Tipo": "Assunzioni",
-            "Categoria": "Ordinario",
+    "Assunzioni del personale Docente": {
+        "Ordinario": {
             "2021": 90,
             "2022": 66,
             "2023": 26
         },
-        {
-            "Tipo": "Assunzioni",
-            "Categoria": "Associato",
+        "Associato": {
             "2021": 217,
             "2022": 197,
             "2023": 104
         },
-        {
-            "Tipo": "Assunzioni",
-            "Categoria": "Ricercatore",
+        "Ricercatore": {
             "2021": 277,
             "2022": 292,
             "2023": 361
         },
-        {
-            "Tipo": "Assunzioni",
-            "Categoria": "Totale",
+        "Totale": {
             "2021": 584,
             "2022": 555,
             "2023": 491
-        },
-        {
-            "Tipo": "Cessazioni",
-            "Categoria": "Ordinario",
+        }
+    },
+    "Cessazioni del personale Docente": {
+        "Ordinario": {
             "2021": 38,
             "2022": 27,
             "2023": 35
         },
-        {
-            "Tipo": "Cessazioni",
-            "Categoria": "Associato",
+        "Associato": {
             "2021": 113,
             "2022": 76,
             "2023": 108
         },
-        {
-            "Tipo": "Cessazioni",
-            "Categoria": "Ricercatore",
+        "Ricercatore": {
             "2021": 192,
             "2022": 283,
             "2023": 147
         },
-        {
-            "Tipo": "Cessazioni",
-            "Categoria": "Totale",
+        "Totale": {
             "2021": 343,
             "2022": 386,
             "2023": 290
         }
-    ]
+    }
 }

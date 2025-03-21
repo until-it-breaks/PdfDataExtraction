@@ -1,24 +1,15 @@
 {
-    "Enti di sostegno e fondazioni bancarie": [
-        "Fondazione Flaminia",
-        "Fondazione del Monte di Bologna e Ravenna",
-        "Fondazione Cassa di Riparmio di Cesena",
-        "Fondazione Cassa di Riparmio di Bologna",
-        "Fondazione Cassa di Riparmio di Imola",
-        "Fondazione Cassa di Riparmio di Forlì",
-        "Ser.In.Ar",
-        "Uni.Rimini"
-    ],
-    "Dottorati di ricerca finanziati da soggetti esterni": [
-        {
-            "ciclo": "XXIX",
-            "borse finanziate da soggetti esterni": 142,
-            "borse complessivamente finanziate dall'Ateneo": 216
+    "Dottorati di ricerca finanziati da soggetti esterni": {
+        "XXIX ciclo di dottorato": {
+            "peso_fonte": "40%",
+            "borse_finanziate_soggetti_esterni": 142,
+            "borse_complessivamente_finanziate_Ateneo": 216,
+            "Ateneo_finanziato_proprio_bilancio": 170,
+            "Ateneo_finanziato_fondi_propri": 46
         },
-        {
-            "ciclo": "XXIX",
-            "borse assegnate nell'ambito del PNRR": 329,
-            "borse cofinanziate da imprese": 113
+        "XXIX ciclo PNRR": {
+            "borse_assegnate": 329,
+            "borse_cofinanziate_imprese": 113
         }
-    ]
+    }
 }

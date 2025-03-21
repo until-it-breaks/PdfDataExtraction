@@ -1,54 +1,44 @@
 {
-    "Valore economico attratto": [
-        {
-            "Valore economico attratto": "Contribuzione studentesca",
+    "Valore economico attratto": {
+        "Contribuzione studentesca": {
             "2023 (mln)": "132",
             "%": "14%"
         },
-        {
-            "Valore economico attratto": "Contributi dallo Stato",
+        "Contributi dallo Stato": {
             "2023 (mln)": "639",
-            "%": "67%"
+            "%": "67%",
+            "di cui FFO": {
+                "2023 (mln)": "516",
+                "%": "54%"
+            }
         },
-        {
-            "Valore economico attratto": "di cui FFO",
-            "2023 (mln)": "516",
-            "%": "54%"
-        },
-        {
-            "Valore economico attratto": "Contributi dalle Regioni",
+        "Contributi dalle Regioni": {
             "2023 (mln)": "5",
             "%": "1%"
         },
-        {
-            "Valore economico attratto": "Contributi da UE e resto del mondo",
+        "Contributi da UE e resto del mondo": {
             "2023 (mln)": "8",
             "%": "1%"
         },
-        {
-            "Valore economico attratto": "Contributi da altri soggetti",
+        "Contributi da altri soggetti": {
             "2023 (mln)": "37",
             "%": "4%"
         },
-        {
-            "Valore economico attratto": "Proventi da ricerche commissionate e trasferimento tecnologico",
+        "Proventi da ricerche commissionate e trasferimento tecnologico": {
             "2023 (mln)": "14",
             "%": "1%"
         },
-        {
-            "Valore economico attratto": "Proventi di ricerca",
+        "Proventi di ricerca": {
             "2023 (mln)": "95",
             "%": "10%"
         },
-        {
-            "Valore economico attratto": "Altri proventi",
+        "Altri proventi": {
             "2023 (mln)": "27",
             "%": "3%"
         },
-        {
-            "Valore economico attratto": "Totale",
+        "Totale": {
             "2023 (mln)": "957",
             "%": "100%"
         }
-    ]
+    }
 }

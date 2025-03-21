@@ -1,34 +1,29 @@
 {
-    "Valutazioni positive sulla didattica": [
-        {
-            "Domanda": "Sei complessivamente soddisfatto/a di come è stato svolto l'insegnamento?",
+    "Valutazioni positive sulla didattica": {
+        "Sei complessivamente soddisfatto/a di come è stato svolto l'insegnamento?": {
             "2022/23": "85,8%",
             "2021/22": "86,8%",
             "2020/21": "87,0%"
         },
-        {
-            "Domanda": "Il carico di studio dell'insegnamento è proporzionato ai crediti assegnati?",
+        "Il carico di studio dell'insegnamento è proporzionato ai crediti assegnati?": {
             "2022/23": "86,6%",
             "2021/22": "87,1%",
             "2020/21": "86,8%"
         },
-        {
-            "Domanda": "Il docente espone gli argomenti in modo chiaro?",
+        "Il docente espone gli argomenti in modo chiaro?": {
             "2022/23": "88,1%",
             "2021/22": "89,0%",
             "2020/21": "89,0%"
         },
-        {
-            "Domanda": "Le aule in cui si sono svolte le lezioni sono risultate adeguate (si vede, si sente, si trova posto)?",
+        "Le aule in cui si sono svolte le lezioni sono risultate adeguate (si vede, si sente, si trova posto)?": {
             "2022/23": "86,6%",
             "2021/22": "92,3%",
             "2020/21": "94,9%"
         },
-        {
-            "Domanda": "L'orario delle lezioni è stato congegnato in modo tale da consentire una frequenza e una attività di studio individuale adeguate?",
+        "L'orario delle lezioni è stato congegnato in modo tale da consentire una frequenza e una attività di studio individuale adeguate?": {
             "2022/23": "85,8%",
             "2021/22": "86,8%",
             "2020/21": "87,5%"
         }
-    ]
+    }
 }

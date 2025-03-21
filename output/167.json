@@ -5,10 +5,9 @@
         "POSTAZIONI ELETTRONICHE DI CONSULTAZIONE": "380",
         "SPAZI DI CONSULTAZIONE/NUMERO POSTI A SEDERE": "4.870"
     },
-    "Biblioteca Universitaria di Bologna - BUB": {
-        "mostre interne": "8",
+    "Biblioteca Universitaria di Bologna – BUB": {
+        "mostre": "8",
         "giorni di apertura": "240",
-        "visitatori": "3.334",
-        "mostre con prestito": "3"
+        "visitatori": "3.334"
     }
 }

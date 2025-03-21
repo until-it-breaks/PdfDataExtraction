@@ -1,42 +1,17 @@
 {
-    "Principali agevolazioni erogate": [
-        {
-            "Agevolazioni": "Contributo stanziato Mobilità (per dipendenti TA e CEL)\nPer l'acquisto di abbonamenti al trasporto pubblico locale a prezzi calmierati\n(v. sez. 8).",
-            "Euro": "525.000"
-        },
-        {
-            "Agevolazioni": "Polizza sanitaria Unisalute\nPer accesso a prestazioni sanitarie (incluso pacchetto di visite di prevenzione,\ndistinte per fasce di età) e di rimborso delle medesime spese sanitarie.\nIl premio è a carico dell'Amministrazione (è stato riportato l'importo stimato\nin quanto il premio 2023 non è stata ancora confermato).",
-            "Euro": "1.094.544"
-        },
-        {
-            "Agevolazioni": "Contributo per centri estivi e servizi di baby sitting\nI destinatari che possono richiedere tale contributo sono il personale TA e CEL\ncon contratto a tempo indeterminato o determinato per i figli con età inferiore\na 14 anni per un importo massimo di € 1.400.",
-            "Euro": "101.655"
-        },
-        {
-            "Agevolazioni": "Contributo erogato per l'iscrizione dei figli ai nidi di infanzia\nPer personale Dirigente, TA e CEL con contratto a tempo indeterminato\no determinato. Il contributo riconosciuto è previsto nel limite massimo di € 1.400\n(anno scolastico 2021/2022 ultimo disponibile).",
-            "Euro": "43.683"
-        },
-        {
-            "Agevolazioni": "Premio di natalità\nPer il personale TA e CEL. Il valore del premio di natalità 2023 si riferisce\nal personale che ha presentato domanda i cui figli sono nati nel 2022,\nerogato alle fasce ISEE previste per l'erogazione dei sussidi in base all'accordo\ncontrattuale integrativo, valore premio € 500.",
-            "Euro": "8.000"
-        },
-        {
-            "Agevolazioni": "Altri sussidi economici\nPer il personale TA e CEL è riconosciuto un aiuto finanziario, di importo variabile\nlegato al valore risultante dalla dichiarazione ISEE del richiedente, che l'Ateneo\neroga a sostegno della situazione economica del dipendente in occasione\ndi specifiche rilevanti esigenze personali o familiari.",
-            "Euro": "55.155"
+    "Tabella 20 - Principali agevolazioni erogate": {
+        "Agevolazioni": {
+            "Contributo stanziato Mobilità (per dipendenti TA e CEL)": "525.000",
+            "Polizza sanitaria Unisalute": "1.094.544",
+            "Contributo per centri estivi e servizi di baby sitting": "101.655",
+            "Contributo erogato per l'iscrizione dei figli ai nidi di infanzia": "43.683",
+            "Premio di natalità": "8.000",
+            "Altri sussidi economici": "55.155"
         }
-    ],
-    "Numero prestazioni erogate (Unisalute)": [
-        {
-            "Anno": "2021",
-            "Valore": "9.379"
-        },
-        {
-            "Anno": "2022",
-            "Valore": "10.495"
-        },
-        {
-            "Anno": "2023",
-            "Valore": "12.208"
-        }
-    ]
+    },
+    "Numero prestazioni erogate (Unisalute)": {
+        "2021": "9.379",
+        "2022": "10.495",
+        "2023": "12.208"
+    }
 }

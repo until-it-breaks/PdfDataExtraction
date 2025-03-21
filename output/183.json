@@ -1,22 +1,15 @@
 {
-    "Dati Ambiente": {
-        "Superficie fotovoltaica": {
-            "Valore": "8.443",
-            "Unità": "mq"
+    "Ambiente": {
+        "Superficie Fotovoltaica": "8.443 mq",
+        "Insegnamenti tematiche ambientali": {
+            "Quantità": "1.975",
+            "Anno Accademico": "NELL'A.A. 2023/24"
         },
-        "Insegnamenti che trattano tematiche ambientali nell'A.A. 2023/24": {
-            "Valore": "1.975"
+        "Energia da Fonti Rinnovabili": "1.103.885 kWh",
+        "Abbonamenti agevolati studenti e personale": {
+            "Numero": "20.369",
+            "Finalità": "PER INCENTIVARE L'USO DEI MEZZI DI TRASPORTO PUBBLICO"
         },
-        "Energia da fonti rinnovabili": {
-            "Valore": "1.103.885",
-            "Unità": "kWh"
-        },
-        "Abbonamenti agevolati studenti e personale per incentivare l'uso dei mezzi di trasporto pubblico": {
-            "Valore": "20.369"
-        },
-        "Spesa per abbonamenti agevolati": {
-            "Valore": "1.305.000",
-            "Unità": "€"
-        }
+        "Spesa per abbonamenti agevolati": "1.305.000 €"
     }
 }

@@ -1,5 +1,5 @@
 {
-    "Studenti incoming per nazione di provenienza": {
+    "Studenti incoming per nazione di provenienza (primi 10 Paesi - triennio 21-23)": {
         "Spagna": "2.112",
         "Francia": "980",
         "Germania": "858",
@@ -13,17 +13,17 @@
     },
     "Borse di studio per tesi all'estero": {
         "Europa": {
-            "2020/21": "140",
+            "2020/21*": "140",
             "2021/22": "275",
             "2022/23": "312"
         },
         "America": {
-            "2020/21": "14",
+            "2020/21*": "14",
             "2021/22": "52",
             "2022/23": "66"
         },
         "Asia, Africa e Oceania": {
-            "2020/21": "3",
+            "2020/21*": "3",
             "2021/22": "32",
             "2022/23": "42"
         },

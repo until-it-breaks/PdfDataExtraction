@@ -1,39 +1,45 @@
 {
-    "ClassificheUniversità": [
+    "Ranking": [
         {
-            "Classifica": "QS WORLD UNIVERSITY RANKING",
-            "PosizioneItalia": "3°",
-            "PosizioneMondo": "154°"
+            "QS WORLD UNIVERSITY RANKING": {
+                "ITALIA": "3°",
+                "MONDO": "154°"
+            }
         },
         {
-            "Classifica": "TIMES HIGHER EDUCATION WORLD RANKING",
-            "PosizioneItalia": "1°",
-            "PosizioneMondo": "155°"
+            "TIMES HIGHER EDUCATION WORLD RANKING": {
+                "ITALIA": "1°",
+                "MONDO": "155°"
+            }
         },
         {
-            "Classifica": "QS SUSTAINABILITY",
-            "PosizioneItalia": "1°",
-            "PosizioneMondo": "108°"
+            "QS SUSTAINABILITY": {
+                "ITALIA": "1°",
+                "MONDO": "108°"
+            }
         },
         {
-            "Classifica": "THE IMPACT SDGS 5 UN 2030 (UGUAGLIANZA DI GENERE)",
-            "PosizioneItalia": "1°",
-            "PosizioneMondo": "2°"
+            "THE IMPACT SDGs 5 UN 2030 (UGUAGLIANZA DI GENERE)": {
+                "ITALIA": "1°",
+                "MONDO": "2°"
+            }
         },
         {
-            "Classifica": "GREEN METRIC",
-            "PosizioneItalia": "1°",
-            "PosizioneMondo": "12°"
+            "GREEN METRIC": {
+                "ITALIA": "1°",
+                "MONDO": "12°"
+            }
         },
         {
-            "Classifica": "CENSIS",
-            "PosizioneItalia": "1°",
-            "PosizioneMondo": "MEGA ATENEI"
+            "CENSIS": {
+                "ITALIA": "1°",
+                "MEGA ATENEI": null
+            }
         }
     ],
     "Strutture": {
-        "Scuole": "5",
-        "Dipartimenti": "31",
-        "AltreStrutture": "ALTRE STRUTTURE"
+        "5 SCUOLE": null,
+        "31 DIPARTIMENTI": null,
+        "ALTRE STRUTTURE": null
     }
 }

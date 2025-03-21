@@ -1,28 +1,14 @@
 {
     "Principali paesi di destinazione docenti e ricercatori (triennio 20-22)": {
-        "Paese": [
-            "Francia",
-            "Spagna",
-            "Stati Uniti d'America",
-            "Germania",
-            "Gran Bretagna e Irlanda del Nord",
-            "Belgio",
-            "Svizzera",
-            "Portogallo",
-            "Grecia",
-            "Paesi Bassi"
-        ],
-        "Numero": [
-            1450,
-            1135,
-            1052,
-            992,
-            731,
-            585,
-            479,
-            446,
-            423,
-            418
-        ]
+        "Francia": "1.450",
+        "Spagna": "1.135",
+        "Stati Uniti d'America": "1.052",
+        "Germania": "992",
+        "Gran Bretagna e Irlanda del Nord": "731",
+        "Belgio": "585",
+        "Svizzera": "479",
+        "Portogallo": "446",
+        "Grecia": "423",
+        "Paesi Bassi": "418"
     }
 }

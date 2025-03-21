@@ -12,23 +12,21 @@
         "20-24 anni": 10
     },
     "Assunzioni e cessazioni del personale TA a tempo indeterminato": {
-        "Anno": [
-            "2021",
-            "2022",
-            "2023",
-            "Totale"
-        ],
-        "Assunzioni": [
-            176,
-            252,
-            237,
-            665
-        ],
-        "Cessazioni": [
-            112,
-            150,
-            145,
-            407
-        ]
+        "2021": {
+            "Assunzioni": 176,
+            "Cessazioni": 112
+        },
+        "2022": {
+            "Assunzioni": 252,
+            "Cessazioni": 150
+        },
+        "2023": {
+            "Assunzioni": 237,
+            "Cessazioni": 145
+        },
+        "Totale": {
+            "Assunzioni": 665,
+            "Cessazioni": 407
+        }
     }
 }

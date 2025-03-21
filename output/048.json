@@ -1,75 +1,82 @@
 {
-    "Composizione iscrizioni per genere": [
-        {
-            "Area": "STEM",
-            "Anno": "2023/24",
-            "Donne": "35,1%",
-            "Uomini": "64,9%"
+    "Composizione iscrizioni per genere (L, LM e LMCU)": {
+        "STEM": {
+            "2023/24": {
+                "Donne": "35,1%",
+                "Uomini": "64,9%"
+            },
+            "2022/23": {
+                "Donne": "34,1%",
+                "Uomini": "65,9%"
+            },
+            "2021/23": {
+                "Donne": "34,0%",
+                "Uomini": "66,0%"
+            }
         },
-        {
-            "Area": "STEM",
-            "Anno": "2022/23",
-            "Donne": "34,1%",
-            "Uomini": "65,9%"
+        "Non STEM": {
+            "2023/24": {
+                "Donne": "65,0%",
+                "Uomini": "35,0%"
+            },
+            "2022/23": {
+                "Donne": "64,5%",
+                "Uomini": "35,5%"
+            },
+            "2021/23": {
+                "Donne": "64,4%",
+                "Uomini": "35,6%"
+            }
         },
-        {
-            "Area": "STEM",
-            "Anno": "2021/23",
-            "Donne": "34,0%",
-            "Uomini": "66,0%"
-        },
-        {
-            "Area": "Non STEM",
-            "Anno": "2023/24",
-            "Donne": "65,0%",
-            "Uomini": "35,0%"
-        },
-        {
-            "Area": "Non STEM",
-            "Anno": "2022/23",
-            "Donne": "64,5%",
-            "Uomini": "35,5%"
-        },
-        {
-            "Area": "Non STEM",
-            "Anno": "2021/23",
-            "Donne": "64,4%",
-            "Uomini": "35,6%"
-        },
-        {
-            "Area": "Totale",
-            "Anno": "2023/24",
-            "Donne": "56,7%",
-            "Uomini": "43,3%"
-        },
-        {
-            "Area": "Totale",
-            "Anno": "2022/23",
-            "Donne": "56,3%",
-            "Uomini": "43,7%"
-        },
-        {
-            "Area": "Totale",
-            "Anno": "2021/23",
-            "Donne": "56,3%",
-            "Uomini": "43,7%"
+        "Totale": {
+            "2023/24": {
+                "Donne": "56,7%",
+                "Uomini": "43,3%"
+            },
+            "2022/23": {
+                "Donne": "56,3%",
+                "Uomini": "43,7%"
+            },
+            "2021/23": {
+                "Donne": "56,3%",
+                "Uomini": "43,7%"
+            }
         }
-    ],
-    "Iscrizioni ai corsi di studio per regione di residenza": [
-        {
-            "Anno": "2023/24",
+    },
+    "Iscrizioni ai corsi di studio per regione di residenza": {
+        "2023/24": {
             "Emilia-Romagna": "43.455",
             "Altre regioni ed estero": "44.410"
         },
-        {
-            "Anno": "2022/23",
+        "2022/23": {
             "Emilia-Romagna": "43.286",
             "Altre regioni ed estero": "46.398"
         },
-        {
-            "Anno": "2021/22",
+        "2021/22": {
             "Emilia-Romagna": "43.027",
             "Altre regioni ed estero": "46.688"
         }
-    ]
+    },
+    "Iscritti per regione di provenienza (Heat Map Italia; percentuali)": {
+        "Piemonte": "1,4",
+        "Valle d'Aosta": "0,1",
+        "Lombardia": "3,9",
+        "Trentino-Alto Adige": "1,1",
+        "Friuli-Venezia Giulia": "1,1",
+        "Veneto": "4,8",
+        "Liguria": "0,8",
+        "Emilia-Romagna": "49,5",
+        "Toscana": "4,1",
+        "Marche": "5,6",
+        "Umbria": "1,2",
+        "Lazio": "1,8",
+        "Abruzzo": "2,7",
+        "Molise": "0,7",
+        "Campania": "4,2",
+        "Puglia": "2,4",
+        "Basilicata": "1,0",
+        "Calabria": "1,8",
+        "Sicilia": "3,6",
+        "Sardegna": "1,3"
+    }
 }

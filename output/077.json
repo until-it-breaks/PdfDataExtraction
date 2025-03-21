@@ -1,39 +1,19 @@
 {
-    "Job placement": [
-        {
-            "Attività": "Job Incontra Online",
-            "Aziende/Partecipanti": "aziende intervenute",
-            "2023": "3"
+    "Tabella 12 - Job placement": {
+        "Job Incontra Online": {
+            "aziende intervenute": 3,
+            "partecipanti": 236
         },
-        {
-            "Attività": "Job Incontra Online",
-            "Aziende/Partecipanti": "partecipanti",
-            "2023": "236"
+        "Job Incontra (iniziative con singole aziende in presenza)": {
+            "aziende intervenute": 6,
+            "partecipanti": 372
         },
-        {
-            "Attività": "Job Incontra (iniziative con singole aziende in presenza)",
-            "Aziende/Partecipanti": "aziende intervenute",
-            "2023": "6"
+        "Visite aziendali": {
+            "aziende intervenute": 3,
+            "partecipanti": 96
         },
-        {
-            "Attività": "Job Incontra (iniziative con singole aziende in presenza)",
-            "Aziende/Partecipanti": "partecipanti",
-            "2023": "372"
-        },
-        {
-            "Attività": "Visite aziendali",
-            "Aziende/Partecipanti": "aziende intervenute",
-            "2023": "3"
-        },
-        {
-            "Attività": "Visite aziendali",
-            "Aziende/Partecipanti": "partecipanti",
-            "2023": "96"
-        },
-        {
-            "Attività": "Job Corner - Aziende in Ateneo",
-            "Aziende/Partecipanti": "aziende intervenute",
-            "2023": "10"
+        "Job Corner - Aziende in Ateneo": {
+            "aziende intervenute": 10
         }
-    ]
+    }
 }

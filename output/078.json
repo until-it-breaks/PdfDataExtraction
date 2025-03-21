@@ -1,69 +1,29 @@
 {
-    "Eventi e Partecipanti 2023": [
-        {
-            "Attività": "Job day Isi (Ingegneria e scienze informatiche Campus di Cesena)",
-            "Aziende/Partecipanti": "aziende intervenute",
-            "2023": "40"
+    "Eventi e Performance 2023": {
+        "Job day Isi (Ingegneria e scienze informatiche Campus di Cesena)": {
+            "aziende intervenute": 40
         },
-        {
-            "Attività": "Recruiting Day Distretto Chimico Navile",
-            "Aziende/Partecipanti": "aziende intervenute",
-            "2023": "5"
+        "Recruiting Day Distretto Chimico Navile": {
+            "aziende intervenute": 5,
+            "partecipanti": 193
         },
-        {
-            "Attività": "Recruiting Day Distretto Chimico Navile",
-            "Aziende/Partecipanti": "partecipanti",
-            "2023": "193"
+        "Recruiting@DicamWorks": {
+            "aziende intervenute": 8,
+            "partecipanti": 386
         },
-        {
-            "Attività": "Recruiting@DicamWorks",
-            "Aziende/Partecipanti": "aziende intervenute",
-            "2023": "8"
+        "Recruiting Day Scienze mediche veterinarie": {
+            "aziende intervenute": 10,
+            "partecipanti": 74
         },
-        {
-            "Attività": "Recruiting@DicamWorks",
-            "Aziende/Partecipanti": "partecipanti",
-            "2023": "386"
+        "Career Day (in presenza)": {
+            "aziende intervenute": 171,
+            "partecipanti": 3693
         },
-        {
-            "Attività": "Recruiting Day Scienze mediche veterinarie",
-            "Aziende/Partecipanti": "aziende intervenute",
-            "2023": "10"
-        },
-        {
-            "Attività": "Recruiting Day Scienze mediche veterinarie",
-            "Aziende/Partecipanti": "partecipanti",
-            "2023": "74"
-        },
-        {
-            "Attività": "Career Day (in presenza)",
-            "Aziende/Partecipanti": "aziende intervenute",
-            "2023": "171"
-        },
-        {
-            "Attività": "Career Day (in presenza)",
-            "Aziende/Partecipanti": "partecipanti",
-            "2023": "3.693"
-        },
-        {
-            "Attività": "Servizio Job Placement di Ateneo",
-            "Aziende/Partecipanti": "n. annunci postati",
-            "2023": "5.064"
-        },
-        {
-            "Attività": "Servizio Job Placement di Ateneo",
-            "Aziende/Partecipanti": "n. aziende accreditate",
-            "2023": "1.105"
-        },
-        {
-            "Attività": "Servizio Job Placement di Ateneo",
-            "Aziende/Partecipanti": "n. CV consultati",
-            "2023": "64.592"
-        },
-        {
-            "Attività": "Servizio Job Placement di Ateneo",
-            "Aziende/Partecipanti": "totale aziende accreditate",
-            "2023": "9.424"
+        "Servizio Job Placement di Ateneo": {
+            "n. annunci postati": 5064,
+            "n. aziende accreditate": 1105,
+            "n. CV consultati": 64592,
+            "totale aziende accreditate": 9424
         }
-    ]
+    }
 }

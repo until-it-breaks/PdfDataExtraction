@@ -1,60 +1,40 @@
 {
-    "Indicatori_di_sostenibilità": [
-        {
-            "GRI": "GRI 205",
-            "Anticorruzione": "Anticorruzione",
-            "Codice": "205-1",
+    "GRI 205 Anticorruzione": {
+        "205-1": {
             "Descrizione": "Monitoraggio del rischio di corruzione",
             "Raccordo con indice BS 2024 e/o note": "1.1 - Identità, principi e valori"
         },
-        {
-            "GRI": "GRI 205",
-            "Anticorruzione": "Anticorruzione",
-            "Codice": "205-2",
+        "205-2": {
             "Descrizione": "Comunicazione e formazione sulle politiche e procedure di anticorruzione",
             "Raccordo con indice BS 2024 e/o note": "1.1 - Identità, principi e valori"
         },
-        {
-            "GRI": "GRI 205",
-            "Anticorruzione": "Anticorruzione",
-            "Codice": "205-3",
+        "205-3": {
             "Descrizione": "Casi di corruzione verificati e azioni intraprese",
             "Raccordo con indice BS 2024 e/o note": "1.1 - Identità, principi e valori"
-        },
-        {
-            "GRI": "GRI 206",
-            "Comportamento_anticompetitivo": "Comportamento anticompetitivo",
-            "Codice": "206-1",
+        }
+    },
+    "GRI 206 Comportamento anticompetitivo": {
+        "206-1": {
             "Descrizione": "Azioni legali di concorrenza sleale, anti-trust e pratiche monopolistiche",
             "Raccordo con indice BS 2024 e/o note": "NA"
-        },
-        {
-            "GRI": "GRI 207",
-            "Tasse": "Tasse",
-            "Codice": "207-1",
+        }
+    },
+    "GRI 207 Tasse": {
+        "207-1": {
             "Descrizione": "Approccio alle imposte",
             "Raccordo con indice BS 2024 e/o note": "NA"
         },
-        {
-            "GRI": "GRI 207",
-            "Tasse": "Tasse",
-            "Codice": "207-2",
+        "207-2": {
             "Descrizione": "Governance relativa alle imposte, controllo e gestione del rischio",
             "Raccordo con indice BS 2024 e/o note": "NA"
         },
-        {
-            "GRI": "GRI 207",
-            "Tasse": "Tasse",
-            "Codice": "207-3",
+        "207-3": {
             "Descrizione": "Coinvolgimento degli stakeholder e gestione delle preoccupazioni correlate alle imposte",
             "Raccordo con indice BS 2024 e/o note": "NA"
         },
-        {
-            "GRI": "GRI 207",
-            "Tasse": "Tasse",
-            "Codice": "207-4",
+        "207-4": {
             "Descrizione": "Reportistica per Paese",
             "Raccordo con indice BS 2024 e/o note": "NA"
         }
-    ]
+    }
 }

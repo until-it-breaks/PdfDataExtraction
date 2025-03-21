@@ -1,37 +1,42 @@
 {
-    "Distribuzione Personale TA": {
+    "Distribuzione del Personale TA per struttura e area funzionale": {
         "Amministrazione Generale": {
             "Area Am.va - Gest.le": 1257,
             "Area Tecnica": 459,
             "Area Biblioteche": 144,
-            "Area Socio-Sanitaria": 5
+            "Area Socio-Sanitaria": 5,
+            "Totale": 1865
         },
         "Dipartimenti": {
             "Area Am.va - Gest.le": 413,
             "Area Tecnica": 507,
             "Area Biblioteche": 43,
-            "Area Socio-Sanitaria": 37
+            "Area Socio-Sanitaria": 37,
+            "Totale": 1000
         },
         "Campus": {
             "Area Am.va - Gest.le": 96,
             "Area Tecnica": 22,
             "Area Biblioteche": 20,
-            "Area Socio-Sanitaria": null
+            "Area Socio-Sanitaria": null,
+            "Totale": 138
         },
         "Altre Strutture": {
             "Area Am.va - Gest.le": 57,
             "Area Tecnica": 65,
             "Area Biblioteche": 13,
-            "Area Socio-Sanitaria": 2
+            "Area Socio-Sanitaria": 2,
+            "Totale": 137
         },
         "Totale": {
             "Area Am.va - Gest.le": 1823,
             "Area Tecnica": 1053,
             "Area Biblioteche": 220,
-            "Area Socio-Sanitaria": 44
+            "Area Socio-Sanitaria": 44,
+            "Totale": 3140
         }
     },
-    "Personale Tecnico Amministrativo": {
+    "Personale Tecnico Amministrativo per Bologna e Campus Romagna": {
         "Bologna": {
             "2021": 2548,
             "2022": 2671,

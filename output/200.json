@@ -1,29 +1,13 @@
 {
-    "Abbonamenti agevolati": [
-        {
-            "Mezzo": "Autobus",
-            "Beneficiario": "Studenti",
-            "Abbonamenti totali": "17.006, di cui 326 ai campus romagnoli"
-        },
-        {
-            "Mezzo": "Autobus",
-            "Beneficiario": "Studenti Erasmus",
-            "Abbonamenti totali": "229, di cui 60 ai campus romagnoli"
-        },
-        {
-            "Mezzo": "Autobus",
-            "Beneficiario": "Dottorandi, altre categorie",
-            "Abbonamenti totali": "781"
-        },
-        {
-            "Mezzo": "Autobus",
-            "Beneficiario": "Personale (docente e TA)",
-            "Abbonamenti totali": "1.884"
-        },
-        {
-            "Mezzo": "Treno",
-            "Beneficiario": "Personale (docente e TA)",
-            "Abbonamenti totali": "469"
+    "Abbonamenti agevolati al trasporto pubblico": {
+        "Abbonamenti totali": {
+            "Studenti": "17.006, di cui 326 ai campus romagnoli",
+            "Studenti Erasmus": "229, di cui 60 ai campus romagnoli",
+            "Dottorandi, altre categorie": "781",
+            "Personale (docente e TA)": "469"
         }
-    ]
+    },
+    "Flotta ecologica di servizio": {
+        "Numero veicoli": "48"
+    }
 }

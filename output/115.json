@@ -1,25 +1,25 @@
 {
-    "Dati Personale": {
+    "Persone": {
         "Personale Docente e Ricercatore": {
-            "numero": "3.382",
-            "variazione": "+ 6,5%"
+            "Value": 3382,
+            "Variazione": "+6,5%"
         },
         "Personale Tecnico Amministrativo": {
-            "numero": "3.242",
-            "variazione": "+2,8%"
+            "Value": 3242,
+            "Variazione": "+2,8%"
         },
-        "Ore di Formazione Fruite dal Personale nel 2023": {
-            "numero": "96.721",
-            "variazione": "+19,8%"
+        "Ore di Formazione fruite dal personale nel 2023": {
+            "Value": 96721,
+            "Variazione": "+19,8%"
         },
-        "Welfare Aziendale per il Personale TA": {
-            "importo": "2.330.000€"
+        "Welfare aziendale per il personale TA": {
+            "Value": "2.330.000€"
         },
         "Accordi di Smart Working": {
-            "numero": "311"
+            "Value": 311
         },
         "Progetti di Telelavoro": {
-            "numero": "1.963"
+            "Value": 1963
         }
     }
 }

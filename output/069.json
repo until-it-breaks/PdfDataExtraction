@@ -1,6 +1,9 @@
 {
-    "Interventi a favore degli studenti": {
-        "Anno 2022/2023 - Valorizzazione del merito - Studenti beneficiari": "512",
-        "Anno 2023 - Assegni di tutorato erogati": "615"
-    }
+    "Interventi di valorizzazione del merito": {
+        "studenti che ne hanno beneficiato": {
+            "anno": "2022/2023",
+            "numero": "512"
+        }
+    },
+    "Assegni di tutorato erogati nel 2023": "615"
 }

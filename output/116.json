@@ -1,20 +1,20 @@
 {
     "Personale Docente e Ricercatore": {
-        "Docenti": {
-            "Compito didattico tempo pieno": "350 ore annue (almeno 120 didattica frontale)",
-            "Compito didattico tempo definito": "250 ore annue (almeno 80 didattica frontale)"
+        "DOCENTI": {
+            "COMPITO DIDATTICO TEMPO PIENO": "350 ore annue (almeno 120 didattica frontale)",
+            "COMPITO DIDATTICO TEMPO DEFINITO": "250 ore annue (almeno 80 didattica frontale)"
         },
-        "Ricercatori Junior": {
-            "Compito didattico tempo pieno": "350 ore annue (massimo 60 didattica frontale)",
-            "Compito didattico tempo definito": "200 ore annue (massimo 60 di didattica frontale)"
+        "RICERCATORI JUNIOR": {
+            "COMPITO DIDATTICO TEMPO PIENO": "350 ore annue (massimo 60 didattica frontale)",
+            "COMPITO DIDATTICO TEMPO DEFINITO": "200 ore annue (massimo 60 di didattica frontale)"
         },
-        "Ricercatori Senior": {
-            "Compito didattico tempo pieno": "350 ore annue (almeno 60 didattica frontale)",
-            "Compito didattico tempo definito": "---"
+        "RICERCATORI SENIOR": {
+            "COMPITO DIDATTICO TEMPO PIENO": "350 ore annue (almeno 60 didattica frontale)",
+            "COMPITO DIDATTICO TEMPO DEFINITO": "---"
         },
-        "Ricercatori in Tenure Track": {
-            "Compito didattico tempo pieno": "350 ore annue (almeno 60 didattica frontale)",
-            "Compito didattico tempo definito": "200 ore annue (massimo 60 didattica frontale)"
+        "RICERCATORI IN TENURE TRACK": {
+            "COMPITO DIDATTICO TEMPO PIENO": "350 ore annue (almeno 60 didattica frontale)",
+            "COMPITO DIDATTICO TEMPO DEFINITO": "200 ore annue (massimo 60 didattica frontale)"
         }
     }
 }

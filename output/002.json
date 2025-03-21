@@ -1,1 +1,9 @@
-{}
+{
+    "Impatto Stampa": {
+        "CO2 equivalente": "1.105 kg",
+        "Metodo di calcolo": "IPCC GWP con orizzonte a 100 anni",
+        "Sequestro CO2 albero medio": "10-20 kg CO2 all'anno",
+        "Vita media albero": "30 ai 50 anni",
+        "Alberi da piantare": "2-4 alberi"
+    }
+}

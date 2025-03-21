@@ -1,14 +1,24 @@
 {
-    "Formazione_Sicurezza_2023": {
-        "Corsi_studenti_rischio_medio": 140,
-        "Corsi_studenti_rischio_alto": 2,
-        "Corsi_addetti_locali_sicurezza_rischio_medio": 38,
-        "Corsi_addetti_locali_sicurezza_rischio_alto": 1,
-        "Partecipanti_formazione_emergenza": 213,
-        "Edizioni_formazione_emergenza": 18,
-        "Corsi_attrezzature_pericolose_enti_esterni": 20,
-        "Ore_formazione_totali": 442350,
-        "Ore_formazione_e-learning": 87724,
-        "Dipendenti_vaccinati": 1642
+    "Formazione": {
+        "Studenti": {
+            "Corsi di formazione per il rischio medio in italiano e inglese": 140,
+            "Corsi per il rischio alto": 2
+        },
+        "Addetti Locali alla Sicurezza": {
+            "Corsi per il rischio medio": 38,
+            "Corsi per il rischio alto": 1
+        },
+        "Personale addetto all'emergenza": {
+            "Partecipanti": 213,
+            "Edizioni": 18
+        },
+        "Formazione sull'uso di attrezzature pericolose da enti esterni": {
+            "Totale corsi organizzati": 20
+        },
+        "Totale ore di formazione in materia di salute e sicurezza (escluse le ore fruite dagli studenti)": 442350,
+        "Ore in modalità e-learning": 87724
+    },
+    "Vaccinazione antinfluenzale (Ottobre-Dicembre 2023)": {
+        "Dipendenti vaccinati gratuitamente": 1642
     }
 }

@@ -1,6 +1,10 @@
 {
-    "CUBO": {
-        "Soci iscritti": "900",
-        "Partecipanti agli eventi": "3.000"
+    "Circolo Università di Bologna (CUBO)": {
+        "Soci": {
+            "SOCI ISCRITTI": "900"
+        },
+        "Partecipanti": {
+            "PARTECIPANTI AGLI EVENTI": "3.000"
+        }
     }
 }

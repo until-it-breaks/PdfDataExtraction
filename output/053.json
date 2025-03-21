@@ -1,87 +1,74 @@
 {
-    "Titolo": "Laurea e condizione occupazionale",
-    "Laurea magistrale": [
-        {
-            "Anno": "2023",
-            "Ente": "Unibo",
-            "Occupati": "78,3%",
-            "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "3,3%",
-            "Né occupati né impegnati in formazione post-laurea": "18,4%",
-            "Laureati intervistati": "5.181"
+    "Laurea magistrale": {
+        "2023": {
+            "Unibo": {
+                "Occupati": "78,3%",
+                "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "3,3%",
+                "Né occupati né impegnati in formazione post-laurea": "18,4%",
+                "Laureati intervistati": "5.181"
+            },
+            "Italia*": {
+                "Occupati": "77,1%",
+                "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "4,1%",
+                "Né occupati né impegnati in formazione post-laurea": "18,8%",
+                "Laureati intervistati": "67.593"
+            },
+            "Grandi Atenei*": {
+                "Occupati": "77,3%",
+                "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "4,2%",
+                "Né occupati né impegnati in formazione post-laurea": "18,5%",
+                "Laureati intervistati": "22.264"
+            }
         },
-        {
-            "Anno": "2023",
-            "Ente": "Italia*",
-            "Occupati": "77,1%",
-            "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "4,1%",
-            "Né occupati né impegnati in formazione post-laurea": "18,8%",
-            "Laureati intervistati": "67.593"
-        },
-        {
-            "Anno": "2023",
-            "Ente": "Grandi Atenei*",
-            "Occupati": "77,3%",
-            "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "4,2%",
-            "Né occupati né impegnati in formazione post-laurea": "18,5%",
-            "Laureati intervistati": "22.264"
-        },
-        {
-            "Anno": "2021 2022",
-            "Ente": "Unibo",
-            "Occupati": "79,5%",
-            "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "3,6%",
-            "Né occupati né impegnati in formazione post-laurea": "17,0%",
-            "Laureati intervistati": "5.189"
-        },
-        {
-            "Anno": "2021 2022",
-            "Ente": "Unibo",
-            "Occupati": "75,6%",
-            "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "4,5%",
-            "Né occupati né impegnati in formazione post-laurea": "20,0%",
-            "Laureati intervistati": "4.348"
+        "2021 2022": {
+            "Unibo": {
+                "Occupati": "79,5%",
+                "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "3,6%",
+                "Né occupati né impegnati in formazione post-laurea": "17,0%",
+                "Laureati intervistati": "5.189"
+            },
+            "Unibo_2": {
+                "Occupati": "75,6%",
+                "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "4,5%",
+                "Né occupati né impegnati in formazione post-laurea": "20,0%",
+                "Laureati intervistati": "4.348"
+            }
         }
-    ],
-    "Laurea magistrale a ciclo unico": [
-        {
-            "Anno": "2023",
-            "Ente": "Unibo",
-            "Occupati": "73,8%",
-            "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "13,3%",
-            "Né occupati né impegnati in formazione post-laurea": "12,9%",
-            "Laureati intervistati": "1.279"
+    },
+    "Laurea magistrale a ciclo unico": {
+        "2023": {
+            "Unibo": {
+                "Occupati": "73,8%",
+                "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "13,3%",
+                "Né occupati né impegnati in formazione post-laurea": "12,9%",
+                "Laureati intervistati": "1.279"
+            },
+            "Italia*": {
+                "Occupati": "74,2%",
+                "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "11,7%",
+                "Né occupati né impegnati in formazione post-laurea": "14,1%",
+                "Laureati intervistati": "22.806"
+            },
+            "Grandi Atenei*": {
+                "Occupati": "75,7%",
+                "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "11,2%",
+                "Né occupati né impegnati in formazione post-laurea": "13,1%",
+                "Laureati intervistati": "6.737"
+            }
         },
-        {
-            "Anno": "2023",
-            "Ente": "Italia*",
-            "Occupati": "74,2%",
-            "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "11,7%",
-            "Né occupati né impegnati in formazione post-laurea": "14,1%",
-            "Laureati intervistati": "22.806"
-        },
-        {
-            "Anno": "2023",
-            "Ente": "Grandi Atenei*",
-            "Occupati": "75,7%",
-            "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "11,2%",
-            "Né occupati né impegnati in formazione post-laurea": "13,1%",
-            "Laureati intervistati": "6.737"
-        },
-        {
-            "Anno": "2021 2022",
-            "Ente": "Unibo",
-            "Occupati": "76,9%",
-            "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "12,9%",
-            "Né occupati né impegnati in formazione post-laurea": "10,2%",
-            "Laureati intervistati": "1.366"
-        },
-        {
-            "Anno": "2021 2022",
-            "Ente": "Unibo",
-            "Occupati": "69,5%",
-            "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "16,0%",
-            "Né occupati né impegnati in formazione post-laurea": "14,5%",
-            "Laureati intervistati": "1.378"
+        "2021 2022": {
+            "Unibo": {
+                "Occupati": "76,9%",
+                "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "12,9%",
+                "Né occupati né impegnati in formazione post-laurea": "10,2%",
+                "Laureati intervistati": "1.366"
+            },
+            "Unibo_2": {
+                "Occupati": "69,5%",
+                "Non occupati ma impegnati in formazione post-laurea (non retribuita)": "16,0%",
+                "Né occupati né impegnati in formazione post-laurea": "14,5%",
+                "Laureati intervistati": "1.378"
+            }
         }
-    ]
+    }
 }

@@ -8,10 +8,28 @@ from google import genai
 
 OUTPUT_FOLDER_NAME = "output"
 PROMPT = (
-    "Analizza l'immagine. Estrai dati da tabelle, grafici o infografiche, se presenti, in formato JSON valido. "
-    "Se presenti usa le chiavi in lingua nativa"
-    "Cerca di assegnare un titolo significativo ed evita di usare prefissi come figura e tabella"
-    "Se non trovi dati rilevanti, ma solo intestazioni, titoli, immagini, indici, introduzioni o testo non strutturato, restituisci un JSON vuoto."
+    """
+    Analizza l'immagine fornita, che fa parte di un bilancio di sostenibilità. Il tuo obiettivo è estrarre dati strutturati rilevanti per la valutazione delle performance di sostenibilità dell'azienda.
+
+    Criteri di Rilevanza:
+
+    * Concentrati su tabelle, grafici e infografiche che presentano dati numerici (ad esempio, percentuali, valori monetari, indicatori di performance).
+    * Escludi slide che contengono esclusivamente:
+        * Indici o sommari
+        * Informazioni di contatto
+        * Introduzioni generiche
+        * Immagini senza dati di supporto
+        * Solo titoli o intestazioni
+        * Crediti o ringraziamenti
+
+    Formato di Output:
+
+    * Estrai i dati strutturati in formato JSON valido.
+    * Utilizza le chiavi nella lingua originale dell'immagine.
+    * Annida le chiavi se necessario per rappresentare la struttura dei dati.
+    * Assegna titoli significativi ai dati estratti, evitando prefissi come "figura" o "tabella".
+    * Se l'immagine non soddisfa i criteri di rilevanza sopra indicati, restituisci un JSON vuoto: `{}`.
+    """
 )
 MODEL = "gemini-2.0-flash"
 

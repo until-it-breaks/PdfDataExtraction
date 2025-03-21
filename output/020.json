@@ -1,5 +1,4 @@
 {
-    "Titolo": "Dati relativi ai Dipartimenti",
     "Dipartimenti": [
         {
             "Area": "AREA SCIENTIFICA",
@@ -9,7 +8,7 @@
         },
         {
             "Area": "AREA SCIENTIFICA",
-            "Dipartimento": "2. Chimica industriale «Toso Montanari>> - CHIMIND",
+            "Dipartimento": "2. Chimica industriale «Toso Montanari» - CHIMIND",
             "Docenti e ricercatori": 74,
             "Tecnici amministrativi": 32
         },
@@ -44,7 +43,7 @@
             "Tecnici amministrativi": 9
         },
         {
-            "Area": "AREA TECNOLOGICA",
+            "Area": "AREA SCIENTIFICA",
             "Dipartimento": "8. Architettura - DA",
             "Docenti e ricercatori": 61,
             "Tecnici amministrativi": 15

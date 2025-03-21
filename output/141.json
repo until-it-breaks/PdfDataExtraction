@@ -1,12 +1,12 @@
 {
-    "DatiSocietà": {
-        "Borse di studio finanziate dall'esterno": 142,
-        "Eventi promossi nel 2023": 1323,
-        "Patrimonio documentario (libri, periodici, altro)": 5413519,
-        "Famiglie brevettuali": 310,
-        "Spin off e startup": 59,
-        "Articoli e eventi (da Unibo Magazine)": 2016,
-        "Visitatori musei": 175641,
-        "Corsi di alta formazione e formazione continua": 65
+    "Società": {
+        "BORSE DI STUDIO FINANZIATE DALL'ESTERNO": 142,
+        "EVENTI PROMOSSI NEL 2023": 1323,
+        "PATRIMONIO DOCUMENTARIO (LIBRI, PERIODICI, ALTRO)": 5413519,
+        "FAMIGLIE BREVETTUALI": 310,
+        "SPIN OFF E STARTUP": 59,
+        "ARTICOLI E EVENTI (DA UNIBO MAGAZINE)": 2016,
+        "VISITATORI MUSEI": 175641,
+        "CORSI DI ALTA FORMAZIONE E FORMAZIONE CONTINUA": 65
     }
 }

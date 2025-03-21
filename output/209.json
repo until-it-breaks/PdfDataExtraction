@@ -1,60 +1,32 @@
 {
-    "GRI 300 Aspetti Ambientali": [
-        {
-            "GRI": "GRI 301",
-            "Materiali": "Materiali",
-            "Indicatore": "301-1",
-            "Descrizione": "Materie prime utilizzate per peso o volume",
-            "Raccordo con indice BS 2024 e/o note": "8.1 - Politiche energetiche e i consumi"
+    "Tavola GRI": {
+        "GRI 301 Materiali": {
+            "301-1": {
+                "Materie prime utilizzate per peso o volume": "8.1 - Politiche energetiche e i consumi"
+            },
+            "301-2": {
+                "Materiali riciclati utilizzati": "8.3 - Azioni a favore della sostenibilità"
+            },
+            "301-3": {
+                "Prodotti venduti e relativo materiale di imballaggio": "NA. L'Ateneo svolge un'attività di servizio che non richiede un utilizzo significativo di materiali di imballaggio"
+            }
         },
-        {
-            "GRI": "GRI 301",
-            "Materiali": "Materiali",
-            "Indicatore": "301-2",
-            "Descrizione": "Materiali riciclati utilizzati",
-            "Raccordo con indice BS 2024 e/o note": "8.3 - Azioni a favore della sostenibilità"
-        },
-        {
-            "GRI": "GRI 301",
-            "Materiali": "Materiali",
-            "Indicatore": "301-3",
-            "Descrizione": "Prodotti venduti e relativo materiale di imballaggio",
-            "Raccordo con indice BS 2024 e/o note": "NA. L'Ateneo svolge un'attività di servizio che non richiede un utilizzo significativo di materiali di imballaggio"
-        },
-        {
-            "GRI": "GRI 302",
-            "Energia": "Energia",
-            "Indicatore": "302-1",
-            "Descrizione": "Consumo di energia all'interno dell'organizzazione",
-            "Raccordo con indice BS 2024 e/o note": "8.1 - Politiche energetiche e i consumi"
-        },
-        {
-            "GRI": "GRI 302",
-            "Energia": "Energia",
-            "Indicatore": "302-2",
-            "Descrizione": "Consumo di energia esterno all'organizzazione",
-            "Raccordo con indice BS 2024 e/o note": "8.1 - Politiche energetiche e i consumi"
-        },
-        {
-            "GRI": "GRI 302",
-            "Energia": "Energia",
-            "Indicatore": "302-3",
-            "Descrizione": "Intensità energetica",
-            "Raccordo con indice BS 2024 e/o note": "8.1 - Politiche energetiche e i consumi"
-        },
-        {
-            "GRI": "GRI 302",
-            "Energia": "Energia",
-            "Indicatore": "302-4",
-            "Descrizione": "Riduzione dei consumi energetici",
-            "Raccordo con indice BS 2024 e/o note": "8.1 - Politiche energetiche e i consumi"
-        },
-        {
-            "GRI": "GRI 302",
-            "Energia": "Energia",
-            "Indicatore": "302-5",
-            "Descrizione": "Aumento dell'efficienza energetica per prodotti e servizi",
-            "Raccordo con indice BS 2024 e/o note": "8.1 - Politiche energetiche e i consumi"
+        "GRI 302 Energia": {
+            "302-1": {
+                "Consumo di energia all'interno dell'organizzazione": "8.1 - Politiche energetiche e i consumi"
+            },
+            "302-2": {
+                "Consumo di energia esterno all'organizzazione": "8.1 - Politiche energetiche e i consumi"
+            },
+            "302-3": {
+                "Intensità energetica": "8.1 - Politiche energetiche e i consumi"
+            },
+            "302-4": {
+                "Riduzione dei consumi energetici": "8.1 - Politiche energetiche e i consumi"
+            },
+            "302-5": {
+                "Aumento dell'efficienza energetica per prodotti e servizi": "8.1 - Politiche energetiche e i consumi"
+            }
         }
-    ]
+    }
 }

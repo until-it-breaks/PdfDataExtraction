@@ -1,13 +1,11 @@
 {
-    "Patrimonio arboreo": {
-        "Anno": "2023",
-        "Alberi censiti": "2.810",
-        "Alberi abbattuti (biennio 2022-2023)": "40"
+    "Patrimonio Arboreo di Ateneo": {
+        "Alberi censiti e georeferenziati nel 2023": "2.810",
+        "Alberi abbattuti nel biennio 2022-2023": "40"
     },
     "LaBo2030": {
-        "Numero classi": "8",
-        "Numero scuole": "4",
-        "Numero studenti": "161",
-        "Anno": "2023"
+        "Studenti partecipanti": "161",
+        "Classi coinvolte": "8",
+        "Scuole coinvolte": "4"
     }
 }

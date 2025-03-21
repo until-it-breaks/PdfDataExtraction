@@ -1,39 +1,32 @@
 {
-    "Tavola GRI 305": [
-        {
-            "GRI 305": "305-1",
+    "Tavola GRI - Emissioni": {
+        "305-1": {
             "Emissioni": "Emissioni dirette di gas ad effetto serra",
             "Raccordo con indice BS 2024 e/o note": "8.3 Azioni a favore della sostenibilità (Emissioni e politiche di trasporto"
         },
-        {
-            "GRI 305": "305-2",
+        "305-2": {
             "Emissioni": "Emissioni indirette di gas ad effetto serra",
             "Raccordo con indice BS 2024 e/o note": "8.3 Azioni a favore della sostenibilità (Emissioni e politiche di trasporto"
         },
-        {
-            "GRI 305": "305-3",
+        "305-3": {
             "Emissioni": "Altre emissioni indirette di gas ad effetto serra",
             "Raccordo con indice BS 2024 e/o note": "8.3 Azioni a favore della sostenibilità (Emissioni e politiche di trasporto"
         },
-        {
-            "GRI 305": "305-4",
+        "305-4": {
             "Emissioni": "Intensità delle emissioni di gas serra",
             "Raccordo con indice BS 2024 e/o note": "8.1 Politiche energetiche e consumi"
         },
-        {
-            "GRI 305": "305-5",
+        "305-5": {
             "Emissioni": "Riduzione delle emissioni di gas serra",
             "Raccordo con indice BS 2024 e/o note": "8.1 Politiche energetiche e consumi\n8.3 Azioni a favore della sostenibilità (Emissioni e politiche di trasporto)"
         },
-        {
-            "GRI 305": "305-6",
+        "305-6": {
             "Emissioni": "Emissioni di sostanze nocive per lo strato di ozono",
             "Raccordo con indice BS 2024 e/o note": "8.1 Politiche energetiche e consumi\n8.3 Azioni a favore della sostenibilità (Emissioni e politiche di trasporto)"
         },
-        {
-            "GRI 305": "305-7",
+        "305-7": {
             "Emissioni": "Altre emissioni in atmosfera",
             "Raccordo con indice BS 2024 e/o note": "8.1 Politiche energetiche e consumi\n8.3 Azioni a favore della sostenibilità (Emissioni e politiche di trasporto)"
         }
-    ]
+    }
 }

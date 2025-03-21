@@ -1,48 +1,28 @@
 {
-    "Dipartimenti eccellenti - Finanziamenti 23-27": [
-        {
-            "Dipartimento": "Scienze Mediche e Chirurgiche",
-            "Finanziamento": "9.095.590"
-        },
-        {
-            "Dipartimento": "Scienze e Tecnologie Agro-alimentari",
-            "Finanziamento": "9.095.590"
-        },
-        {
-            "Dipartimento": "Ingegneria \"Guglielmo Marconi\"",
-            "Finanziamento": "9.095.590"
-        },
-        {
-            "Dipartimento": "Chimica \"Giacomo Ciamician\"",
-            "Finanziamento": "8.438.960"
-        },
-        {
-            "Dipartimento": "Storia, Culture e Civiltà",
-            "Finanziamento": "7.879.605"
-        },
-        {
-            "Dipartimento": "Scienze Politiche e Sociali",
-            "Finanziamento": "7.879.605"
-        },
-        {
-            "Dipartimento": "Scienze Giuridiche",
-            "Finanziamento": "7.879.605"
-        },
-        {
-            "Dipartimento": "Scienze Economiche",
-            "Finanziamento": "7.879.605"
-        },
-        {
-            "Dipartimento": "Delle Arti",
-            "Finanziamento": "7.222.970"
-        },
-        {
-            "Dipartimento": "Filolofgia Classica e Italianistica",
-            "Finanziamento": "7.222.970"
-        },
-        {
-            "Dipartimento": "Psicologia \"Renzo Canestrari\"",
-            "Finanziamento": "6.566.335"
-        }
-    ]
+    "Dipartimenti eccellenti - Finanziamenti 23-27": {
+        "Scienze Mediche e Chirurgiche": "9.095.590",
+        "Scienze e Tecnologie Agro-alimentari": "9.095.590",
+        "Ingegneria \"Guglielmo Marconi\"": "9.095.590",
+        "Chimica \"Giacomo Ciamician\"": "8.438.960",
+        "Storia, Culture e Civiltà": "7.879.605",
+        "Scienze Politiche e Sociali": "7.879.605",
+        "Scienze Giuridiche": "7.879.605",
+        "Scienze Economiche": "7.879.605",
+        "Delle Arti": "7.222.970",
+        "Filolofgia Classica e Italianistica": "7.222.970",
+        "Psicologia \"Renzo Canestrari\"": "6.566.335"
+    },
+    "Progetti di Rilevante Interesse Nazionale": {
+        "progetti PRIN finanziati nel 2023": "515",
+        "finanziamento totale": "38 milioni di euro",
+        "Unibo con ruolo di coordinatore": "58%"
+    },
+    "Progetti FIS (Fondo Italiano per la Scienza)": {
+        "progetti presentati da Università di Bologna": "134",
+        "contributo totale richiesto": "234,4 milioni di euro"
+    },
+    "Progetti FISA (Fondo Italiano per le Scienze Applicate)": {
+        "progetti presentati da Università di Bologna": "7",
+        "finanziamento totale richiesto": "44,7 milioni di euro"
+    }
 }

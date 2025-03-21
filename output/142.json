@@ -1,7 +1,9 @@
 {
-    "Convenzioni_tirocini_2023": {
-        "Totale": "13.000",
-        "Nuove": "3.388",
-        "Strutture_internazionali": "239"
+    "Accordi e convenzioni": {
+        "2023": {
+            "convenzioni per tirocini curriculari": "circa 13.000",
+            "nuove convenzioni": "3.388",
+            "convenzioni con strutture internazionali": "239"
+        }
     }
 }

@@ -1,30 +1,17 @@
 {
     "Ore di formazione per area tematica": {
-        "Area Tematica": [
-            "Area comunicazione",
-            "Area controllo di gestione",
-            "Area economico-finanziaria",
-            "Area giuridico-normativa",
-            "Area informatica e telematica",
-            "Area internazionale",
-            "Area linguistica",
-            "Area manageriale",
-            "Area organizzazione e personale",
-            "Area tecnico-specialistica",
-            "Totale complessivo"
-        ],
-        "Ore Fruite": [
-            "1.687",
-            "1.434",
-            "13.816",
-            "22.470",
-            "22.267",
-            "2.248",
-            "11.271",
-            "4.421",
-            "7.464",
-            "9.643",
-            "96.721"
-        ]
+        "Area Tematica": {
+            "Area comunicazione": "1.687",
+            "Area controllo di gestione": "1.434",
+            "Area economico-finanziaria": "13.816",
+            "Area giuridico-normativa": "22.470",
+            "Area informatica e telematica": "22.267",
+            "Area internazionale": "2.248",
+            "Area linguistica": "11.271",
+            "Area manageriale": "4.421",
+            "Area organizzazione e personale": "7.464",
+            "Area tecnico-specialistica": "9.643",
+            "Totale complessivo": "96.721"
+        }
     }
 }

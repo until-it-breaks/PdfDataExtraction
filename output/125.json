@@ -1,22 +1,21 @@
 {
-    "Procedure PEV concluse al 31/12/2023 per categoria": [
-        {
-            "Area": "Biblioteche (risorse elettroniche)",
-            "Categoria": "D",
-            "Posti": 2,
-            "Posizioni coperte": 2
-        },
-        {
-            "Area": "Amministrativa (Resp. Settore)",
-            "Categoria": "EP",
-            "Posti": 1,
-            "Posizioni coperte": 1
-        },
-        {
-            "Area": "Amministrativa (Coord. filiera didattica)",
-            "Categoria": "EP",
-            "Posti": 2,
-            "Posizioni coperte": 2
+    "Tabella 17 - Procedure PEV concluse al 31/12/2023 per categoria": {
+        "Area": {
+            "Biblioteche (risorse elettroniche)": {
+                "Categoria": "D",
+                "Posti": 2,
+                "Posizioni coperte": 2
+            },
+            "Amministrativa (Resp. Settore)": {
+                "Categoria": "EP",
+                "Posti": 1,
+                "Posizioni coperte": 1
+            },
+            "Amministrativa (Coord. filiera didattica)": {
+                "Categoria": "EP",
+                "Posti": 2,
+                "Posizioni coperte": 2
+            }
         }
-    ]
+    }
 }

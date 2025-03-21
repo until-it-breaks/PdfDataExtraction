@@ -1,59 +1,48 @@
 {
-    "Distribuzione del personale per genere": [
-        {
-            "Categoria": "Personale Docente Ordinario",
+    "Distribuzione del personale per genere": {
+        "Personale Docente Ordinario": {
             "Donne": "30%",
             "Uomini": "70%"
         },
-        {
-            "Categoria": "Personale Docente Associato",
+        "Personale Docente Associato": {
             "Donne": "45%",
             "Uomini": "55%"
         },
-        {
-            "Categoria": "Personale Ricercatore",
+        "Personale Ricercatore": {
             "Donne": "44%",
             "Uomini": "56%"
         },
-        {
-            "Categoria": "Docenti a contratto",
+        "Docenti a contratto": {
             "Donne": "44%",
             "Uomini": "56%"
         },
-        {
-            "Categoria": "Tutor",
+        "Tutor": {
             "Donne": "50%",
             "Uomini": "50%"
         },
-        {
-            "Categoria": "Dirigenti",
+        "Dirigenti": {
             "Donne": "61%",
             "Uomini": "39%"
         },
-        {
-            "Categoria": "Personale TA Cat. EP",
+        "Personale TA Cat. EP": {
             "Donne": "63%",
             "Uomini": "37%"
         },
-        {
-            "Categoria": "Personale TA Cat. D",
+        "Personale TA Cat. D": {
             "Donne": "67%",
             "Uomini": "33%"
         },
-        {
-            "Categoria": "Personale TA Cat. C",
+        "Personale TA Cat. C": {
             "Donne": "66%",
             "Uomini": "34%"
         },
-        {
-            "Categoria": "Personale TA Cat. B",
+        "Personale TA Cat. B": {
             "Donne": "56%",
             "Uomini": "44%"
         },
-        {
-            "Categoria": "Totale",
+        "Totale": {
             "Donne": "53%",
             "Uomini": "47%"
         }
-    ]
+    }
 }

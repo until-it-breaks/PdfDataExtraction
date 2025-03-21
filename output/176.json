@@ -1,7 +1,9 @@
 {
-    "Telegram - Lingue impostate": {
-        "Italiano": "56%",
-        "Inglese": "39%",
-        "Altre lingue": "5%"
+    "Telegram": {
+        "Lingua": {
+            "Italiano": "56%",
+            "Inglese": "39%",
+            "Altre lingue": "5%"
+        }
     }
 }

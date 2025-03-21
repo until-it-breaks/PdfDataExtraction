@@ -1,102 +1,79 @@
 {
     "Offerta formativa 2023/2024 nel Multicampus": {
-        "Corsi, iscrizioni e lauree": [
-            {
-                "Bologna": "79",
-                "Cesena": "10",
-                "Forlì": "9",
-                "Ravenna": "11",
-                "Rimini": "9",
-                "Tipologia": "Corsi di Laurea e Laurea magistrale a ciclo unico"
+        "Corsi, iscrizioni e lauree": {
+            "Corsi di Laurea e Laurea magistrale a ciclo unico": {
+                "Bologna": 79,
+                "Cesena": 10,
+                "Forlì": 9,
+                "Ravenna": 11,
+                "Rimini": 9
             },
-            {
-                "Bologna": "102",
-                "Cesena": "9",
-                "Forlì": "12",
-                "Ravenna": "8",
-                "Rimini": "11",
-                "Tipologia": "Corsi di Laurea magistrale"
+            "Corsi di Laurea magistrale": {
+                "Bologna": 102,
+                "Cesena": 9,
+                "Forlì": 12,
+                "Ravenna": 8,
+                "Rimini": 11
             },
-            {
-                "Bologna": "181",
-                "Cesena": "19",
-                "Forlì": "21",
-                "Ravenna": "19",
-                "Rimini": "20",
-                "Tipologia": "Totale corsi di studio"
+            "Totale corsi di studio": {
+                "Bologna": 181,
+                "Cesena": 19,
+                "Forlì": 21,
+                "Ravenna": 19,
+                "Rimini": 20
             },
-            {
-                "Bologna": "31",
-                "Cesena": "3",
-                "Forlì": "8",
-                "Ravenna": "7",
-                "Rimini": "-",
-                "Tipologia": "di cui: a doppi diplomi"
+            "di cui: a doppi diplomi": {
+                "Bologna": 14.122,
+                "Cesena": 338,
+                "Forlì": 1.491,
+                "Ravenna": 482
             },
-            {
-                "Bologna": "46",
-                "Cesena": "1",
-                "Forlì": "3",
-                "Ravenna": "1",
-                "Rimini": "1",
-                "Tipologia": "Dottorati"
+            "Dottorati": {
+                "Bologna": 46,
+                "Cesena": 1,
+                "Forlì": 3,
+                "Ravenna": 1,
+                "Rimini": 1
             },
-            {
-                "Bologna": "78",
-                "Cesena": "1",
-                "Forlì": "3",
-                "Ravenna": "4",
-                "Rimini": "-",
-                "Tipologia": "Master"
+            "Master": {
+                "Bologna": 78,
+                "Cesena": 1,
+                "Forlì": 3,
+                "Ravenna": 4
             },
-            {
-                "Bologna": "26",
-                "Cesena": "-",
-                "Forlì": "1",
-                "Ravenna": "1",
-                "Rimini": "-",
-                "Tipologia": "Corsi di alta formazione"
+            "Corsi di alta formazione": {
+                "Bologna": 26,
+                "Forlì": 1,
+                "Ravenna": 1
             },
-            {
-                "Bologna": "19.443",
-                "Cesena": "1.528",
-                "Forlì": "2.414",
-                "Ravenna": "1.163",
-                "Rimini": "1.522",
-                "Tipologia": "Immatricolazioni"
+            "Immatricolazioni": {
+                "Bologna": 19.443,
+                "Cesena": 1.528,
+                "Forlì": 2.414,
+                "Ravenna": 1.163,
+                "Rimini": 1.522
             },
-            {
-                "Bologna": "67.431",
-                "Cesena": "4.976",
-                "Forlì": "6.672",
-                "Ravenna": "3.980",
-                "Rimini": "4.806",
-                "Tipologia": "Iscrizioni"
+            "Iscrizioni": {
+                "Bologna": 67.431,
+                "Cesena": 4.976,
+                "Forlì": 6.672,
+                "Ravenna": 3.98,
+                "Rimini": 4.806
             },
-            {
-                "Bologna": "17.912",
-                "Cesena": "1.260",
-                "Forlì": "1.783",
-                "Ravenna": "819",
-                "Rimini": "1.283",
-                "Tipologia": "di cui: a corsi di Laurea magistrale"
+            "di cui: a corsi di Laurea magistrale": {
+                "Bologna": 17.912,
+                "Cesena": 1.26,
+                "Forlì": 1.783,
+                "Ravenna": 819,
+                "Rimini": 1.283
             },
-            {
-                "Bologna": "14.122",
-                "Cesena": "338",
-                "Forlì": "1.491",
-                "Ravenna": "482",
-                "Rimini": "-",
-                "Tipologia": "di cui: a doppi diplomi"
-            },
-            {
-                "Bologna": "14.836",
-                "Cesena": "1.138",
-                "Forlì": "1.774",
-                "Ravenna": "734",
-                "Rimini": "1.301",
-                "Tipologia": "Lauree*"
+            "Lauree*": {
+                "Bologna": 14.836,
+                "Cesena": 1.138,
+                "Forlì": 1.774,
+                "Ravenna": 734,
+                "Rimini": 1.301
             }
-        ]
+        }
     }
 }

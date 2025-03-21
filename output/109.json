@@ -1,64 +1,31 @@
 {
-    "Visiting Professors e PhD": [
-        {
-            "Categoria": "Docenti",
+    "Visiting Professors e PhD": {
+        "Docenti": {
             "2021": 138,
             "2022": 405,
             "2023": 425
         },
-        {
-            "Categoria": "Dottorandi",
+        "Dottorandi": {
             "2021": 141,
             "2022": 239,
             "2023": 290
         },
-        {
-            "Categoria": "Totale",
+        "Totale": {
             "2021": 279,
             "2022": 644,
             "2023": 715
         }
-    ],
-    "Paesi di provenienza Visiting Professors e PhD (triennio 20-22)": [
-        {
-            "Paese": "Spagna",
-            "Valore": 231
-        },
-        {
-            "Paese": "Stati Uniti d'America",
-            "Valore": 165
-        },
-        {
-            "Paese": "Francia",
-            "Valore": 100
-        },
-        {
-            "Paese": "Brasile",
-            "Valore": 93
-        },
-        {
-            "Paese": "Polonia",
-            "Valore": 91
-        },
-        {
-            "Paese": "Germania",
-            "Valore": 89
-        },
-        {
-            "Paese": "Cina Repubblica Popolare",
-            "Valore": 88
-        },
-        {
-            "Paese": "Gran Bretagna e Irlanda del Nord",
-            "Valore": 71
-        },
-        {
-            "Paese": "Portogallo",
-            "Valore": 39
-        },
-        {
-            "Paese": "Italia",
-            "Valore": 38
-        }
-    ]
+    },
+    "Principali paesi di provenienza di Visiting Professors e PhD (triennio 20-22)": {
+        "Spagna": 231,
+        "Stati Uniti d'America": 165,
+        "Francia": 100,
+        "Brasile": 93,
+        "Polonia": 91,
+        "Germania": 89,
+        "Cina Repubblica Popolare": 88,
+        "Gran Bretagna e Irlanda del Nord": 71,
+        "Portogallo": 39,
+        "Italia": 38
+    }
 }

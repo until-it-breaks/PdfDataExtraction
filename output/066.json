@@ -1,7 +1,8 @@
 {
     "Tasse ed esoneri": {
         "Anno accademico 2023/2024": {
-            "Beneficiari Flat Tax": "2.044"
+            "soglia ISEE no tax area": "27.000,00 €",
+            "Numero beneficiari Flat Tax": "2.044"
         }
     }
 }

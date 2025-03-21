@@ -1,22 +1,24 @@
 {
     "La Carbon Footprint": {
-        "AREE": [
-            "EMISSIONI DIRETTE da riscaldamento",
-            "EMISSIONI INDIRETTE da consumo energetico",
-            "ALTRE EMISSIONI (mobilità casa-università, rifiuti, ecc.)",
-            "TOT."
-        ],
-        "2022": [
-            "7.397",
-            "6.968",
-            "68.559",
-            "82.924"
-        ],
-        "2023": [
-            "6.453",
-            "17.247",
-            "108.939",
-            "132.639"
-        ]
+        "t CO2eq/anno": {
+            "AREE": {
+                "EMISSIONI DIRETTE da riscaldamento": {
+                    "2022": 7.397,
+                    "2023": 6.453
+                },
+                "EMISSIONI INDIRETTE da consumo energetico": {
+                    "2022": 6.968,
+                    "2023": 17.247
+                },
+                "ALTRE EMISSIONI (mobilità casa-università, rifiuti, ecc.)": {
+                    "2022": 68.559,
+                    "2023": 108.939
+                },
+                "TOT.": {
+                    "2022": 82.924,
+                    "2023": 132.639
+                }
+            }
+        }
     }
 }

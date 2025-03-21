@@ -1,22 +1,19 @@
 {
     "Serie storica dei costi dei consumi energetici (milioni di euro)": {
         "2021": {
-            "Energia elettrica": 2.67,
-            "Teleriscaldamento": 5.32,
-            "Gas": 6.96,
-            "Totale": 15.05
+            "Energia elettrica": 15.05,
+            "Teleriscaldamento": 2.67,
+            "Gas": 6.96
         },
         "2022": {
-            "Energia elettrica": 3.55,
-            "Teleriscaldamento": 8.86,
-            "Gas": 9.25,
-            "Totale": 21.78
+            "Energia elettrica": 21.78,
+            "Teleriscaldamento": 3.55,
+            "Gas": 9.25
         },
         "2023": {
-            "Energia elettrica": 3.28,
-            "Teleriscaldamento": 4.18,
-            "Gas": 11.13,
-            "Totale": 18.82
+            "Energia elettrica": 18.82,
+            "Teleriscaldamento": 3.28,
+            "Gas": 11.13
         }
     }
 }

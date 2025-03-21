@@ -1,17 +1,19 @@
 {
     "Formazione": {
-        "Anno accademico 2023/2024": {
-            "Corsi attivati": "65",
+        "Anno Accademico 2023/2024": {
+            "Corsi Attivati Complessivamente": "65",
             "Corsi di Alta Formazione (CAF)": "23",
             "Corsi di Formazione Permanente (CFP)": "25",
             "Summer e Winter School (SWS)": "17"
         },
         "Formazione per i dipendenti aziendali": {
-            "Ore di docenza erogate": "400",
+            "Ore di docenza erogate": "circa 400",
             "Corsi su misura": "16",
             "Dipendenti coinvolti": "oltre 300"
         },
-        "Progetti legati alle opportunità di finanziamento": "8",
-        "Corsi pilota erogati nel 2023 (Ateneo UniBook)": "2"
+        "Progetti legati alle opportunità di finanziamento nazionale e internazionale": "8",
+        "Progetto sperimentale di formazione continua online": {
+            "Corsi pilota erogati nel 2023": "due"
+        }
     }
 }

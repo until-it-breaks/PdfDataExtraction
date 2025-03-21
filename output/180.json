@@ -1,23 +1,24 @@
 {
-    "Titolo": "Impatto sugli Obiettivi di Sostenibilità dell'ONU SDGS",
-    "Dati": {
-        "Obiettivo 1: No Poverty": 3,
-        "Obiettivo 2: Zero Hunger": 7,
-        "Obiettivo 3: Good Health and Well-being": 11,
-        "Obiettivo 4: Quality Education": 68,
-        "Obiettivo 5: Gender Equality": 3,
-        "Obiettivo 6: Clean Water and Sanitation": 1,
-        "Obiettivo 7: Affordable and Clean Energy": 3,
-        "Obiettivo 8: Decent Work and Economic Growth": 14,
-        "Obiettivo 9: Industry, Innovation and Infrastructure": 0,
-        "Obiettivo 10: Reduced Inequalities": 3,
-        "Obiettivo 11: Sustainable Cities and Communities": 8,
-        "Obiettivo 12: Responsible Consumption and Production": 1,
-        "Obiettivo 13: Climate Action": 6,
-        "Obiettivo 14: Life Below Water": 1,
-        "Obiettivo 15: Life on Land": 4,
-        "Obiettivo 16: Peace, Justice and Strong Institutions": 7,
-        "Obiettivo 17: Partnerships for the Goals": 10
-    },
-    "Totale Programmi e Progetti Attivi": 119
+    "IMPATTO SUGLI OBIETTIVI DI SOSTENIBILITÀ DELL'ONU SDGS": {
+        "PROGRAMMI E PROGETTI ATTIVI": 119,
+        "Obiettivi": {
+            "1": 3,
+            "2": 7,
+            "3": 11,
+            "4": 68,
+            "5": 3,
+            "6": 1,
+            "7": 3,
+            "8": 14,
+            "9": 0,
+            "10": 3,
+            "11": 8,
+            "12": 1,
+            "13": 6,
+            "14": 1,
+            "15": 4,
+            "16": 7,
+            "17": 10
+        }
+    }
 }

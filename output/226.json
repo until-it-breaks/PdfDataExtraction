@@ -1,16 +1,1 @@
-{
-    "Elenco persone e contatti": [
-        {
-            "Nome e Cognome": "Camilla Valentini\nDanilo Roberto Cinti\nAnna Rita D'Archi\nVincenzo de Filippis\nGiancarlo Gentiluomo\nGian Piero Mignoli\nLuca Ramazzotti\nAnja Riceputi\nFabio Cumella\nNicola Reale\nStefano Piazza\nAndrea Marti\nChristian Valzania\nFabio Rosato",
-            "Posizione": "Settore Programmazione\nd'Ateneo e analisi dati",
-            "Ruolo ricoperto": "Coordinamento\nnella rendicontazione,\nraccolta ed elaborazione\ndei dati e coordinamen-\nto editoriale",
-            "Recapiti": "dwh@unibo.it"
-        },
-        {
-            "Nome e Cognome": "Mirella Cerato\nMichela Versari\nAlex Rinaldi\nSilvia Zaghetto\nIlaria Bolognesi\nIrene Vandi",
-            "Posizione": "Settore Comunicazione",
-            "Ruolo ricoperto": "Progetto e realizzazione\ngrafica",
-            "Recapiti": "grafica.comunicazione@unibo.it"
-        }
-    ]
-}
+{}

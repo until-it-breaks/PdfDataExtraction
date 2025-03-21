@@ -1,46 +1,41 @@
 {
-    "Numeri del portale e siti web": [
-        {
-            "Sito": "Versione italiana Portale (www. Unibo.it)",
-            "Numero siti": null,
-            "Visite": 21849879,
-            "Pagine viste": 46866463
-        },
-        {
-            "Sito": "Versione inglese Portale (www. Unibo.it)",
-            "Numero siti": null,
-            "Visite": 3786361,
-            "Pagine viste": 11470942
-        },
-        {
-            "Sito": "Siti dei Corsi di studio",
-            "Numero siti": 313,
-            "Visite": 19456056,
-            "Pagine viste": 54049887
-        },
-        {
-            "Sito": "Siti dei Dipartimenti",
-            "Numero siti": 31,
-            "Visite": 1771034,
-            "Pagine viste": 3735790
-        },
-        {
-            "Sito": "Siti on Demand (Sites, Master, Scuole spec, Centri, PHD)",
-            "Numero siti": 854,
-            "Visite": 2247474,
-            "Pagine viste": 5159292
-        },
-        {
-            "Sito": "Siti on Demand Eventi Web",
-            "Numero siti": 230,
-            "Visite": 583659,
-            "Pagine viste": 1641762
-        },
-        {
-            "Sito": "Siti vari Strutture e Servizi (SBA, SMA, Bandi, ecc.)",
-            "Numero siti": 33,
-            "Visite": 3418635,
-            "Pagine viste": 8323495
+    "Numeri del portale e siti web": {
+        "Sito": {
+            "Versione italiana Portale (www. Unibo.it)": {
+                "Numero siti": null,
+                "Visite": "21.849.879",
+                "Pagine viste": "46.866.463"
+            },
+            "Versione inglese Portale (www. Unibo.it)": {
+                "Numero siti": null,
+                "Visite": "3.786.361",
+                "Pagine viste": "11.470.942"
+            },
+            "Siti dei Corsi di studio": {
+                "Numero siti": "313",
+                "Visite": "19.456.056",
+                "Pagine viste": "54.049.887"
+            },
+            "Siti dei Dipartimenti": {
+                "Numero siti": "31",
+                "Visite": "1.771.034",
+                "Pagine viste": "3.735.790"
+            },
+            "Siti on Demand (Sites, Master, Scuole spec, Centri, PHD)": {
+                "Numero siti": "854",
+                "Visite": "2.247.474",
+                "Pagine viste": "5.159.292"
+            },
+            "Siti on Demand Eventi Web": {
+                "Numero siti": "230",
+                "Visite": "583.659",
+                "Pagine viste": "1.641.762"
+            },
+            "Siti vari Strutture e Servizi (SBA, SMA, Bandi, ecc.)": {
+                "Numero siti": "33",
+                "Visite": "3.418.635",
+                "Pagine viste": "8.323.495"
+            }
         }
-    ]
+    }
 }

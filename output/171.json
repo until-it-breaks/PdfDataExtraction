@@ -1,18 +1,20 @@
 {
-    "UniboMagazine e Ufficio stampa: i numeri nel 2023": [
-        {
-            "UniboMagazine": "2023",
-            "Articoli e eventi pubblicati": "2.016",
-            "Accessi a UniboMagazine": "633.128",
-            "Pagine viste di UniboMagazine": "969.394"
+    "Tabella 28 - UniboMagazine e Ufficio stampa: i numeri nel 2023": {
+        "UniboMagazine": {
+            "2023": {
+                "Articoli e eventi pubblicati": "2.016",
+                "Accessi a UniboMagazine": "633.128",
+                "Pagine viste di UniboMagazine": "969.394"
+            }
         },
-        {
-            "Uscite sui media nazionali e siti di informazione esteri": "2023",
-            "Quotidiani/Periodici": "17.936",
-            "Servizi Radio/TV": "2.792",
-            "Siti di informazione italiani": "10.880",
-            "Siti di informazione esteri": "1.389",
-            "Totale": "32.997"
+        "Uscite sui media nazionali e siti di informazione esteri": {
+            "2023": {
+                "Quotidiani/Periodici": "17.936",
+                "Servizi Radio/TV": "2.792",
+                "Siti di informazione italiani": "10.880",
+                "Siti di informazione esteri": "1.389",
+                "Totale": "32.997"
+            }
         }
-    ]
+    }
 }

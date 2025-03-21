@@ -1,46 +1,39 @@
 {
-    "Gruppo di Coordinamento Rendicontazione": [
-        {
-            "Nome e Cognome": "Rebecca Levy Orelli",
+    "Gruppo di coordinamento interno all'Ateneo": {
+        "Rebecca Levy Orelli": {
             "Posizione": "Delegato al Bilancio e alla Programmazione",
             "Ruolo ricoperto": "Indirizzo, supervisione e coordinamento del progetto complessivo",
             "Recapiti": "rebecca.orelli@unibo.it"
         },
-        {
-            "Nome e Cognome": "Simona Tondelli",
+        "Simona Tondelli": {
             "Posizione": "Prorettrice Vicaria",
             "Ruolo ricoperto": "Indirizzo, supervisione e coordinamento del progetto complessivo",
             "Recapiti": "prorettrice.vicaria@unibo.it"
         },
-        {
-            "Nome e Cognome": "Federico Condello",
+        "Federico Condello": {
             "Posizione": "Delegato alla Comunicazione Istituzionale, alle Studentesse e agli Studenti",
             "Ruolo ricoperto": "Indirizzo del progetto",
             "Recapiti": "federico.condello@unibo.it"
         },
-        {
-            "Nome e Cognome": "Giacomo Bergamini",
+        "Giacomo Bergamini": {
             "Posizione": "Delegato alla Sostenibilità",
             "Ruolo ricoperto": "Indirizzo del progetto",
             "Recapiti": "giacomo.bergamini@unibo.it"
         },
-        {
-            "Nome e Cognome": "Maria Letizia Guerra",
+        "Maria Letizia Guerra": {
             "Posizione": "Delegato all'Impegno Pubblico",
             "Ruolo ricoperto": "Indirizzo delle modalità di coinvolgimento",
             "Recapiti": "mletizia.guerra@unibo.it"
         },
-        {
-            "Nome e Cognome": "Sabrina Luccarini",
+        "Sabrina Luccarini": {
             "Posizione": "Direttore Generale",
             "Ruolo ricoperto": "Coordinamento complessivo della rendicontazione",
             "Recapiti": "sabrina.luccarini@unibo.it"
         },
-        {
-            "Nome e Cognome": "Paola Mandelli",
-            "Posizione": "Dirigente dell'Area Pianificazione, Programmazione e comunicazione",
+        "Paola Mandelli": {
+            "Posizione": "Dirigente dell'Area Pianificazione. Programmazione e comunicazione",
             "Ruolo ricoperto": "Coordinamento della rendicontazione",
             "Recapiti": "paola.mandelli@unibo.it"
         }
-    ]
+    }
 }

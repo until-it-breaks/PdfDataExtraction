@@ -1,65 +1,44 @@
 {
     "Milestone del Piano energetico": {
         "Dismissione gasolio e olio combustibile": {
-            "2023": true,
-            "2024": true,
-            "2025": true
+            "start_year": 2023,
+            "end_year": 2025
         },
         "Sostituzione totale illuminazioni tradizionali aree esterne": {
-            "2023": true,
-            "2024": true,
-            "2025": true
+            "start_year": 2023,
+            "end_year": 2025
         },
         "Sostituzione totale illuminazioni tradizionali aree interne": {
-            "2023": true,
-            "2024": true,
-            "2025": true,
-            "2026": true
+            "start_year": 2023,
+            "end_year": 2026
         },
         "Nuovi impianti fotovoltaici": {
-            "2023": true,
-            "2024": true,
-            "2025": true,
-            "2026": true,
-            "2027": true
+            "start_year": 2023,
+            "end_year": 2027
         },
         "Certificazione UNI ENI ISO 50001": {
-            "2023": true,
-            "2024": true,
-            "2025": true,
-            "2026": true,
-            "2027": true
+            "start_year": 2023,
+            "end_year": 2027
         },
         "Registrazione impianti termici al Catasto regionale": {
-            "2023": true,
-            "2024": true,
-            "2025": true,
-            "2026": true,
-            "2027": true
+            "start_year": 2023,
+            "end_year": 2027
         },
         "Nuovi interventi di efficientamento edifici": {
-            "2027": true,
-            "2028": true,
-            "2029": true,
-            "2030": true
+            "start_year": 2026,
+            "end_year": 2029
         },
         "Efficientamento impianti fotovoltaici": {
-            "2028": true,
-            "2029": true
+            "start_year": 2028,
+            "end_year": 2030
         },
         "Completamento rete BMS": {
-            "2023": true,
-            "2024": true,
-            "2025": true,
-            "2026": true,
-            "2027": true,
-            "2028": true
+            "start_year": 2023,
+            "end_year": 2026
         },
         "Sostituzione caldaie con pompe di calore": {
-            "2026": true,
-            "2027": true,
-            "2028": true,
-            "2029": true
+            "start_year": 2027,
+            "end_year": 2029
         }
     }
 }
