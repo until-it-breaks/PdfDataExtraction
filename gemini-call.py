@@ -6,7 +6,7 @@ from pathlib import Path
 from PIL import Image
 from google import genai
 
-OUTPUT_FOLDER_NAME = "gemini-output"
+OUTPUT_FOLDER_NAME = "gemini-output-raw"
 PROMPT = (
     """
     Analizza l'immagine fornita, che fa parte di un bilancio di sostenibilità. Il tuo obiettivo è estrarre dati strutturati rilevanti per la valutazione delle performance di sostenibilità dell'azienda.
