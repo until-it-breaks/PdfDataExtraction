@@ -6,7 +6,7 @@ from pathlib import Path
 from PIL import Image
 from google import genai
 
-OUTPUT_FOLDER_NAME = "output"
+OUTPUT_FOLDER_NAME = "gemini-output"
 PROMPT = (
     """
     Analizza l'immagine fornita, che fa parte di un bilancio di sostenibilità. Il tuo obiettivo è estrarre dati strutturati rilevanti per la valutazione delle performance di sostenibilità dell'azienda.
@@ -40,7 +40,7 @@ def extract_json_content(text):
 
 def main():
 
-    if (len(sys.argv) != 3):
+    if (len(sys.argv) < 3):
         print("Usage: python gemini-call.py <image_path> <Gemini_API_key>")
         sys.exit(1)
 
