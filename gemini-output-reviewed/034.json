@@ -1,0 +1,44 @@
+{
+    "Valore economico attratto": {
+        "Contribuzione studentesca": {
+            "2023 (mln)": "132",
+            "%": "14%"
+        },
+        "Contributi dallo Stato": {
+            "2023 (mln)": "639",
+            "%": "67%",
+            "di cui FFO": {
+                "2023 (mln)": "516",
+                "%": "54%"
+            }
+        },
+        "Contributi dalle Regioni": {
+            "2023 (mln)": "5",
+            "%": "1%"
+        },
+        "Contributi da UE e resto del mondo": {
+            "2023 (mln)": "8",
+            "%": "1%"
+        },
+        "Contributi da altri soggetti": {
+            "2023 (mln)": "37",
+            "%": "4%"
+        },
+        "Proventi da ricerche commissionate e trasferimento tecnologico": {
+            "2023 (mln)": "14",
+            "%": "1%"
+        },
+        "Proventi di ricerca": {
+            "2023 (mln)": "95",
+            "%": "10%"
+        },
+        "Altri proventi": {
+            "2023 (mln)": "27",
+            "%": "3%"
+        },
+        "Totale": {
+            "2023 (mln)": "957",
+            "%": "100%"
+        }
+    }
+}

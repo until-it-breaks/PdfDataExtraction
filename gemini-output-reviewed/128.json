@@ -1,0 +1,44 @@
+{
+    "Mobilità interna ed esterna": {
+        "Mobilità interna": {
+            "2021": {
+                "Numero di domande di mobilità interna (nuove domande + rinnovi)": 69,
+                "Domande accolte": 24,
+                "Numero bandi e avvisi di mobilità interna": 47,
+                "Numero trasferimenti interni personale (da bando e non; esclusi cambi di unità all'interno della medesima struttura)": 80
+            },
+            "2022": {
+                "Numero di domande di mobilità interna (nuove domande + rinnovi)": 100,
+                "Domande accolte": 37,
+                "Numero bandi e avvisi di mobilità interna": 20,
+                "Numero trasferimenti interni personale (da bando e non; esclusi cambi di unità all'interno della medesima struttura)": 128
+            },
+            "2023": {
+                "Numero di domande di mobilità interna (nuove domande + rinnovi)": 52,
+                "Domande accolte": 23,
+                "Numero bandi e avvisi di mobilità interna": 36,
+                "Numero trasferimenti interni personale (da bando e non; esclusi cambi di unità all'interno della medesima struttura)": 173
+            }
+        },
+        "Mobilità esterna": {
+            "2021": {
+                "Numero richieste di nullaosta per mobilità esterna in uscita": 17,
+                "Numero richieste di nullaosta per mobilità esterna accolte": 15,
+                "Numero di richieste di nullaosta con diniego": 2,
+                "Numero di trasferimenti per mobilità esterna in uscita": 18
+            },
+            "2022": {
+                "Numero richieste di nullaosta per mobilità esterna in uscita": 67,
+                "Numero richieste di nullaosta per mobilità esterna accolte": 54,
+                "Numero di richieste di nullaosta con diniego": 13,
+                "Numero di trasferimenti per mobilità esterna in uscita": 15
+            },
+            "2023": {
+                "Numero richieste di nullaosta per mobilità esterna in uscita": 26,
+                "Numero richieste di nullaosta per mobilità esterna accolte": 25,
+                "Numero di richieste di nullaosta con diniego": 3,
+                "Numero di trasferimenti per mobilità esterna in uscita": 13
+            }
+        }
+    }
+}

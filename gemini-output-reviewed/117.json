@@ -1,0 +1,72 @@
+{
+    "Personale docente e ricercatore": {
+        "Ordinario": {
+            "2023": {
+                "Tempo Pieno": 854,
+                "Tempo Definito": 87,
+                "Totale": 941
+            },
+            "2022": {
+                "Tempo Pieno": 788,
+                "Tempo Definito": 77,
+                "Totale": 865
+            },
+            "2021": {
+                "Tempo Pieno": 751,
+                "Tempo Definito": 76,
+                "Totale": 827
+            }
+        },
+        "Associato": {
+            "2023": {
+                "Tempo Pieno": 1373,
+                "Tempo Definito": 63,
+                "Totale": 1436
+            },
+            "2022": {
+                "Tempo Pieno": 1410,
+                "Tempo Definito": 62,
+                "Totale": 1472
+            },
+            "2021": {
+                "Tempo Pieno": 1292,
+                "Tempo Definito": 59,
+                "Totale": 1351
+            }
+        },
+        "Ricercatore a tempo indeterminato": {
+            "2023": {
+                "Tempo Pieno": 151,
+                "Tempo Definito": 27,
+                "Totale": 178
+            },
+            "2022": {
+                "Tempo Pieno": 163,
+                "Tempo Definito": 29,
+                "Totale": 192
+            },
+            "2021": {
+                "Tempo Pieno": 218,
+                "Tempo Definito": 35,
+                "Totale": 253
+            }
+        },
+        "Ricercatore a tempo determinato": {
+            "2023": {
+                "Tempo Pieno": 808,
+                "Tempo Definito": 19,
+                "Totale": 827
+            },
+            "2022": {
+                "Tempo Pieno": 626,
+                "Tempo Definito": 21,
+                "Totale": 647
+            },
+            "2021": {
+                "Tempo Pieno": 552,
+                "Tempo Definito": 19,
+                "Totale": 571
+            }
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "Nuovo personale di ricerca per aree scientifiche e genere": {
+        "RTDa": {
+            "Area Tecnologica": {
+                "Donne": 20,
+                "Uomini": 58,
+                "Totale": 78
+            },
+            "Area Scientifica": {
+                "Donne": 14,
+                "Uomini": 29,
+                "Totale": 43
+            },
+            "Area Medica": {
+                "Donne": 18,
+                "Uomini": 14,
+                "Totale": 32
+            },
+            "Area Sociale": {
+                "Donne": 15,
+                "Uomini": 13,
+                "Totale": 28
+            },
+            "Area Umanistica": {
+                "Donne": 14,
+                "Uomini": 7,
+                "Totale": 21
+            }
+        },
+        "PhD": {
+            "Area Tecnologica": {
+                "Donne": 24,
+                "Uomini": 36,
+                "Totale": 60
+            },
+            "Area Sociale": {
+                "Donne": 25,
+                "Uomini": 28,
+                "Totale": 53
+            },
+            "Area Scientifica": {
+                "Donne": 16,
+                "Uomini": 13,
+                "Totale": 29
+            },
+            "Area Medica": {
+                "Donne": 10,
+                "Uomini": 9,
+                "Totale": 19
+            },
+            "Area Umanistica": {
+                "Donne": 11,
+                "Uomini": 4,
+                "Totale": 15
+            }
+        },
+        "AdR": {
+            "Area Tecnologica": {
+                "Donne": 27,
+                "Uomini": 27,
+                "Totale": 54
+            },
+            "Area Scientifica": {
+                "Donne": 22,
+                "Uomini": 23,
+                "Totale": 45
+            },
+            "Area Medica": {
+                "Donne": 9,
+                "Uomini": 6,
+                "Totale": 15
+            },
+            "Area Umanistica": {
+                "Donne": 10,
+                "Uomini": 2,
+                "Totale": 12
+            },
+            "Area Sociale": {
+                "Donne": 6,
+                "Uomini": 2,
+                "Totale": 8
+            }
+        }
+    }
+}

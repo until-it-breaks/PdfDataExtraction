@@ -1,0 +1,42 @@
+{
+    "Serie storica dei consumi (Tep)": {
+        "2021": {
+            "Energia elettrica": 7.615,
+            "Gas naturale": 3.061,
+            "Teleriscaldamento": 3.583,
+            "Totale": 14.461
+        },
+        "2022": {
+            "Energia elettrica": 7.961,
+            "Gas naturale": 2.675,
+            "Teleriscaldamento": 3.237,
+            "Totale": 14.067
+        },
+        "2023": {
+            "Energia elettrica": 7.752,
+            "Gas naturale": 2.283,
+            "Teleriscaldamento": 2.461,
+            "Totale": 12.590
+        }
+    },
+    "Serie storica delle emissioni (tCO2)": {
+        "2021": {
+            "Energia elettrica": 17.640,
+            "Gas naturale": 7.480,
+            "Teleriscaldamento": 6.950,
+            "Totale": 32.676
+        },
+        "2022": {
+            "Energia elettrica": 18.442,
+            "Gas naturale": 6.537,
+            "Teleriscaldamento": 6.279,
+            "Totale": 31.824
+        },
+        "2023": {
+            "Energia elettrica": 17.957,
+            "Gas naturale": 5.579,
+            "Teleriscaldamento": 4.774,
+            "Totale": 28.596
+        }
+    }
+}

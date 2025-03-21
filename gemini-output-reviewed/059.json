@@ -1,0 +1,41 @@
+{
+    "Mobilità studentesca": {
+        "In Entrata da paesi europei": {
+            "2020/21": 1.361,
+            "2021/22": 2.936,
+            "2022/23": 3.297
+        },
+        "In Entrata da paesi extra-europei": {
+            "2020/21": 119,
+            "2021/22": 455,
+            "2022/23": 603
+        },
+        "In Uscita verso paesi europei": {
+            "2020/21": 1.847,
+            "2021/22": 3.159,
+            "2022/23": 3.299
+        },
+        "In Uscita verso paesi extra-europei": {
+            "2020/21": 80,
+            "2021/22": 163,
+            "2022/23": 292
+        },
+        "Laureati/e con crediti acquisiti all'estero riconosciuti*": {
+            "2020/21": 2.912,
+            "2021/22": 3.056,
+            "2022/23": 3.651
+        }
+    },
+    "Studenti outgoing per nazione di destinazione (primi 10 Paesi - triennio 21-23)": {
+        "Spagna": 2.050,
+        "Francia": 1.325,
+        "Germania": 903,
+        "Belgio": 665,
+        "Gran Bretagna e Irlanda del Nord": 498,
+        "Paesi Bassi": 498,
+        "Portogallo": 435,
+        "Svezia": 264,
+        "Austria": 261,
+        "Danimarca": 240
+    }
+}

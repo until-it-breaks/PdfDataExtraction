@@ -1,0 +1,38 @@
+{
+    "Docenti e ricercatori coinvolti in progetti PNRR e PNC per area e genere": {
+        "Area": {
+            "Tecnologica": 380,
+            "Scientifica": 189,
+            "Sociale": 102,
+            "Medica": 96,
+            "Umanistica": 39
+        },
+        "Genere": {
+            "Ordinario": {
+                "Donne": "26,3%",
+                "Uomini": "73,7%"
+            },
+            "Associato": {
+                "Donne": "38,8%",
+                "Uomini": "61,2%"
+            },
+            "Ricercatore": {
+                "Donne": "42,0%",
+                "Uomini": "58,0%"
+            }
+        }
+    },
+    "PRIN - PNRR": {
+        "Progetti finanziati nel 2023": 161,
+        "Totale finanziamento": "15 milioni di euro",
+        "Progetti Unibo coordinati": 67
+    },
+    "Borse di Dottorato PNRR": {
+        "Borse assegnate nel XXIX ciclo": 329,
+        "Borse cofinanziate da imprese": 113
+    },
+    "Edilizia PNRR": {
+        "Interventi edilizi avviati nel 2023": 7,
+        "Interventi edilizi in programma": 16
+    }
+}

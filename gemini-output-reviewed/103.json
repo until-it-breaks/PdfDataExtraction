@@ -1,0 +1,44 @@
+{
+    "Dottori di ricerca occupati, confronto con laureati": {
+        "DOTTORI INDAGINE 2023": {
+            "Dottori 2022 a 1 anno": {
+                "Occupati in un'attività sostenuta da borsa/assegno di studio o di ricerca": "35,7%",
+                "Occupati in un'altra attività": "60,1%",
+                "Non occupati": "4,2%",
+                "TOTALE occupati": "95,8%"
+            },
+            "Dottori 2020 a 3 anni": {
+                "Occupati in un'attività sostenuta da borsa/assegno di studio o di ricerca": "19,9%",
+                "Occupati in un'altra attività": "77,8%",
+                "Non occupati": "2,3%",
+                "TOTALE occupati": "97,7%"
+            },
+            "Dottori 2018 a 5 anni": {
+                "Occupati in un'attività sostenuta da borsa/assegno di studio o di ricerca": "15,1%",
+                "Occupati in un'altra attività": "81,6%",
+                "Non occupati": "3,3%",
+                "TOTALE occupati": "96,7%"
+            }
+        },
+        "LAUREATI LM E LMCU INDAGINE 2023*": {
+            "Laureati 2022 a 1 anno": {
+                "Occupati in un'attività sostenuta da borsa/assegno di studio o di ricerca": "9,7%",
+                "Occupati in un'altra attività": "67,7%",
+                "Non occupati": "22,6%",
+                "TOTALE occupati": "77,4%"
+            },
+            "Laureati 2020 a 3 anni": {
+                "Occupati in un'attività sostenuta da borsa/assegno di studio o di ricerca": "9,2%",
+                "Occupati in un'altra attività": "76,4%",
+                "Non occupati": "14,4%",
+                "TOTALE occupati": "85,6%"
+            },
+            "Laureati 2018 a 5 anni": {
+                "Occupati in un'attività sostenuta da borsa/assegno di studio o di ricerca": "5,8%",
+                "Occupati in un'altra attività": "83,1%",
+                "Non occupati": "11,1%",
+                "TOTALE occupati": "88,9%"
+            }
+        }
+    }
+}

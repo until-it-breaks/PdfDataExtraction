@@ -1,0 +1,40 @@
+{
+    "GRI 205 Anticorruzione": {
+        "205-1": {
+            "Descrizione": "Monitoraggio del rischio di corruzione",
+            "Raccordo con indice BS 2024 e/o note": "1.1 - Identità, principi e valori"
+        },
+        "205-2": {
+            "Descrizione": "Comunicazione e formazione sulle politiche e procedure di anticorruzione",
+            "Raccordo con indice BS 2024 e/o note": "1.1 - Identità, principi e valori"
+        },
+        "205-3": {
+            "Descrizione": "Casi di corruzione verificati e azioni intraprese",
+            "Raccordo con indice BS 2024 e/o note": "1.1 - Identità, principi e valori"
+        }
+    },
+    "GRI 206 Comportamento anticompetitivo": {
+        "206-1": {
+            "Descrizione": "Azioni legali di concorrenza sleale, anti-trust e pratiche monopolistiche",
+            "Raccordo con indice BS 2024 e/o note": "NA"
+        }
+    },
+    "GRI 207 Tasse": {
+        "207-1": {
+            "Descrizione": "Approccio alle imposte",
+            "Raccordo con indice BS 2024 e/o note": "NA"
+        },
+        "207-2": {
+            "Descrizione": "Governance relativa alle imposte, controllo e gestione del rischio",
+            "Raccordo con indice BS 2024 e/o note": "NA"
+        },
+        "207-3": {
+            "Descrizione": "Coinvolgimento degli stakeholder e gestione delle preoccupazioni correlate alle imposte",
+            "Raccordo con indice BS 2024 e/o note": "NA"
+        },
+        "207-4": {
+            "Descrizione": "Reportistica per Paese",
+            "Raccordo con indice BS 2024 e/o note": "NA"
+        }
+    }
+}

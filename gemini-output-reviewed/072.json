@@ -1,0 +1,24 @@
+{
+    "Servizio per studenti e studentesse con disabilità e con disturbi specifici dell'apprendimento (DSA)": {
+        "soddisfazione utenti": {
+            "anno": 2023,
+            "valore medio": 4.03,
+            "scala": "da 1 a 5"
+        }
+    },
+    "La carriera alias": {
+        "anno": 2023,
+        "carriere attivate": 75
+    },
+    "Servizi per lo studio": {
+        "Bologna": {
+            "sale studio disponibili": 16
+        },
+        "Altre sedi": {
+            "Cesena": 2,
+            "Forlì": 4,
+            "Ravenna": 7,
+            "Rimini": 2
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Servizi abitativi": {
+        "studentati gestiti da ER.GO": "29",
+        "dettaglio studentati": "(21 a Bologna, 3 a Cesena, 2 a Forlì, 2 a Rimini e 1 a Ravenna)",
+        "contributo affitti 2023": {
+            "contributi finanziari": "600",
+            "valore unitario": "1.000 €",
+            "condizioni economiche": {
+                "ISEE": "≤ € 28.000,00",
+                "ISPE": "≤ € 62.000,00"
+            }
+        }
+    },
+    "Miglioramento delle condizioni di vita e di studio": {
+        "Servizio di Aiuto Psicologico (SAP)": {
+            "budget utilizzato nel 2023": "350.000 euro",
+            "domande ricevute nel 2023": "1.200",
+            "suddivisione geografica 2023": "(1.015 a Bologna e 185 nei campus della Romagna)",
+            "domande ricevute nel 2022": "1.035",
+            "domande annuali negli anni precedenti": "circa 900",
+            "colloqui di consultazione effettuati nel 2023": "circa 3.200"
+        }
+    }
+}

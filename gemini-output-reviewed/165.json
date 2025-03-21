@@ -1,0 +1,13 @@
+{
+    "Percorsi Scolastici 2022/23": {
+        "percorsi per la scuola dell'infanzia": 11,
+        "percorsi per la scuola primaria": {
+            "totale": 53,
+            "disponibili anche on air": 14
+        },
+        "percorsi per la scuola secondaria di primo grado": {
+            "totale": 40,
+            "disponibili anche on air": 10
+        }
+    }
+}

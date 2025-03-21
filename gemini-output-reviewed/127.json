@@ -1,0 +1,28 @@
+{
+    "Incentivi per il personale TA e CEL": {
+        "2021": {
+            "Fondo Incentivi per funzioni tecniche*": "0,19",
+            "Welfare aziendale": "2,33",
+            "Fondo per la premialità (ex art. 9 L 240/2010)": "1,12",
+            "Conto terzi": "3,67",
+            "Fondo Accessorio (comprensivo costo PEO a bilancio)": "14,73",
+            "Totale": "21,84"
+        },
+        "2022": {
+            "Fondo Incentivi per funzioni tecniche*": "0,51",
+            "Welfare aziendale": "2,33",
+            "Fondo per la premialità (ex art. 9 L 240/2010)": "1,56",
+            "Conto terzi": "3,82",
+            "Fondo Accessorio (comprensivo costo PEO a bilancio)": "14,65",
+            "Totale": "22,35"
+        },
+        "2023": {
+            "Fondo Incentivi per funzioni tecniche*": "0,69",
+            "Welfare aziendale": "2,33",
+            "Fondo per la premialità (ex art. 9 L 240/2010)": "1,70",
+            "Conto terzi": "3,58",
+            "Fondo Accessorio (comprensivo costo PEO a bilancio)": "14,93",
+            "Totale": "22,53"
+        }
+    }
+}

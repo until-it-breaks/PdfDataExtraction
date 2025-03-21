@@ -1,0 +1,32 @@
+{
+    "Fasce di età del personale TA": {
+        "65-69 anni": 63,
+        "60-64 anni": 424,
+        "55-59 anni": 582,
+        "50-54 anni": 641,
+        "45-49 anni": 504,
+        "40-44 anni": 369,
+        "35-39 anni": 305,
+        "30-34 anni": 229,
+        "25-29 anni": 108,
+        "20-24 anni": 10
+    },
+    "Assunzioni e cessazioni del personale TA a tempo indeterminato": {
+        "2021": {
+            "Assunzioni": 176,
+            "Cessazioni": 112
+        },
+        "2022": {
+            "Assunzioni": 252,
+            "Cessazioni": 150
+        },
+        "2023": {
+            "Assunzioni": 237,
+            "Cessazioni": 145
+        },
+        "Totale": {
+            "Assunzioni": 665,
+            "Cessazioni": 407
+        }
+    }
+}

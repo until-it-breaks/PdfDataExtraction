@@ -1,0 +1,48 @@
+{
+    "Composizione studenti di primo e secondo ciclo per provenienza": {
+        "2023": {
+            "Paesi comunitari": 1742,
+            "Paesi extra-comunitari*": 6318,
+            "Totale": 8060
+        },
+        "2022": {
+            "Paesi comunitari": 1713,
+            "Paesi extra-comunitari*": 5624,
+            "Totale": 7337
+        },
+        "2021": {
+            "Paesi comunitari": 1575,
+            "Paesi extra-comunitari*": 5209,
+            "Totale": 6784
+        }
+    },
+    "Composizione dottorandi per provenienza": {
+        "2023": {
+            "Paesi comunitari": 91,
+            "Paesi extra-comunitari*": 391,
+            "Totale": 482
+        },
+        "2022": {
+            "Paesi comunitari": 110,
+            "Paesi extra-comunitari*": 360,
+            "Totale": 470
+        },
+        "2021": {
+            "Paesi comunitari": 102,
+            "Paesi extra-comunitari*": 284,
+            "Totale": 386
+        }
+    },
+    "Nuove Carriere (23-24) per Cittadinanza di provenienza": {
+        "Iran": 473,
+        "Cina Repubblica Popolare": 321,
+        "Turchia": 195,
+        "Romania": 167,
+        "Russia - Federazione Russa": 135,
+        "India": 93,
+        "Albania": 91,
+        "Camerun": 90,
+        "San Marino": 88,
+        "Kazakhstan": 82
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "Confronto distribuzione pubblicazioni dell'Ateneo per Indice Unico": {
+        "IU < 0,2": "0,9%",
+        "IU 0,2 - 0,5": "11,7%",
+        "IU 0,5 - 0,7": "23,1%",
+        "IU 0,7 - 0,9": "41,4%",
+        "IU >= 0,9": "22,9%"
+    }
+}

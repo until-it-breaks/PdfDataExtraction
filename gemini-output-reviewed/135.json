@@ -1,0 +1,29 @@
+{
+    "Numerosità del personale con cittadinanza estera": {
+        "Personale Docente Ordinario": {
+            "2021": 19,
+            "2022": 18,
+            "2023": 21
+        },
+        "Personale Docente Associato": {
+            "2021": 41,
+            "2022": 46,
+            "2023": 49
+        },
+        "Personale Ricercatore": {
+            "2021": 33,
+            "2022": 36,
+            "2023": 43
+        },
+        "Personale TA Cat. EP, D, B, C": {
+            "2021": 20,
+            "2022": 25,
+            "2023": 27
+        },
+        "Lettrici, lettori e CEL": {
+            "2021": 47,
+            "2022": 51,
+            "2023": 49
+        }
+    }
+}

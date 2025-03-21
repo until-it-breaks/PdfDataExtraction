@@ -1,0 +1,29 @@
+{
+    "Offerta formativa internazionale": {
+        "Corsi di laurea e lauree a ciclo unico": {
+            "2021/22": 9,
+            "2022/23": 10,
+            "2023/24": 10
+        },
+        "Corsi di laurea magistrale": {
+            "2021/22": 31,
+            "2022/23": 32,
+            "2023/24": 33
+        },
+        "Corsi di dottorato di ricerca": {
+            "2021/22": 28,
+            "2022/23": 30,
+            "2023/24": 30
+        },
+        "Corsi di laurea (in lingua inglese)": {
+            "2021/22": 79,
+            "2022/23": 87,
+            "2023/24": 89
+        },
+        "Corsi di dottorato di ricerca (in altre lingue)": {
+            "2021/22": 43,
+            "2022/23": 46,
+            "2023/24": 45
+        }
+    }
+}
