@@ -1,0 +1,22 @@
+{
+    "procedure_pev_concluse_al_31_12_2023_per_categoria": [
+        {
+            "area": "Biblioteche (risorse elettroniche)",
+            "categoria": "D",
+            "posti": 2,
+            "posizioni_coperte": 2
+        },
+        {
+            "area": "Amministrativa (Resp. Settore)",
+            "categoria": "EP",
+            "posti": 1,
+            "posizioni_coperte": 1
+        },
+        {
+            "area": "Amministrativa (Coord. filiera didattica)",
+            "categoria": "EP",
+            "posti": 2,
+            "posizioni_coperte": 2
+        }
+    ]
+}

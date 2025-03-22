@@ -1,0 +1,26 @@
+{
+    "laureati_lm_lmcu_italia": {
+        "anno": [
+            "2020",
+            "2021",
+            "2022"
+        ],
+        "numero_laureati": [
+            152490,
+            162931,
+            164484
+        ]
+    },
+    "accessi_dottorato_unibo": {
+        "anno_accademico": [
+            "2020/21",
+            "2021/22",
+            "2022/23"
+        ],
+        "numero_accessi": [
+            628,
+            841,
+            983
+        ]
+    }
+}

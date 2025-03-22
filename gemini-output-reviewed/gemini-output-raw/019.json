@@ -1,0 +1,22 @@
+{
+    "numero_personale_ta_per_area": {
+        "acce_area_di_campus_cesena": 81,
+        "acfo_area_di_campus_forli": 103,
+        "acra_area_di_campus_ravenna": 59,
+        "acrn_area_di_campus_rimini": 81,
+        "apos_area_del_personale": 141,
+        "apat_area_del_patrimonio": 73,
+        "arag_area_finanza_e_contabilita": 93,
+        "ates_area_tecnica_edilizia_e_sostenibilita": 166,
+        "arpac_area_patrimonio_culturale": 171,
+        "apap_area_appalti_e_approvvigionamenti": 44,
+        "sam_area_service_area_medica": 169,
+        "aform_area_formazione_e_dottorato": 263,
+        "ases_area_servizi_studenti": 105,
+        "arin_area_innovazione": 122,
+        "appc_area_pianificazione_programmazione_comunicazione": 78,
+        "cesia_area_sistemi_e_servizi_informatici": 157,
+        "aric_area_ricerca": 69,
+        "ssrd_staff_rettore_e_direttore_generale": 74
+    }
+}

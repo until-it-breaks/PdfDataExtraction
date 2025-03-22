@@ -1,0 +1,100 @@
+{
+    "agevolazioni_economiche": {
+        "colonne": [
+            "2020/21",
+            "2021/22",
+            "2022/23"
+        ],
+        "esoneri_tasse": {
+            "valori": [
+                43108,
+                46578,
+                47900
+            ],
+            "di_cui_totali": {
+                "valori": [
+                    22192,
+                    23507,
+                    24817
+                ]
+            },
+            "di_cui_parziali": {
+                "valori": [
+                    20916,
+                    23071,
+                    23083
+                ]
+            }
+        },
+        "borse_di_studio_erogate_da_er_go": {
+            "valori": [
+                14404,
+                12662,
+                13180
+            ]
+        },
+        "collaborazioni_a_tempo_parziale_150_ore": {
+            "valori": [
+                2374,
+                2347,
+                2202
+            ]
+        },
+        "interventi_per_studenti_in_condizioni_di_disagio": {
+            "valori": [
+                420,
+                431,
+                553
+            ]
+        },
+        "contributi_per_ausili_a_studenti_con_disabilita_e_con_dsa": {
+            "valori": [
+                124,
+                75,
+                85
+            ]
+        },
+        "premi_di_merito": {
+            "valori": [
+                450,
+                450,
+                null
+            ]
+        },
+        "assegni_di_tutorato": {
+            "valori": [
+                1009,
+                762,
+                615
+            ]
+        },
+        "contratti_di_tutorato": {
+            "valori": [
+                2356,
+                2658,
+                2824
+            ]
+        },
+        "posti_alloggio": {
+            "valori": [
+                1852,
+                2127,
+                2208
+            ],
+            "di_cui_campus_della_romagna": {
+                "valori": [
+                    232,
+                    232,
+                    337
+                ]
+            }
+        },
+        "prestiti_fiduciari_erogati": {
+            "valori": [
+                null,
+                null,
+                6
+            ]
+        }
+    }
+}

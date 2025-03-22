@@ -1,0 +1,31 @@
+{
+    "iscrizioni_ai_corsi_di_studio_per_classe_di_eta": {
+        "anni": [
+            {
+                "anno_accademico": "2023/24",
+                "percentuale_17_19_anni": "14,5%",
+                "percentuale_20_24_anni": "62,3%",
+                "percentuale_25_29_anni": "14,4%",
+                "percentuale_30_anni_e_oltre": "8,9%"
+            },
+            {
+                "anno_accademico": "2022/23",
+                "percentuale_17_19_anni": "14,6%",
+                "percentuale_20_24_anni": "61,2%",
+                "percentuale_25_29_anni": "15,0%",
+                "percentuale_30_anni_e_oltre": "9,1%"
+            },
+            {
+                "anno_accademico": "2021/22",
+                "percentuale_17_19_anni": "15,3%",
+                "percentuale_20_24_anni": "60,7%",
+                "percentuale_25_29_anni": "14,9%",
+                "percentuale_30_anni_e_oltre": "9,1%"
+            }
+        ],
+        "aumento_iscritti_fuori_corso": {
+            "anno_2022_23": "18,5%",
+            "anno_2023_24": "18,8%"
+        }
+    }
+}

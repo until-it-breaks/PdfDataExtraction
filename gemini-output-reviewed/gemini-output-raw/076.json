@@ -1,0 +1,67 @@
+{
+    "attivita_di_orientamento_al_lavoro": {
+        "anno": 2023,
+        "dati": [
+            {
+                "attivita": "Incontri di gruppo sul curriculum vitae",
+                "numero": 172
+            },
+            {
+                "attivita": "Incontri di gruppo sul Linkedin",
+                "numero": 285
+            },
+            {
+                "attivita": "Incontri di gruppo sulle strategie di ricerca del lavoro",
+                "numero": 134
+            },
+            {
+                "attivita": "Incontri di gruppo di preparazione all'intervista di selezione",
+                "numero": 244
+            },
+            {
+                "attivita": "Incontri di gruppo in lingua inglese sul CV",
+                "numero": 59
+            },
+            {
+                "attivita": "Laboratori di gruppo definizione obiettivo professionale e attivazione delle risorse per la carriera",
+                "numero": 10
+            },
+            {
+                "attivita": "Train yourself!\nAllena le tue competenze per affrontare il mondo del lavoro\n(in collaborazione con ER.GO)",
+                "numero": 9
+            },
+            {
+                "attivita": "Orientamento nel percorso delle competenze trasversali dei dottorandi di ricerca",
+                "numero": 43
+            },
+            {
+                "attivita": "Seminario CV in preparazione al Career Day",
+                "numero": 135
+            },
+            {
+                "attivita": "Speech si temi di orientamento al lavoro durante il Career Day",
+                "numero": 80
+            },
+            {
+                "attivita": "Check Point CV individuali in presenza/online in preparazione a Recruiting e Career Day di Ateneo",
+                "numero": 231
+            },
+            {
+                "attivita": "Check Point CV individuali in presenza e online (in collaborazione con ER.GO)",
+                "numero": 63
+            },
+            {
+                "attivita": "Attività di orientamento nell'ambito di corsi di studio e master dell'Ateneo",
+                "numero": 145
+            },
+            {
+                "attivita": "Colloqui individuali di consulenza orientativa professionale",
+                "numero": 115
+            },
+            {
+                "attivita": "Totale attività",
+                "numero": 1725
+            }
+        ]
+    }
+}

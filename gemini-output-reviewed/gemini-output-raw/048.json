@@ -1,0 +1,156 @@
+{
+    "composizione_iscrizioni_per_genere": {
+        "stem": [
+            {
+                "anno": "2023/24",
+                "donne": "35,1%",
+                "uomini": "64,9%"
+            },
+            {
+                "anno": "2022/23",
+                "donne": "34,1%",
+                "uomini": "65,9%"
+            },
+            {
+                "anno": "2021/23",
+                "donne": "34,0%",
+                "uomini": "66,0%"
+            }
+        ],
+        "non_stem": [
+            {
+                "anno": "2023/24",
+                "donne": "65,0%",
+                "uomini": "35,0%"
+            },
+            {
+                "anno": "2022/23",
+                "donne": "64,5%",
+                "uomini": "35,5%"
+            },
+            {
+                "anno": "2021/23",
+                "donne": "64,4%",
+                "uomini": "35,6%"
+            }
+        ],
+        "totale": [
+            {
+                "anno": "2023/24",
+                "donne": "56,7%",
+                "uomini": "43,3%"
+            },
+            {
+                "anno": "2022/23",
+                "donne": "56,3%",
+                "uomini": "43,7%"
+            },
+            {
+                "anno": "2021/23",
+                "donne": "56,3%",
+                "uomini": "43,7%"
+            }
+        ]
+    },
+    "iscrizioni_ai_corsi_di_studio_per_regione_di_residenza": [
+        {
+            "anno": "2023/24",
+            "emilia_romagna": 43455,
+            "altre_regioni_ed_estero": 44410
+        },
+        {
+            "anno": "2022/23",
+            "emilia_romagna": 43286,
+            "altre_regioni_ed_estero": 46398
+        },
+        {
+            "anno": "2021/22",
+            "emilia_romagna": 43027,
+            "altre_regioni_ed_estero": 46688
+        }
+    ],
+    "iscritti_per_regione_di_provenienza_percentuali": {
+        "valori_percentuali": [
+            {
+                "regione": "valle_d_aosta",
+                "percentuale": "0,1"
+            },
+            {
+                "regione": "piemonte",
+                "percentuale": "1,1"
+            },
+            {
+                "regione": "liguria",
+                "percentuale": "0,8"
+            },
+            {
+                "regione": "lombardia",
+                "percentuale": "3,9"
+            },
+            {
+                "regione": "trentino",
+                "percentuale": "1,4"
+            },
+            {
+                "regione": "friuli",
+                "percentuale": "1,1"
+            },
+            {
+                "regione": "veneto",
+                "percentuale": "4,8"
+            },
+            {
+                "regione": "toscana",
+                "percentuale": "4,1"
+            },
+            {
+                "regione": "marche",
+                "percentuale": "5,6"
+            },
+            {
+                "regione": "umbria",
+                "percentuale": "1,2"
+            },
+            {
+                "regione": "lazio",
+                "percentuale": "1,8"
+            },
+            {
+                "regione": "abruzzo",
+                "percentuale": "2,7"
+            },
+            {
+                "regione": "molise",
+                "percentuale": "0,7"
+            },
+            {
+                "regione": "campania",
+                "percentuale": "2,4"
+            },
+            {
+                "regione": "puglia",
+                "percentuale": "4,2"
+            },
+            {
+                "regione": "basilicata",
+                "percentuale": "1,0"
+            },
+            {
+                "regione": "calabria",
+                "percentuale": "1,8"
+            },
+            {
+                "regione": "sicilia",
+                "percentuale": "3,6"
+            },
+            {
+                "regione": "sardegna",
+                "percentuale": "1,3"
+            },
+            {
+                "regione": "emilia romagna",
+                "percentuale": "49,5"
+            }
+        ]
+    }
+}

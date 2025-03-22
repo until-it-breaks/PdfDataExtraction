@@ -1,0 +1,23 @@
+{
+    "percentuale_dirigenti_emilia_romagna": {
+        "totale": "89%",
+        "provincia": [
+            {
+                "nome": "Bologna",
+                "percentuale": "75%"
+            },
+            {
+                "nome": "Rimini",
+                "percentuale": "6,25%"
+            },
+            {
+                "nome": "Ravenna",
+                "percentuale": "6,25%"
+            },
+            {
+                "nome": "Forli-Cesena",
+                "percentuale": "12,5%"
+            }
+        ]
+    }
+}

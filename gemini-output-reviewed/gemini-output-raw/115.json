@@ -1,0 +1,27 @@
+{
+    "persone": {
+        "personale_docente_e_ricercatore": {
+            "valore": 3382,
+            "incremento_percentuale": "+ 6,5%"
+        },
+        "personale_tecnico_amministrativo": {
+            "valore": 3242,
+            "incremento_percentuale": "+2,8%"
+        },
+        "ore_di_formazione_fruite_dal_personale_nel_2023": {
+            "valore": 96721,
+            "unita_di_misura": "ore",
+            "incremento_percentuale": "+19,8%"
+        },
+        "welfare_aziendale_per_il_personale_ta": {
+            "valore": 2330000.0,
+            "unita_di_misura": "€"
+        },
+        "accordi_di_smart_working": {
+            "valore": 311
+        },
+        "progetti_di_telelavoro": {
+            "valore": 1963
+        }
+    }
+}

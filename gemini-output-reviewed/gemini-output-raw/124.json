@@ -1,0 +1,62 @@
+{
+    "distribuzione_eta_personale_ta": [
+        {
+            "fascia_eta": "65-69 anni",
+            "numero_persone": 63
+        },
+        {
+            "fascia_eta": "60-64 anni",
+            "numero_persone": 424
+        },
+        {
+            "fascia_eta": "55-59 anni",
+            "numero_persone": 582
+        },
+        {
+            "fascia_eta": "50-54 anni",
+            "numero_persone": 641
+        },
+        {
+            "fascia_eta": "45-49 anni",
+            "numero_persone": 504
+        },
+        {
+            "fascia_eta": "40-44 anni",
+            "numero_persone": 369
+        },
+        {
+            "fascia_eta": "35-39 anni",
+            "numero_persone": 305
+        },
+        {
+            "fascia_eta": "30-34 anni",
+            "numero_persone": 229
+        },
+        {
+            "fascia_eta": "25-29 anni",
+            "numero_persone": 108
+        },
+        {
+            "fascia_eta": "20-24 anni",
+            "numero_persone": 10
+        }
+    ],
+    "assunzioni_cessazioni_personale_ta_indeterminato": {
+        "2021": {
+            "assunzioni": 176,
+            "cessazioni": 112
+        },
+        "2022": {
+            "assunzioni": 252,
+            "cessazioni": 150
+        },
+        "2023": {
+            "assunzioni": 237,
+            "cessazioni": 145
+        },
+        "totale": {
+            "assunzioni": 665,
+            "cessazioni": 407
+        }
+    }
+}

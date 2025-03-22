@@ -1,0 +1,18 @@
+{
+    "andamento_visitatori_musei": {
+        "dati": [
+            {
+                "anno": 2021,
+                "visitatori": 75353
+            },
+            {
+                "anno": 2022,
+                "visitatori": 145187
+            },
+            {
+                "anno": 2023,
+                "visitatori": 175641
+            }
+        ]
+    }
+}
