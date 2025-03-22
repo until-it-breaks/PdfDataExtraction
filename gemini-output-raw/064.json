@@ -1,34 +1,28 @@
 {
-    "Orientamento in ingresso": {
-        "Colloqui di orientamento": {
+    "orientamento_in_ingresso": {
+        "colloqui_orientamento": {
             "anno": 2023,
-            "numero": 312,
-            "unità": "colloqui"
+            "numero_colloqui": 312
         },
-        "Incontri presso le scuole superiori": {
+        "incontri_scuole_superiori": {
             "anno": 2023,
-            "numero": 85,
-            "unità": "incontri"
+            "numero_incontri": 85
         },
-        "Eventi online e/o in presenza": {
+        "eventi_online_presenza": {
             "anno": 2023,
-            "numero": 157,
-            "unità": "eventi"
+            "numero_eventi": 157
         },
-        "Giornate dell'orientamento": {
+        "giornate_orientamento_ateneo_campus": {
             "anno": 2023,
-            "numero": 7,
-            "unità": "giornate"
+            "numero_giornate": 7
         },
-        "App myAlmaOrienta": {
+        "download_app_myalmaorienta": {
             "anno": 2023,
-            "numero": 26697,
-            "unità": "utenti"
+            "numero_utenti": 26697
         },
-        "Convenzioni PCTO/PLS/POT": {
+        "convenzioni_pcto_pls_pot": {
             "anno": 2023,
-            "numero": 145,
-            "unità": "convenzioni"
+            "numero_convenzioni": 145
         }
     }
 }

@@ -1,13 +1,11 @@
 {
-    "Dottorati di ricerca finanziati da soggetti esterni": {
-        "XXIX ciclo di dottorato": {
-            "peso_fonte": "40%",
+    "dottorati_ricerca": {
+        "xxix_ciclo": {
+            "percentuale_borse_soggetti_esterni": "40%",
             "borse_finanziate_soggetti_esterni": 142,
-            "borse_complessivamente_finanziate_Ateneo": 216,
-            "Ateneo_finanziato_proprio_bilancio": 170,
-            "Ateneo_finanziato_fondi_propri": 46
+            "borse_totali_finanziate_ateneo": 216
         },
-        "XXIX ciclo PNRR": {
+        "xix_ciclo_pnrr": {
             "borse_assegnate": 329,
             "borse_cofinanziate_imprese": 113
         }

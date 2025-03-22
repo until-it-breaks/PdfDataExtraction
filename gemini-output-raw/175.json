@@ -1,35 +1,73 @@
 {
-    "I canali social istituzionali": {
-        "Instagram @UNIbo": {
-            "Followers Attuali Complessivi": "Gennaio dicembre 2023: 142.519",
-            "Crescita del 2023": "+11.519"
+    "canali_social_istituzionali": [
+        {
+            "canale": "@UNIbo",
+            "obiettivo": "Il canale dove l'Ateneo incontra la comunità studentesca. Informazioni, iniziative e opportunità",
+            "target": "Studentesse e studenti durante tutto il loro percorso universitario",
+            "followers_attuali_complessivi": "142519",
+            "periodo_followers": "Gennaio dicembre 2023",
+            "crescita_del_2023": "+11.519"
         },
-        "Instagram UniboPER": {
-            "Followers Attuali Complessivi": "Dicembre 2023: 4.388",
-            "Crescita del 2023": "+539"
+        {
+            "canale": "UniboPER",
+            "obiettivo": "Il canale che racconta alla società la ricerca, la cultura e l'impegno dell'Alma Mater",
+            "target": "Tutta la comunità studentesca e la cittadinanza",
+            "followers_attuali_complessivi": "4388",
+            "periodo_followers": "Dicembre 2023",
+            "crescita_del_2023": "+539"
         },
-        "Facebook": {
-            "Followers Attuali Complessivi": "Dicembre 2023: 133.765",
-            "Crescita del 2023": "+13.324"
+        {
+            "canale": "Facebook",
+            "obiettivo": "L'agenda istituzionale dell'Università di Bologna",
+            "target": "Ricercatori, professionisti, alumni, cittadinanza, stakeholder istituzionali",
+            "followers_attuali_complessivi": "133765",
+            "periodo_followers": "Dicembre 2023",
+            "crescita_del_2023": "+13.324"
         },
-        "LinkedIn": {
-            "Followers Attuali Complessivi": "Dicembre 2023: 397.203",
-            "Crescita del 2023": "+62.574"
+        {
+            "canale": "LinkedIn",
+            "obiettivo": "Il punto di incontro e la rete di riferimento per chi fa parte o vuole continuare a fare parte della comunità Unibo",
+            "target": "Ricercatori, professionisti, alumni, cittadinanza, stakeholder istituzionali, imprese",
+            "followers_attuali_complessivi": "397203",
+            "periodo_followers": "Dicembre 2023",
+            "crescita_del_2023": "+62.574"
         },
-        "X": {
-            "Followers Attuali Complessivi": "Dicembre 2023: 31.091",
-            "Crescita del 2023": "+2.832"
+        {
+            "canale": "X",
+            "obiettivo": "Il canale che dà spazio, voce e visibilità alla ricerca scientifica",
+            "target": "Ricercatori, professionisti, alumni, cittadinanza, stakeholder istituzionali.",
+            "followers_attuali_complessivi": "31091",
+            "periodo_followers": "Dicembre 2023",
+            "crescita_del_2023": "+2.832"
         },
-        "Youtube @UNIbo": {
-            "Followers Attuali Complessivi": "Dicembre 2023: 32.600",
-            "Crescita del 2023": "+3.438"
+        {
+            "canale": "@UNIbo",
+            "obiettivo": "Un archivio video per un'immersione nell'universo Unibo",
+            "target": "Indifferenziato",
+            "followers_attuali_complessivi": "32600",
+            "periodo_followers": "Dicembre 2023",
+            "crescita_del_2023": "+3.438"
         },
-        "Spreaker": {
-            "Followers Attuali Complessivi": "Download 2023: 36.000"
+        {
+            "canale": "Spreaker",
+            "obiettivo": "Voci autorevoli dall'Ateneo per orientarsi tra le trasformazioni del nostro tempo",
+            "target": "Indifferenziato",
+            "followers_attuali_complessivi": "36000",
+            "periodo_followers": "Download 2023"
         },
-        "Telegram": {
-            "Followers Attuali Complessivi": "Iscritti nel 2023: 20.416"
+        {
+            "canale": "Telegram",
+            "obiettivo": "Il bollettino informazioni per la comunità studentesca a portata di smartphone",
+            "target": "Studentesse e studenti durante tutto il loro percorso universitario",
+            "followers_attuali_complessivi": "20416",
+            "periodo_followers": "Iscritti nel 2023"
         },
-        "TikTok": {}
-    }
+        {
+            "canale": "TIKTOK",
+            "obiettivo": "Il canale dove l'Ateneo incontra le future studentesse e i futuri studenti",
+            "target": "Studentesse e studenti delle scuole superiori, matricole al primo anno",
+            "followers_attuali_complessivi": null,
+            "periodo_followers": "Canale aperto a fine dicembre 2023"
+        }
+    ]
 }

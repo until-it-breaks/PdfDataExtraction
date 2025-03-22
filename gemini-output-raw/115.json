@@ -1,25 +1,27 @@
 {
-    "Persone": {
-        "Personale Docente e Ricercatore": {
-            "Value": 3382,
-            "Variazione": "+6,5%"
+    "persone": {
+        "personale_docente_e_ricercatore": {
+            "valore": 3382,
+            "incremento_percentuale": "+ 6,5%"
         },
-        "Personale Tecnico Amministrativo": {
-            "Value": 3242,
-            "Variazione": "+2,8%"
+        "personale_tecnico_amministrativo": {
+            "valore": 3242,
+            "incremento_percentuale": "+2,8%"
         },
-        "Ore di Formazione fruite dal personale nel 2023": {
-            "Value": 96721,
-            "Variazione": "+19,8%"
+        "ore_di_formazione_fruite_dal_personale_nel_2023": {
+            "valore": 96721,
+            "unita_di_misura": "ore",
+            "incremento_percentuale": "+19,8%"
         },
-        "Welfare aziendale per il personale TA": {
-            "Value": "2.330.000€"
+        "welfare_aziendale_per_il_personale_ta": {
+            "valore": 2330000.0,
+            "unita_di_misura": "€"
         },
-        "Accordi di Smart Working": {
-            "Value": 311
+        "accordi_di_smart_working": {
+            "valore": 311
         },
-        "Progetti di Telelavoro": {
-            "Value": 1963
+        "progetti_di_telelavoro": {
+            "valore": 1963
         }
     }
 }

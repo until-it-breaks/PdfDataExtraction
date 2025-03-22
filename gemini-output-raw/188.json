@@ -1,42 +1,54 @@
 {
-    "Serie storica dei consumi (Tep)": {
-        "2021": {
-            "Energia elettrica": 7.615,
-            "Gas naturale": 3.061,
-            "Teleriscaldamento": 3.583,
-            "Total": 14.461
-        },
-        "2022": {
-            "Energia elettrica": 7.961,
-            "Gas naturale": 2.675,
-            "Teleriscaldamento": 3.237,
-            "Total": 14.067
-        },
-        "2023": {
-            "Energia elettrica": 7.752,
-            "Gas naturale": 2.283,
-            "Teleriscaldamento": 2.461,
-            "Total": 12.59
-        }
+    "serie_storica_consumi_tep": {
+        "unita_di_misura": "Tep",
+        "dati": [
+            {
+                "anno": 2021,
+                "energia_elettrica": 7.615,
+                "gas_naturale": 3.061,
+                "teleriscaldamento": 3.583,
+                "totale": 14.461
+            },
+            {
+                "anno": 2022,
+                "energia_elettrica": 7.961,
+                "gas_naturale": 2.675,
+                "teleriscaldamento": 3.237,
+                "totale": 14.067
+            },
+            {
+                "anno": 2023,
+                "energia_elettrica": 7.752,
+                "gas_naturale": 2.283,
+                "teleriscaldamento": 2.461,
+                "totale": 12.59
+            }
+        ]
     },
-    "Serie storica delle emissioni (tCO2)": {
-        "2021": {
-            "Energia elettrica": 17.64,
-            "Gas naturale": 7.48,
-            "Teleriscaldamento": 6.95,
-            "Total": 32.676
-        },
-        "2022": {
-            "Energia elettrica": 18.442,
-            "Gas naturale": 6.537,
-            "Teleriscaldamento": 6.279,
-            "Total": 31.824
-        },
-        "2023": {
-            "Energia elettrica": 17.957,
-            "Gas naturale": 5.579,
-            "Teleriscaldamento": 4.774,
-            "Total": 28.596
-        }
+    "serie_storica_emissioni_tco2": {
+        "unita_di_misura": "tCO2",
+        "dati": [
+            {
+                "anno": 2021,
+                "energia_elettrica": 17.64,
+                "gas_naturale": 7.48,
+                "teleriscaldamento": 6.95,
+                "totale": 32.676
+            },
+            {
+                "anno": 2022,
+                "energia_elettrica": 18.442,
+                "gas_naturale": 6.537,
+                "teleriscaldamento": 6.279,
+                "totale": 31.824
+            },
+            {
+                "anno": 2023,
+                "energia_elettrica": 17.957,
+                "gas_naturale": 5.579,
+                "teleriscaldamento": 4.774,
+                "totale": 28.596
+            }
+        ]
     }
 }

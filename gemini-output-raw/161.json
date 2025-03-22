@@ -1,17 +1,35 @@
 {
-    "Iscrizioni al PUP per area di studio": {
-        "Totale": {
-            "2021": "67",
-            "2022": "61",
-            "2023": "65"
+    "iscrizioni_pup_per_area_di_studio": {
+        "totale": {
+            "2021": 67,
+            "2022": 61,
+            "2023": 65
         },
-        "Area di studio": {
-            "Umanistica": "15",
-            "Giuridica": "22",
-            "Agro-alimentare": "14",
-            "Politico-sociale": "10",
-            "Psico-pedagogica": "2",
-            "Economica": "2"
-        }
+        "aree_di_studio": [
+            {
+                "area": "Umanistica",
+                "valore": 15
+            },
+            {
+                "area": "Giuridica",
+                "valore": 22
+            },
+            {
+                "area": "Agro-alimentare",
+                "valore": 14
+            },
+            {
+                "area": "Politico-sociale",
+                "valore": 10
+            },
+            {
+                "area": "Psico-pedagogica",
+                "valore": 2
+            },
+            {
+                "area": "Economica",
+                "valore": 2
+            }
+        ]
     }
 }

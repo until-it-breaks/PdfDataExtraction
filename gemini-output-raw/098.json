@@ -1,21 +1,53 @@
 {
-    "Tabella 14 - I dipartimenti eccellenti - finanziamenti per Dipartimento (euro)": {
-        "Dipartimento": {
-            "Chimica \"Giacomo Ciamician\"": "1.687.792",
-            "Filologia Classica e Italianistica": "1.444.594",
-            "Ingegneria dell'Energia Elettrica e dell'Informazione \"Guglielmo Marconi\"": "1.819.118",
-            "Psicologia \"Renzo Canestrari\"": "1.313.267",
-            "Scienze Economiche": "1.575.921",
-            "Scienze Giuridiche": "1.575.921",
-            "Scienze Politiche e Sociali": "1.575.921",
-            "Scienze e Tecnologie Agro-Alimentari": "1.819.118",
-            "Delle Arti": "1.444.594",
-            "Scienze Mediche e Chirurgiche": "1.819.118",
-            "Storia, Culture e Civiltà": "1.575.921",
-            "Totale": "17.651.285"
-        },
-        "2023": {
-            "unità": "euro"
-        }
+    "finanziamenti_dipartimenti": {
+        "unita_di_misura": "euro",
+        "anno": 2023,
+        "dati": [
+            {
+                "dipartimento": "Chimica \"Giacomo Ciamician\"",
+                "finanziamento": 1687792.0
+            },
+            {
+                "dipartimento": "Filologia Classica e Italianistica",
+                "finanziamento": 1444594.0
+            },
+            {
+                "dipartimento": "Ingegneria dell'Energia Elettrica e dell'Informazione \"Guglielmo Marconi\"",
+                "finanziamento": 1819118.0
+            },
+            {
+                "dipartimento": "Psicologia \"Renzo Canestrari\"",
+                "finanziamento": 1313267.0
+            },
+            {
+                "dipartimento": "Scienze Economiche",
+                "finanziamento": 1575921.0
+            },
+            {
+                "dipartimento": "Scienze Giuridiche",
+                "finanziamento": 1575921.0
+            },
+            {
+                "dipartimento": "Scienze Politiche e Sociali",
+                "finanziamento": 1575921.0
+            },
+            {
+                "dipartimento": "Scienze e Tecnologie Agro-Alimentari",
+                "finanziamento": 1819118.0
+            },
+            {
+                "dipartimento": "Delle Arti",
+                "finanziamento": 1444594.0
+            },
+            {
+                "dipartimento": "Scienze Mediche e Chirurgiche",
+                "finanziamento": 1819118.0
+            },
+            {
+                "dipartimento": "Storia, Culture e Civiltà",
+                "finanziamento": 1575921.0
+            }
+        ],
+        "totale": 17651285.0
     }
 }

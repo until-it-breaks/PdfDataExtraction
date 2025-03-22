@@ -1,46 +1,53 @@
 {
-    "Tabella 13 - Interventi edilizi nell'ambito dei progetti PNRR/PNC": [
+    "interventi_edilizi_pnrr_pnc": [
         {
-            "Bando": "CN",
-            "Acronimo Progetto": "HPC",
-            "Titolo intervento edilizio": "Realizzazione di Laboratori di Ricerca DEI presso Ex Clinica Neuro, via Ugo Foscolo 7 - Bologna",
-            "MQ oggetto intervento": "349,56 mq",
-            "Postazioni di lavoro create": "28 postazioni di lavoro + 1 sala riunioni"
+            "bando": "CN",
+            "acronimo_progetto": "HPC",
+            "titolo_intervento_edilizio": "Realizzazione di Laboratori di Ricerca DEI presso Ex Clinica Neuro, via Ugo Foscolo 7 - Bologna",
+            "mq_oggetto_intervento": 349.56,
+            "unita_misura_mq_oggetto_intervento": "mq",
+            "postazioni_di_lavoro_create": "28 postazioni di lavoro + 1 sala riunioni"
         },
         {
-            "Bando": "CN",
-            "Acronimo Progetto": "BIODIV",
-            "Titolo intervento edilizio": "Lavori per la realizzazione nuovi laboratori di ricerca presso il Fano Marine Center - Fano",
-            "MQ oggetto intervento": "985 mq",
-            "Postazioni di lavoro create": "34 postazioni di lavoro"
+            "bando": "CN",
+            "acronimo_progetto": "BIODIV",
+            "titolo_intervento_edilizio": "Lavori per la realizzazione nuovi laboratori di ricerca presso il Fano Marine Center - Fano",
+            "mq_oggetto_intervento": 985.0,
+            "unita_misura_mq_oggetto_intervento": "mq",
+            "postazioni_di_lavoro_create": "34 postazioni di lavoro"
         },
         {
-            "Bando": "CN",
-            "Acronimo Progetto": "BIODIV",
-            "Titolo intervento edilizio": "Opere per la realizzazione di una cabina elettrica propedeutica alla realizzazione dei nuovi laboratori di ricerca presso il Fano Marine Center - Fano",
-            "MQ oggetto intervento": "A servizio dell'intero edificio del FMC = 3.484 mq",
-            "Postazioni di lavoro create": "a servizio di circa 88 postazioni di lavoro tra quelle già esistenti e quelle realizzate ex novo + 100 posti aula magna"
+            "bando": "CN",
+            "acronimo_progetto": "BIODIV",
+            "titolo_intervento_edilizio": "Opere per la realizzazione di una cabina elettrica propedeutica alla realizzazione dei nuovi laboratori di ricerca presso il Fano Marine Center - Fano",
+            "mq_oggetto_intervento": 3484.0,
+            "unita_misura_mq_oggetto_intervento": "mq",
+            "descrizione_mq_oggetto_intervento": "A servizio dell'intero edificio del FMC =",
+            "postazioni_di_lavoro_create": "a servizio di circa 88 postazioni di lavoro tra quelle già esistenti e quelle realizzate ex novo + 100 posti aula magna"
         },
         {
-            "Bando": "CN",
-            "Acronimo Progetto": "AGRITECH",
-            "Titolo intervento edilizio": "Lavori per la realizzazione di pista prove trattori Cadriano (Spoke3) presso le sedi di Cadriano comune di Granarolo Emilia (Bo)",
-            "MQ oggetto intervento": "3.796 mq",
-            "Postazioni di lavoro create": "3 ricercatori possono operare contemporaneamente"
+            "bando": "CN",
+            "acronimo_progetto": "AGRITECH",
+            "titolo_intervento_edilizio": "Lavori per la realizzazione di pista prove trattori Ca-driano (Spoke3) presso le sedi di Cadriano comune di Granarolo Emilia (Bo)",
+            "mq_oggetto_intervento": 3796.0,
+            "unita_misura_mq_oggetto_intervento": "mq",
+            "postazioni_di_lavoro_create": "3 ricercatori possono operare contemporaneamente"
         },
         {
-            "Bando": "PE",
-            "Acronimo Progetto": "PE09 - GRINS",
-            "Titolo intervento edilizio": "Intervento di riqualificazione per realizzazione di un laboratorio computazionale, P.zza Scaravilli 2 - Bologna",
-            "MQ oggetto intervento": "188 mq",
-            "Postazioni di lavoro create": "24 postazioni di lavoro"
+            "bando": "PE",
+            "acronimo_progetto": "PE09 - GRINS",
+            "titolo_intervento_edilizio": "Intervento di riqualificazione per realizzazione di un laboratorio computazionale, P.zza Scaravilli 2 - Bologna",
+            "mq_oggetto_intervento": 188.0,
+            "unita_misura_mq_oggetto_intervento": "mq",
+            "postazioni_di_lavoro_create": "24 postazioni di lavoro"
         },
         {
-            "Bando": "PNC",
-            "Acronimo Progetto": "PNC-DARE",
-            "Titolo intervento edilizio": "Rifunzionalizzazione di spazi per ricercatori del Dip. DEI - via Saragozza, 8 a Bologna (cod. edif. 339)",
-            "MQ oggetto intervento": "350 mq",
-            "Postazioni di lavoro create": "22 postazioni di lavoro"
+            "bando": "PNC",
+            "acronimo_progetto": "PNC-DARE",
+            "titolo_intervento_edilizio": "Rifunzionalizzazione di spazi per ricercatori del Dip. DEI - via Saragozza, 8 a Bologna (cod. edif. 339)",
+            "mq_oggetto_intervento": 350.0,
+            "unita_misura_mq_oggetto_intervento": "mq",
+            "postazioni_di_lavoro_create": "22 postazioni di lavoro"
         }
     ]
 }

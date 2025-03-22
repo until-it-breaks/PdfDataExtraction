@@ -1,7 +1,19 @@
 {
-    "Famiglie brevettuali": {
-        "2021": 262,
-        "2022": 292,
-        "2023": 310
+    "famiglie_brevettuali": {
+        "titolo": "Figura 80 - Famiglie brevettuali",
+        "dati": [
+            {
+                "anno": 2021,
+                "valore": 262
+            },
+            {
+                "anno": 2022,
+                "valore": 292
+            },
+            {
+                "anno": 2023,
+                "valore": 310
+            }
+        ]
     }
 }

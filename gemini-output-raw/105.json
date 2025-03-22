@@ -1,16 +1,16 @@
 {
-    "Prodotti della ricerca per tipologia": {
-        "Contributo in rivista": "67,0%",
-        "Contributo in volume": "15,2%",
-        "Contributo in Atti di convegno": "12,6%",
-        "Libro": "4,2%",
-        "Traduzione e altra tipologia": "0,5%"
+    "prodotti_della_ricerca_per_tipologia": {
+        "contributo_in_rivista": "67,0%",
+        "contributo_in_volume": "15,2%",
+        "contributo_in_atti_di_convegno": "12,6%",
+        "libro": "4,2%",
+        "traduzione_e_altra_tipologia": "0,5%"
     },
-    "Prodotti della ricerca per area scientifico disciplinare": {
-        "Area Medica": "21,8%",
-        "Area Umanistica": "22,6%",
-        "Area Tecnologica": "20,2%",
-        "Area Scientifica": "19,5%",
-        "Area Sociale": "15,3%"
+    "prodotti_della_ricerca_per_area_scientifico_disciplinare": {
+        "area_medica": "21,8%",
+        "area_umanistica": "22,6%",
+        "area_tecnologica": "20,2%",
+        "area_scientifica": "19,5%",
+        "area_sociale": "15,3%"
     }
 }

@@ -1,28 +1,64 @@
 {
-    "Dipartimenti eccellenti - Finanziamenti 23-27": {
-        "Scienze Mediche e Chirurgiche": "9.095.590",
-        "Scienze e Tecnologie Agro-alimentari": "9.095.590",
-        "Ingegneria \"Guglielmo Marconi\"": "9.095.590",
-        "Chimica \"Giacomo Ciamician\"": "8.438.960",
-        "Storia, Culture e Civiltà": "7.879.605",
-        "Scienze Politiche e Sociali": "7.879.605",
-        "Scienze Giuridiche": "7.879.605",
-        "Scienze Economiche": "7.879.605",
-        "Delle Arti": "7.222.970",
-        "Filolofgia Classica e Italianistica": "7.222.970",
-        "Psicologia \"Renzo Canestrari\"": "6.566.335"
+    "finanziamenti_dipartimenti_eccellenti_2023_2027": [
+        {
+            "dipartimento": "Scienze Mediche e Chirurgiche",
+            "finanziamento": 9095590.0
+        },
+        {
+            "dipartimento": "Scienze e Tecnologie Agro-alimentari",
+            "finanziamento": 9095590.0
+        },
+        {
+            "dipartimento": "Ingegneria \"Guglielmo Marconi\"",
+            "finanziamento": 9095590.0
+        },
+        {
+            "dipartimento": "Chimica \"Giacomo Ciamician\"",
+            "finanziamento": 8438960.0
+        },
+        {
+            "dipartimento": "Storia, Culture e Civiltà",
+            "finanziamento": 7879605.0
+        },
+        {
+            "dipartimento": "Scienze Politiche e Sociali",
+            "finanziamento": 7879605.0
+        },
+        {
+            "dipartimento": "Scienze Giuridiche",
+            "finanziamento": 7879605.0
+        },
+        {
+            "dipartimento": "Scienze Economiche",
+            "finanziamento": 7879605.0
+        },
+        {
+            "dipartimento": "Delle Arti",
+            "finanziamento": 7222970.0
+        },
+        {
+            "dipartimento": "Filolofgia Classica e Italianistica",
+            "finanziamento": 7222970.0
+        },
+        {
+            "dipartimento": "Psicologia \"Renzo Canestrari\"",
+            "finanziamento": 6566335.0
+        }
+    ],
+    "progetti_di_rilevante_interesse_nazionale": {
+        "numero_progetti_finanziati": 515,
+        "finanziamento_totale": 38000000.0,
+        "unita_di_misura": "euro",
+        "percentuale_unibo_coordinatore": "58%"
     },
-    "Progetti di Rilevante Interesse Nazionale": {
-        "progetti PRIN finanziati nel 2023": "515",
-        "finanziamento totale": "38 milioni di euro",
-        "Unibo con ruolo di coordinatore": "58%"
+    "progetti_fis_fondo_italiano_per_la_scienza": {
+        "numero_progetti_presentati": 134,
+        "contributo_totale": 234400000.0,
+        "unita_di_misura": "euro"
     },
-    "Progetti FIS (Fondo Italiano per la Scienza)": {
-        "progetti presentati da Università di Bologna": "134",
-        "contributo totale richiesto": "234,4 milioni di euro"
-    },
-    "Progetti FISA (Fondo Italiano per le Scienze Applicate)": {
-        "progetti presentati da Università di Bologna": "7",
-        "finanziamento totale richiesto": "44,7 milioni di euro"
+    "progetti_fisa_fondo_italiano_per_le_scienze_applicate": {
+        "numero_progetti_presentati": 7,
+        "finanziamento_totale": 44700000.0,
+        "unita_di_misura": "euro"
     }
 }

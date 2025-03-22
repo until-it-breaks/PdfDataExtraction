@@ -1,42 +1,55 @@
 {
-    "Progetti europei": {
-        "2021": {
-            "Horizon Europe": 0,
-            "Horizon 2020": 39,
-            "Altri programmi europei (tra cui LIFE e Interreg)": 7,
-            "Totale": 46
-        },
-        "2022": {
-            "Horizon Europe": 96,
-            "Horizon 2020": 19,
-            "Altri programmi europei (tra cui LIFE e Interreg)": 0,
-            "Totale": 115
-        },
-        "2023": {
-            "Horizon Europe": 87,
-            "Horizon 2020": 24,
-            "Altri programmi europei (tra cui LIFE e Interreg)": 0,
-            "Totale": 111
-        }
+    "progetti_europei": {
+        "titolo": "Figura 39 - Progetti europei",
+        "dati": [
+            {
+                "anno": 2021,
+                "horizon_europe": null,
+                "horizon_2020": 39,
+                "altri_programmi_europei": 7,
+                "totale": 46
+            },
+            {
+                "anno": 2022,
+                "horizon_europe": 96,
+                "horizon_2020": null,
+                "altri_programmi_europei": 19,
+                "totale": 115
+            },
+            {
+                "anno": 2023,
+                "horizon_europe": 87,
+                "horizon_2020": null,
+                "altri_programmi_europei": 24,
+                "totale": 111
+            }
+        ]
     },
-    "Finanziamento progetti europei (contributo in migliaia di euro)": {
-        "2021": {
-            "Horizon Europe": 0,
-            "Horizon 2020": 17.488,
-            "Altri programmi europei (tra cui LIFE e Interreg)": 769,
-            "Totale": 18.257
-        },
-        "2022": {
-            "Horizon Europe": 49.203,
-            "Horizon 2020": 4.382,
-            "Altri programmi europei (tra cui LIFE e Interreg)": 0,
-            "Totale": 53.585
-        },
-        "2023": {
-            "Horizon Europe": 35.868,
-            "Horizon 2020": 3.818,
-            "Altri programmi europei (tra cui LIFE e Interreg)": 0,
-            "Totale": 39.686
-        }
+    "finanziamento_progetti_europei": {
+        "titolo": "Figura 40 - Finanziamento progetti europei",
+        "unita_di_misura": "migliaia di euro",
+        "dati": [
+            {
+                "anno": 2021,
+                "horizon_europe": null,
+                "horizon_2020": 17488.0,
+                "altri_programmi_europei": 769.0,
+                "totale": 18257.0
+            },
+            {
+                "anno": 2022,
+                "horizon_europe": 49203.0,
+                "horizon_2020": null,
+                "altri_programmi_europei": 4382.0,
+                "totale": 53585.0
+            },
+            {
+                "anno": 2023,
+                "horizon_europe": 35868.0,
+                "horizon_2020": null,
+                "altri_programmi_europei": 3818.0,
+                "totale": 39686.0
+            }
+        ]
     }
 }

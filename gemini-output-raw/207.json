@@ -1,3 +1,23 @@
 {
-    "Percentuale di senior management assunti che provengono dalla comunità locale": "L'89% dei dirigenti risiede nella regione Emilia-Romagna, in particolare il 75% nella provincia di Bologna, il 6,25% nella provincia di Rimini, il 6,25% nella provincia di Ravenna e il 12,5% nella provincia di Forlì-Cesena"
+    "percentuale_dirigenti_emilia_romagna": {
+        "totale": "89%",
+        "provincia": [
+            {
+                "nome": "Bologna",
+                "percentuale": "75%"
+            },
+            {
+                "nome": "Rimini",
+                "percentuale": "6,25%"
+            },
+            {
+                "nome": "Ravenna",
+                "percentuale": "6,25%"
+            },
+            {
+                "nome": "Forli-Cesena",
+                "percentuale": "12,5%"
+            }
+        ]
+    }
 }

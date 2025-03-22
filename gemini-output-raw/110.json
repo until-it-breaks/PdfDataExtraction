@@ -1,11 +1,28 @@
 {
-    "Ricerca in ambito clinico e rapporti con il SSN": {
-        "2023": {
-            "Nuovi trials clinici condotti": "157",
-            "Acquisizione fondi da contratti di ricerca commissionata e consulenza": "4,8 milioni di euro",
-            "Acquisizione fondi da bandi competitivi": "13,4 milioni di euro",
-            "Contributi liberali ai Dipartimenti di area medica": "1,7 milioni di euro",
-            "Nuovi laboratori aggiunti alle piattaforme di ricerca congiunta tra Università e IRCCS": "4"
-        }
+    "ricerca_in_ambito_clinico_e_rapporti_con_il_ssn": {
+        "studi_clinici_condotti_nel_2023": 157,
+        "finanziamenti_per_contratti_di_ricerca_commissionata_e_consulenza": {
+            "valore": 4.8,
+            "unita_di_misura": "milioni di euro"
+        },
+        "finanziamenti_da_bandi_competitivi": {
+            "valore": 13.4,
+            "unita_di_misura": "milioni di euro"
+        },
+        "contributi_liberali_per_linee_di_ricerca_nel_2023": {
+            "valore": 1.7,
+            "unita_di_misura": "milioni di euro"
+        },
+        "nuovi_laboratori_aggiunti_nel_2023": 4
+    },
+    "l_isa": {
+        "senior_visiting_fellows_ospitati": 23,
+        "isa_lectures_organizzate": 32,
+        "conferenze_isa_topic": 13,
+        "visiting_fellows_dall_ucraina": 3,
+        "durata_visiting_fellowship": "12 mesi",
+        "giornate_presentazione_nell_ambito_dell_isa_doctoral_prize": 1,
+        "giornate_dedicate_alla_presentazione_linee_di_ricerca_dei_visiting_fellows": 2,
+        "incontri_organizzati_dal_presidio_qualita_di_ateneo": 4
     }
 }

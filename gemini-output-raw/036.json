@@ -1,40 +1,52 @@
 {
-    "Valore economico distribuito": {
-        "Risorse umane": {
-            "2023 (mln)": "469",
-            "%": "58%",
-            "di cui Personale docente e di ricerca": {
-                "2023 (mln)": "331",
-                "%": "41%",
-                "di cui Personale dirigente e tecnico amministrativo": {
-                    "2023 (mln)": "138",
-                    "%": "17%"
-                }
+    "valore_economico_distribuito": {
+        "unita_misura": "mln",
+        "dati": [
+            {
+                "voce": "Risorse umane",
+                "valore_2023": 469,
+                "percentuale": "58%"
+            },
+            {
+                "voce": "di cui Personale docente e di ricerca",
+                "valore_2023": 331,
+                "percentuale": "41%"
+            },
+            {
+                "voce": "di cui Personale dirigente e tecnico amministrativo",
+                "valore_2023": 138,
+                "percentuale": "17%"
+            },
+            {
+                "voce": "Interventi a favore di studenti/esse",
+                "valore_2023": 124,
+                "percentuale": "15%"
+            },
+            {
+                "voce": "Trasferimenti passivi verso terzi",
+                "valore_2023": 42,
+                "percentuale": "5%"
+            },
+            {
+                "voce": "Fornitori",
+                "valore_2023": 141,
+                "percentuale": "18%"
+            },
+            {
+                "voce": "Capitale di credito",
+                "valore_2023": 2,
+                "percentuale": "0%"
+            },
+            {
+                "voce": "Pubblica amministrazione",
+                "valore_2023": 26,
+                "percentuale": "3%"
+            },
+            {
+                "voce": "Totale",
+                "valore_2023": 805,
+                "percentuale": "100%"
             }
-        },
-        "Interventi a favore di studenti/esse": {
-            "2023 (mln)": "124",
-            "%": "15%"
-        },
-        "Trasferimenti passivi verso terzi": {
-            "2023 (mln)": "42",
-            "%": "5%"
-        },
-        "Fornitori": {
-            "2023 (mln)": "141",
-            "%": "18%"
-        },
-        "Capitale di credito": {
-            "2023 (mln)": "2",
-            "%": "0%"
-        },
-        "Pubblica amministrazione": {
-            "2023 (mln)": "26",
-            "%": "3%"
-        },
-        "Totale": {
-            "2023 (mln)": "805",
-            "%": "100%"
-        }
+        ]
     }
 }

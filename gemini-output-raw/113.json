@@ -1,20 +1,67 @@
 {
-    "Contributo 2023 in progetti Horizon Europe": {
-        "unità di misura": "migliaia di €",
-        "GOAL 1": 1.228,
-        "GOAL 2": 1.596,
-        "GOAL 3": 6.21,
-        "GOAL 4": 1.363,
-        "GOAL 5": 728,
-        "GOAL 6": 653,
-        "GOAL 7": 2.76,
-        "GOAL 9": 1.683,
-        "GOAL 10": 254,
-        "GOAL 11": 4.345,
-        "GOAL 12": 1.686,
-        "GOAL 13": 2.043,
-        "GOAL 14": 265,
-        "GOAL 15": 781,
-        "GOAL 16": 3.66
+    "contributo_2023_progetti_horizon_europe": {
+        "unita_di_misura": "migliaia di €",
+        "obiettivi": [
+            {
+                "goal": "GOAL 1",
+                "valore": 1.228
+            },
+            {
+                "goal": "GOAL 2",
+                "valore": 1.596
+            },
+            {
+                "goal": "GOAL 3",
+                "valore": 6.21
+            },
+            {
+                "goal": "GOAL 4",
+                "valore": 1.363
+            },
+            {
+                "goal": "GOAL 5",
+                "valore": 728.0
+            },
+            {
+                "goal": "GOAL 6",
+                "valore": 653.0
+            },
+            {
+                "goal": "GOAL 7",
+                "valore": 2.76
+            },
+            {
+                "goal": "GOAL 9",
+                "valore": 1.683
+            },
+            {
+                "goal": "GOAL 10",
+                "valore": 254.0
+            },
+            {
+                "goal": "GOAL 11",
+                "valore": 4.345
+            },
+            {
+                "goal": "GOAL 12",
+                "valore": 1.686
+            },
+            {
+                "goal": "GOAL 13",
+                "valore": 2.043
+            },
+            {
+                "goal": "GOAL 14",
+                "valore": 265.0
+            },
+            {
+                "goal": "GOAL 15",
+                "valore": 781.0
+            },
+            {
+                "goal": "GOAL 16",
+                "valore": 3.66
+            }
+        ]
     }
 }

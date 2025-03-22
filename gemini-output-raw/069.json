@@ -1,9 +1,10 @@
 {
-    "Interventi di valorizzazione del merito": {
-        "studenti che ne hanno beneficiato": {
-            "anno": "2022/2023",
-            "numero": "512"
-        }
+    "studenti_che_hanno_beneficiato_esonero_tasse_2022_2023": {
+        "valore": 512,
+        "unita_di_misura": "studenti"
     },
-    "Assegni di tutorato erogati nel 2023": "615"
+    "assegni_di_tutorato_erogati_nel_2023": {
+        "valore": 615,
+        "unita_di_misura": "assegni"
+    }
 }

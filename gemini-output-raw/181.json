@@ -1,21 +1,76 @@
 {
-    "Progetti di cooperazione e collaborazione internazionale (terza missione)": {
-        "GOAL 1": 3,
-        "GOAL 2": 4,
-        "GOAL 3": 10,
-        "GOAL 4": 38,
-        "GOAL 5": 2,
-        "GOAL 6": 1,
-        "GOAL 7": 3,
-        "GOAL 8": 7,
-        "GOAL 9": 0,
-        "GOAL 10": 2,
-        "GOAL 11": 5,
-        "GOAL 12": 0,
-        "GOAL 13": 5,
-        "GOAL 14": 1,
-        "GOAL 15": 4,
-        "GOAL 16": 5,
-        "GOAL 17": 4
+    "progetti_cooperazione_sdgs": {
+        "descrizione": "Numero di progetti di cooperazione e collaborazione internazionale associati a ciascun SDG",
+        "progetti_per_goal": [
+            {
+                "goal": "GOAL 1",
+                "numero_progetti": 3
+            },
+            {
+                "goal": "GOAL 2",
+                "numero_progetti": 4
+            },
+            {
+                "goal": "GOAL 3",
+                "numero_progetti": 10
+            },
+            {
+                "goal": "GOAL 4",
+                "numero_progetti": 38
+            },
+            {
+                "goal": "GOAL 5",
+                "numero_progetti": 2
+            },
+            {
+                "goal": "GOAL 6",
+                "numero_progetti": 1
+            },
+            {
+                "goal": "GOAL 7",
+                "numero_progetti": 3
+            },
+            {
+                "goal": "GOAL 8",
+                "numero_progetti": 7
+            },
+            {
+                "goal": "GOAL 9",
+                "numero_progetti": 0
+            },
+            {
+                "goal": "GOAL 10",
+                "numero_progetti": 2
+            },
+            {
+                "goal": "GOAL 11",
+                "numero_progetti": 5
+            },
+            {
+                "goal": "GOAL 12",
+                "numero_progetti": 0
+            },
+            {
+                "goal": "GOAL 13",
+                "numero_progetti": 5
+            },
+            {
+                "goal": "GOAL 14",
+                "numero_progetti": 1
+            },
+            {
+                "goal": "GOAL 15",
+                "numero_progetti": 4
+            },
+            {
+                "goal": "GOAL 16",
+                "numero_progetti": 5
+            },
+            {
+                "goal": "GOAL 17",
+                "numero_progetti": 4
+            }
+        ],
+        "numero_totale_progetti_2023": 37
     }
 }

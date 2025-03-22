@@ -1,38 +1,36 @@
 {
-    "Tabella 24 - Accordi con centri di ricerca esterni": [
+    "accordi_con_centri_di_ricerca_esterni": [
         {
-            "Centro di ricerca": "Agenzia Spaziale Italiana",
-            "Accordo": "2022-5-HH.O \"Navigazione operativa di missioni CubeSat in Deep Space\"",
-            "Durata": "1,5 anni"
+            "centro_di_ricerca": "Agenzia Spaziale Italiana",
+            "accordo": "2022-5-HH.O \"Navigazione operativa di missioni CubeSat in Deep Space\"",
+            "durata": "1,5 anni"
         },
         {
-            "Centro di ricerca": "Agenzia Spaziale Italiana",
-            "Accordo": "2022-8-HH.O Missione HERA \"Attività scientifiche per la Missione HERA\"",
-            "Durata": "3 anni"
+            "centro_di_ricerca": "Agenzia Spaziale Italiana",
+            "accordo": "2022-8-HH.O Missione HERA\n\"Attività scientifiche per la Missione HERA\"",
+            "durata": "3 anni"
         }
     ],
-    "Tabella 25- Risultati CIRI": {
-        "Progetti di ricerca competitivi": [
-            {
-                "Progetti in corso": 83,
-                "Importo": "11.760.000 euro",
-                "Categoria": "Totale progetti"
-            },
-            {
-                "Progetti in corso": 11,
-                "Importo": "450.000 euro",
-                "Categoria": "Nazionali"
-            },
-            {
-                "Progetti in corso": 65,
-                "Importo": "9.732.000 euro",
-                "Categoria": "Regionali"
-            },
-            {
-                "Progetti in corso": 7,
-                "Importo": "1.578.000 euro",
-                "Categoria": "Internazionali"
-            }
-        ]
+    "risultati_ciri": {
+        "totale_progetti": {
+            "progetti_in_corso": 83,
+            "importo": 11760000.0,
+            "unita_di_misura": "euro"
+        },
+        "nazionali": {
+            "progetti_in_corso": 11,
+            "importo": 450000.0,
+            "unita_di_misura": "euro"
+        },
+        "regionali": {
+            "progetti_in_corso": 65,
+            "importo": 9732000.0,
+            "unita_di_misura": "euro"
+        },
+        "internazionali": {
+            "progetti_in_corso": 7,
+            "importo": 1578000.0,
+            "unita_di_misura": "euro"
+        }
     }
 }

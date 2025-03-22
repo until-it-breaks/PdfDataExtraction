@@ -1,24 +1,34 @@
 {
-    "Servizio per studenti e studentesse con disabilità e con disturbi specifici dell'apprendimento (DSA)": {
-        "soddisfazione utenti": {
-            "anno": 2023,
-            "valore medio": 4.03,
-            "scala": "da 1 a 5"
-        }
-    },
-    "La carriera alias": {
+    "soddisfazione_studenti_dsa": {
         "anno": 2023,
-        "carriere attivate": 75
+        "valore_medio": 4.03,
+        "scala": "1-5"
     },
-    "Servizi per lo studio": {
-        "Bologna": {
-            "sale studio disponibili": 16
+    "carriere_alias": {
+        "anno": 2023,
+        "numero_attivazioni": 75
+    },
+    "servizi_per_lo_studio": {
+        "bologna": {
+            "numero_sale_studio": 16
         },
-        "Altre sedi": {
-            "Cesena": 2,
-            "Forlì": 4,
-            "Ravenna": 7,
-            "Rimini": 2
-        }
+        "altre_citta": [
+            {
+                "citta": "Cesena",
+                "numero_sale_studio": 2
+            },
+            {
+                "citta": "Forlì",
+                "numero_sale_studio": 4
+            },
+            {
+                "citta": "Ravenna",
+                "numero_sale_studio": 7
+            },
+            {
+                "citta": "Rimini",
+                "numero_sale_studio": 2
+            }
+        ]
     }
 }

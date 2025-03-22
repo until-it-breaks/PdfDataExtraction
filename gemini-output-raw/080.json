@@ -1,21 +1,72 @@
 {
-    "Insegnamenti per SDGs": {
-        "GOAL 1": 360,
-        "GOAL 2": 249,
-        "GOAL 3": 1747,
-        "GOAL 4": 2781,
-        "GOAL 5": 1126,
-        "GOAL 6": 205,
-        "GOAL 7": 416,
-        "GOAL 8": 660,
-        "GOAL 9": 957,
-        "GOAL 10": 1142,
-        "GOAL 11": 853,
-        "GOAL 12": 789,
-        "GOAL 13": 760,
-        "GOAL 14": 170,
-        "GOAL 15": 477,
-        "GOAL 16": 511,
-        "GOAL 17": 439
-    }
+    "insegnamenti_per_sdgs": [
+        {
+            "goal": "GOAL 1",
+            "numero_insegnamenti": 360
+        },
+        {
+            "goal": "GOAL 2",
+            "numero_insegnamenti": 249
+        },
+        {
+            "goal": "GOAL 3",
+            "numero_insegnamenti": 1747
+        },
+        {
+            "goal": "GOAL 4",
+            "numero_insegnamenti": 2781
+        },
+        {
+            "goal": "GOAL 5",
+            "numero_insegnamenti": 1126
+        },
+        {
+            "goal": "GOAL 6",
+            "numero_insegnamenti": 205
+        },
+        {
+            "goal": "GOAL 7",
+            "numero_insegnamenti": 416
+        },
+        {
+            "goal": "GOAL 8",
+            "numero_insegnamenti": 660
+        },
+        {
+            "goal": "GOAL 9",
+            "numero_insegnamenti": 957
+        },
+        {
+            "goal": "GOAL 10",
+            "numero_insegnamenti": 1142
+        },
+        {
+            "goal": "GOAL 11",
+            "numero_insegnamenti": 853
+        },
+        {
+            "goal": "GOAL 12",
+            "numero_insegnamenti": 789
+        },
+        {
+            "goal": "GOAL 13",
+            "numero_insegnamenti": 760
+        },
+        {
+            "goal": "GOAL 14",
+            "numero_insegnamenti": 170
+        },
+        {
+            "goal": "GOAL 15",
+            "numero_insegnamenti": 477
+        },
+        {
+            "goal": "GOAL 16",
+            "numero_insegnamenti": 511
+        },
+        {
+            "goal": "GOAL 17",
+            "numero_insegnamenti": 439
+        }
+    ]
 }

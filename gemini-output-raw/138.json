@@ -1,22 +1,22 @@
 {
-    "Il servizio “Avrò cura di te”": {
-        "Domande pervenute": {
-            "Totale": 69,
-            "Genitorialità": 13,
-            "Adolescenti": 13,
-            "Familiari": 43
+    "il_servizio_avro_cura_di_te": {
+        "domande_pervenute": {
+            "genitorialita": 13,
+            "adolescenti": 13,
+            "familiari": 43,
+            "totale": 69
         },
-        "Colloqui effettuati": {
-            "Totale": 219,
-            "Genitorialità": 66,
-            "Adolescenti": 97,
-            "Familiari": 56
+        "colloqui_effettuati": {
+            "genitorialita": 66,
+            "adolescenti": 56,
+            "familiari": 97,
+            "totale": 219
         },
-        "Ore di colloqui svolte": {
-            "Totale": 378,
-            "Genitorialità": 130,
-            "Adolescenti": 134,
-            "Familiari": 114
+        "ore_di_colloqui_svolte": {
+            "genitorialita": 130,
+            "adolescenti": 114,
+            "familiari": 134,
+            "totale": 378
         }
     }
 }

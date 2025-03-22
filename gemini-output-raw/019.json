@@ -1,22 +1,22 @@
 {
-    "Numero del personale TA per Area": {
-        "ACCE AREA DI CAMPUS CESENA": 81,
-        "ACFO AREA DI CAMPUS FORLÌ": 103,
-        "ACRA AREA DI CAMPUS RAVENNA": 59,
-        "ACRN AREA DI CAMPUS RIMINI": 81,
-        "APOS AREA DEL PERSONALE": 141,
-        "SSRD STAFF RETTORE E DIRETTORE GENERALE": 74,
-        "APAT AREA DEL PATRIMONIO": 73,
-        "ARAG AREA FINANZA E CONTABILITÀ": 93,
-        "ATES AREA TECNICA EDILIZIA E SOSTENIBILITÀ": 166,
-        "ARPAC AREA PATRIMONIO CULTURALE": 171,
-        "APAP AREA APPALTI E APPROVVIGIONAMENTI": 44,
-        "SAM AREA SERVICE AREA MEDICA": 169,
-        "AFORM AREA FORMAZIONE E DOTTORATO": 263,
-        "ASES AREA SERVIZI STUDENTI": 105,
-        "ARIN AREA INNOVAZIONE": 122,
-        "APPC AREA PIANIFICAZIONE, PROGRAMMAZIONE, COMUNICAZIONE": 78,
-        "CESIA AREA SISTEMI E SERVIZI INFORMATICI": 157,
-        "ARIC AREA RICERCA": 69
+    "numero_personale_ta_per_area": {
+        "acce_area_di_campus_cesena": 81,
+        "acfo_area_di_campus_forli": 103,
+        "acra_area_di_campus_ravenna": 59,
+        "acrn_area_di_campus_rimini": 81,
+        "apos_area_del_personale": 141,
+        "apat_area_del_patrimonio": 73,
+        "arag_area_finanza_e_contabilita": 93,
+        "ates_area_tecnica_edilizia_e_sostenibilita": 166,
+        "arpac_area_patrimonio_culturale": 171,
+        "apap_area_appalti_e_approvvigionamenti": 44,
+        "sam_area_service_area_medica": 169,
+        "aform_area_formazione_e_dottorato": 263,
+        "ases_area_servizi_studenti": 105,
+        "arin_area_innovazione": 122,
+        "appc_area_pianificazione_programmazione_comunicazione": 78,
+        "cesia_area_sistemi_e_servizi_informatici": 157,
+        "aric_area_ricerca": 69,
+        "ssrd_staff_rettore_e_direttore_generale": 74
     }
 }

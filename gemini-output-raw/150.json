@@ -1,20 +1,20 @@
 {
-    "Nuova imprenditorialità": {
-        "Imprese accreditate a fine 2023": {
-            "Totale": "59",
-            "Spin-off": "43",
-            "Startup": "16"
+    "nuova_imprenditorialita": {
+        "imprese_accreditate_fine_2023": 59,
+        "di_cui_spin_off": 43,
+        "startup": 16,
+        "incremento_rispetto_2022": 7,
+        "nuove_imprese_accreditate": 7,
+        "non_hanno_ottenuto_riconoscimento": 4,
+        "spin_off_partecipate_unibo": 23,
+        "spin_off_detenute_holding_behold": 14,
+        "call_for_startup": {
+            "progetti_presentati_2023": 116,
+            "progetti_selezionati": 30,
+            "start_up_costituite": 3
         },
-        "Incremento rispetto al 2022": "7 nuove imprese accreditate a fronte di 4 che non hanno più ottenuto il riconoscimento",
-        "Partecipazione Università di Bologna": "23 spin-off partecipate dall'Università di Bologna",
-        "Spin-off detenute da holding BeHold": "14"
-    },
-    "Call for Startup": {
-        "Progetti presentati nel 2023": "116",
-        "Progetti selezionati": "30",
-        "Start-up costituite": "3"
-    },
-    "StartUp Day": {
-        "Partecipanti all'evento del 2023": "oltre 1.700"
+        "startup_day": {
+            "partecipanti_2023": 1700
+        }
     }
 }

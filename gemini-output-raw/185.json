@@ -1,32 +1,39 @@
 {
-    "Obiettivi del Piano energetico per il 2030": {
-        "Riduzione emissione CO2 al 2030 rispetto al 1990": {
-            "FIT for 55%": "55%",
-            "PEA Unibo": ">70%"
+    "obiettivi_piano_energetico_2030": [
+        {
+            "obiettivo": "Riduzione emissione CO2 al 2030 rispetto al 1990",
+            "fit_for_55": "55%",
+            "pea_unibo": ">70%"
         },
-        "Quota rinnovabile sui consumi di energia primaria": {
-            "FIT for 55%": "49%",
-            "PEA Unibo": "24%"
+        {
+            "obiettivo": "Quota rinnovabile sui consumi di energia primaria",
+            "fit_for_55": "49%",
+            "pea_unibo": "24%"
         },
-        "Incremento annuale 2020-26 della quota rinnovabile sui consumi di energia primaria per condizionamento e riscaldamento": {
-            "FIT for 55%": "+0,8%",
-            "PEA Unibo": "+2,1%"
+        {
+            "obiettivo": "Incremento annuale 2020-26 della quota rinnovabile sui consumi di energia primaria per condizionamento e riscaldamento",
+            "fit_for_55": "+0,8%",
+            "pea_unibo": "+2,1%"
         },
-        "Incremento annuale 2026-30 della quota rinnovabile sui consumi di energia primaria per condizionamento e riscaldamento": {
-            "FIT for 55%": "+1,1%",
-            "PEA Unibo": "+7,0%"
+        {
+            "obiettivo": "Incremento annuale 2026-30 della quota rinnovabile sui consumi di energia primaria per condizionamento e riscaldamento",
+            "fit_for_55": "+1,1%",
+            "pea_unibo": "+7,0%"
         },
-        "Riduzione consumi energetici finali 2020-2030": {
-            "FIT for 55%": "-11,7%",
-            "PEA Unibo": "-16,4%"
+        {
+            "obiettivo": "Riduzione consumi energetici finali 2020-2030",
+            "fit_for_55": "-11,7%",
+            "pea_unibo": "-16,4%"
         },
-        "Riduzione consumi annui medi": {
-            "FIT for 55%": "-1,9%",
-            "PEA Unibo": "-2,3%"
+        {
+            "obiettivo": "Riduzione consumi annui medi",
+            "fit_for_55": "-1,9%",
+            "pea_unibo": "-2,3%"
         },
-        "Superficie rinnovata all'anno": {
-            "FIT for 55%": "3,0%",
-            "PEA Unibo": "3,8%"
+        {
+            "obiettivo": "Superficie rinnovata all'anno",
+            "fit_for_55": "3,0%",
+            "pea_unibo": "3,8%"
         }
-    }
+    ]
 }

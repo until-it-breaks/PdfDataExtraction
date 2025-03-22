@@ -1,12 +1,12 @@
 {
-    "Orientamento in Itinere": {
-        "2023": {
-            "corsi di laurea di primo ciclo": "118 corsi",
-            "questionari": "20.222 questionari"
+    "orientamento_in_itinere": {
+        "anno_2023": {
+            "corsi_di_laurea_primo_ciclo": 118,
+            "questionari_somministrati": 20222
         },
-        "2022": {
-            "corsi": "65 corsi",
-            "questionari": "12.765 questionari"
+        "anno_2022": {
+            "corsi_coinvolti": 65,
+            "questionari_coinvolti": 12765
         }
     }
 }

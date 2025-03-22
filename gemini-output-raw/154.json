@@ -1,9 +1,15 @@
 {
-    "Dati Internazionalizzazione": {
-        "UNIVERSITÀ": "11",
-        "STUDENTI": "600.000",
-        "AREE TEMATICHE INTER-DISCIPLINARI": "6",
-        "PERSONALE DOCENTE E TECNICO AMMINISTRATIVO": "100.000",
-        "PARTNER ASSOCIATI NEL PROGETTO FINANZIATO 1EUROPE": "38"
+    "indicatori_chiave": {
+        "numero_universita": 11,
+        "numero_studenti": 600000,
+        "aree_tematiche_interdisciplinari": 6,
+        "personale_docente_tecnico_amministrativo": 100000,
+        "partner_associati_progetto_europeo": 38,
+        "dettagli_progetti": {
+            "numero_programmi_progetti_attivi_2023": 119,
+            "ruolo_coordinatore_ateneo": 42,
+            "progetti_internazionali_erasmus_plus": 68,
+            "progetti_coordinati_direttamente_universita": 28
+        }
     }
 }

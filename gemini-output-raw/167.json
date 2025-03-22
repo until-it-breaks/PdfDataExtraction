@@ -1,13 +1,19 @@
 {
-    "Dati Biblioteche": {
-        "BIBLIOTECHE": "24",
-        "PUNTI DI SERVIZIO": "47",
-        "POSTAZIONI ELETTRONICHE DI CONSULTAZIONE": "380",
-        "SPAZI DI CONSULTAZIONE/NUMERO POSTI A SEDERE": "4.870"
+    "biblioteche": {
+        "numero_biblioteche": 24
     },
-    "Biblioteca Universitaria di Bologna – BUB": {
-        "mostre": "8",
-        "giorni di apertura": "240",
-        "visitatori": "3.334"
+    "punti_di_servizio": {
+        "numero_punti_servizio": 47
+    },
+    "postazioni_elettroniche": {
+        "numero_postazioni": 380
+    },
+    "spazi_consultazione": {
+        "numero_spazi": 4870
+    },
+    "bub": {
+        "numero_mostre": 8,
+        "giorni_apertura": 240,
+        "visitatori": 3334
     }
 }

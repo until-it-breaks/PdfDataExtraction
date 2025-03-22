@@ -1,17 +1,26 @@
 {
-    "Tabella 7 - Orientamento in entrata": {
-        "Eventi e partecipanti": {
-            "2023": {
-                "Presentazioni presso scuole superiori italiane ed estere in presenza e online": 85,
-                "Nr. di partecipanti": 23460,
-                "Presentazione specifica corsi di studio in presenza e in modalità webinar": 157,
-                "Giornate di Orientamento": 7,
-                "Nr. Convenzioni con le scuole per PCTO": 145,
-                "Nr. percorsi attivati": 456,
-                "Nr. studenti coinvolti": 6770,
-                "Stand di Ateneo presso fiere di orientamento internazionali, in presenza o online": 9,
-                "Nr. partecipanti": 1078
-            }
+    "orientamento_in_entrata": {
+        "anno": 2023,
+        "presentazioni_scuole_superiori": {
+            "presentazioni_presso_scuole_superiori_italiane_ed_estere_in_presenza_e_online": 85,
+            "numero_di_partecipanti": 10024
+        },
+        "presentazioni_corsi_di_studio": {
+            "presentazione_specifica_corsi_di_studio_in_presenza_e_in_modalita_webinar": 157,
+            "numero_di_partecipanti_presentazione_specifica": 14800
+        },
+        "giornate_di_orientamento": {
+            "giornate_di_orientamento": 7,
+            "numero_di_partecipanti_giornate": 23460
+        },
+        "convenzioni_pcto": {
+            "numero_convenzioni_con_scuole_per_pcto": 145,
+            "numero_percorsi_attivati": 456,
+            "numero_studenti_coinvolti": 6770
+        },
+        "stand_ateneo": {
+            "stand_di_ateneo_presso_fiere_di_orientamento_internazionali_in_presenza_o_online": 9,
+            "numero_di_partecipanti_stand": 1078
         }
     }
 }

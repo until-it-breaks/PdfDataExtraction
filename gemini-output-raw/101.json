@@ -1,12 +1,26 @@
 {
-    "Laureati LM e LMCU in Italia": {
-        "2020": 152490,
-        "2021": 162931,
-        "2022": 164484
+    "laureati_lm_lmcu_italia": {
+        "anno": [
+            "2020",
+            "2021",
+            "2022"
+        ],
+        "numero_laureati": [
+            152490.0,
+            162931.0,
+            164484.0
+        ]
     },
-    "Accessi al dottorato presso Unibo": {
-        "2020/21": 628,
-        "2021/22": 841,
-        "2022/23": 983
+    "accessi_dottorato_unibo": {
+        "anno_accademico": [
+            "2020/21",
+            "2021/22",
+            "2022/23"
+        ],
+        "numero_accessi": [
+            628.0,
+            841.0,
+            983.0
+        ]
     }
 }

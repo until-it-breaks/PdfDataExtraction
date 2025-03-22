@@ -1,19 +1,25 @@
 {
-    "Tabella 12 - Job placement": {
-        "Job Incontra Online": {
-            "aziende intervenute": 3,
-            "partecipanti": 236
-        },
-        "Job Incontra (iniziative con singole aziende in presenza)": {
-            "aziende intervenute": 6,
-            "partecipanti": 372
-        },
-        "Visite aziendali": {
-            "aziende intervenute": 3,
-            "partecipanti": 96
-        },
-        "Job Corner - Aziende in Ateneo": {
-            "aziende intervenute": 10
-        }
+    "tabella_job_placement": {
+        "attivita": [
+            {
+                "nome_attivita": "Job Incontra Online",
+                "aziende_intervenute": 3,
+                "partecipanti": 236
+            },
+            {
+                "nome_attivita": "Job Incontra (iniziative con singole aziende in presenza)",
+                "aziende_intervenute": 6,
+                "partecipanti": 372
+            },
+            {
+                "nome_attivita": "Visite aziendali",
+                "aziende_intervenute": 3,
+                "partecipanti": 96
+            },
+            {
+                "nome_attivita": "Job Corner - Aziende in Ateneo",
+                "aziende_intervenute": 10
+            }
+        ]
     }
 }

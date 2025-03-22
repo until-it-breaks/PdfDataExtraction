@@ -1,102 +1,109 @@
 {
-    "Risorse Umane per Area e Dipartimento": {
-        "columns": [
-            "Area",
-            "Dipartimento",
-            "Docenti e ricercatori",
-            "Tecnici amministrativi"
-        ],
-        "data": [
-            {
-                "Area": "AREA UMANISTICA",
-                "Dipartimento": "17. Beni culturali - DBC",
-                "Docenti e ricercatori": 59,
-                "Tecnici amministrativi": 13
-            },
-            {
-                "Area": "AREA UMANISTICA",
-                "Dipartimento": "18. Delle Arti – DAR",
-                "Docenti e ricercatori": 113,
-                "Tecnici amministrativi": 25
-            },
-            {
-                "Area": "AREA UMANISTICA",
-                "Dipartimento": "19. Filologia classica e Italianistica - FICLIT",
-                "Docenti e ricercatori": 78,
-                "Tecnici amministrativi": 18
-            },
-            {
-                "Area": "AREA UMANISTICA",
-                "Dipartimento": "20. Filosofia - FILO",
-                "Docenti e ricercatori": 49,
-                "Tecnici amministrativi": 26
-            },
-            {
-                "Area": "AREA UMANISTICA",
-                "Dipartimento": "21. Interpretazione e Traduzione - DIT",
-                "Docenti e ricercatori": 53,
-                "Tecnici amministrativi": 22
-            },
-            {
-                "Area": "AREA UMANISTICA",
-                "Dipartimento": "22. Lingue, Letterature e Culture moderne - LILEC",
-                "Docenti e ricercatori": 68,
-                "Tecnici amministrativi": 54
-            },
-            {
-                "Area": "AREA UMANISTICA",
-                "Dipartimento": "23. Psicologia «Renzo Canestrari» - PSI",
-                "Docenti e ricercatori": 71,
-                "Tecnici amministrativi": 17
-            },
-            {
-                "Area": "AREA UMANISTICA",
-                "Dipartimento": "24. Scienze dell'Educazione «Giovanni Maria Bertin» – EDU",
-                "Docenti e ricercatori": 87,
-                "Tecnici amministrativi": 27
-            },
-            {
-                "Area": "AREA UMANISTICA",
-                "Dipartimento": "25. Storia Culture Civiltà – DiSCİ",
-                "Docenti e ricercatori": 117,
-                "Tecnici amministrativi": 52
-            },
-            {
-                "Area": "AREA SOCIALE",
-                "Dipartimento": "26. Scienze aziendali - DISA",
-                "Docenti e ricercatori": 109,
-                "Tecnici amministrativi": 14
-            },
-            {
-                "Area": "AREA SOCIALE",
-                "Dipartimento": "27. Scienze economiche - DSE",
-                "Docenti e ricercatori": 111,
-                "Tecnici amministrativi": 16
-            },
-            {
-                "Area": "AREA SOCIALE",
-                "Dipartimento": "28. Scienze giuridiche - DSG",
-                "Docenti e ricercatori": 164,
-                "Tecnici amministrativi": 14
-            },
-            {
-                "Area": "AREA SOCIALE",
-                "Dipartimento": "29. Scienze politiche e sociali – SPS",
-                "Docenti e ricercatori": 112,
-                "Tecnici amministrativi": 18
-            },
-            {
-                "Area": "AREA SOCIALE",
-                "Dipartimento": "30. Scienze statistiche «Paolo Fortunati» – STAT",
-                "Docenti e ricercatori": 92,
-                "Tecnici amministrativi": 19
-            },
-            {
-                "Area": "AREA SOCIALE",
-                "Dipartimento": "31. Sociologia e Diritto dell'Economia – SDE",
-                "Docenti e ricercatori": 71,
-                "Tecnici amministrativi": 12
-            }
-        ]
-    }
+    "dati_personale_universitario": [
+        {
+            "posizione": 17,
+            "area": "AREA UMANISTICA",
+            "dipartimento": "Beni culturali - DBC",
+            "docenti_e_ricercatori": 59,
+            "tecnici_amministrativi": 13
+        },
+        {
+            "posizione": 18,
+            "area": "AREA UMANISTICA",
+            "dipartimento": "Delle Arti – DAR",
+            "docenti_e_ricercatori": 113,
+            "tecnici_amministrativi": 25
+        },
+        {
+            "posizione": 19,
+            "area": "AREA UMANISTICA",
+            "dipartimento": "Filologia classica e Italianistica - FICLIT",
+            "docenti_e_ricercatori": 78,
+            "tecnici_amministrativi": 18
+        },
+        {
+            "posizione": 20,
+            "area": "AREA UMANISTICA",
+            "dipartimento": "Filosofia - FILO",
+            "docenti_e_ricercatori": 49,
+            "tecnici_amministrativi": 26
+        },
+        {
+            "posizione": 21,
+            "area": "AREA UMANISTICA",
+            "dipartimento": "Interpretazione e Traduzione - DIT",
+            "docenti_e_ricercatori": 53,
+            "tecnici_amministrativi": 22
+        },
+        {
+            "posizione": 22,
+            "area": "AREA UMANISTICA",
+            "dipartimento": "Lingue, Letterature e Culture moderne - LILEC",
+            "docenti_e_ricercatori": 68,
+            "tecnici_amministrativi": 54
+        },
+        {
+            "posizione": 23,
+            "area": "AREA UMANISTICA",
+            "dipartimento": "Psicologia «Renzo Canestrari» - PSI",
+            "docenti_e_ricercatori": 71,
+            "tecnici_amministrativi": 17
+        },
+        {
+            "posizione": 24,
+            "area": "AREA UMANISTICA",
+            "dipartimento": "Scienze dell'Educazione «Giovanni Maria Bertin>> – EDU",
+            "docenti_e_ricercatori": 87,
+            "tecnici_amministrativi": 27
+        },
+        {
+            "posizione": 25,
+            "area": "AREA UMANISTICA",
+            "dipartimento": "Storia Culture Civiltà – DiSCİ",
+            "docenti_e_ricercatori": 117,
+            "tecnici_amministrativi": 52
+        },
+        {
+            "posizione": 26,
+            "area": "AREA SOCIALE",
+            "dipartimento": "Scienze aziendali - DISA",
+            "docenti_e_ricercatori": 109,
+            "tecnici_amministrativi": 14
+        },
+        {
+            "posizione": 27,
+            "area": "AREA SOCIALE",
+            "dipartimento": "Scienze economiche - DSE",
+            "docenti_e_ricercatori": 111,
+            "tecnici_amministrativi": 16
+        },
+        {
+            "posizione": 28,
+            "area": "AREA SOCIALE",
+            "dipartimento": "Scienze giuridiche - DSG",
+            "docenti_e_ricercatori": 164,
+            "tecnici_amministrativi": 14
+        },
+        {
+            "posizione": 29,
+            "area": "AREA SOCIALE",
+            "dipartimento": "Scienze politiche e sociali – SPS",
+            "docenti_e_ricercatori": 112,
+            "tecnici_amministrativi": 18
+        },
+        {
+            "posizione": 30,
+            "area": "AREA SOCIALE",
+            "dipartimento": "Scienze statistiche «Paolo Fortunati>> – STAT",
+            "docenti_e_ricercatori": 92,
+            "tecnici_amministrativi": 19
+        },
+        {
+            "posizione": 31,
+            "area": "AREA SOCIALE",
+            "dipartimento": "Sociologia e Diritto dell'Economia – SDE",
+            "docenti_e_ricercatori": 71,
+            "tecnici_amministrativi": 12
+        }
+    ]
 }

@@ -1,1 +1,44 @@
-{}
+{
+    "campus_universita_bologna": {
+        "cesena": {
+            "numero_personale_docente": 227,
+            "numero_personale_ta": 122,
+            "vocazioni": [
+                "Agro- alimentare",
+                "ICT e bioingegneria",
+                "Psicologia",
+                "Architettura",
+                "Economia"
+            ]
+        },
+        "forli": {
+            "numero_personale_docente": 245,
+            "numero_personale_ta": 151,
+            "vocazioni": [
+                "Internazionalizzazione e lingue",
+                "Ingegneria aerospaziale e meccanica",
+                "Economia e scienze sociali",
+                "Medicina"
+            ]
+        },
+        "ravenna": {
+            "numero_personale_docente": 196,
+            "numero_personale_ta": 98,
+            "vocazioni": [
+                "Ambiente e mare",
+                "Patrimonio culturale",
+                "Diritti",
+                "Medicina"
+            ]
+        },
+        "rimini": {
+            "numero_personale_docente": 176,
+            "numero_personale_ta": 108,
+            "vocazioni": [
+                "Benessere e sviluppo sostenibile",
+                "Turismo e Moda",
+                "Servizi alle persone, alle imprese, al territorio"
+            ]
+        }
+    }
+}

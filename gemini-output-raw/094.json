@@ -1,38 +1,58 @@
 {
-    "Docenti e ricercatori coinvolti in progetti PNRR e PNC per area e genere": {
-        "Area": {
-            "Tecnologica": 380,
-            "Scientifica": 189,
-            "Sociale": 102,
-            "Medica": 96,
-            "Umanistica": 39
-        },
-        "Genere": {
-            "Ordinario": {
-                "Donne": "26,3%",
-                "Uomini": "73,7%"
+    "docenti_e_ricercatori_coinvolti_progetti_pnrr_e_pnc": {
+        "dati_per_area": [
+            {
+                "area": "Area Tecnologica",
+                "numero_docenti_ricercatori": 380
             },
-            "Associato": {
-                "Donne": "38,8%",
-                "Uomini": "61,2%"
+            {
+                "area": "Area Scientifica",
+                "numero_docenti_ricercatori": 189
             },
-            "Ricercatore": {
-                "Donne": "42,0%",
-                "Uomini": "58,0%"
+            {
+                "area": "Area Sociale",
+                "numero_docenti_ricercatori": 102
+            },
+            {
+                "area": "Area Medica",
+                "numero_docenti_ricercatori": 96
+            },
+            {
+                "area": "Area Umanistica",
+                "numero_docenti_ricercatori": 39
             }
-        }
+        ],
+        "distribuzione_per_genere": [
+            {
+                "categoria": "Ordinario",
+                "donne": "26,3%",
+                "uomini": "73,7%"
+            },
+            {
+                "categoria": "Associato",
+                "donne": "38,8%",
+                "uomini": "61,2%"
+            },
+            {
+                "categoria": "Ricercatore",
+                "donne": "42,0%",
+                "uomini": "58,0%"
+            }
+        ]
     },
-    "PRIN - PNRR": {
-        "Progetti finanziati nel 2023": 161,
-        "Totale finanziamento": "15 milioni di euro",
-        "Progetti Unibo coordinati": 67
+    "prin_pnrr": {
+        "numero_progetti_finanziati": 161,
+        "totale_finanziamento": 15,
+        "unita_di_misura": "milioni di euro",
+        "progetti_unibo_come_coordinatore": 67
     },
-    "Borse di Dottorato PNRR": {
-        "Borse assegnate nel XXIX ciclo": 329,
-        "Borse cofinanziate da imprese": 113
+    "borse_di_dottorato_pnrr": {
+        "ciclo": "XXIX",
+        "numero_borse_assegnate": 329,
+        "borse_cofinanziate_da_imprese": 113
     },
-    "Edilizia PNRR": {
-        "Interventi edilizi avviati nel 2023": 7,
-        "Interventi edilizi in programma": 16
+    "edilizia_pnrr": {
+        "interventi_edilizi_programmati": 16,
+        "interventi_avviati_nel_2023": 7
     }
 }

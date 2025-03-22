@@ -1,12 +1,32 @@
 {
-    "Dottorandi outgoing con almeno 30gg di mobilità nell'anno": {
-        "2021": "386",
-        "2022": "623",
-        "2023": "701"
-    },
-    "Docenti outgoing nell'anno": {
-        "2021": "1.232",
-        "2022": "4.453",
-        "2023": "5.994"
+    "mobilita_in_uscita": {
+        "dottorandi_outgoing_con_almeno_30gg_di_mobilita_nell_anno": [
+            {
+                "anno": 2021,
+                "numero_dottorandi": 386
+            },
+            {
+                "anno": 2022,
+                "numero_dottorandi": 623
+            },
+            {
+                "anno": 2023,
+                "numero_dottorandi": 701
+            }
+        ],
+        "docenti_outgoing_nell_anno": [
+            {
+                "anno": 2021,
+                "numero_docenti": 1232.0
+            },
+            {
+                "anno": 2022,
+                "numero_docenti": 4453.0
+            },
+            {
+                "anno": 2023,
+                "numero_docenti": 5994.0
+            }
+        ]
     }
 }

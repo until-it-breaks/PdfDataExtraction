@@ -1,10 +1,25 @@
 {
-    "Convenzioni attive per tirocini nel 2023": {
-        "Imprese/studi professionali": "65%",
-        "Associazione/Fondazione/Org. no profit/ONG": "17%",
-        "Ente pubblico": "9%",
-        "Consorzi/Cooperative": "6%",
-        "Università/Ist. di istruzione sup./Ente di ricerca": "3%"
-    },
-    "CONVENZIONI TOTALI": "12.923"
+    "convenzioni_totali": 12923,
+    "convenzioni_attive_per_tirocini_2023": [
+        {
+            "categoria": "Imprese/studi professionali",
+            "percentuale": "65%"
+        },
+        {
+            "categoria": "Associazione/Fondazione/Org. no profit/ONG",
+            "percentuale": "17%"
+        },
+        {
+            "categoria": "Ente pubblico",
+            "percentuale": "9%"
+        },
+        {
+            "categoria": "Consorzi/Cooperative",
+            "percentuale": "6%"
+        },
+        {
+            "categoria": "Università/Ist. di istruzione sup./Ente di ricerca",
+            "percentuale": "3%"
+        }
+    ]
 }

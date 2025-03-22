@@ -1,20 +1,54 @@
 {
-    "Personale Docente e Ricercatore": {
-        "DOCENTI": {
-            "COMPITO DIDATTICO TEMPO PIENO": "350 ore annue (almeno 120 didattica frontale)",
-            "COMPITO DIDATTICO TEMPO DEFINITO": "250 ore annue (almeno 80 didattica frontale)"
-        },
-        "RICERCATORI JUNIOR": {
-            "COMPITO DIDATTICO TEMPO PIENO": "350 ore annue (massimo 60 didattica frontale)",
-            "COMPITO DIDATTICO TEMPO DEFINITO": "200 ore annue (massimo 60 di didattica frontale)"
-        },
-        "RICERCATORI SENIOR": {
-            "COMPITO DIDATTICO TEMPO PIENO": "350 ore annue (almeno 60 didattica frontale)",
-            "COMPITO DIDATTICO TEMPO DEFINITO": "---"
-        },
-        "RICERCATORI IN TENURE TRACK": {
-            "COMPITO DIDATTICO TEMPO PIENO": "350 ore annue (almeno 60 didattica frontale)",
-            "COMPITO DIDATTICO TEMPO DEFINITO": "200 ore annue (massimo 60 didattica frontale)"
-        }
+    "personale_docente_e_ricercatore": {
+        "dati_compito_didattico": [
+            {
+                "personale": "DOCENTI",
+                "compito_didattico_tempo_pieno": {
+                    "ore_annue": 350,
+                    "note": "(almeno 120 didattica frontale)",
+                    "unita_di_misura": "ore"
+                },
+                "compito_didattico_tempo_definito": {
+                    "ore_annue": 250,
+                    "note": "(almeno 80 didattica frontale)",
+                    "unita_di_misura": "ore"
+                }
+            },
+            {
+                "personale": "RICERCATORI JUNIOR",
+                "compito_didattico_tempo_pieno": {
+                    "ore_annue": 350,
+                    "note": "(massimo 60 didattica frontale)",
+                    "unita_di_misura": "ore"
+                },
+                "compito_didattico_tempo_definito": {
+                    "ore_annue": 200,
+                    "note": "(massimo 60 di didattica frontale)",
+                    "unita_di_misura": "ore"
+                }
+            },
+            {
+                "personale": "RICERCATORI SENIOR",
+                "compito_didattico_tempo_pieno": {
+                    "ore_annue": 350,
+                    "note": "(almeno 60 didattica frontale)",
+                    "unita_di_misura": "ore"
+                },
+                "compito_didattico_tempo_definito": null
+            },
+            {
+                "personale": "RICERCATORI IN TENURE TRACK",
+                "compito_didattico_tempo_pieno": {
+                    "ore_annue": 350,
+                    "note": "(almeno 60 didattica frontale)",
+                    "unita_di_misura": "ore"
+                },
+                "compito_didattico_tempo_definito": {
+                    "ore_annue": 200,
+                    "note": "(massimo 60 didattica frontale)",
+                    "unita_di_misura": "ore"
+                }
+            }
+        ]
     }
 }

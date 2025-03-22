@@ -1,68 +1,100 @@
 {
-    "Agevolazioni economiche": {
-        "Agevolazioni": {
-            "Esoneri tasse": {
-                "2020/21": "43.108",
-                "2021/22": "46.578",
-                "2022/23": "47.900",
-                "di cui: totali": {
-                    "2020/21": "22.192",
-                    "2021/22": "23.507",
-                    "2022/23": "24.817"
-                },
-                "di cui: parziali": {
-                    "2020/21": "20.916",
-                    "2021/22": "23.071",
-                    "2022/23": "23.083"
-                }
+    "agevolazioni_economiche": {
+        "colonne": [
+            "2020/21",
+            "2021/22",
+            "2022/23"
+        ],
+        "esoneri_tasse": {
+            "valori": [
+                43108.0,
+                46578.0,
+                47900.0
+            ],
+            "di_cui_totali": {
+                "valori": [
+                    22192.0,
+                    23507.0,
+                    "24.817*"
+                ]
             },
-            "Borse di studio erogate da ER.GO": {
-                "2020/21": "14.404",
-                "2021/22": "12.662",
-                "2022/23": "13.180"
-            },
-            "Collaborazioni a tempo parziale (150 ore)": {
-                "2020/21": "2.374",
-                "2021/22": "2.347",
-                "2022/23": "2.202"
-            },
-            "Interventi per studenti in condizioni di disagio": {
-                "2020/21": "420",
-                "2021/22": "431",
-                "2022/23": "553"
-            },
-            "Contributi per ausili a studenti con disabilità e con DSA": {
-                "2020/21": "124",
-                "2021/22": "75",
-                "2022/23": "85"
-            },
-            "Premi di merito": {
-                "2020/21": "450",
-                "2021/22": "450"
-            },
-            "Assegni di tutorato": {
-                "2020/21": "1.009",
-                "2021/22": "762",
-                "2022/23": "615"
-            },
-            "Contratti di tutorato": {
-                "2020/21": "2.356",
-                "2021/22": "2.658",
-                "2022/23": "2.824"
-            },
-            "Posti alloggio": {
-                "2020/21": "1.852",
-                "2021/22": "2.127",
-                "2022/23": "2.208",
-                "di cui: Campus della Romagna": {
-                    "2020/21": "232",
-                    "2021/22": "232",
-                    "2022/23": "337"
-                }
-            },
-            "Prestiti fiduciari erogati": {
-                "2022/23": "6"
+            "di_cui_parziali": {
+                "valori": [
+                    20916.0,
+                    23071.0,
+                    23083.0
+                ]
             }
+        },
+        "borse_di_studio_erogate_da_er_go": {
+            "valori": [
+                14404.0,
+                12662.0,
+                13180.0
+            ]
+        },
+        "collaborazioni_a_tempo_parziale_150_ore": {
+            "valori": [
+                2374.0,
+                2347.0,
+                2202.0
+            ]
+        },
+        "interventi_per_studenti_in_condizioni_di_disagio": {
+            "valori": [
+                420.0,
+                431.0,
+                553.0
+            ]
+        },
+        "contributi_per_ausili_a_studenti_con_disabilita_e_con_dsa": {
+            "valori": [
+                124.0,
+                75.0,
+                85.0
+            ]
+        },
+        "premi_di_merito": {
+            "valori": [
+                450.0,
+                450.0,
+                "**"
+            ]
+        },
+        "assegni_di_tutorato": {
+            "valori": [
+                1009.0,
+                762.0,
+                615.0
+            ]
+        },
+        "contratti_di_tutorato": {
+            "valori": [
+                2356.0,
+                2658.0,
+                2824.0
+            ]
+        },
+        "posti_alloggio": {
+            "valori": [
+                1852.0,
+                2127.0,
+                2208.0
+            ],
+            "di_cui_campus_della_romagna": {
+                "valori": [
+                    232.0,
+                    232.0,
+                    337.0
+                ]
+            }
+        },
+        "prestiti_fiduciari_erogati": {
+            "valori": [
+                null,
+                null,
+                6.0
+            ]
         }
     }
 }

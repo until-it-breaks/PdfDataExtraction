@@ -1,15 +1,39 @@
 {
-    "Sport e Salute": {
-        "Tesserati CUSB": "20.000",
-        "Accessi alle nostre strutture": "1 mln",
-        "Partecipanti a eventi e tornei": "Più di 13.000",
-        "Impianti sportivi a gestione diretta": "9",
-        "Atleti di alto livello": "Oltre 200",
-        "Campi sportivi": "30",
-        "Titoli europei vinti nel 2023": "3",
-        "Titoli italiani universitari vinti nel 2023": "11",
-        "Discipline": "Più di 100",
-        "Corsi sportivi": "Più di 150",
-        "Sezioni agonistiche federali": "8"
+    "tesserati_cusb": {
+        "numero": 20000
+    },
+    "accessi_strutture": {
+        "milioni": 1
+    },
+    "partecipanti_eventi": {
+        "numero": 13000,
+        "unita_misura": "più di"
+    },
+    "campi_sportivi": {
+        "numero": 30
+    },
+    "impianti_sportivi": {
+        "numero": 9
+    },
+    "atleti_alto_livello": {
+        "numero": 200,
+        "unita_misura": "oltre"
+    },
+    "titoli_europei_2023": {
+        "numero": 3
+    },
+    "titoli_italiani_universitari_2023": {
+        "numero": 11
+    },
+    "discipline": {
+        "numero": 100,
+        "unita_misura": "Più di"
+    },
+    "corsi_sportivi": {
+        "numero": 150,
+        "unita_misura": "Più di"
+    },
+    "sezioni_agonistiche_federali": {
+        "numero": 8
     }
 }

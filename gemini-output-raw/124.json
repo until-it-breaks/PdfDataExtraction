@@ -1,32 +1,62 @@
 {
-    "Fasce di età del personale TA": {
-        "65-69 anni": 63,
-        "60-64 anni": 424,
-        "55-59 anni": 582,
-        "50-54 anni": 641,
-        "45-49 anni": 504,
-        "40-44 anni": 369,
-        "35-39 anni": 305,
-        "30-34 anni": 229,
-        "25-29 anni": 108,
-        "20-24 anni": 10
-    },
-    "Assunzioni e cessazioni del personale TA a tempo indeterminato": {
+    "distribuzione_eta_personale_ta": [
+        {
+            "fascia_eta": "65-69 anni",
+            "numero_persone": 63
+        },
+        {
+            "fascia_eta": "60-64 anni",
+            "numero_persone": 424
+        },
+        {
+            "fascia_eta": "55-59 anni",
+            "numero_persone": 582
+        },
+        {
+            "fascia_eta": "50-54 anni",
+            "numero_persone": 641
+        },
+        {
+            "fascia_eta": "45-49 anni",
+            "numero_persone": 504
+        },
+        {
+            "fascia_eta": "40-44 anni",
+            "numero_persone": 369
+        },
+        {
+            "fascia_eta": "35-39 anni",
+            "numero_persone": 305
+        },
+        {
+            "fascia_eta": "30-34 anni",
+            "numero_persone": 229
+        },
+        {
+            "fascia_eta": "25-29 anni",
+            "numero_persone": 108
+        },
+        {
+            "fascia_eta": "20-24 anni",
+            "numero_persone": 10
+        }
+    ],
+    "assunzioni_cessazioni_personale_ta_indeterminato": {
         "2021": {
-            "Assunzioni": 176,
-            "Cessazioni": 112
+            "assunzioni": 176,
+            "cessazioni": 112
         },
         "2022": {
-            "Assunzioni": 252,
-            "Cessazioni": 150
+            "assunzioni": 252,
+            "cessazioni": 150
         },
         "2023": {
-            "Assunzioni": 237,
-            "Cessazioni": 145
+            "assunzioni": 237,
+            "cessazioni": 145
         },
-        "Totale": {
-            "Assunzioni": 665,
-            "Cessazioni": 407
+        "totale": {
+            "assunzioni": 665,
+            "cessazioni": 407
         }
     }
 }

@@ -1,19 +1,28 @@
 {
-    "Formazione": {
-        "Anno Accademico 2023/2024": {
-            "Corsi Attivati Complessivamente": "65",
-            "Corsi di Alta Formazione (CAF)": "23",
-            "Corsi di Formazione Permanente (CFP)": "25",
-            "Summer e Winter School (SWS)": "17"
+    "formazione_continua_e_alta_formazione": {
+        "corsi_attivati_2023_2024": {
+            "totale_corsi": 65,
+            "tipi_di_corsi": [
+                {
+                    "tipo": "Corsi di Alta Formazione (CAF)",
+                    "numero": 23
+                },
+                {
+                    "tipo": "Corsi di Formazione Permanente (CFP)",
+                    "numero": 25
+                },
+                {
+                    "tipo": "Summer e Winter School (SWS)",
+                    "numero": 17
+                }
+            ]
         },
-        "Formazione per i dipendenti aziendali": {
-            "Ore di docenza erogate": "circa 400",
-            "Corsi su misura": "16",
-            "Dipendenti coinvolti": "oltre 300"
+        "formazione_dipendenti_aziendali": {
+            "ore_docenza_erogate": 400,
+            "numero_corsi_su_misura": 16,
+            "numero_dipendenti_coinvolti": 300
         },
-        "Progetti legati alle opportunità di finanziamento nazionale e internazionale": "8",
-        "Progetto sperimentale di formazione continua online": {
-            "Corsi pilota erogati nel 2023": "due"
-        }
+        "progetti_finanziamento_nazionale_internazionale": 8,
+        "corsi_pilota_2023": 2
     }
 }

@@ -1,1 +1,20 @@
-{}
+{
+    "didattica_in_ambito_clinico": {
+        "studenti_coinvolti": {
+            "medicina_e_chirurgia": 4000,
+            "professioni_sanitarie": 2700
+        },
+        "personale_convenzionato": {
+            "unita": 383
+        },
+        "medici_in_formazione_specialistica": {
+            "numero_complessivo": 2401,
+            "scuole_accreditate": 45,
+            "contratti_formazione_specialistica": 463,
+            "borse_di_studio_ministeriali": 518,
+            "contratti_aggiuntivi_regione_emilia_romagna": 28,
+            "aziende_enti_sanitari_coinvolti": 40,
+            "unita_operative": 300
+        }
+    }
+}

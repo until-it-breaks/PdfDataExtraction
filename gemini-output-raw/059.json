@@ -1,41 +1,41 @@
 {
-    "Mobilità studentesca": {
-        "In Entrata da paesi europei": {
-            "2020/21": 1.361,
-            "2021/22": 2.936,
-            "2022/23": 3.297
+    "mobilita_studentesca": {
+        "in_entrata_da_paesi_europei": {
+            "2020_21": 1361.0,
+            "2021_22": 2936.0,
+            "2022_23": 3297.0
         },
-        "In Entrata da paesi extra-europei": {
-            "2020/21": 119,
-            "2021/22": 455,
-            "2022/23": 603
+        "in_entrata_da_paesi_extra_europei": {
+            "2020_21": 119.0,
+            "2021_22": 455.0,
+            "2022_23": 603.0
         },
-        "In Uscita verso paesi europei": {
-            "2020/21": 1.847,
-            "2021/22": 3.159,
-            "2022/23": 3.299
+        "in_uscita_verso_paesi_europei": {
+            "2020_21": 1847.0,
+            "2021_22": 3159.0,
+            "2022_23": 3299.0
         },
-        "In Uscita verso paesi extra-europei": {
-            "2020/21": 80,
-            "2021/22": 163,
-            "2022/23": 292
+        "in_uscita_verso_paesi_extra_europei": {
+            "2020_21": 80.0,
+            "2021_22": 163.0,
+            "2022_23": 292.0
         },
-        "Laureati/e con crediti acquisiti all'estero riconosciuti*": {
-            "2020/21": 2.912,
-            "2021/22": 3.056,
-            "2022/23": 3.651
+        "laureati_e_con_crediti_acquisiti_all_estero_riconosciuti": {
+            "2020_21": 2912.0,
+            "2021_22": 3056.0,
+            "2022_23": 3651.0
         }
     },
-    "Studenti outgoing per nazione di destinazione (primi 10 Paesi - triennio 21-23)": {
-        "Spagna": 2.05,
-        "Francia": 1.325,
-        "Germania": 903,
-        "Belgio": 665,
-        "Gran Bretagna e Irlanda del Nord": 498,
-        "Paesi Bassi": 498,
-        "Portogallo": 435,
-        "Svezia": 264,
-        "Austria": 261,
-        "Danimarca": 240
+    "studenti_outgoing_per_nazione_di_destinazione_triennio_21_23": {
+        "spagna": 2050.0,
+        "francia": 1325.0,
+        "germania": 903.0,
+        "belgio": 665.0,
+        "gran_bretagna_e_irlanda_del_nord": 498.0,
+        "paesi_bassi": 498.0,
+        "portogallo": 435.0,
+        "svezia": 264.0,
+        "austria": 261.0,
+        "danimarca": 240.0
     }
 }

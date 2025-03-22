@@ -1,16 +1,16 @@
 {
-    "Accordi attivi": {
-        "Accordi con università dell'Unione europea per scambi di mobilità e training": {
+    "accordi_attivi": {
+        "accordi_con_universita_unione_europea": {
             "2021": 2409,
             "2022": 2368,
             "2023": 2533
         },
-        "Accordi con università extra-Unione europea per scambi di mobilità e attività didattica": {
+        "accordi_con_universita_extra_unione_europea": {
             "2021": 349,
             "2022": 352,
             "2023": 495
         },
-        "Accordi con aziende di Paesi esteri per tirocini formativi*": {
+        "accordi_con_aziende_paesi_esteri": {
             "2021": 271,
             "2022": 305,
             "2023": 335

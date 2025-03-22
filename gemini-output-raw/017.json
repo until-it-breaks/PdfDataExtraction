@@ -1,13 +1,35 @@
 {
-    "Costi per ambito strategico (mln di euro)": {
-        "Persone (stipendi)*": "38%",
-        "Persone": "18%",
-        "Ricerca": "19%",
-        "Didattica e comunità studentesca": "17%",
-        "Società": "7%",
-        "Generali": "1%"
-    },
-    "Note": {
-        "Importo_Personale_TA_Docente_Ricercatore_e_Collaboratori_linguistici": "322.561.252,71 euro"
+    "costi_per_ambito_strategico": {
+        "unita_di_misura": "mln di euro",
+        "dati": [
+            {
+                "ambito": "Persone (stipendi)",
+                "percentuale": "38%"
+            },
+            {
+                "ambito": "Persone",
+                "percentuale": "18%"
+            },
+            {
+                "ambito": "Ricerca",
+                "percentuale": "19%"
+            },
+            {
+                "ambito": "Didattica e comunità studentesca",
+                "percentuale": "17%"
+            },
+            {
+                "ambito": "Società",
+                "percentuale": "7%"
+            },
+            {
+                "ambito": "Generali",
+                "percentuale": "1%"
+            }
+        ],
+        "costi_personale": {
+            "importo": 322561252.71,
+            "unita_di_misura": "euro"
+        }
     }
 }

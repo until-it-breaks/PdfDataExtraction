@@ -1,13 +1,30 @@
 {
-    "Dati Studenteschi": {
-        "CORSI DI STUDIO": {
-            "Totale": 312,
-            "Dottorati di ricerca": 51
+    "didattica_e_comunita_studentesca": {
+        "corsi_di_studio": {
+            "numero_corsi": 312,
+            "dottorati_di_ricerca": 51,
+            "descrizione": "Corsi di studio di vari livelli"
         },
-        "STUDENTI ISCRITTI AI CORSI DI STUDIO DEI VARI LIVELLI NEL 2023": 87865,
-        "STUDENTI INTERNAZIONALI ISCRITTI": 8060,
-        "LAUREATI NEI CORSI DI STUDIO DEI VARI LIVELLI": 19783,
-        "BORSE DI STUDIO PER GLI STUDENTI (EROGATE DA ER.GO)": 13180,
-        "ISCRITTI IN CORSO": "81,2%"
+        "studenti_iscritti": {
+            "numero_studenti": 87865,
+            "anno": 2023,
+            "descrizione": "Studenti iscritti ai corsi di studio dei vari livelli"
+        },
+        "studenti_internazionali": {
+            "numero_studenti": 8060,
+            "descrizione": "Studenti internazionali iscritti"
+        },
+        "laureati": {
+            "numero_laureati": 19783,
+            "descrizione": "Laureati nei corsi di studio dei vari livelli"
+        },
+        "borse_di_studio": {
+            "numero_borse": 13180,
+            "descrizione": "Borse di studio per gli studenti (erogate da ER.GO)"
+        },
+        "iscritti_in_corso": {
+            "percentuale": "81,2%",
+            "descrizione": "Iscritti in corso"
+        }
     }
 }

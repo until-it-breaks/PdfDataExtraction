@@ -1,5 +1,8 @@
 {
-    "Mostra \"In arte, Milva\"": {
-        "visitatori": "6.900"
+    "attivita_valorizzazione_patrimonio": {
+        "visitatori_mostra_milva": {
+            "numero_visitatori": 6900,
+            "unita_misura": "visitatori"
+        }
     }
 }

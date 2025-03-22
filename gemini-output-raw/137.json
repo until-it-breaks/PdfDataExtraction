@@ -1,23 +1,53 @@
 {
-    "Inclusione e tutela": {
-        "dipendenti con disabilità (31 dicembre 2023)": "196"
-    },
-    "Consigliera di Fiducia": {
-        "persone assistite (2023)": "75",
-        "distribuzione": {
-            "docenti": "56%",
-            "personale TA": "27%",
-            "studenti": "17%"
+    "inclusione_e_tutela": {
+        "dipendenti_con_disabilita": {
+            "anno": 2023,
+            "numero": 196
         }
     },
-    "Supporto psicologico": {
-        "ore di supporto (6 ottobre 2022 - 6 ottobre 2023)": "circa 640",
-        "richieste": "443",
-        "suddivisione richieste": {
-            "personale tecnico-amministrativo": "222",
-            "docenti e ricercatori": "98",
-            "assegnisti di ricerca": "53"
+    "consigliera_di_fiducia": {
+        "persone_assistite": {
+            "anno": 2023,
+            "numero": 75,
+            "distribuzione": [
+                {
+                    "categoria": "docenti",
+                    "percentuale": "56%"
+                },
+                {
+                    "categoria": "personale TA",
+                    "percentuale": "27%"
+                },
+                {
+                    "categoria": "studenti",
+                    "percentuale": "17%"
+                }
+            ]
+        }
+    },
+    "supporto_psicologico": {
+        "ore_di_supporto": {
+            "periodo": "dal 6 ottobre 2022 al 6 ottobre 2023",
+            "numero": 640,
+            "unita_di_misura": "ore"
         },
-        "soddisfazione utenti": "oltre l'85%"
+        "richieste_di_supporto": {
+            "numero": 443,
+            "suddivisione": [
+                {
+                    "categoria": "personale tecnico-amministrativo",
+                    "numero": 222
+                },
+                {
+                    "categoria": "docenti e ricercatori",
+                    "numero": 98
+                },
+                {
+                    "categoria": "assegnisti di ricerca",
+                    "numero": 53
+                }
+            ],
+            "soddisfazione_utenti": "oltre l'85%"
+        }
     }
 }

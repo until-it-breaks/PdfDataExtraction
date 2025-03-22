@@ -1,36 +1,36 @@
 {
-    "Studenti incoming per nazione di provenienza (primi 10 Paesi - triennio 21-23)": {
-        "Spagna": "2.112",
-        "Francia": "980",
-        "Germania": "858",
-        "Stati Uniti d'America": "441",
-        "Belgio": "380",
-        "Paesi Bassi": "332",
-        "Gran Bretagna e Irlanda del Nord": "304",
-        "Portogallo": "297",
-        "Polonia": "284",
-        "Norvegia": "202"
+    "studenti_incoming_per_nazione_di_provenienza": {
+        "spagna": 2112,
+        "francia": 980,
+        "germania": 858,
+        "stati_uniti_d_america": 441,
+        "belgio": 380,
+        "paesi_bassi": 332,
+        "gran_bretagna_e_irlanda_del_nord": 304,
+        "portogallo": 297,
+        "polonia": 284,
+        "norvegia": 202
     },
-    "Borse di studio per tesi all'estero": {
-        "Europa": {
-            "2020/21*": "140",
-            "2021/22": "275",
-            "2022/23": "312"
+    "borse_di_studio_per_tesi_all_estero": {
+        "totale": {
+            "2020_21": 157,
+            "2021_22": 359,
+            "2022_23": 420
         },
-        "America": {
-            "2020/21*": "14",
-            "2021/22": "52",
-            "2022/23": "66"
+        "europa": {
+            "2020_21": 140,
+            "2021_22": 275,
+            "2022_23": 312
         },
-        "Asia, Africa e Oceania": {
-            "2020/21*": "3",
-            "2021/22": "32",
-            "2022/23": "42"
+        "america": {
+            "2020_21": 14,
+            "2021_22": 52,
+            "2022_23": 66
         },
-        "Totale": {
-            "2020/21": "157",
-            "2021/22": "359",
-            "2022/23": "420"
+        "asia_africa_e_oceania": {
+            "2020_21": 3,
+            "2021_22": 32,
+            "2022_23": 42
         }
     }
 }

@@ -1,23 +1,30 @@
 {
-    "Tabella 32 - Costi e consumi Acqua": {
-        "Consumi (in mc)": {
-            "Acqua": {
-                "2021": 294.923,
-                "2022": 318.787,
-                "2023": 316.684
-            }
-        },
-        "Costo (in euro)": {
-            "Acqua": {
-                "2021": 877.635,
-                "2022": 991.863,
-                "2023": 1036.04
+    "costi_e_consumi_acqua": {
+        "acqua": {
+            "consumi_mc": {
+                "2021": 294923.0,
+                "2022": 318787.0,
+                "2023": 316684.0
+            },
+            "costo_euro": {
+                "2021": 877635.0,
+                "2022": 991863.0,
+                "2023": 1036040.0
             }
         }
     },
-    "Impianti fotovoltaici": {
-        "Superficie fotovoltaica": "8.443 mq",
-        "Energia prodotta nel 2023": "3%",
-        "Potenza totale installata": "1.185,81 kWp"
+    "impianti_fotovoltaici": {
+        "superficie_fotovoltaica": {
+            "valore": 8443,
+            "unita_di_misura": "mq"
+        },
+        "energia_prodotta_nel_2023": {
+            "valore": "3%",
+            "unita_di_misura": null
+        },
+        "potenza_totale_installata": {
+            "valore": 1185.81,
+            "unita_di_misura": "kWp"
+        }
     }
 }

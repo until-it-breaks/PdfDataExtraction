@@ -1,18 +1,18 @@
 {
-    "Ripartizione voci di budget PNRR e PNC": {
-        "Attrezzature": "16,9%",
-        "Licenze/Materiali/Servizi": "3,1%",
-        "Edilizia e impianti": "21,4%",
-        "Altri costi per la ricerca": "3,5%",
-        "Personale strutturato": "18,4%",
-        "Nuovo personale": "21,2%",
-        "Overheads": "5,4%",
-        "Open call": "10,1%"
+    "ripartizione_voci_budget_pnrr_e_pnc": {
+        "attrezzature": "16,9%",
+        "licenze_materiali_servizi": "3,1%",
+        "edilizia_e_impianti": "21,4%",
+        "altri_costi_per_la_ricerca": "10,1%",
+        "personale_strutturato": "18,4%",
+        "nuovo_personale": "21,2%",
+        "overheads": "5,4%",
+        "open_call": "3,5%"
     },
-    "Composizione del nuovo personale": {
-        "RTDa": "51,3%",
-        "AdR": "20,7%",
-        "PhD": "20,5%",
-        "TA": "7,4%"
+    "composizione_nuovo_personale": {
+        "rtda": "51,3%",
+        "adr": "20,7%",
+        "phd": "20,5%",
+        "ta": "7,4%"
     }
 }

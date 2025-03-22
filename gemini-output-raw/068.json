@@ -1,10 +1,25 @@
 {
-    "Borse di studio e agevolazioni": {
-        "Borse di studio a.a. 2022/2023": "13.180 studenti",
-        "Borse di studio per collaborazioni studentesche a tempo parziale": {
-            "Importo massimo ricevibile": "€1.125",
-            "Borse disponibili a.a. 2022/2023": "2.202"
+    "borse_di_studio": [
+        {
+            "anno_accademico": "2022/2023",
+            "studenti_beneficiari": 13180
         },
-        "Intervento straordinario alluvione a.a. 2022/2023": "553 studenti"
-    }
+        {
+            "borse_studio_collaborazioni_studentesche": {
+                "ore": 150,
+                "importo_massimo": {
+                    "valore": 1125.0,
+                    "unita_di_misura": "€"
+                },
+                "anno_accademico": "2022/2023",
+                "borse_disponibili": 2202
+            }
+        },
+        {
+            "intervento_alluvione": {
+                "anno_accademico": "2022/2023",
+                "studenti_beneficiari": 553
+            }
+        }
+    ]
 }
