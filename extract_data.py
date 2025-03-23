@@ -30,7 +30,7 @@ for i in range(length):
         time.sleep(MINUTE + EXTRA_TIME)
         count = 0
 
-    process = subprocess.Popen(["python", "gemini-call.py", images[i], api_key])
+    process = subprocess.Popen(["python", "gemini_call.py", images[i], api_key])
     processes.append(process)
     count += 1
 
