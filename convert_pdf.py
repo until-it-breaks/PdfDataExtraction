@@ -33,5 +33,4 @@ with TemporaryDirectory() as temp_folder:
 
 end_time = time.time()
 
-print("Job done in {:.3f}s".format(end_time - start_time))
-print("You can find the output at {}".format(os.path.abspath(output_dir)))
+print("Job done in {:.3f}s Output at {}".format(end_time - start_time, os.path.abspath(output_dir)))

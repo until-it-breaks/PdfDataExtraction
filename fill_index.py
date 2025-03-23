@@ -11,7 +11,8 @@ OUTPUT_FILE = "index.json"
 PAGES_FOLDER = "gemini-output-reviewed"
 
 def insert_page(item: dict, page_number: int):
-    if not item: # skipping empty jsons "{}"
+    # skipping empty jsons "{}"
+    if not item:
         print("{}.json is empty, skipping it".format(page_number))
         return
 
@@ -61,4 +62,4 @@ for page in pages:
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(source, f, indent=4, ensure_ascii= False)
     end_time = time.time()
-    print("Job done in {}s. Output at {}\{}".format(end_time - start_time, os.getcwd(), OUTPUT_FILE))
+    print("Job done in {:.3f}s. Output at {}".format(end_time - start_time, os.path.join(os.getcwd(), OUTPUT_FILE)))

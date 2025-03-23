@@ -3,6 +3,8 @@ import subprocess
 import sys
 import time
 
+# Script used to send API requests to Gemini 2 in bulk.
+
 # Gemini 2 Flash daily limits
 RPM = 15
 RPD = 1500
@@ -30,7 +32,6 @@ for i in range(length):
 
     process = subprocess.Popen(["python", "gemini-call.py", images[i], api_key])
     processes.append(process)
-    # print("Progress: {:.1f}%".format((i+1) / length * 100))
     count += 1
 
 for process in processes:

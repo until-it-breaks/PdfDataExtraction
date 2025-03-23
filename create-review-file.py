@@ -2,6 +2,8 @@ import json
 import os
 import sys
 
+# Script used to quickly generate a json for reviewing purposes
+
 if (len(sys.argv) < 2):
     print("Usage: python create-review-file.py <folder-path>")
     exit(1)

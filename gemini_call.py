@@ -7,6 +7,8 @@ from types import NoneType
 from PIL import Image
 from google import genai
 
+# Script used to make a single API call to Gemini 2.
+
 OUTPUT_FOLDER_NAME = "gemini-output-raw"
 PROMPT = (
     """
@@ -29,7 +31,7 @@ PROMPT = (
 MODEL = "gemini-2.0-flash"
 
 def extract_json_content(text):
-    """Extracts JSON content enclosed in triple backticks from text."""
+    # Extracts JSON content enclosed in triple backticks from text.
     match = re.search(r"```json\s*([\s\S]*?)\s*```", text)
     return match.group(1).strip() if match else None
 
@@ -56,8 +58,6 @@ def main():
         )
 
     extracted_json = extract_json_content(response.text)
-
-    print(response.text)
 
     main_dir = Path(__file__).parent.resolve()
     output_dir = main_dir / OUTPUT_FOLDER_NAME
