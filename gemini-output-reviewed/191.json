@@ -11,11 +11,28 @@
             "descrizione": "COPERTURA TERRENI"
         },
         "distribuzione_territoriale": {
-            "bologna": "84,3%",
-            "forli": "5,6%",
-            "cesena": "4,7%",
-            "rimini": "2,8%",
-            "ravenna": "2,6%"
+            "dati": [
+                {
+                    "sede": "Bologna",
+                    "percentuale": "84,3%"
+                },
+                {
+                    "sede": "Forlì",
+                    "percentuale": "5,6%"
+                },
+                {
+                    "sede": "Cesena",
+                    "percentuale": "4,7%"
+                },
+                {
+                    "sede": "Rimini",
+                    "percentuale": "2,8%"
+                },
+                {
+                    "sede": "Ravenna",
+                    "percentuale": "2,6%"
+                }
+            ]
         }
     }
 }
