@@ -1,44 +1,44 @@
 {
-    "tabella_ore_formazione_area_tematica": {
-        "formazione_per_area": [
+    "ore_formazione_area_tematica": {
+        "aree": [
             {
-                "area_tematica": "Area comunicazione",
+                "area": "Area comunicazione",
                 "ore_fruite": 1687
             },
             {
-                "area_tematica": "Area controllo di gestione",
+                "area": "Area controllo di gestione",
                 "ore_fruite": 1434
             },
             {
-                "area_tematica": "Area economico-finanziaria",
+                "area": "Area economico-finanziaria",
                 "ore_fruite": 13816
             },
             {
-                "area_tematica": "Area giuridico-normativa",
+                "area": "Area giuridico-normativa",
                 "ore_fruite": 22470
             },
             {
-                "area_tematica": "Area informatica e telematica",
+                "area": "Area informatica e telematica",
                 "ore_fruite": 22267
             },
             {
-                "area_tematica": "Area internazionale",
+                "area": "Area internazionale",
                 "ore_fruite": 2248
             },
             {
-                "area_tematica": "Area linguistica",
+                "area": "Area linguistica",
                 "ore_fruite": 11271
             },
             {
-                "area_tematica": "Area manageriale",
+                "area": "Area manageriale",
                 "ore_fruite": 4421
             },
             {
-                "area_tematica": "Area organizzazione e personale",
+                "area": "Area organizzazione e personale",
                 "ore_fruite": 7464
             },
             {
-                "area_tematica": "Area tecnico-specialistica",
+                "area": "Area tecnico-specialistica",
                 "ore_fruite": 9643
             }
         ],

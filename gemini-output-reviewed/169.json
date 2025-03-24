@@ -1,8 +1,7 @@
 {
     "attivita_valorizzazione_patrimonio": {
-        "visitatori_mostra_milva": {
-            "numero_visitatori": 6900,
-            "unita_misura": "visitatori"
+        "mostra_milva": {
+            "numero_visitatori": 6900
         }
     }
 }

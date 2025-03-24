@@ -1,6 +1,5 @@
 {
     "progetti_cooperazione_sdgs": {
-        "descrizione": "Numero di progetti di cooperazione e collaborazione internazionale associati a ciascun SDG",
         "progetti_per_goal": [
             {
                 "goal": "GOAL 1",

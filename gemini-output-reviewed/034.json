@@ -10,12 +10,14 @@
             {
                 "voce": "Contributi dallo Stato",
                 "valore_2023": 639,
-                "percentuale": "67%"
-            },
-            {
-                "voce": "di cui FFO",
-                "valore_2023": 516,
-                "percentuale": "54%"
+                "percentuale": "67%",
+                "dettagli": [
+                    {
+                        "voce": "di cui FFO",
+                        "valore_2023": 516,
+                        "percentuale": "54%"
+                    }
+                ]
             },
             {
                 "voce": "Contributi dalle Regioni",

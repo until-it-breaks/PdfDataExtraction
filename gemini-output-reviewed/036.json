@@ -5,17 +5,21 @@
             {
                 "voce": "Risorse umane",
                 "valore_2023": 469,
-                "percentuale": "58%"
-            },
-            {
-                "voce": "di cui Personale docente e di ricerca",
-                "valore_2023": 331,
-                "percentuale": "41%"
-            },
-            {
-                "voce": "di cui Personale dirigente e tecnico amministrativo",
-                "valore_2023": 138,
-                "percentuale": "17%"
+                "percentuale": "58%",
+                "dettagli": [
+                    {
+                        "voce": "di cui Personale docente e di ricerca",
+                        "valore_2023": 331,
+                        "percentuale": "41%",
+                        "dettaglii": [
+                            {
+                                "voce": "di cui Personale dirigente e tecnico amministrativo",
+                                "valore_2023": 138,
+                                "percentuale": "17%"
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "voce": "Interventi a favore di studenti/esse",

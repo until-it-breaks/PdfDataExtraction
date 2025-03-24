@@ -1,23 +1,23 @@
 {
-    "tabella_progressione_economica_docenti": {
+    "progressione_economica_docenti": {
         "dati": [
             {
                 "docenti_e_ricercatori": "Aventi diritto",
-                "anno_2021": 1361,
-                "anno_2022": 931,
-                "anno_2023": 1382
+                "2021": 1361,
+                "2022": 931,
+                "2023": 1382
             },
             {
                 "docenti_e_ricercatori": "Esito positivo",
-                "anno_2021": 1139,
-                "anno_2022": 735,
-                "anno_2023": 1162
+                "2021": 1139,
+                "2022": 735,
+                "2023": 1162
             },
             {
                 "docenti_e_ricercatori": "% esito positivo",
-                "anno_2021": "83,7%",
-                "anno_2022": "78,9%",
-                "anno_2023": "84,0%"
+                "2021": "83,7%",
+                "2022": "78,9%",
+                "2023": "84,0%"
             }
         ]
     },
@@ -25,9 +25,9 @@
         "dati": [
             {
                 "misura_incentivante": "Fondo per la premialità (ex art. 9 L 240/2010)",
-                "anno_2021": 1040341.0,
-                "anno_2022": 2237377.0,
-                "anno_2023": 1752473.0,
+                "2021": 1040341,
+                "2022": 2237377,
+                "2023": 1752473,
                 "unita_di_misura": "euro"
             }
         ]

@@ -1,104 +1,310 @@
 {
     "offerta_formativa_2023_2024": {
-        "descrizione": "Tabella 5 - Offerta formativa 2023/2024 nel Multicampus",
         "dati": [
             {
-                "corsi_iscrizioni_e_lauree": "Corsi di Laurea e Laurea magistrale a ciclo unico",
-                "bologna": 79,
-                "cesena": 10,
-                "forli": 9,
-                "ravenna": 11,
-                "rimini": 9
+                "voce": "Corsi di Laurea e Laurea magistrale a ciclo unico",
+                "citta": [
+                    {
+                        "nome": "Bologna",
+                        "quantita": 79
+                    },
+                    {
+                        "nome": "Cesena",
+                        "quantita": 10
+                    },
+                    {
+                        "nome": "Forlì",
+                        "quantita": 9
+                    },
+                    {
+                        "nome": "Ravenna",
+                        "quantita": 11
+                    },
+                    {
+                        "nome": "Rimini",
+                        "quantita": 9
+                    }
+                ]
             },
             {
-                "corsi_iscrizioni_e_lauree": "Corsi di Laurea magistrale",
-                "bologna": 102,
-                "cesena": 9,
-                "forli": 12,
-                "ravenna": 8,
-                "rimini": 11
+                "voce": "Corsi di Laurea magistrale",
+                "citta": [
+                    {
+                        "nome": "Bologna",
+                        "quantita": 102
+                    },
+                    {
+                        "nome": "Cesena",
+                        "quantita": 9
+                    },
+                    {
+                        "nome": "Forlì",
+                        "quantita": 12
+                    },
+                    {
+                        "nome": "Ravenna",
+                        "quantita": 8
+                    },
+                    {
+                        "nome": "Rimini",
+                        "quantita": 11
+                    }
+                ]
             },
             {
-                "corsi_iscrizioni_e_lauree": "Totale corsi di studio",
-                "bologna": 181,
-                "cesena": 19,
-                "forli": 21,
-                "ravenna": 19,
-                "rimini": 20
+                "voce": "Totale corsi di studio",
+                "citta": [
+                    {
+                        "nome": "Bologna",
+                        "quantita": 181
+                    },
+                    {
+                        "nome": "Cesena",
+                        "quantita": 19
+                    },
+                    {
+                        "nome": "Forlì",
+                        "quantita": 21
+                    },
+                    {
+                        "nome": "Ravenna",
+                        "quantita": 19
+                    },
+                    {
+                        "nome": "Rimini",
+                        "quantita": 20
+                    }
+                ],
+                "dettagli": [
+                    {
+                        "voce": "di cui: a doppi diplomi",
+                        "citta": [
+                            {
+                                "nome": "Bologna",
+                                "quantita": 31
+                            },
+                            {
+                                "nome": "Cesena",
+                                "quantita": 3
+                            },
+                            {
+                                "nome": "Forlì",
+                                "quantita": 8
+                            },
+                            {
+                                "nome": "Ravenna",
+                                "quantita": 1
+                            },
+                            {
+                                "nome": "Rimini",
+                                "quantita": null
+                            }
+                        ]
+                    }
+                ]
             },
             {
-                "corsi_iscrizioni_e_lauree": "di cui: a doppi diplomi",
-                "bologna": 31,
-                "cesena": 3,
-                "forli": 8,
-                "ravenna": 7,
-                "rimini": null
+                "voce": "Dottorati",
+                "citta": [
+                    {
+                        "nome": "Bologna",
+                        "quantita": 46
+                    },
+                    {
+                        "nome": "Cesena",
+                        "quantita": 1
+                    },
+                    {
+                        "nome": "Forlì",
+                        "quantita": 3
+                    },
+                    {
+                        "nome": "Ravenna",
+                        "quantita": 1
+                    },
+                    {
+                        "nome": "Rimini",
+                        "quantita": 1
+                    }
+                ]
             },
             {
-                "corsi_iscrizioni_e_lauree": "Dottorati",
-                "bologna": 46,
-                "cesena": 1,
-                "forli": 3,
-                "ravenna": 1,
-                "rimini": 1
+                "voce": "Master",
+                "citta": [
+                    {
+                        "nome": "Bologna",
+                        "quantita": 78
+                    },
+                    {
+                        "nome": "Cesena",
+                        "quantita": 1
+                    },
+                    {
+                        "nome": "Forlì",
+                        "quantita": 3
+                    },
+                    {
+                        "nome": "Ravenna",
+                        "quantita": 4
+                    },
+                    {
+                        "nome": "Rimini",
+                        "quantita": null
+                    }
+                ]
             },
             {
-                "corsi_iscrizioni_e_lauree": "Master",
-                "bologna": 78,
-                "cesena": 1,
-                "forli": 3,
-                "ravenna": 4,
-                "rimini": null
+                "voce": "Corsi di alta formazione",
+                "citta": [
+                    {
+                        "nome": "Bologna",
+                        "quantita": 26
+                    },
+                    {
+                        "nome": "Cesena",
+                        "quantita": null
+                    },
+                    {
+                        "nome": "Forlì",
+                        "quantita": 1
+                    },
+                    {
+                        "nome": "Ravenna",
+                        "quantita": 1
+                    },
+                    {
+                        "nome": "Rimini",
+                        "quantita": null
+                    }
+                ]
             },
             {
-                "corsi_iscrizioni_e_lauree": "Corsi di alta formazione",
-                "bologna": 26,
-                "cesena": null,
-                "forli": 1,
-                "ravenna": 1,
-                "rimini": null
+                "voce": "Immatricolazioni",
+                "citta": [
+                    {
+                        "nome": "Bologna",
+                        "quantita": 19443
+                    },
+                    {
+                        "nome": "Cesena",
+                        "quantita": 1528
+                    },
+                    {
+                        "nome": "Forlì",
+                        "quantita": 2414
+                    },
+                    {
+                        "nome": "Ravenna",
+                        "quantita": 1163
+                    },
+                    {
+                        "nome": "Rimini",
+                        "quantita": 1522
+                    }
+                ]
             },
             {
-                "corsi_iscrizioni_e_lauree": "Immatricolazioni",
-                "bologna": 19443.0,
-                "cesena": 1528.0,
-                "forli": 2414.0,
-                "ravenna": 1163.0,
-                "rimini": 1522.0
+                "voce": "Iscrizioni",
+                "citta": [
+                    {
+                        "nome": "Bologna",
+                        "quantita": 67431.0
+                    },
+                    {
+                        "nome": "Cesena",
+                        "quantita": 4976.0
+                    },
+                    {
+                        "nome": "Forlì",
+                        "quantita": 6672.0
+                    },
+                    {
+                        "nome": "Ravenna",
+                        "quantita": 3980.0
+                    },
+                    {
+                        "nome": "Rimini",
+                        "quantita": 4806.0
+                    }
+                ],
+                "dettagli": [
+                    {
+                        "voce": "di cui: a corsi di Laurea magistrale",
+                        "citta": [
+                            {
+                                "nome": "Bologna",
+                                "quantita": 17912
+                            },
+                            {
+                                "nome": "Cesena",
+                                "quantita": 1260
+                            },
+                            {
+                                "nome": "Forlì",
+                                "quantita": 1783
+                            },
+                            {
+                                "nome": "Ravenna",
+                                "quantita": 819
+                            },
+                            {
+                                "nome": "Rimini",
+                                "quantita": 1283
+                            }
+                        ]
+                    },
+                    {
+                        "voce": "di cui: a doppi diplomi",
+                        "citta": [
+                            {
+                                "nome": "Bologna",
+                                "quantita": 14122
+                            },
+                            {
+                                "nome": "Cesena",
+                                "quantita": 338
+                            },
+                            {
+                                "nome": "Forlì",
+                                "quantita": 1491
+                            },
+                            {
+                                "nome": "Ravenna",
+                                "quantita": 482
+                            },
+                            {
+                                "nome": "Rimini",
+                                "quantita": null
+                            }
+                        ]
+                    }
+                ]
             },
             {
-                "corsi_iscrizioni_e_lauree": "Iscrizioni",
-                "bologna": 67431.0,
-                "cesena": 4976.0,
-                "forli": 6672.0,
-                "ravenna": 3980.0,
-                "rimini": 4806.0
-            },
-            {
-                "corsi_iscrizioni_e_lauree": "di cui: a corsi di Laurea magistrale",
-                "bologna": 17912.0,
-                "cesena": 1260.0,
-                "forli": 1783.0,
-                "ravenna": 819.0,
-                "rimini": 1283.0
-            },
-            {
-                "corsi_iscrizioni_e_lauree": "di cui: a doppi diplomi",
-                "bologna": 14122.0,
-                "cesena": 338.0,
-                "forli": 1491.0,
-                "ravenna": 482.0,
-                "rimini": null
-            },
-            {
-                "corsi_iscrizioni_e_lauree": "Lauree*",
-                "bologna": 14836.0,
-                "cesena": 1138.0,
-                "forli": 1774.0,
-                "ravenna": 734.0,
-                "rimini": 1301.0
+                "voce": "Lauree",
+                "citta": [
+                    {
+                        "nome": "Bologna",
+                        "quantita": 14836
+                    },
+                    {
+                        "nome": "Cesena",
+                        "quantita": 1138
+                    },
+                    {
+                        "nome": "Forlì",
+                        "quantita": 1774
+                    },
+                    {
+                        "nome": "Ravenna",
+                        "quantita": 734
+                    },
+                    {
+                        "nome": "Rimini",
+                        "quantita": 1301
+                    }
+                ]
             }
-        ],
-        "note": "* Dati indicati in riferimento all'anno solare 2023."
+        ]
     }
 }

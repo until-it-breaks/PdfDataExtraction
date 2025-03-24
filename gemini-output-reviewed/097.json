@@ -1,6 +1,5 @@
 {
     "progetti_europei": {
-        "titolo": "Figura 39 - Progetti europei",
         "dati": [
             {
                 "anno": 2021,
@@ -26,29 +25,28 @@
         ]
     },
     "finanziamento_progetti_europei": {
-        "titolo": "Figura 40 - Finanziamento progetti europei",
         "unita_di_misura": "migliaia di euro",
         "dati": [
             {
                 "anno": 2021,
                 "horizon_europe": null,
-                "horizon_2020": 17488.0,
-                "altri_programmi_europei": 769.0,
-                "totale": 18257.0
+                "horizon_2020": 17488,
+                "altri_programmi_europei": 769,
+                "totale": 18257
             },
             {
                 "anno": 2022,
-                "horizon_europe": 49203.0,
+                "horizon_europe": 49203,
                 "horizon_2020": null,
-                "altri_programmi_europei": 4382.0,
-                "totale": 53585.0
+                "altri_programmi_europei": 4382,
+                "totale": 53585
             },
             {
                 "anno": 2023,
-                "horizon_europe": 35868.0,
+                "horizon_europe": 35868,
                 "horizon_2020": null,
-                "altri_programmi_europei": 3818.0,
-                "totale": 39686.0
+                "altri_programmi_europei": 3818,
+                "totale": 39686
             }
         ]
     }

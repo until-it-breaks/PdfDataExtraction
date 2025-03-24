@@ -1,12 +1,12 @@
 {
     "valore_economico": {
         "valore_attratto": {
-            "valore": 957.0,
+            "valore": 957,
             "unita_di_misura": "mln €",
             "descrizione": "VALORE ECONOMICO ATTRATTO"
         },
         "valore_distribuito": {
-            "valore": 805.0,
+            "valore": 805,
             "unita_di_misura": "mln €",
             "descrizione": "VALORE ECONOMICO DISTRIBUITO"
         },
@@ -15,7 +15,7 @@
             "descrizione": "ACQUISTI VERDI"
         },
         "5x1000": {
-            "valore": 366795.0,
+            "valore": 366795,
             "unita_di_misura": "€",
             "descrizione": "5X1000"
         }

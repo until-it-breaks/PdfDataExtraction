@@ -5,49 +5,49 @@
         "dati": [
             {
                 "dipartimento": "Chimica \"Giacomo Ciamician\"",
-                "finanziamento": 1687792.0
+                "finanziamento": 1687792
             },
             {
                 "dipartimento": "Filologia Classica e Italianistica",
-                "finanziamento": 1444594.0
+                "finanziamento": 1444594
             },
             {
                 "dipartimento": "Ingegneria dell'Energia Elettrica e dell'Informazione \"Guglielmo Marconi\"",
-                "finanziamento": 1819118.0
+                "finanziamento": 1819118
             },
             {
                 "dipartimento": "Psicologia \"Renzo Canestrari\"",
-                "finanziamento": 1313267.0
+                "finanziamento": 1313267
             },
             {
                 "dipartimento": "Scienze Economiche",
-                "finanziamento": 1575921.0
+                "finanziamento": 1575921
             },
             {
                 "dipartimento": "Scienze Giuridiche",
-                "finanziamento": 1575921.0
+                "finanziamento": 1575921
             },
             {
                 "dipartimento": "Scienze Politiche e Sociali",
-                "finanziamento": 1575921.0
+                "finanziamento": 1575921
             },
             {
                 "dipartimento": "Scienze e Tecnologie Agro-Alimentari",
-                "finanziamento": 1819118.0
+                "finanziamento": 1819118
             },
             {
                 "dipartimento": "Delle Arti",
-                "finanziamento": 1444594.0
+                "finanziamento": 1444594
             },
             {
                 "dipartimento": "Scienze Mediche e Chirurgiche",
-                "finanziamento": 1819118.0
+                "finanziamento": 1819118
             },
             {
                 "dipartimento": "Storia, Culture e Civiltà",
-                "finanziamento": 1575921.0
+                "finanziamento": 1575921
             }
         ],
-        "totale": 17651285.0
+        "totale": 17651285
     }
 }

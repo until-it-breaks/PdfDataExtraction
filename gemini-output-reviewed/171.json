@@ -1,18 +1,44 @@
 {
     "unibomagazine_e_ufficio_stampa": {
-        "unibomagazine": {
-            "anno": 2023,
-            "articoli_e_eventi_pubblicati": 2016,
-            "accessi_a_unibomagazine": 633128,
-            "pagine_viste_di_unibomagazine": 969394
-        },
-        "uscite_sui_media_nazionali_e_siti_di_informazione_esteri": {
-            "anno": 2023,
-            "quotidiani_periodici": 17936,
-            "servizi_radio_tv": 2792,
-            "siti_di_informazione_italiani": 10880,
-            "siti_di_informazione_esteri": 1389,
-            "totale": 32997
-        }
+        "anno": 2023,
+        "dati": [
+            {
+                "dato": "Articoli e eventi Pubblicati",
+                "valore": 2016
+            },
+            {
+                "dato": "Accessi a UniboMagazine",
+                "valore": 633128
+            },
+            {
+                "dato": "Pagine viste di UniboMagazine",
+                "valore": 969394
+            }
+        ]
+    },
+    "uscite_sui_media_nazionali_e_siti_di_informazione_esteri": {
+        "anno": 2023,
+        "dati": [
+            {
+                "dato": "Quotidiani/Periodici",
+                "valore": 17936
+            },
+            {
+                "dato": "Servizi Radio/TV",
+                "valore": 2792
+            },
+            {
+                "dato": "Siti di informazione italiani",
+                "valore": 10880
+            },
+            {
+                "dato": "Siti di informazione esteri",
+                "valore": 1389
+            },
+            {
+                "dato": "Totale",
+                "valore": 32997
+            }
+        ]
     }
 }

@@ -33,7 +33,6 @@
     ],
     "strutture": {
         "scuole": 5,
-        "dipartimenti": 31,
-        "altro": "ALTRE STRUTTURE"
+        "dipartimenti": 31
     }
 }

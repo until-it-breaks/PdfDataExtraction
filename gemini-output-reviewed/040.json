@@ -1,9 +1,23 @@
 {
     "numerosita_enti_partecipati": {
-        "fondazioni": 67,
-        "centri_interuniversitari": 47,
-        "societa": 9,
-        "consorzi": 38
+        "dati": [
+            {
+                "categoria": "Fondazioni",
+                "valore": 67
+            },
+            {
+                "categoria": "Centri Interuniversitari",
+                "valore": 47
+            },
+            {
+                "categoria": "Società",
+                "valore": 9
+            },
+            {
+                "categoria": "Consorzi",
+                "valore": 38
+            }
+        ]
     },
     "dettagli_enti": {
         "societa": "3 sono state costituite in relazione ai finanziamenti del PNRR",

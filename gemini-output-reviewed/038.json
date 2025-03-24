@@ -2,25 +2,72 @@
     "provenienza_geografica_fornitori": {
         "dati": [
             {
-                "anno": 2023,
-                "provincia_bologna": "38,4%",
-                "emilia_romagna": "10,1%",
-                "resto_italia": "47,5%",
-                "estero": "4,1%"
+                "categoria": "Provincia di Bologna",
+                "valori": [
+                    {
+                        "anno": 2021,
+                        "valore": "33,2%"
+                    },
+                    {
+                        "anno": 2022,
+                        "valore": "36,8%"
+                    },
+                    {
+                        "anno": 2023,
+                        "valore": "38,4%"
+                    }
+                ]
             },
             {
-                "anno": 2022,
-                "provincia_bologna": "36,8%",
-                "emilia_romagna": "13,5%",
-                "resto_italia": "44,2%",
-                "estero": "5,5%"
+                "categoria": "Emilia-Romagna",
+                "valori": [
+                    {
+                        "anno": 2021,
+                        "valore": "14,1%"
+                    },
+                    {
+                        "anno": 2022,
+                        "valore": "13,5%"
+                    },
+                    {
+                        "anno": 2023,
+                        "valore": "10,1%"
+                    }
+                ]
             },
             {
-                "anno": 2021,
-                "provincia_bologna": "33,2%",
-                "emilia_romagna": "14,1%",
-                "resto_italia": "46,8%",
-                "estero": "5,9%"
+                "categoria": "Resto d'Italia",
+                "valori": [
+                    {
+                        "anno": 2021,
+                        "valore": "46,8%"
+                    },
+                    {
+                        "anno": 2022,
+                        "valore": "44,2%"
+                    },
+                    {
+                        "anno": 2023,
+                        "valore": "47,5%"
+                    }
+                ]
+            },
+            {
+                "categoria": "Estero",
+                "valori": [
+                    {
+                        "anno": 2021,
+                        "valore": "5,9%"
+                    },
+                    {
+                        "anno": 2022,
+                        "valore": "5,5%"
+                    },
+                    {
+                        "anno": 2023,
+                        "valore": "4,1%"
+                    }
+                ]
             }
         ]
     },

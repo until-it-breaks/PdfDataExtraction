@@ -2,11 +2,11 @@
     "patrimonio_edilizio": {
         "copertura_fabbricati": {
             "valore": 1242920,
-            "unita_di_misura": "MQ",
+            "unita_di_misura": "mq",
             "descrizione": "COPERTURA FABBRICATI (ESCLUSI SPAZI ESTERNI)"
         },
         "copertura_terreni": {
-            "valore": 550.0,
+            "valore": 550,
             "unita_di_misura": "ETTARI",
             "descrizione": "COPERTURA TERRENI"
         },

@@ -1,6 +1,5 @@
 {
     "lauree": {
-        "titolo": "Figura 14 - Lauree",
         "dati": [
             {
                 "anno": 2023,
@@ -23,7 +22,6 @@
         ]
     },
     "tempistiche_conseguimento_laurea": {
-        "titolo": "Figura 15 - Tempistiche di conseguimento della laurea",
         "dati": [
             {
                 "anno": 2023,

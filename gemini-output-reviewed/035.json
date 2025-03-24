@@ -30,53 +30,53 @@
         "atenei": [
             {
                 "ateneo": "Roma La Sapienza",
-                "anno_2023": 479.0,
-                "anno_2022": 461.0
+                "anno_2023": 479,
+                "anno_2022": 461
             },
             {
                 "ateneo": "Bologna",
-                "anno_2023": 398.0,
-                "anno_2022": 371.0
+                "anno_2023": 398,
+                "anno_2022": 371
             },
             {
                 "ateneo": "Napoli Federico II",
-                "anno_2023": 364.0,
-                "anno_2022": 354.0
+                "anno_2023": 364,
+                "anno_2022": 354
             },
             {
                 "ateneo": "Padova",
-                "anno_2023": 319.0,
-                "anno_2022": 295.0
+                "anno_2023": 319,
+                "anno_2022": 295
             },
             {
                 "ateneo": "Torino",
-                "anno_2023": 298.0,
-                "anno_2022": 286.0
+                "anno_2023": 298,
+                "anno_2022": 286
             },
             {
                 "ateneo": "Milano",
-                "anno_2023": 282.0,
-                "anno_2022": 274.0
+                "anno_2023": 282,
+                "anno_2022": 274
             },
             {
                 "ateneo": "Firenze",
-                "anno_2023": 228.0,
-                "anno_2022": 222.0
+                "anno_2023": 228,
+                "anno_2022": 222
             },
             {
                 "ateneo": "Pisa",
-                "anno_2023": 198.0,
-                "anno_2022": 194.0
+                "anno_2023": 198,
+                "anno_2022": 194
             },
             {
                 "ateneo": "Palermo",
-                "anno_2023": 193.0,
-                "anno_2022": 189.0
+                "anno_2023": 193,
+                "anno_2022": 189
             },
             {
                 "ateneo": "Bari",
-                "anno_2023": 180.0,
-                "anno_2022": 177.0
+                "anno_2023": 180,
+                "anno_2022": 177
             }
         ]
     }

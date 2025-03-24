@@ -1,6 +1,5 @@
 {
     "distribuzione_personale_ta": {
-        "descrizione": "Distribuzione del Personale TA per struttura e area funzionale",
         "dati": [
             {
                 "struttura": "Amministrazione Generale",
@@ -45,7 +44,6 @@
         ]
     },
     "personale_tecnico_amministrativo": {
-        "descrizione": "Personale Tecnico Amministrativo per Bologna e Campus Romagna",
         "bologna": {
             "2021": 2548,
             "2022": 2671,

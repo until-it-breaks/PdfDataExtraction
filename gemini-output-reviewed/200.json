@@ -1,35 +1,35 @@
 {
     "abbonamenti_agevolati": {
         "spesa_complessiva": {
-            "valore": 1305000.0,
+            "valore": 1305000,
             "unita_di_misura": "euro"
         },
         "abbonamenti_totali": [
             {
-                "mezzo": "autobus",
-                "beneficiario": "studenti",
+                "mezzo": "Autobus",
+                "beneficiario": "Studenti",
                 "numero_abbonamenti": 17006,
                 "note": "di cui 326 ai campus romagnoli"
             },
             {
-                "mezzo": "autobus",
-                "beneficiario": "studenti_erasmus",
+                "mezzo": "Autobus",
+                "beneficiario": "Studenti Erasmus",
                 "numero_abbonamenti": 229,
                 "note": "di cui 60 ai campus romagnoli"
             },
             {
-                "mezzo": "autobus",
-                "beneficiario": "dottorandi_altre_categorie",
+                "mezzo": "Autobus",
+                "beneficiario": "Dottorandi, altre categorie",
                 "numero_abbonamenti": 781
             },
             {
-                "mezzo": "autobus",
-                "beneficiario": "personale_docente_e_ta",
+                "mezzo": "Autobus",
+                "beneficiario": "Personale (docente e TA)",
                 "numero_abbonamenti": 1884
             },
             {
-                "mezzo": "treno",
-                "beneficiario": "personale_docente_e_ta",
+                "mezzo": "Treno",
+                "beneficiario": "Personale (docente e TA)",
                 "numero_abbonamenti": 469
             }
         ]

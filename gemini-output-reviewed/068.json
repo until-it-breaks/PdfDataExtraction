@@ -8,7 +8,7 @@
             "borse_studio_collaborazioni_studentesche": {
                 "ore": 150,
                 "importo_massimo": {
-                    "valore": 1125.0,
+                    "valore": 1125,
                     "unita_di_misura": "€"
                 },
                 "anno_accademico": "2022/2023",

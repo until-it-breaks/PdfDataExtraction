@@ -1,7 +1,7 @@
 {
     "percentuale_dirigenti_emilia_romagna": {
         "totale": "89%",
-        "provincie": [
+        "province": [
             {
                 "nome": "Bologna",
                 "percentuale": "75%"

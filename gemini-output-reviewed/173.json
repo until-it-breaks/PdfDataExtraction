@@ -1,19 +1,49 @@
 {
-    "partecipanti_visite_guidate_2023": {
-        "visite_programmate_unibocultura": "49%",
-        "visite_extra_non_programmate": "26%",
-        "summer_school": "9%",
-        "alma_mater_fest": "9%",
-        "convegno_una_europa": "5%",
-        "notte_europea_dei_ricercatori": "3%"
-    },
+    "partecipanti_visite_guidate_2023": [
+        {
+            "evento": "Visite Programmate Unibocultura",
+            "percentuale": "49%"
+        },
+        {
+            "evento": "Visite Extra Non Programmate",
+            "percentuale": "26%"
+        },
+        {
+            "evento": "Summer School",
+            "percentuale": "9%"
+        },
+        {
+            "evento": "Alma Mater Fest",
+            "percentuale": "9%"
+        },
+        {
+            "evento": "Convegno Una Europa",
+            "percentuale": "5%"
+        },
+        {
+            "evento": "Notte Europea Dei Ricercatori",
+            "percentuale": "3%"
+        }
+    ],
     "newsletter_istituzionali_esterne": {
         "newsletter_inviate": 19
     },
-    "unibocultura": {
-        "visite_guidate_organizzate": 56,
-        "partecipazione_totale_visitatori": 1073,
-        "partecipazione_corso_formazione": 89,
-        "edizione_corso_formazione": 1
-    }
+    "unibocultura": [
+        {
+            "attivita": "Visite Guidate Organizzate",
+            "quantita": 56
+        },
+        {
+            "attivita": "Partecipazione Totale Visitatori",
+            "quantita": 1073
+        },
+        {
+            "attivita": "Partecipazione Corso Formazione",
+            "quantita": 89
+        },
+        {
+            "attivita": "Edizione Corso Formazione",
+            "quantita": 1
+        }
+    ]
 }

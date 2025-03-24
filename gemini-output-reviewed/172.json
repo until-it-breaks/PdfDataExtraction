@@ -1,5 +1,5 @@
 {
-    "eventi_per_tipologia": [
+    "eventi": [
         {
             "tipologia": "Seminari",
             "numero_eventi": 534
@@ -22,8 +22,8 @@
         }
     ],
     "eventi_totali_annuali": {
-        "anno_2021": 1151,
-        "anno_2022": 1272,
-        "anno_2023": 1323
+        "2021": 1151,
+        "2022": 1272,
+        "2023": 1323
     }
 }
