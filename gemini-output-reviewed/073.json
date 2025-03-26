@@ -1,49 +1,45 @@
 {
-    "tabella_servizi_miglioramento_condizioni_vita_studio": {
-        "colonne": [
-            "beneficiari_contributi_associazioni_attivita",
-            "2020_21",
-            "2021_22",
-            "2022_23"
-        ],
-        "righe": [
+    "servizi_miglioramento_condizioni_vita_studio": {
+        "benefici": [
             {
-                "beneficiari_contributi_associazioni_attivita": "Studenti con disabilità",
+                "beneficiari": "Studenti con disabilità",
                 "2020_21": 750,
                 "2021_22": 856,
                 "2022_23": 992
             },
             {
-                "beneficiari_contributi_associazioni_attivita": "Beneficiari del servizio per studenti affetti da disturbi specifici dell'apprendimento",
+                "beneficiari": "Beneficiari del servizio per studenti affetti da disturbi specifici dell'apprendimento",
                 "2020_21": 1207,
                 "2021_22": 1378,
                 "2022_23": 1571
-            },
+            }
+        ],
+        "contributi": [
             {
-                "beneficiari_contributi_associazioni_attivita": "Contributi finanziari per l'acquisto di ausili a studenti con disabilità e con DSA",
+                "contributo": "Contributi finanziari per l'acquisto di ausili a studenti con disabilità e con DSA",
                 "2020_21": 124,
                 "2021_22": 75,
                 "2022_23": 85
             },
             {
-                "beneficiari_contributi_associazioni_attivita": "Contributi erogati alle Associazioni studentesche",
+                "contributo": "Contributi erogati alle Associazioni studentesche",
                 "2020_21": 400000,
                 "2021_22": 400000,
-                "2022_23": 200.000,
+                "2022_23": 200000,
                 "unita_di_misura": "€"
-            },
-            {
-                "beneficiari_contributi_associazioni_attivita": "Nr. Associazioni/Cooperative studentesche universitarie accreditate",
-                "2020_21": 39,
-                "2021_22": 30,
-                "2022_23": 30
-            },
-            {
-                "beneficiari_contributi_associazioni_attivita": "Nr. di attività realizzate delle Associazioni studentesche",
-                "2020_21": 174,
-                "2021_22": 235,
-                "2022_23": 229
             }
-        ]
+        ],
+        "associazioni": {
+            "descrizione": "Nr. Associazioni/Cooperative studentesche universitarie accreditate",
+            "2020_21": 39,
+            "2021_22": 30,
+            "2022_23": 30
+        },
+        "attivita": {
+            "descrizione": "Nr. di attività realizzate delle Associazioni studentesche",
+            "2020_21": 174,
+            "2021_22": 235,
+            "2022_23": 229
+        }
     }
 }

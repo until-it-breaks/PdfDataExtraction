@@ -1,18 +1,58 @@
 {
     "ripartizione_voci_budget_pnrr_e_pnc": {
-        "attrezzature": "16,9%",
-        "licenze_materiali_servizi": "3,1%",
-        "edilizia_e_impianti": "3,5%",
-        "altri_costi_per_la_ricerca": "10,1%",
-        "personale_strutturato": "18,4%",
-        "nuovo_personale": "21,2%",
-        "overheads": "5,4%",
-        "open_call": "21,5%"
+        "dati": [
+            {
+                "voce": "Attrezzature",
+                "valore": "16,9%"
+            },
+            {
+                "voce": "Licenze, Materiali e Servizi",
+                "valore": "3,1%"
+            },
+            {
+                "voce": "Edilizia e Impianti",
+                "valore": "3,5%"
+            },
+            {
+                "voce": "Altri Costi per la Ricerca",
+                "valore": "10,1%"
+            },
+            {
+                "voce": "Personale Strutturato",
+                "valore": "18,4%"
+            },
+            {
+                "voce": "Nuovo Personale",
+                "valore": "21,2%"
+            },
+            {
+                "voce": "Overheads",
+                "valore": "5,4%"
+            },
+            {
+                "voce": "Open Call",
+                "valore": "21,5%"
+            }
+        ]
     },
     "composizione_nuovo_personale": {
-        "rtda": "51,3%",
-        "adr": "20,7%",
-        "phd": "20,5%",
-        "ta": "7,4%"
+        "dati": [
+            {
+                "tipo": "RTDA",
+                "valore": "51,3%"
+            },
+            {
+                "tipo": "ADR",
+                "valore": "20,7%"
+            },
+            {
+                "tipo": "PhD",
+                "valore": "20,5%"
+            },
+            {
+                "tipo": "TA",
+                "valore": "7,4%"
+            }
+        ]
     }
 }

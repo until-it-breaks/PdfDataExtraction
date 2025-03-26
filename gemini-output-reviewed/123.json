@@ -1,73 +1,76 @@
 {
-    "distribuzione_personale_ta": {
-        "dati": [
-            {
-                "struttura": "Amministrazione Generale",
-                "area_amva_gestle": 1257,
-                "area_tecnica": 459,
-                "area_biblioteche": 144,
-                "area_socio_sanitaria": 5,
-                "totale": 1865
-            },
-            {
-                "struttura": "Dipartimenti",
-                "area_amva_gestle": 413,
-                "area_tecnica": 507,
-                "area_biblioteche": 43,
-                "area_socio_sanitaria": 37,
-                "totale": 1000
-            },
-            {
-                "struttura": "Campus",
-                "area_amva_gestle": 96,
-                "area_tecnica": 22,
-                "area_biblioteche": 20,
-                "area_socio_sanitaria": 0,
-                "totale": 138
-            },
-            {
-                "struttura": "Altre Strutture",
-                "area_amva_gestle": 57,
-                "area_tecnica": 65,
-                "area_biblioteche": 13,
-                "area_socio_sanitaria": 2,
-                "totale": 137
-            },
-            {
-                "struttura": "Totale",
-                "area_amva_gestle": 1823,
-                "area_tecnica": 1053,
-                "area_biblioteche": 220,
-                "area_socio_sanitaria": 44,
-                "totale": 3140
-            }
-        ]
-    },
-    "personale_tecnico_amministrativo": {
-        "bologna": {
+    "distribuzione_ta_struttura_area": [
+        {
+            "struttura": "Amministrazione Generale",
+            "area_amva_gestle": 1257,
+            "area_tecnica": 459,
+            "area_biblioteche": 144,
+            "area_socio_sanitaria": 5,
+            "totale": 1865
+        },
+        {
+            "struttura": "Dipartimenti",
+            "area_amva_gestle": 413,
+            "area_tecnica": 507,
+            "area_biblioteche": 43,
+            "area_socio_sanitaria": 37,
+            "totale": 1000
+        },
+        {
+            "struttura": "Campus",
+            "area_amva_gestle": 96,
+            "area_tecnica": 22,
+            "area_biblioteche": 20,
+            "area_socio_sanitaria": 0,
+            "totale": 138
+        },
+        {
+            "struttura": "Altre Strutture",
+            "area_amva_gestle": 57,
+            "area_tecnica": 65,
+            "area_biblioteche": 13,
+            "area_socio_sanitaria": 2,
+            "totale": 137
+        },
+        {
+            "struttura": "Totale",
+            "area_amva_gestle": 1823,
+            "area_tecnica": 1053,
+            "area_biblioteche": 220,
+            "area_socio_sanitaria": 44,
+            "totale": 3140
+        }
+    ],
+    "distribuzione_ta_citta": [
+        {
+            "citta": "Bologna",
             "2021": 2548,
             "2022": 2671,
             "2023": 2753
         },
-        "cesena": {
+        {
+            "citta": "Cesena",
             "2021": 112,
             "2022": 112,
             "2023": 122
         },
-        "forli": {
+        {
+            "citta": "Forlì",
             "2021": 152,
             "2022": 154,
             "2023": 151
         },
-        "ravenna": {
+        {
+            "citta": "Ravenna",
             "2021": 88,
             "2022": 98,
             "2023": 98
         },
-        "rimini": {
+        {
+            "citta": "Rimini",
             "2021": 103,
             "2022": 108,
             "2023": 108
         }
-    }
+    ]
 }

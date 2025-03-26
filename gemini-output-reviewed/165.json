@@ -4,16 +4,16 @@
     },
     "percorsi_scolastici_2022_2023": [
         {
-            "tipo_scuola": "scuola dell'infanzia",
+            "tipo_scuola": "Scuola dell'infanzia",
             "numero_percorsi": 11
         },
         {
-            "tipo_scuola": "scuola primaria",
+            "tipo_scuola": "Scuola primaria",
             "numero_percorsi": 53,
             "disponibili_on_air": 14
         },
         {
-            "tipo_scuola": "scuola secondaria di primo grado",
+            "tipo_scuola": "Scuola secondaria di primo grado",
             "numero_percorsi": 40,
             "disponibili_on_air": 10
         }

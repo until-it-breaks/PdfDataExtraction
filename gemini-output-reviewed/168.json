@@ -4,19 +4,19 @@
         "risorse_non_elettroniche": {
             "composizione": [
                 {
-                    "tipo": "libri",
+                    "tipo": "Libri",
                     "valore": 3315448
                 },
                 {
-                    "tipo": "annate di periodici",
+                    "tipo": "Annate di periodici",
                     "valore": 1141277
                 },
                 {
-                    "tipo": "altro materiale documentario",
+                    "tipo": "Altro materiale documentario",
                     "valore": 40307
                 },
                 {
-                    "tipo": "materiale su supporto fisico non cartaceo",
+                    "tipo": "Materiale su supporto fisico non cartaceo",
                     "valore": 40327
                 }
             ]
@@ -25,15 +25,15 @@
             "totale": 870980,
             "composizione": [
                 {
-                    "tipo": "libri elettronici (e-book)",
+                    "tipo": "Libri elettronici (e-book)",
                     "valore": 799000
                 },
                 {
-                    "tipo": "periodici online",
+                    "tipo": "Periodici online",
                     "valore": 71600
                 },
                 {
-                    "tipo": "banche dati",
+                    "tipo": "Banche dati",
                     "valore": 380
                 }
             ]
@@ -42,15 +42,15 @@
             "totale": 228658,
             "composizione": [
                 {
-                    "tipo": "prestiti e rinnovi",
+                    "tipo": "Prestiti e rinnovi",
                     "valore": 197624
                 },
                 {
-                    "tipo": "prestiti interbibliotecari",
+                    "tipo": "Prestiti interbibliotecari",
                     "valore": 10133
                 },
                 {
-                    "tipo": "articoli Inviati/Ricevuti",
+                    "tipo": "Articoli Inviati/Ricevuti",
                     "valore": 20901
                 }
             ]

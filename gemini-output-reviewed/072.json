@@ -9,10 +9,11 @@
         "numero_attivazioni": 75
     },
     "servizi_per_lo_studio": {
-        "bologna": {
-            "numero_sale_studio": 16
-        },
-        "altre_citta": [
+        "dati": [
+            {
+                "citta": "Bologna",
+                "numero_sale_studio": 16
+            },
             {
                 "citta": "Cesena",
                 "numero_sale_studio": 2

@@ -1,11 +1,5 @@
 {
     "distribuzione_iscritti_isee": {
-        "colonne": [
-            "fasce",
-            "2021_2022",
-            "2022_2023",
-            "2023_2024"
-        ],
         "dati": [
             {
                 "fasce": "ISEE < 13.000,00 euro",

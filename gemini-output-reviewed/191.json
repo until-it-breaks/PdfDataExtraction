@@ -11,7 +11,7 @@
             "descrizione": "COPERTURA TERRENI"
         },
         "distribuzione_territoriale": {
-            "dati": [
+            "sedi": [
                 {
                     "sede": "Bologna",
                     "percentuale": "84,3%"

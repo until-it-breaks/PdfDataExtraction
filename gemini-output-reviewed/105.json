@@ -1,16 +1,50 @@
 {
     "prodotti_della_ricerca_per_tipologia": {
-        "contributo_in_rivista": "67,0%",
-        "contributo_in_volume": "15,2%",
-        "contributo_in_atti_di_convegno": "12,6%",
-        "libro": "4,2%",
-        "traduzione_e_altra_tipologia": "0,5%"
+        "dati": [
+            {
+                "tipologia": "Contributo in Rivista",
+                "valore": "67,0%"
+            },
+            {
+                "tipologia": "Contributo in Volume",
+                "valore": "15,2%"
+            },
+            {
+                "tipologia": "Contributo in Atti di Convegno",
+                "valore": "12,6%"
+            },
+            {
+                "tipologia": "Libro",
+                "valore": "4,2%"
+            },
+            {
+                "tipologia": "Traduzione e Altra Tipologia",
+                "valore": "0,5%"
+            }
+        ]
     },
     "prodotti_della_ricerca_per_area_scientifico_disciplinare": {
-        "area_medica": "21,8%",
-        "area_umanistica": "22,6%",
-        "area_tecnologica": "20,2%",
-        "area_scientifica": "19,5%",
-        "area_sociale": "15,3%"
+        "valori": [
+            {
+                "area": "Area Medica",
+                "valore": "21,8%"
+            },
+            {
+                "area": "Area Umanistica",
+                "valore": "22,6%"
+            },
+            {
+                "area": "Area Tecnologica",
+                "valore": "20,2%"
+            },
+            {
+                "area": "Area Scientifica",
+                "valore": "19,5%"
+            },
+            {
+                "area": "Area Sociale",
+                "valore": "15,3%"
+            }
+        ]
     }
 }

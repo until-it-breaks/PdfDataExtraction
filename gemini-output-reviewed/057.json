@@ -1,6 +1,5 @@
 {
     "composizione_studenti_primo_secondo_ciclo": {
-        "descrizione": "Composizione studenti di primo e secondo ciclo per provenienza",
         "dati": [
             {
                 "anno": 2023,
@@ -23,7 +22,6 @@
         ]
     },
     "composizione_dottorandi": {
-        "descrizione": "Composizione dottorandi per provenienza",
         "dati": [
             {
                 "anno": 2023,
@@ -46,7 +44,6 @@
         ]
     },
     "nuove_carriere_cittadinanza": {
-        "descrizione": "Nuove Carriere (23-24) per Cittadinanza di provenienza",
         "dati": [
             {
                 "cittadinanza": "Iran",

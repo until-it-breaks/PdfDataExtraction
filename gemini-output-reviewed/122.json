@@ -1,37 +1,44 @@
 {
-    "rapporto_ta_docenti": {
-        "anno_2021": {
+    "rapporto_ta_docenti": [
+        {
+            "anno": 2021,
             "personale_docente_e_ricercatore": 3002,
             "personale_tecnico_amministrativo": 3919,
             "rapporto_ta_docenti": 1.00
         },
-        "anno_2022": {
+        {
+            "anno": 2022,
             "personale_docente_e_ricercatore": 3176,
             "personale_tecnico_amministrativo": 3153,
             "rapporto_ta_docenti": 0.99
         },
-        "anno_2023": {
+        {
+            "anno": 2023,
             "personale_docente_e_ricercatore": 3384,
             "personale_tecnico_amministrativo": 3.242,
             "rapporto_ta_docenti": 0.96
         }
-    },
-    "distribuzione_personale_ta_per_tipologia_contrattuale": {
-        "cat_ep": {
+    ],
+    "distribuzione_personale_ta_per_tipologia_contrattuale": [
+        {
+            "categoria": "EP",
             "indeterminato": 171,
-            "determinato": null
+            "determinato": 0
         },
-        "cat_d": {
+        {
+            "categoria": "D",
             "indeterminato": 1385,
             "determinato": 76
         },
-        "cat_c": {
+        {
+            "categoria": "C",
             "indeterminato": 1290,
             "determinato": 47
         },
-        "cat_b": {
+        {
+            "categoria": "B",
             "indeterminato": 171,
-            "determinato": null
+            "determinato": 0
         }
-    }
+    ]
 }

@@ -17,15 +17,47 @@
         }
     },
     "provenienza_visiting_professors_e_phd_triennio_20_22": {
-        "spagna": 231,
-        "stati_uniti_d_america": 165,
-        "francia": 100,
-        "brasile": 93,
-        "polonia": 91,
-        "germania": 89,
-        "cina_repubblica_popolare": 88,
-        "gran_bretagna_e_irlanda_del_nord": 71,
-        "portogallo": 39,
-        "italia": 38
+        "paesi": [
+            {
+                "nazione": "Spagna",
+                "valore": 231
+            },
+            {
+                "nazione": "Stati Uniti d'America",
+                "valore": 165
+            },
+            {
+                "nazione": "Francia",
+                "valore": 100
+            },
+            {
+                "nazione": "Brasile",
+                "valore": 93
+            },
+            {
+                "nazione": "Polonia",
+                "valore": 91
+            },
+            {
+                "nazione": "Germania",
+                "valore": 89
+            },
+            {
+                "nazione": "Cina (Repubblica Popolare)",
+                "valore": 88
+            },
+            {
+                "nazione": "Gran Bretagna e Irlanda del Nord",
+                "valore": 71
+            },
+            {
+                "nazione": "Portogallo",
+                "valore": 39
+            },
+            {
+                "nazione": "Italia",
+                "valore": 38
+            }
+        ]
     }
 }

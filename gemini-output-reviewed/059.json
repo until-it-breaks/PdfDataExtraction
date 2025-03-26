@@ -27,15 +27,47 @@
         }
     },
     "studenti_outgoing_per_nazione_di_destinazione_triennio_21_23": {
-        "spagna": 2050,
-        "francia": 1325,
-        "germania": 903,
-        "belgio": 665,
-        "gran_bretagna_e_irlanda_del_nord": 498,
-        "paesi_bassi": 498,
-        "portogallo": 435,
-        "svezia": 264,
-        "austria": 261,
-        "danimarca": 240
+        "dati": [
+            {
+                "nazione": "Spagna",
+                "valore": 2050
+            },
+            {
+                "nazione": "Francia",
+                "valore": 1325
+            },
+            {
+                "nazione": "Germania",
+                "valore": 903
+            },
+            {
+                "nazione": "Belgio",
+                "valore": 665
+            },
+            {
+                "nazione": "Gran Bretagna e Irlanda del Nord",
+                "valore": 498
+            },
+            {
+                "nazione": "Paesi Bassi",
+                "valore": 498
+            },
+            {
+                "nazione": "Portogallo",
+                "valore": 435
+            },
+            {
+                "nazione": "Svezia",
+                "valore": 264
+            },
+            {
+                "nazione": "Austria",
+                "valore": 261
+            },
+            {
+                "nazione": "Danimarca",
+                "valore": 240
+            }
+        ]
     }
 }

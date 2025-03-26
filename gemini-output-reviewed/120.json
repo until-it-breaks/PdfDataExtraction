@@ -21,7 +21,7 @@
             }
         ]
     },
-    "tabella_compensi_regolamento_premialita_docenti": {
+    "compensi_regolamento_premialita_docenti": {
         "dati": [
             {
                 "misura_incentivante": "Fondo per la premialità (ex art. 9 L 240/2010)",

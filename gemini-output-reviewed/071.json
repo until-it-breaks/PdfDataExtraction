@@ -1,8 +1,7 @@
 {
     "servizi_abitativi": {
         "numero_studentati_gestiti": {
-            "valore": 29,
-            "unita_di_misura": "studentati"
+            "valore": 29
         },
         "distribuzione_studentati": [
             {
@@ -30,13 +29,13 @@
             "numero_contributi": 600,
             "valore_contributo": 1000,
             "unita_di_misura": "€",
-            "isee_max": 28000.0,
-            "ispe_max": 62000.0
+            "isee_max": 28000,
+            "ispe_max": 62000
         }
     },
     "miglioramento_condizioni_vita_studio": {
         "budget_2023": {
-            "valore": 350000.0,
+            "valore": 350000,
             "unita_di_misura": "euro"
         },
         "domande_ricevute_2023": 1200,

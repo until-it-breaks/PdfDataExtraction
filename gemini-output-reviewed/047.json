@@ -1,6 +1,5 @@
 {
     "iscrizioni_lauree": {
-        "titolo": "Iscrizioni alle Lauree, Lauree Magistrali e LM a Ciclo Unico",
         "dati": [
             {
                 "anno_accademico": "2023/24",
@@ -29,7 +28,6 @@
         ]
     },
     "iscrizioni_master_dottorati_corsi_alta_formazione": {
-        "titolo": "Iscrizioni ai Master, ai Dottorati e ai Corsi di alta formazione",
         "dati": [
             {
                 "anno_accademico": "2023/24",

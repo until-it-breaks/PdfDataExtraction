@@ -1,33 +1,36 @@
 {
-    "personale_docente_e_ricercatore": {
-        "bologna_e_campus_romagna": {
-            "bologna": {
-                "2021": 2229,
-                "2022": 2365,
-                "2023": 2538
-            },
-            "cesena": {
-                "2021": 207,
-                "2022": 218,
-                "2023": 227
-            },
-            "forli": {
-                "2021": 225,
-                "2022": 232,
-                "2023": 245
-            },
-            "ravenna": {
-                "2021": 181,
-                "2022": 196,
-                "2023": 196
-            },
-            "rimini": {
-                "2021": 160,
-                "2022": 165,
-                "2023": 176
-            }
+    "personale_docente_e_ricercatore_bologna_e_campus_romagna": [
+        {
+            "citta": "Bologna",
+            "2021": 2229,
+            "2022": 2365,
+            "2023": 2538
+        },
+        {
+            "citta": "Cesena",
+            "2021": 207,
+            "2022": 218,
+            "2023": 227
+        },
+        {
+            "citta": "Forlì",
+            "2021": 225,
+            "2022": 232,
+            "2023": 245
+        },
+        {
+            "citta": "Ravenna",
+            "2021": 181,
+            "2022": 196,
+            "2023": 196
+        },
+        {
+            "citta": "Rimini",
+            "2021": 160,
+            "2022": 165,
+            "2023": 176
         }
-    },
+    ],
     "fasce_eta_personale_docente_e_ricercatore_al_31_12_2023": {
         "ordinario": {
             "70_74_anni": 3,

@@ -1,50 +1,50 @@
 {
-    "tabella_corsi_attivati": {
+    "corsi_attivati": {
         "colonne": [
-            "corsi",
+            "corso",
             "2021/22",
             "2022/23",
             "2023/24"
         ],
         "dati": [
             {
-                "corsi": "Laurea",
+                "corso": "Laurea",
                 "2021/22": 97,
                 "2022/23": 101,
                 "2023/24": 104
             },
             {
-                "corsi": "Laurea magistrale",
+                "corso": "Laurea magistrale",
                 "2021/22": 132,
                 "2022/23": 137,
                 "2023/24": 142
             },
             {
-                "corsi": "Laurea magistrale a ciclo unico",
+                "corso": "Laurea magistrale a ciclo unico",
                 "2021/22": 14,
                 "2022/23": 14,
                 "2023/24": 14
             },
             {
-                "corsi": "Scuole di specializzazione",
+                "corso": "Scuole di specializzazione",
                 "2021/22": 56,
                 "2022/23": 59,
                 "2023/24": 59
             },
             {
-                "corsi": "Dottorato di ricerca",
+                "corso": "Dottorato di ricerca",
                 "2021/22": 48,
                 "2022/23": 51,
                 "2023/24": 51
             },
             {
-                "corsi": "Master",
+                "corso": "Master",
                 "2021/22": 91,
                 "2022/23": 94,
                 "2023/24": 86
             },
             {
-                "corsi": "Corso di Alta Formazione e di Formazione Permanente",
+                "corso": "Corso di Alta Formazione e di Formazione Permanente",
                 "2021/22": 24,
                 "2022/23": 32,
                 "2023/24": 28

@@ -1,15 +1,47 @@
 {
     "studenti_incoming_per_nazione_di_provenienza": {
-        "spagna": 2112,
-        "francia": 980,
-        "germania": 858,
-        "stati_uniti_d_america": 441,
-        "belgio": 380,
-        "paesi_bassi": 332,
-        "gran_bretagna_e_irlanda_del_nord": 304,
-        "portogallo": 297,
-        "polonia": 284,
-        "norvegia": 202
+        "dati": [
+            {
+                "nazione": "Spagna",
+                "valore": 2112
+            },
+            {
+                "nazione": "Francia",
+                "valore": 980
+            },
+            {
+                "nazione": "Germania",
+                "valore": 858
+            },
+            {
+                "nazione": "Stati Uniti d'America",
+                "valore": 441
+            },
+            {
+                "nazione": "Belgio",
+                "valore": 380
+            },
+            {
+                "nazione": "Paesi Bassi",
+                "valore": 332
+            },
+            {
+                "nazione": "Gran Bretagna e Irlanda del Nord",
+                "valore": 304
+            },
+            {
+                "nazione": "Portogallo",
+                "valore": 297
+            },
+            {
+                "nazione": "Polonia",
+                "valore": 284
+            },
+            {
+                "nazione": "Norvegia",
+                "valore": 202
+            }
+        ]
     },
     "borse_di_studio_per_tesi_all_estero": {
         "totale": {
