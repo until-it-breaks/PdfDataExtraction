@@ -1,35 +1,15 @@
 {
-    "tesserati_cusb": {
-        "numero": 20000
-    },
-    "accessi_strutture": {
-        "milioni": 1
-    },
-    "partecipanti_eventi": {
-        "numero": 13000
-    },
-    "campi_sportivi": {
-        "numero": 30
-    },
-    "impianti_sportivi": {
-        "numero": 9
-    },
-    "atleti_alto_livello": {
-        "numero": 200
-    },
-    "titoli_europei_2023": {
-        "numero": 3
-    },
-    "titoli_italiani_universitari_2023": {
-        "numero": 11
-    },
-    "discipline": {
-        "numero": 100
-    },
-    "corsi_sportivi": {
-        "numero": 150
-    },
-    "sezioni_agonistiche_federali": {
-        "numero": 8
+    "sport_e_salute": {
+        "tesserati_cusb": 20000,
+        "accessi_strutture": 1,
+        "partecipanti_eventi": 13000,
+        "campi_sportivi": 30,
+        "impianti_sportivi": 9,
+        "atleti_alto_livello": 200,
+        "titoli_europei_2023": 3,
+        "titoli_italiani_universitari_2023": 11,
+        "discipline": 100,
+        "corsi_sportivi": 150,
+        "sezioni_agonistiche_federali": 8
     }
 }

@@ -1,26 +1,24 @@
 {
-    "confronto_distribuzione_pubblicazioni_ateneo_indice_unico": {
-        "categorie": [
-            {
-                "indice_unico": "IU < 0,2",
-                "percentuale": "0,9%"
-            },
-            {
-                "indice_unico": "IU 0,2 - 0,5",
-                "percentuale": "11,7%"
-            },
-            {
-                "indice_unico": "IU 0,5 - 0,7",
-                "percentuale": "23,1%"
-            },
-            {
-                "indice_unico": "IU 0,7 - 0,9",
-                "percentuale": "41,4%"
-            },
-            {
-                "indice_unico": "IU >= 0,9",
-                "percentuale": "22,9%"
-            }
-        ]
-    }
+    "confronto_distribuzione_pubblicazioni_ateneo_indice_unico": [
+        {
+            "indice_unico": "IU < 0,2",
+            "percentuale": "0,9%"
+        },
+        {
+            "indice_unico": "IU 0,2 - 0,5",
+            "percentuale": "11,7%"
+        },
+        {
+            "indice_unico": "IU 0,5 - 0,7",
+            "percentuale": "23,1%"
+        },
+        {
+            "indice_unico": "IU 0,7 - 0,9",
+            "percentuale": "41,4%"
+        },
+        {
+            "indice_unico": "IU >= 0,9",
+            "percentuale": "22,9%"
+        }
+    ]
 }

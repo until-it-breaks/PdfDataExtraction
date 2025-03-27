@@ -1,48 +1,46 @@
 {
-    "studenti_incoming_per_nazione_di_provenienza": {
-        "dati": [
-            {
-                "nazione": "Spagna",
-                "valore": 2112
-            },
-            {
-                "nazione": "Francia",
-                "valore": 980
-            },
-            {
-                "nazione": "Germania",
-                "valore": 858
-            },
-            {
-                "nazione": "Stati Uniti d'America",
-                "valore": 441
-            },
-            {
-                "nazione": "Belgio",
-                "valore": 380
-            },
-            {
-                "nazione": "Paesi Bassi",
-                "valore": 332
-            },
-            {
-                "nazione": "Gran Bretagna e Irlanda del Nord",
-                "valore": 304
-            },
-            {
-                "nazione": "Portogallo",
-                "valore": 297
-            },
-            {
-                "nazione": "Polonia",
-                "valore": 284
-            },
-            {
-                "nazione": "Norvegia",
-                "valore": 202
-            }
-        ]
-    },
+    "studenti_incoming_per_nazione_di_provenienza": [
+        {
+            "nazione": "Spagna",
+            "valore": 2112
+        },
+        {
+            "nazione": "Francia",
+            "valore": 980
+        },
+        {
+            "nazione": "Germania",
+            "valore": 858
+        },
+        {
+            "nazione": "Stati Uniti d'America",
+            "valore": 441
+        },
+        {
+            "nazione": "Belgio",
+            "valore": 380
+        },
+        {
+            "nazione": "Paesi Bassi",
+            "valore": 332
+        },
+        {
+            "nazione": "Gran Bretagna e Irlanda del Nord",
+            "valore": 304
+        },
+        {
+            "nazione": "Portogallo",
+            "valore": 297
+        },
+        {
+            "nazione": "Polonia",
+            "valore": 284
+        },
+        {
+            "nazione": "Norvegia",
+            "valore": 202
+        }
+    ],
     "borse_di_studio_per_tesi_all_estero": {
         "totale": {
             "2020_21": 157,

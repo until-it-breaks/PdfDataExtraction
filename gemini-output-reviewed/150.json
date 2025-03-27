@@ -13,8 +13,6 @@
             "progetti_selezionati": 30,
             "start_up_costituite": 3
         },
-        "startup_day": {
-            "partecipanti_2023": 1700
-        }
+        "partecipanti_startup_day": 1700
     }
 }

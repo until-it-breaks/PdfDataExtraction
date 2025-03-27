@@ -1,18 +1,7 @@
 {
     "andamento_visitatori_musei": {
-        "anni": [
-            {
-                "anno": 2021,
-                "visitatori": 75353
-            },
-            {
-                "anno": 2022,
-                "visitatori": 145187
-            },
-            {
-                "anno": 2023,
-                "visitatori": 175641
-            }
-        ]
+        "2021": 75353,
+        "2022": 145187,
+        "2023": 175641
     }
 }

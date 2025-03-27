@@ -1,57 +1,57 @@
 {
     "valore_economico_attratto_2023": {
         "unita_di_misura": "mln",
-        "dati": [
+        "voci": [
             {
-                "voce": "Contribuzione studentesca",
-                "valore_2023": 132,
+                "nome": "Contribuzione studentesca",
+                "valore": 132,
                 "percentuale": "14%"
             },
             {
-                "voce": "Contributi dallo Stato",
-                "valore_2023": 639,
+                "nome": "Contributi dallo Stato",
+                "valore": 639,
                 "percentuale": "67%",
                 "dettagli": [
                     {
-                        "voce": "di cui FFO",
-                        "valore_2023": 516,
+                        "nome": "di cui FFO",
+                        "valore": 516,
                         "percentuale": "54%"
                     }
                 ]
             },
             {
-                "voce": "Contributi dalle Regioni",
-                "valore_2023": 5,
+                "nome": "Contributi dalle Regioni",
+                "valore": 5,
                 "percentuale": "1%"
             },
             {
-                "voce": "Contributi da UE e resto del mondo",
-                "valore_2023": 8,
+                "nome": "Contributi da UE e resto del mondo",
+                "valore": 8,
                 "percentuale": "1%"
             },
             {
-                "voce": "Contributi da altri soggetti",
-                "valore_2023": 37,
+                "nome": "Contributi da altri soggetti",
+                "valore": 37,
                 "percentuale": "4%"
             },
             {
-                "voce": "Proventi da ricerche commissionate e trasferimento tecnologico",
-                "valore_2023": 14,
+                "nome": "Proventi da ricerche commissionate e trasferimento tecnologico",
+                "valore": 14,
                 "percentuale": "1%"
             },
             {
-                "voce": "Proventi di ricerca",
-                "valore_2023": 95,
+                "nome": "Proventi di ricerca",
+                "valore": 95,
                 "percentuale": "10%"
             },
             {
-                "voce": "Altri proventi",
-                "valore_2023": 27,
+                "nome": "Altri proventi",
+                "valore": 27,
                 "percentuale": "3%"
             },
             {
-                "voce": "Totale",
-                "valore_2023": 957,
+                "nome": "Totale",
+                "valore": 957,
                 "percentuale": "100%"
             }
         ]

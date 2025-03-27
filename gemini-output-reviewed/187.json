@@ -22,47 +22,45 @@
             }
         ]
     },
-    "indicatori_strategia_energetica": {
-        "indicatori": [
-            {
-                "nome": "STLR",
-                "descrizione": "Superficie interna lorda allacciata alla rete di riscaldamento urbano (Indicatore Piano Strategico)",
-                "unita_di_misura": "m²",
-                "2022": 375933,
-                "2023": 375933
-            },
-            {
-                "nome": "CESg",
-                "descrizione": "Consumo specifico di energia elettrica per unità di superficie netta servita (Indicatore Piano Strategico)",
-                "unita_di_misura": "litri/anno/m²",
-                "2022": 6.51,
-                "2023": 6.39
-            },
-            {
-                "nome": "PFV",
-                "descrizione": "Potenza di picco di impianti fotovoltaici operanti in autoconsumo (Indicatore Piano Strategico)",
-                "unita_di_misura": "MWp",
-                "2022": 1.51,
-                "2023": 1.51
-            },
-            {
-                "nome": "%FV",
-                "descrizione": "Percentuale di energia elettrica autoprodotta rispetto all'energia elettrica consumata su base annuale",
-                "2022": 2.92,
-                "2023": 2.66
-            },
-            {
-                "nome": "QRel",
-                "descrizione": "Quota percentuale di energia elettrica prodotta da rinnovabile consumata annualmente",
-                "2022": 19.42,
-                "2023": 19.42
-            },
-            {
-                "nome": "QRth",
-                "descrizione": "Quota percentuale di energia termica prodotta da rinnovabile consumata annualmente",
-                "2022": 2.88,
-                "2023": 2.28 
-            }
-        ]
-    }
+    "indicatori_strategia_energetica": [
+        {
+            "nome": "STLR",
+            "descrizione": "Superficie interna lorda allacciata alla rete di riscaldamento urbano (Indicatore Piano Strategico)",
+            "unita_di_misura": "m²",
+            "2022": 375933,
+            "2023": 375933
+        },
+        {
+            "nome": "CESg",
+            "descrizione": "Consumo specifico di energia elettrica per unità di superficie netta servita (Indicatore Piano Strategico)",
+            "unita_di_misura": "litri/anno/m²",
+            "2022": 6.51,
+            "2023": 6.39
+        },
+        {
+            "nome": "PFV",
+            "descrizione": "Potenza di picco di impianti fotovoltaici operanti in autoconsumo (Indicatore Piano Strategico)",
+            "unita_di_misura": "MWp",
+            "2022": 1.51,
+            "2023": 1.51
+        },
+        {
+            "nome": "%FV",
+            "descrizione": "Percentuale di energia elettrica autoprodotta rispetto all'energia elettrica consumata su base annuale",
+            "2022": 2.92,
+            "2023": 2.66
+        },
+        {
+            "nome": "QRel",
+            "descrizione": "Quota percentuale di energia elettrica prodotta da rinnovabile consumata annualmente",
+            "2022": 19.42,
+            "2023": 19.42
+        },
+        {
+            "nome": "QRth",
+            "descrizione": "Quota percentuale di energia termica prodotta da rinnovabile consumata annualmente",
+            "2022": 2.88,
+            "2023": 2.28 
+        }
+    ]
 }

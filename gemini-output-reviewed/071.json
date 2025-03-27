@@ -1,8 +1,6 @@
 {
     "servizi_abitativi": {
-        "numero_studentati_gestiti": {
-            "valore": 29
-        },
+        "numero_studentati_gestiti": 29,
         "distribuzione_studentati": [
             {
                 "citta": "Bologna",
@@ -34,10 +32,7 @@
         }
     },
     "miglioramento_condizioni_vita_studio": {
-        "budget_2023": {
-            "valore": 350000,
-            "unita_di_misura": "euro"
-        },
+        "budget_2023": 350000,
         "domande_ricevute_2023": 1200,
         "distribuzione_bologna_2023": 1015,
         "distribuzione_campus_romagna_2023": 185,

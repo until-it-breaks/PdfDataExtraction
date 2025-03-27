@@ -2,22 +2,16 @@
     "valore_economico": {
         "valore_attratto": {
             "valore": 957,
-            "unita_di_misura": "mln €",
-            "descrizione": "VALORE ECONOMICO ATTRATTO"
+            "unita_di_misura": "mln €"
         },
         "valore_distribuito": {
             "valore": 805,
-            "unita_di_misura": "mln €",
-            "descrizione": "VALORE ECONOMICO DISTRIBUITO"
+            "unita_di_misura": "mln €"
         },
-        "acquisti_verdi": {
-            "percentuale": "17%",
-            "descrizione": "ACQUISTI VERDI"
-        },
+        "percentuale_acquisti_verdi": "17%",
         "5x1000": {
             "valore": 366795,
-            "unita_di_misura": "€",
-            "descrizione": "5X1000"
+            "unita_di_misura": "€"
         }
     }
 }

@@ -1,25 +1,12 @@
 {
-    "borse_di_studio": [
-        {
-            "anno_accademico": "2022/2023",
-            "studenti_beneficiari": 13180
+    "borse_di_studio_e_agevolazioni": {
+        "studenti_beneficiari_2022_2023": 13180,
+        "borse_studio_collaborazioni_studentesche": {
+            "importo_massimo": 1125,
+            "borse_disponibili": 2202
         },
-        {
-            "borse_studio_collaborazioni_studentesche": {
-                "ore": 150,
-                "importo_massimo": {
-                    "valore": 1125,
-                    "unita_di_misura": "€"
-                },
-                "anno_accademico": "2022/2023",
-                "borse_disponibili": 2202
-            }
-        },
-        {
-            "intervento_alluvione": {
-                "anno_accademico": "2022/2023",
-                "studenti_beneficiari": 553
-            }
+        "intervento_alluvione": {
+            "studenti_beneficiari": 553
         }
-    ]
+    }
 }

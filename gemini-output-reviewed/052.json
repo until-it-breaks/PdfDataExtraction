@@ -26,7 +26,7 @@
                 "laureati_intervistati": 32752
             },
             {
-                "anni": "2021 2022",
+                "anni": "2022",
                 "ateneo": "Unibo",
                 "occupati": "39,7%",
                 "non_occupati_in_formazione": "53,0%",
@@ -34,7 +34,7 @@
                 "laureati_intervistati": 6838
             },
             {
-                "anni": "2021 2022",
+                "anni": "2021",
                 "ateneo": "Unibo",
                 "occupati": "35,9%",
                 "non_occupati_in_formazione": "56,8%",
@@ -44,7 +44,7 @@
         ],
         "laurea_magistrale": [
             {
-                "anno": 2023,
+                "anno": "2023",
                 "ateneo": "Unibo",
                 "occupati": "78,3%",
                 "non_occupati_in_formazione": "3,3%",
@@ -52,15 +52,15 @@
                 "laureati_intervistati": 5181
             },
             {
-                "anno": 2023,
-                "ateneo": "Italia*",
+                "anno": "2023",
+                "ateneo": "Italia",
                 "occupati": "77,1%",
                 "non_occupati_in_formazione": "4,1%",
                 "ne_occupati_ne_in_formazione": "18,8%",
                 "laureati_intervistati": 67593
             },
             {
-                "anno": 2023,
+                "anno": "2023",
                 "ateneo": "Grandi Atenei",
                 "occupati": "77,3%",
                 "non_occupati_in_formazione": "4,2%",
@@ -68,7 +68,7 @@
                 "laureati_intervistati": 22264
             },
             {
-                "anno": 2022,
+                "anno": "2022",
                 "ateneo": "Unibo",
                 "occupati": "79,5%",
                 "non_occupati_in_formazione": "3,6%",
@@ -76,7 +76,7 @@
                 "laureati_intervistati": 5189
             },
             {
-                "anno": 2022,
+                "anno": "2021",
                 "ateneo": "Unibo",
                 "occupati": "75,6%",
                 "non_occupati_in_formazione": "4,5%",
@@ -86,7 +86,7 @@
         ],
         "laurea_magistrale_ciclo_unico": [
             {
-                "anno": 2023,
+                "anno": "2023",
                 "ateneo": "Unibo",
                 "occupati": "73,8%",
                 "non_occupati_in_formazione": "13,3%",
@@ -94,7 +94,7 @@
                 "laureati_intervistati": 1279
             },
             {
-                "anno": 2023,
+                "anno": "2023",
                 "ateneo": "Italia",
                 "occupati": "74,2%",
                 "non_occupati_in_formazione": "11,7%",
@@ -102,15 +102,15 @@
                 "laureati_intervistati": 22806
             },
             {
-                "anno": 2023,
-                "ateneo": "Grandi Atenei*",
+                "anno": "2023",
+                "ateneo": "Grandi Atenei",
                 "occupati": "75,7%",
                 "non_occupati_in_formazione": "11,2%",
                 "ne_occupati_ne_in_formazione": "13,1%",
                 "laureati_intervistati": 6737
             },
             {
-                "anno": 2022,
+                "anno": "2022",
                 "ateneo": "Unibo",
                 "occupati": "76,9%",
                 "non_occupati_in_formazione": "12,9%",
@@ -118,7 +118,7 @@
                 "laureati_intervistati": 1366
             },
             {
-                "anno": 2022,
+                "anno": "2021",
                 "ateneo": "Unibo",
                 "occupati": "69,5%",
                 "non_occupati_in_formazione": "16,0%",

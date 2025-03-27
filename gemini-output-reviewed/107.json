@@ -1,30 +1,30 @@
 {
     "mobilita_in_uscita": {
-        "dottorandi_outgoing_con_almeno_30gg_di_mobilita_nell_anno": [
+        "dottorandi_outgoing_con_almeno_30gg_di_mobilita": [
             {
-                "anno": 2021,
+                "anno": "2021",
                 "numero_dottorandi": 386
             },
             {
-                "anno": 2022,
+                "anno": "2022",
                 "numero_dottorandi": 623
             },
             {
-                "anno": 2023,
+                "anno": "2023",
                 "numero_dottorandi": 701
             }
         ],
-        "docenti_outgoing_nell_anno": [
+        "docenti_outgoing": [
             {
-                "anno": 2021,
+                "anno": "2021",
                 "numero_docenti": 1232
             },
             {
-                "anno": 2022,
+                "anno": "2022",
                 "numero_docenti": 4453
             },
             {
-                "anno": 2023,
+                "anno": "2023",
                 "numero_docenti": 5994
             }
         ]

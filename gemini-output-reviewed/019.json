@@ -1,78 +1,76 @@
 {
-    "numero_personale_ta_per_area": {
-        "dati": [
-            {
-                "area": "ACCE - Area di Campus Cesena",
-                "numero": 81
-            },
-            {
-                "area": "ACFO - Area di Campus Forlì",
-                "numero": 103
-            },
-            {
-                "area": "ACRA - Area di Campus Ravenna",
-                "numero": 59
-            },
-            {
-                "area": "ACRN - Area di Campus Rimini",
-                "numero": 81
-            },
-            {
-                "area": "APOS - Area del Personale",
-                "numero": 141
-            },
-            {
-                "area": "APAT - Area del Patrimonio",
-                "numero": 73
-            },
-            {
-                "area": "ARAG - Area Finanza e Contabilità",
-                "numero": 93
-            },
-            {
-                "area": "ATES - Area Tecnica, Edilizia e Sostenibilità",
-                "numero": 166
-            },
-            {
-                "area": "ARPAC - Area Patrimonio Culturale",
-                "numero": 171
-            },
-            {
-                "area": "APAP - Area Appalti e Approvvigionamenti",
-                "numero": 44
-            },
-            {
-                "area": "SAM - Service Area Medica",
-                "numero": 169
-            },
-            {
-                "area": "AFORM - Area Formazione e Dottorato",
-                "numero": 263
-            },
-            {
-                "area": "ASES - Area Servizi Studenti",
-                "numero": 105
-            },
-            {
-                "area": "ARIN - Area Innovazione",
-                "numero": 122
-            },
-            {
-                "area": "APPC - Area Pianificazione, Programmazione e Comunicazione",
-                "numero": 78
-            },
-            {
-                "area": "CESIA - Area Sistemi e Servizi Informatici",
-                "numero": 157
-            },
-            {
-                "area": "ARIC - Area Ricerca",
-                "numero": 69
-            },
-            {
-                "area": "SSRD - Staff Rettore e Direttore Generale",
-                "numero": 74
-            }
-        ]
-    }
+    "numero_personale_ta_per_area": [
+        {
+            "area": "ACCE - Area di Campus Cesena",
+            "numero": 81
+        },
+        {
+            "area": "ACFO - Area di Campus Forlì",
+            "numero": 103
+        },
+        {
+            "area": "ACRA - Area di Campus Ravenna",
+            "numero": 59
+        },
+        {
+            "area": "ACRN - Area di Campus Rimini",
+            "numero": 81
+        },
+        {
+            "area": "APOS - Area del Personale",
+            "numero": 141
+        },
+        {
+            "area": "APAT - Area del Patrimonio",
+            "numero": 73
+        },
+        {
+            "area": "ARAG - Area Finanza e Contabilità",
+            "numero": 93
+        },
+        {
+            "area": "ATES - Area Tecnica, Edilizia e Sostenibilità",
+            "numero": 166
+        },
+        {
+            "area": "ARPAC - Area Patrimonio Culturale",
+            "numero": 171
+        },
+        {
+            "area": "APAP - Area Appalti e Approvvigionamenti",
+            "numero": 44
+        },
+        {
+            "area": "SAM - Service Area Medica",
+            "numero": 169
+        },
+        {
+            "area": "AFORM - Area Formazione e Dottorato",
+            "numero": 263
+        },
+        {
+            "area": "ASES - Area Servizi Studenti",
+            "numero": 105
+        },
+        {
+            "area": "ARIN - Area Innovazione",
+            "numero": 122
+        },
+        {
+            "area": "APPC - Area Pianificazione, Programmazione e Comunicazione",
+            "numero": 78
+        },
+        {
+            "area": "CESIA - Area Sistemi e Servizi Informatici",
+            "numero": 157
+        },
+        {
+            "area": "ARIC - Area Ricerca",
+            "numero": 69
+        },
+        {
+            "area": "SSRD - Staff Rettore e Direttore Generale",
+            "numero": 74
+        }
+    ]
 }

@@ -4,16 +4,12 @@
             "valore": 8443,
             "unita_di_misura": "mq"
         },
-        "insegnamenti_tematiche_ambientali": {
-            "valore": 1975
-        },
+        "insegnamenti_tematiche_ambientali": 1975,
         "energia_fonti_rinnovabili": {
             "valore": 1103885,
             "unita_di_misura": "kWh"
         },
-        "abbonamenti_agevolati": {
-            "valore": 20369
-        },
+        "abbonamenti_agevolati": 20369,
         "spesa_abbonamenti_agevolati": {
             "valore": 1305000,
             "unita_di_misura": "€"

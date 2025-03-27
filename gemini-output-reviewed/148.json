@@ -1,10 +1,8 @@
 {
     "contratti_di_ricerca_con_aziende": {
-        "totale_contratti": {
-            "numero_contratti": 86,
-            "importo": 2330000,
-            "unita_di_misura": "euro"
-        }
+        "numero_contratti": 86,
+        "importo": 2330000,
+        "unita_di_misura": "euro"
     },
     "proprieta_intellettuale_e_brevetti": {
         "totale_brevetti": 840,
@@ -16,6 +14,6 @@
         "risultati_di_ricerca_in_gestione": 15,
         "accordi_di_valorizzazione_gestione_ricerca": 3,
         "finanziamento_alma_value_for_rr": 480000,
-        "unita_di_misura_finanziamento_alma_value_for_rr": "Euro"
+        "unita_di_misura_finanziamento": "euro"
     }
 }

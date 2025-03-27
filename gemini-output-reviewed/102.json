@@ -1,6 +1,7 @@
 {
     "soddisfazione_attivita_formative_strutturate": {
-        "scala": "0-10",
+        "min": 0,
+        "max": 10,
         "dati": [
             {
                 "categoria": "Competenza del supervisore su argomento tesi",
@@ -37,7 +38,8 @@
         ]
     },
     "soddisfazione_esperienza_dottorato": {
-        "scala": "0-10",
+        "min": 0,
+        "max": 10,
         "dati": [
             {
                 "categoria": "Competenza dei docenti",

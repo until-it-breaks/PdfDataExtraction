@@ -1,61 +1,59 @@
 {
-    "distribuzione_personale_per_genere": {
-        "categorie": [
-            {
-                "tipo": "Personale Docente Ordinario",
-                "percentuale_donne": "30%",
-                "percentuale_uomini": "70%"
-            },
-            {
-                "tipo": "Personale Docente Associato",
-                "percentuale_donne": "45%",
-                "percentuale_uomini": "55%"
-            },
-            {
-                "tipo": "Personale Ricercatore",
-                "percentuale_donne": "44%",
-                "percentuale_uomini": "56%"
-            },
-            {
-                "tipo": "Docenti a contratto",
-                "percentuale_donne": "44%",
-                "percentuale_uomini": "56%"
-            },
-            {
-                "tipo": "Tutor",
-                "percentuale_donne": "50%",
-                "percentuale_uomini": "50%"
-            },
-            {
-                "tipo": "Dirigenti",
-                "percentuale_donne": "61%",
-                "percentuale_uomini": "39%"
-            },
-            {
-                "tipo": "Personale TA Cat. EP",
-                "percentuale_donne": "63%",
-                "percentuale_uomini": "37%"
-            },
-            {
-                "tipo": "Personale TA Cat. D",
-                "percentuale_donne": "67%",
-                "percentuale_uomini": "33%"
-            },
-            {
-                "tipo": "Personale TA Cat. C",
-                "percentuale_donne": "66%",
-                "percentuale_uomini": "34%"
-            },
-            {
-                "tipo": "Personale TA Cat. B",
-                "percentuale_donne": "56%",
-                "percentuale_uomini": "44%"
-            },
-            {
-                "tipo": "Totale",
-                "percentuale_donne": "53%",
-                "percentuale_uomini": "47%"
-            }
-        ]
-    }
+    "distribuzione_personale_per_genere": [
+        {
+            "tipo": "Personale Docente Ordinario",
+            "percentuale_donne": "30%",
+            "percentuale_uomini": "70%"
+        },
+        {
+            "tipo": "Personale Docente Associato",
+            "percentuale_donne": "45%",
+            "percentuale_uomini": "55%"
+        },
+        {
+            "tipo": "Personale Ricercatore",
+            "percentuale_donne": "44%",
+            "percentuale_uomini": "56%"
+        },
+        {
+            "tipo": "Docenti a contratto",
+            "percentuale_donne": "44%",
+            "percentuale_uomini": "56%"
+        },
+        {
+            "tipo": "Tutor",
+            "percentuale_donne": "50%",
+            "percentuale_uomini": "50%"
+        },
+        {
+            "tipo": "Dirigenti",
+            "percentuale_donne": "61%",
+            "percentuale_uomini": "39%"
+        },
+        {
+            "tipo": "Personale TA Cat. EP",
+            "percentuale_donne": "63%",
+            "percentuale_uomini": "37%"
+        },
+        {
+            "tipo": "Personale TA Cat. D",
+            "percentuale_donne": "67%",
+            "percentuale_uomini": "33%"
+        },
+        {
+            "tipo": "Personale TA Cat. C",
+            "percentuale_donne": "66%",
+            "percentuale_uomini": "34%"
+        },
+        {
+            "tipo": "Personale TA Cat. B",
+            "percentuale_donne": "56%",
+            "percentuale_uomini": "44%"
+        },
+        {
+            "tipo": "Totale",
+            "percentuale_donne": "53%",
+            "percentuale_uomini": "47%"
+        }
+    ]
 }

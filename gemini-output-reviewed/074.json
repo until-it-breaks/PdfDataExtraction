@@ -1,12 +1,12 @@
 {
     "orientamento_in_itinere": {
         "2023": {
-            "corsi_di_laurea_primo_ciclo": 118,
+            "corsi_coinvolti": 118,
             "questionari_somministrati": 20222
         },
         "2022": {
             "corsi_coinvolti": 65,
-            "questionari_coinvolti": 12765
+            "questionari_somministrati": 12765
         }
     }
 }

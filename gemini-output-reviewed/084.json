@@ -3,27 +3,27 @@
         "ripartizione_fondi_per_missione": [
             {
                 "missione": "M1. DIGITALIZZAZIONE, INNOVAZIONE, COMPETITIVITÀ, CULTURA E TURISMO",
-                "percentuale": "40,73"
+                "percentuale": "40,73%"
             },
             {
                 "missione": "M2. RIVOLUZIONE VERDE E TRANSIZIONE ECOLOGICA",
-                "percentuale": "59,33"
+                "percentuale": "59,33%"
             },
             {
                 "missione": "M3. INFRASTRUTTURE PER UNA MOBILITÀ SOSTENIBILE",
-                "percentuale": "25,13"
+                "percentuale": "25,13%"
             },
             {
                 "missione": "M4. ISTRUZIONE E RICERCA",
-                "percentuale": "30,88"
+                "percentuale": "30,88%"
             },
             {
                 "missione": "M5. INCLUSIONE E COESIONE",
-                "percentuale": "19,81"
+                "percentuale": "19,81%"
             },
             {
                 "missione": "M6. SALUTE",
-                "percentuale": "15,63"
+                "percentuale": "15,63%"
             }
         ],
         "totale_fondi_pnrr": {

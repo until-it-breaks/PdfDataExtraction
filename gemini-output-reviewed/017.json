@@ -1,29 +1,29 @@
 {
-    "costi_per_ambito_strategico": {
+    "costi_per_nome_strategico": {
         "unita_di_misura": "mln di euro",
-        "dati": [
+        "ambiti": [
             {
-                "ambito": "Persone (stipendi)",
+                "nome": "Persone (stipendi)",
                 "percentuale": "38%"
             },
             {
-                "ambito": "Persone",
+                "nome": "Persone",
                 "percentuale": "18%"
             },
             {
-                "ambito": "Ricerca",
+                "nome": "Ricerca",
                 "percentuale": "19%"
             },
             {
-                "ambito": "Didattica e comunità studentesca",
+                "nome": "Didattica e comunità studentesca",
                 "percentuale": "17%"
             },
             {
-                "ambito": "Società",
+                "nome": "Società",
                 "percentuale": "7%"
             },
             {
-                "ambito": "Generali",
+                "nome": "Generali",
                 "percentuale": "1%"
             }
         ],

@@ -1,34 +1,34 @@
 {
     "ranking_universitario": [
         {
-            "nome": "QS WORLD UNIVERSITY RANKING",
+            "nome": "QS World University Ranking",
             "posizione_italia": 3,
             "posizione_mondo": 154
         },
         {
-            "nome": "TIMES HIGHER EDUCATION WORLD RANKING",
+            "nome": "Times Higher Education World Ranking",
             "posizione_italia": 1,
             "posizione_mondo": 155
         },
         {
-            "nome": "QS SUSTAINABILITY",
+            "nome": "QS Sustainability",
             "posizione_italia": 1,
             "posizione_mondo": 108
         },
         {
-            "nome": "THE IMPACT SDGs 5 UN 2030 (UGUAGLIANZA DI GENERE)",
+            "nome": "The Impact SDGs 5 UN 2030 (Uguaglianza Di Genere)",
             "posizione_italia": 1,
             "posizione_mondo": 2
         },
         {
-            "nome": "GREEN METRIC",
+            "nome": "Green Metric",
             "posizione_italia": 1,
             "posizione_mondo": 12
         },
         {
-            "nome": "CENSIS",
+            "nome": "Censis",
             "posizione_italia": 1,
-            "commento": "MEGA ATENEI"
+            "commento": "Mega Atenei"
         }
     ],
     "strutture": {

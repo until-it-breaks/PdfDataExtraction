@@ -2,37 +2,33 @@
     "patrimonio_edilizio": {
         "copertura_fabbricati": {
             "valore": 1242920,
-            "unita_di_misura": "mq",
-            "descrizione": "COPERTURA FABBRICATI (ESCLUSI SPAZI ESTERNI)"
+            "unita_di_misura": "mq"
         },
         "copertura_terreni": {
             "valore": 550,
-            "unita_di_misura": "ETTARI",
-            "descrizione": "COPERTURA TERRENI"
+            "unita_di_misura": "ettari"
         },
-        "distribuzione_territoriale": {
-            "sedi": [
-                {
-                    "sede": "Bologna",
-                    "percentuale": "84,3%"
-                },
-                {
-                    "sede": "Forlì",
-                    "percentuale": "5,6%"
-                },
-                {
-                    "sede": "Cesena",
-                    "percentuale": "4,7%"
-                },
-                {
-                    "sede": "Rimini",
-                    "percentuale": "2,8%"
-                },
-                {
-                    "sede": "Ravenna",
-                    "percentuale": "2,6%"
-                }
-            ]
-        }
+        "distribuzione_territoriale": [
+            {
+                "sede": "Bologna",
+                "percentuale": "84,3%"
+            },
+            {
+                "sede": "Forlì",
+                "percentuale": "5,6%"
+            },
+            {
+                "sede": "Cesena",
+                "percentuale": "4,7%"
+            },
+            {
+                "sede": "Rimini",
+                "percentuale": "2,8%"
+            },
+            {
+                "sede": "Ravenna",
+                "percentuale": "2,6%"
+            }
+        ]
     }
 }

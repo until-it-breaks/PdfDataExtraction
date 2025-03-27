@@ -1,56 +1,54 @@
 {
-    "milestone_piano_energetico": {
-        "attivita": [
-            {
-                "nome": "Dismissione gasolio e olio combustibile",
-                "anno_inizio": 2023,
-                "anno_fine": 2025
-            },
-            {
-                "nome": "Sostituzione totale illuminazioni tradizionali aree esterne",
-                "anno_inizio": 2023,
-                "anno_fine": 2025
-            },
-            {
-                "nome": "Sostituzione totale illuminazioni tradizionali aree interne",
-                "anno_inizio": 2023,
-                "anno_fine": 2026
-            },
-            {
-                "nome": "Nuovi impianti fotovoltaici",
-                "anno_inizio": 2023,
-                "anno_fine": 2027
-            },
-            {
-                "nome": "Certificazione UNI ENI ISO 50001",
-                "anno_inizio": 2023,
-                "anno_fine": 2027
-            },
-            {
-                "nome": "Registrazione impianti termici al Catasto regionale",
-                "anno_inizio": 2023,
-                "anno_fine": 2027
-            },
-            {
-                "nome": "Nuovi interventi di efficientamento edifici",
-                "anno_inizio": 2026,
-                "anno_fine": 2030
-            },
-            {
-                "nome": "Efficientamento impianti fotovoltaici",
-                "anno_inizio": 2027,
-                "anno_fine": 2029
-            },
-            {
-                "nome": "Completamento rete BMS",
-                "anno_inizio": 2023,
-                "anno_fine": 2030
-            },
-            {
-                "nome": "Sostituzione caldaie con pompe di calore",
-                "anno_inizio": 2027,
-                "anno_fine": 2030
-            }
-        ]
-    }
+    "milestone_piano_energetico": [
+        {
+            "attivita": "Dismissione gasolio e olio combustibile",
+            "anno_inizio": 2023,
+            "anno_fine": 2025
+        },
+        {
+            "attivita": "Sostituzione totale illuminazioni tradizionali aree esterne",
+            "anno_inizio": 2023,
+            "anno_fine": 2025
+        },
+        {
+            "attivita": "Sostituzione totale illuminazioni tradizionali aree interne",
+            "anno_inizio": 2023,
+            "anno_fine": 2026
+        },
+        {
+            "attivita": "Nuovi impianti fotovoltaici",
+            "anno_inizio": 2023,
+            "anno_fine": 2027
+        },
+        {
+            "attivita": "Certificazione UNI ENI ISO 50001",
+            "anno_inizio": 2023,
+            "anno_fine": 2027
+        },
+        {
+            "attivita": "Registrazione impianti termici al Catasto regionale",
+            "anno_inizio": 2023,
+            "anno_fine": 2027
+        },
+        {
+            "attivita": "Nuovi interventi di efficientamento edifici",
+            "anno_inizio": 2026,
+            "anno_fine": 2030
+        },
+        {
+            "attivita": "Efficientamento impianti fotovoltaici",
+            "anno_inizio": 2027,
+            "anno_fine": 2029
+        },
+        {
+            "attivita": "Completamento rete BMS",
+            "anno_inizio": 2023,
+            "anno_fine": 2030
+        },
+        {
+            "attivita": "Sostituzione caldaie con pompe di calore",
+            "anno_inizio": 2027,
+            "anno_fine": 2030
+        }
+    ]
 }

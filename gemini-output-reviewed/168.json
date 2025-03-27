@@ -5,19 +5,19 @@
             "composizione": [
                 {
                     "tipo": "Libri",
-                    "valore": 3315448
+                    "numero": 3315448
                 },
                 {
                     "tipo": "Annate di periodici",
-                    "valore": 1141277
+                    "numero": 1141277
                 },
                 {
                     "tipo": "Altro materiale documentario",
-                    "valore": 40307
+                    "numero": 40307
                 },
                 {
                     "tipo": "Materiale su supporto fisico non cartaceo",
-                    "valore": 40327
+                    "numero": 40327
                 }
             ]
         },
@@ -26,15 +26,15 @@
             "composizione": [
                 {
                     "tipo": "Libri elettronici (e-book)",
-                    "valore": 799000
+                    "numero": 799000
                 },
                 {
                     "tipo": "Periodici online",
-                    "valore": 71600
+                    "numero": 71600
                 },
                 {
                     "tipo": "Banche dati",
-                    "valore": 380
+                    "numero": 380
                 }
             ]
         },
@@ -43,20 +43,20 @@
             "composizione": [
                 {
                     "tipo": "Prestiti e rinnovi",
-                    "valore": 197624
+                    "numero": 197624
                 },
                 {
                     "tipo": "Prestiti interbibliotecari",
-                    "valore": 10133
+                    "numero": 10133
                 },
                 {
                     "tipo": "Articoli Inviati/Ricevuti",
-                    "valore": 20901
+                    "numero": 20901
                 }
             ]
         },
         "abbonamenti_a_periodici_cartacei": {
-            "valore": 5180
+            "numero": 5180
         }
     }
 }

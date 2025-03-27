@@ -1,27 +1,20 @@
 {
-    "numerosita_enti_partecipati": {
-        "dati": [
-            {
-                "categoria": "Fondazioni",
-                "valore": 67
-            },
-            {
-                "categoria": "Centri Interuniversitari",
-                "valore": 47
-            },
-            {
-                "categoria": "Società",
-                "valore": 9
-            },
-            {
-                "categoria": "Consorzi",
-                "valore": 38
-            }
-        ]
-    },
-    "dettagli_enti": {
-        "societa": "3 sono state costituite in relazione ai finanziamenti del PNRR",
-        "consorzi": "32 sono Interuniversitari e 6 sono costituiti dall'Università con soggetti privati",
-        "fondazioni": "Tra le 67 Fondazioni attive, una è in-house all'Università, 2 presentano un Consiglio di Amministrazione coincidente con quello dell'Università, 3 sono partecipate da Enti Pubblici e 17 sono state costituite in relazione ai finanziamenti del PNRR e del PNC"
-    }
+    "numerosita_enti_partecipati": [
+        {
+            "categoria": "Fondazioni",
+            "valore": 67
+        },
+        {
+            "categoria": "Centri Interuniversitari",
+            "valore": 47
+        },
+        {
+            "categoria": "Società",
+            "valore": 9
+        },
+        {
+            "categoria": "Consorzi",
+            "valore": 38
+        }
+    ]
 }

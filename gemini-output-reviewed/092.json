@@ -1,58 +1,54 @@
 {
-    "ripartizione_voci_budget_pnrr_e_pnc": {
-        "dati": [
-            {
-                "voce": "Attrezzature",
-                "valore": "16,9%"
-            },
-            {
-                "voce": "Licenze, Materiali e Servizi",
-                "valore": "3,1%"
-            },
-            {
-                "voce": "Edilizia e Impianti",
-                "valore": "3,5%"
-            },
-            {
-                "voce": "Altri Costi per la Ricerca",
-                "valore": "10,1%"
-            },
-            {
-                "voce": "Personale Strutturato",
-                "valore": "18,4%"
-            },
-            {
-                "voce": "Nuovo Personale",
-                "valore": "21,2%"
-            },
-            {
-                "voce": "Overheads",
-                "valore": "5,4%"
-            },
-            {
-                "voce": "Open Call",
-                "valore": "21,5%"
-            }
-        ]
-    },
-    "composizione_nuovo_personale": {
-        "dati": [
-            {
-                "tipo": "RTDA",
-                "valore": "51,3%"
-            },
-            {
-                "tipo": "ADR",
-                "valore": "20,7%"
-            },
-            {
-                "tipo": "PhD",
-                "valore": "20,5%"
-            },
-            {
-                "tipo": "TA",
-                "valore": "7,4%"
-            }
-        ]
-    }
+    "ripartizione_voci_budget_pnrr_e_pnc": [
+        {
+            "voce": "Attrezzature",
+            "valore": "16,9%"
+        },
+        {
+            "voce": "Licenze/Materiali/Servizi",
+            "valore": "3,1%"
+        },
+        {
+            "voce": "Edilizia e Impianti",
+            "valore": "3,5%"
+        },
+        {
+            "voce": "Altri Costi per la Ricerca",
+            "valore": "10,1%"
+        },
+        {
+            "voce": "Personale Strutturato",
+            "valore": "18,4%"
+        },
+        {
+            "voce": "Nuovo Personale",
+            "valore": "21,2%"
+        },
+        {
+            "voce": "Overheads",
+            "valore": "5,4%"
+        },
+        {
+            "voce": "Open Call",
+            "valore": "21,5%"
+        }
+    ],
+    "composizione_nuovo_personale": [
+        {
+            "tipo": "RTDa",
+            "valore": "51,3%"
+        },
+        {
+            "tipo": "AdR",
+            "valore": "20,7%"
+        },
+        {
+            "tipo": "PhD",
+            "valore": "20,5%"
+        },
+        {
+            "tipo": "TA",
+            "valore": "7,4%"
+        }
+    ]
 }

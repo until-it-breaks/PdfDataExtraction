@@ -1,15 +1,15 @@
 {
     "soddisfazione_studenti_dsa": {
-        "anno": 2023,
+        "anno": "2023",
         "valore_medio": 4.03,
         "scala": "1-5"
     },
     "carriere_alias": {
-        "anno": 2023,
+        "anno": "2023",
         "numero_attivazioni": 75
     },
     "servizi_per_lo_studio": {
-        "dati": [
+        "sale_studio": [
             {
                 "citta": "Bologna",
                 "numero_sale_studio": 16

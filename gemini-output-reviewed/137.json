@@ -1,49 +1,44 @@
 {
     "inclusione_e_tutela": {
-        "dipendenti_con_disabilita": {
-            "anno": 2023,
-            "numero": 196
-        }
-    },
-    "consigliera_di_fiducia": {
-        "persone_assistite": {
-            "anno": 2023,
-            "numero": 75,
-            "distribuzione": [
-                {
-                    "categoria": "docenti",
-                    "percentuale": "56%"
-                },
-                {
-                    "categoria": "personale TA",
-                    "percentuale": "27%"
-                },
-                {
-                    "categoria": "studenti",
-                    "percentuale": "17%"
-                }
-            ]
+        "dipendenti_con_disabilita_2023": 196,
+        "consigliera_di_fiducia": {
+            "persone_assistite_2023": {
+                "numero": 75,
+                "distribuzione": [
+                    {
+                        "categoria": "Docenti",
+                        "percentuale": "56%"
+                    },
+                    {
+                        "categoria": "Personale TA",
+                        "percentuale": "27%"
+                    },
+                    {
+                        "categoria": "Studenti",
+                        "percentuale": "17%"
+                    }
+                ]
+            }
         }
     },
     "supporto_psicologico": {
         "ore_di_supporto": {
             "periodo": "dal 6 ottobre 2022 al 6 ottobre 2023",
-            "numero": 640,
-            "unita_di_misura": "ore"
+            "numero": 640
         },
         "richieste_di_supporto": {
             "numero": 443,
             "suddivisione": [
                 {
-                    "categoria": "personale tecnico-amministrativo",
+                    "categoria": "Personale tecnico-amministrativo",
                     "numero": 222
                 },
                 {
-                    "categoria": "docenti e ricercatori",
+                    "categoria": "Docenti e ricercatori",
                     "numero": 98
                 },
                 {
-                    "categoria": "assegnisti di ricerca",
+                    "categoria": "Assegnisti di ricerca",
                     "numero": 53
                 }
             ],

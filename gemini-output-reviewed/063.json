@@ -1,12 +1,10 @@
 {
     "didattica_in_ambito_clinico": {
-        "studenti_coinvolti": {
+        "studenti_coinvolti_ssn": {
             "medicina_e_chirurgia": 4000,
             "professioni_sanitarie": 2700
         },
-        "personale_convenzionato": {
-            "unita": 383
-        },
+        "personale_convenzionato_ssr": 383,
         "medici_in_formazione_specialistica": {
             "numero_complessivo": 2401,
             "scuole_accreditate": 45,

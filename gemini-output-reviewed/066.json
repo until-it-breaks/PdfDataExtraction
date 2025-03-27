@@ -1,7 +1,8 @@
 {
-    "soglia_isee_no_tax_area_2023_2024": {
-        "valore": 27000,
-        "unita_di_misura": "euro"
+    "no_tax_area": {
+        "soglia_isee": 27000
     },
-    "numero_beneficiari_2023_2024": 2044
+    "flat_tax": {
+        "numero_beneficiari_2023_2024": 2044
+    }
 }

@@ -26,24 +26,12 @@
         }
     ],
     "newsletter_istituzionali_esterne": {
-        "newsletter_inviate": 19
+        "newsletter_inviate": 19,
+        "iscritti": 5000
     },
-    "unibocultura": [
-        {
-            "attivita": "Visite Guidate Organizzate",
-            "quantita": 56
-        },
-        {
-            "attivita": "Partecipazione Totale Visitatori",
-            "quantita": 1073
-        },
-        {
-            "attivita": "Partecipazione Corso Formazione",
-            "quantita": 89
-        },
-        {
-            "attivita": "Edizione Corso Formazione",
-            "quantita": 1
-        }
-    ]
+    "unibocultura": {
+        "visite_guidate_organizzate": 56,
+        "totale_visitatori": 1073,
+        "partecipanti_corso_formazione": 89
+    }
 }

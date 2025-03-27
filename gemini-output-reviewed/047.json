@@ -1,55 +1,51 @@
 {
-    "iscrizioni_lauree": {
-        "dati": [
-            {
-                "anno_accademico": "2023/24",
-                "laurea": 49119,
-                "laurea_magistrale": 23057,
-                "lm_ciclo_unico": 15150,
-                "vecchio_ordinamento": 539,
-                "totale": 87865
-            },
-            {
-                "anno_accademico": "2022/23",
-                "laurea": 49910,
-                "laurea_magistrale": 24086,
-                "lm_ciclo_unico": 15039,
-                "vecchio_ordinamento": 649,
-                "totale": 89684
-            },
-            {
-                "anno_accademico": "2021/22",
-                "laurea": 49666,
-                "laurea_magistrale": 24440,
-                "lm_ciclo_unico": 14847,
-                "vecchio_ordinamento": 762,
-                "totale": 89715
-            }
-        ]
-    },
-    "iscrizioni_master_dottorati_corsi_alta_formazione": {
-        "dati": [
-            {
-                "anno_accademico": "2023/24",
-                "master": 1719,
-                "dottorato_di_ricerca": 2600,
-                "alta_formazione_formazione_permanente": 493,
-                "totale": 4812
-            },
-            {
-                "anno_accademico": "2022/23",
-                "master": 2053,
-                "dottorato_di_ricerca": 2465,
-                "alta_formazione_formazione_permanente": 525,
-                "totale": 5043
-            },
-            {
-                "anno_accademico": "2021/22",
-                "master": 2169,
-                "dottorato_di_ricerca": 2096,
-                "alta_formazione_formazione_permanente": 448,
-                "totale": 4713
-            }
-        ]
-    }
+    "iscrizioni_lauree": [
+        {
+            "anno_accademico": "2023/24",
+            "laurea": 49119,
+            "laurea_magistrale": 23057,
+            "lm_ciclo_unico": 15150,
+            "vecchio_ordinamento": 539,
+            "totale": 87865
+        },
+        {
+            "anno_accademico": "2022/23",
+            "laurea": 49910,
+            "laurea_magistrale": 24086,
+            "lm_ciclo_unico": 15039,
+            "vecchio_ordinamento": 649,
+            "totale": 89684
+        },
+        {
+            "anno_accademico": "2021/22",
+            "laurea": 49666,
+            "laurea_magistrale": 24440,
+            "lm_ciclo_unico": 14847,
+            "vecchio_ordinamento": 762,
+            "totale": 89715
+        }
+    ],
+    "iscrizioni_master_dottorati_corsi_alta_formazione": [
+        {
+            "anno_accademico": "2023/24",
+            "master": 1719,
+            "dottorato_di_ricerca": 2600,
+            "alta_formazione_formazione_permanente": 493,
+            "totale": 4812
+        },
+        {
+            "anno_accademico": "2022/23",
+            "master": 2053,
+            "dottorato_di_ricerca": 2465,
+            "alta_formazione_formazione_permanente": 525,
+            "totale": 5043
+        },
+        {
+            "anno_accademico": "2021/22",
+            "master": 2169,
+            "dottorato_di_ricerca": 2096,
+            "alta_formazione_formazione_permanente": 448,
+            "totale": 4713
+        }
+    ]
 }

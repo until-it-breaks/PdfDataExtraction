@@ -1,32 +1,32 @@
 {
     "principali_agevolazioni_erogate": [
         {
-            "agevolazione": "Contributo stanziato Mobilità (per dipendenti TA e CEL)\nPer l'acquisto di abbonamenti al trasporto pubblico locale a prezzi calmierati\n(v. sez. 8).",
+            "agevolazione": "Contributo stanziato Mobilità (per dipendenti TA e CEL) Per l'acquisto di abbonamenti al trasporto pubblico locale a prezzi calmierati (v. sez. 8).",
             "valore": 525000,
             "unita_di_misura": "euro"
         },
         {
-            "agevolazione": "Polizza sanitaria Unisalute\nPer accesso a prestazioni sanitarie (incluso pacchetto di visite di prevenzione,\ndistinte per fasce di età) e di rimborso delle medesime spese sanitarie.\nIl premio è a carico dell'Amministrazione (è stato riportato l'importo stimato\nin quanto il premio 2023 non è stata ancora confermato).",
+            "agevolazione": "Polizza sanitaria Unisalute Per accesso a prestazioni sanitarie (incluso pacchetto di visite di prevenzione, distinte per fasce di età) e di rimborso delle medesime spese sanitarie. Il premio è a carico dell'Amministrazione (è stato riportato l'importo stimato in quanto il premio 2023 non è stata ancora confermato).",
             "valore": 1094544,
             "unita_di_misura": "euro"
         },
         {
-            "agevolazione": "Contributo per centri estivi e servizi di baby sitting\nI destinatari che possono richiedere tale contributo sono il personale TA e CEL\ncon contratto a tempo indeterminato o determinato per i figli con età inferiore\na 14 anni per un importo massimo di € 1.400.",
+            "agevolazione": "Contributo per centri estivi e servizi di baby sitting I destinatari che possono richiedere tale contributo sono il personale TA e CEL con contratto a tempo indeterminato o determinato per i figli con età inferiore a 14 anni per un importo massimo di € 1.400.",
             "valore": 101655,
             "unita_di_misura": "euro"
         },
         {
-            "agevolazione": "Contributo erogato per l'iscrizione dei figli ai nidi di infanzia\nPer personale Dirigente, TA e CEL con contratto a tempo indeterminato\no determinato. Il contributo riconosciuto è previsto nel limite massimo di € 1.400\n(anno scolastico 2021/2022 ultimo disponibile).",
+            "agevolazione": "Contributo erogato per l'iscrizione dei figli ai nidi di infanzia Per personale Dirigente, TA e CEL con contratto a tempo indeterminato o determinato. Il contributo riconosciuto è previsto nel limite massimo di € 1.400 (anno scolastico 2021/2022 ultimo disponibile).",
             "valore": 43683,
             "unita_di_misura": "euro"
         },
         {
-            "agevolazione": "Premio di natalità\nPer il personale TA e CEL. Il valore del premio di natalità 2023 si riferisce\nal personale che ha presentato domanda i cui figli sono nati nel 2022,\nerogato alle fasce ISEE previste per l'erogazione dei sussidi in base all'accordo\ncontrattuale integrativo, valore premio € 500.",
+            "agevolazione": "Premio di natalità per il personale TA e CEL. Il valore del premio di natalità 2023 si riferisce al personale che ha presentato domanda i cui figli sono nati nel 2022, erogato alle fasce ISEE previste per l'erogazione dei sussidi in base all'accordo contrattuale integrativo, valore premio € 500.",
             "valore": 8000,
             "unita_di_misura": "euro"
         },
         {
-            "agevolazione": "Altri sussidi economici\nPer il personale TA e CEL è riconosciuto un aiuto finanziario, di importo variabile\nlegato al valore risultante dalla dichiarazione ISEE del richiedente, che l'Ateneo\neroga a sostegno della situazione economica del dipendente in occasione\ndi specifiche rilevanti esigenze personali o familiari.",
+            "agevolazione": "Altri sussidi economici Per il personale TA e CEL è riconosciuto un aiuto finanziario, di importo variabile legato al valore risultante dalla dichiarazione ISEE del richiedente, che l'Ateneo eroga a sostegno della situazione economica del dipendente in occasione di specifiche rilevanti esigenze personali o familiari.",
             "valore": 55155,
             "unita_di_misura": "euro"
         }

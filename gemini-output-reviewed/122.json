@@ -1,19 +1,19 @@
 {
     "rapporto_ta_docenti": [
         {
-            "anno": 2021,
+            "anno": "2021",
             "personale_docente_e_ricercatore": 3002,
-            "personale_tecnico_amministrativo": 3919,
+            "personale_tecnico_amministrativo": 3010,
             "rapporto_ta_docenti": 1.00
         },
         {
-            "anno": 2022,
+            "anno": "2022",
             "personale_docente_e_ricercatore": 3176,
             "personale_tecnico_amministrativo": 3153,
             "rapporto_ta_docenti": 0.99
         },
         {
-            "anno": 2023,
+            "anno": "2023",
             "personale_docente_e_ricercatore": 3384,
             "personale_tecnico_amministrativo": 3.242,
             "rapporto_ta_docenti": 0.96

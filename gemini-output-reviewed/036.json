@@ -1,20 +1,20 @@
 {
-    "valore_economico_distribuito": {
+    "valore_economico_distribuito_2023": {
         "unita_misura": "mln",
-        "dati": [
+        "voci": [
             {
-                "voce": "Risorse umane",
-                "valore_2023": 469,
+                "nome": "Risorse umane",
+                "valore": 469,
                 "percentuale": "58%",
                 "dettagli": [
                     {
-                        "voce": "di cui Personale docente e di ricerca",
-                        "valore_2023": 331,
+                        "nome": "di cui Personale docente e di ricerca",
+                        "valore": 331,
                         "percentuale": "41%",
-                        "dettaglii": [
+                        "dettagli": [
                             {
-                                "voce": "di cui Personale dirigente e tecnico amministrativo",
-                                "valore_2023": 138,
+                                "nome": "di cui Personale dirigente e tecnico amministrativo",
+                                "valore": 138,
                                 "percentuale": "17%"
                             }
                         ]
@@ -22,33 +22,33 @@
                 ]
             },
             {
-                "voce": "Interventi a favore di studenti/esse",
-                "valore_2023": 124,
+                "nome": "Interventi a favore di studenti/esse",
+                "valore": 124,
                 "percentuale": "15%"
             },
             {
-                "voce": "Trasferimenti passivi verso terzi",
-                "valore_2023": 42,
+                "nome": "Trasferimenti passivi verso terzi",
+                "valore": 42,
                 "percentuale": "5%"
             },
             {
-                "voce": "Fornitori",
-                "valore_2023": 141,
+                "nome": "Fornitori",
+                "valore": 141,
                 "percentuale": "18%"
             },
             {
-                "voce": "Capitale di credito",
-                "valore_2023": 2,
+                "nome": "Capitale di credito",
+                "valore": 2,
                 "percentuale": "0%"
             },
             {
-                "voce": "Pubblica amministrazione",
-                "valore_2023": 26,
+                "nome": "Pubblica amministrazione",
+                "valore": 26,
                 "percentuale": "3%"
             },
             {
-                "voce": "Totale",
-                "valore_2023": 805,
+                "nome": "Totale",
+                "valore": 805,
                 "percentuale": "100%"
             }
         ]
