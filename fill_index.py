@@ -21,13 +21,10 @@ def insert_page(item: dict, page_number: int):
     if index is not None:
         chapter = chapters[index]
         if "data" not in chapter:
-            chapter["data"] = []
+            chapter["data"] = {}
 
         for key, value in item.items():
-            chapter["data"].append({
-                "topic": key,
-                "items": value
-            })
+            chapter["data"].update({key : value})
         print("{}.json has been inserted".format(page_number))
 
 def find_page_chapter(chapters, page_number: int):
