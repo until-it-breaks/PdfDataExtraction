@@ -3,6 +3,7 @@ import json
 import re
 
 from pathlib import Path
+import time
 from PIL import Image
 from google import genai
 
@@ -46,6 +47,7 @@ if not image_path.exists():
     print("ERROR: The file {} does not exist".format(image_path))
     sys.exit(1)
 
+start_time = time.time()
 with Image.open(image_path) as image:
     client = genai.Client(api_key=api_key)
     response = client.models.generate_content(
@@ -63,9 +65,6 @@ with Image.open(image_path) as image:
     output_path = output_dir / "{}.json".format(image_path.stem)
     raw_path = output_dir / DEBUG_FOLDER_NAME / "{}.txt".format(image_path.stem)
 
-    with open(raw_path, "w", encoding="utf-8") as f:
-        f.write(response.text)
-
     extracted_json = extract_json(response.text)
 
     try:
@@ -77,3 +76,7 @@ with Image.open(image_path) as image:
         json.dump({}, f, indent=4, ensure_ascii=False)
         print("ERROR: No JSON content extracted")
         sys.exit(1)
+    
+    with open(raw_path, "w", encoding="utf-8") as f:
+        f.write("Task done in {:.3f}s\n".format(time.time() - start_time))
+        f.write("Raw output:\n {}".format(response.text))
