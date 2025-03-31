@@ -1,0 +1,68 @@
+{
+    "distribuzione_personale_per_genere": [
+        {
+            "categoria": "Personale Docente Ordinario",
+            "donne": "30%",
+            "uomini": "70%"
+        },
+        {
+            "categoria": "Personale Docente Associato",
+            "donne": "45%",
+            "uomini": "55%"
+        },
+        {
+            "categoria": "Personale Ricercatore",
+            "donne": "44%",
+            "uomini": "56%"
+        },
+        {
+            "categoria": "Docenti a contratto",
+            "donne": "44%",
+            "uomini": "56%"
+        },
+        {
+            "categoria": "Tutor",
+            "donne": "50%",
+            "uomini": "50%"
+        },
+        {
+            "categoria": "Dirigenti",
+            "donne": "61%",
+            "uomini": "39%"
+        },
+        {
+            "categoria": "Personale TA Cat. EP",
+            "donne": "63%",
+            "uomini": "37%"
+        },
+        {
+            "categoria": "Personale TA Cat. D",
+            "donne": "67%",
+            "uomini": "33%"
+        },
+        {
+            "categoria": "Personale TA Cat. C",
+            "donne": "66%",
+            "uomini": "34%"
+        },
+        {
+            "categoria": "Personale TA Cat. B",
+            "donne": "56%",
+            "uomini": "44%"
+        },
+        {
+            "categoria": "Totale",
+            "donne": "53%",
+            "uomini": "47%"
+        }
+    ],
+    "nota_operai_agricoli": {
+        "descrizione": "Il dato degli Operai Agricoli risulta al 100% Uomini",
+        "numero_uomini": 7,
+        "numero_donne": 0
+    },
+    "nota_lettori_cel_2023": {
+        "donne": "82%",
+        "uomini": "18%"
+    }
+}

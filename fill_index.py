@@ -3,7 +3,7 @@ import os
 import bisect
 import time
 
-# Script used to fill an index skeleton with data from json files containing extracted data.
+# Script used to fill a skeleton index with data from json files containing extracted data.
 # Uses bisection to efficiently insert entries, therefore it's assumed that chapters in the skeleton are sorted.
 
 INDEX_FILE = "index-skeleton.json"
@@ -13,7 +13,7 @@ PAGES_FOLDER = "gemini-output-reviewed"
 def insert_page(item: dict, page_number: int):
     # skipping empty jsons "{}"
     if not item:
-        print("{}.json is empty, skipping it".format(page_number))
+        print("INFO: {}.json is empty, skipping it".format(page_number))
         return
 
     index = find_page_chapter(chapters, page_number)
@@ -25,7 +25,7 @@ def insert_page(item: dict, page_number: int):
 
         for key, value in item.items():
             chapter["data"].update({key : value})
-        print("{}.json has been inserted".format(page_number))
+        print("INFO: {}.json has been inserted.".format(page_number))
 
 def find_page_chapter(chapters, page_number: int):
     index = bisect.bisect(chapter_page_numbers, page_number)
@@ -59,4 +59,4 @@ for page in pages:
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(source, f, indent=4, ensure_ascii= False)
     end_time = time.time()
-    print("Job done in {:.3f}s. Output at {}".format(end_time - start_time, os.path.join(os.getcwd(), OUTPUT_FILE)))
+    print("INFO: Job done in {:.3f}s. Output at {}".format(end_time - start_time, os.path.join(os.getcwd(), OUTPUT_FILE)))

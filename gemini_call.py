@@ -1,9 +1,9 @@
 import sys
 import json
 import re
+import time
 
 from pathlib import Path
-import time
 from PIL import Image
 from google import genai
 
@@ -11,8 +11,7 @@ from google import genai
 
 DEBUG_FOLDER_NAME = "raw"
 MODEL = "gemini-2.0-flash"
-PROMPT = (
-    """
+PROMPT = """
     Analizza l'immagine fornita, che fa parte di un bilancio di sostenibilità. Il tuo obiettivo è estrarre dati strutturati rilevanti per la valutazione delle performance di sostenibilità dell'azienda.
     Criteri di rilevanza:
     - Concentrati su tabelle, grafici e infografiche che presentano dati numerici (percentuali, valori monetari, indicatori di performance).
@@ -28,21 +27,18 @@ PROMPT = (
     - Assegna titoli significativi ai dati estratti, evitando prefissi come `"figura"`, `"tabella"`, etc.
     - Se l'immagine non soddisfa i criteri di rilevanza, restituisci un JSON vuoto: `{}`.
     """
-)
 
 def extract_json(text):
     # Extracts JSON content enclosed in triple backticks from text.
     match = re.search(r"```json\s*([\s\S]*?)\s*```", text)
     return match.group(1).strip() if match else None
 
-def perform_call():
-    image_path = Path(sys.argv[1])
-    output_folder_name = sys.argv[2]
-    api_key = sys.argv[3]
+def process_image(image_path, output_folder_name, api_key):
+    image_path = Path(image_path)
 
     if not image_path.exists():
         print("ERROR: The file {} does not exist".format(image_path))
-        sys.exit(1)
+        return
 
     start_time = time.time()
     with Image.open(image_path) as image:
@@ -62,24 +58,22 @@ def perform_call():
         output_path = output_dir / "{}.json".format(image_path.stem)
         raw_path = output_dir / DEBUG_FOLDER_NAME / "{}.txt".format(image_path.stem)
 
-        extracted_json = extract_json(response.text)
+        with open(raw_path, "w", encoding="utf-8") as f:
+            f.write("INFO: Job done in {:.3f}s.\n".format(time.time() - start_time))
+            f.write("Raw response:\n{}".format(response))
 
         try:
             with open(output_path, "w", encoding="utf-8") as f:
-                data = json.loads(extracted_json)
+                data = json.loads(extract_json(response.text))
                 json.dump(data, f, indent=4, ensure_ascii=False)
                 print("INFO: JSON successfully saved at {}".format(output_path))
-        except json.JSONDecodeError:
-            json.dump({}, f, indent=4, ensure_ascii=False)
-            print("ERROR: No JSON content extracted")
-            sys.exit(1)
-        
-        with open(raw_path, "w", encoding="utf-8") as f:
-            f.write("INFO: Task done in {:.3f}s\n".format(time.time() - start_time))
-            f.write("Raw output:\n {}".format(response.text))
+        except:
+            with open(output_path, "w", encoding="utf-8") as f:
+                json.dump({}, f, indent=4, ensure_ascii=False)
+                print("ERROR: No JSON content extracted from {}".format(image_path))
 
 if __name__ == "__main__":
     if (len(sys.argv) < 4):
         print("USAGE: python gemini-call.py <image_path> <output_folder_name> <Gemini_API_key>")
-        sys.exit(1)
-    perform_call()
+    else:
+        process_image(sys.argv[1], sys.argv[2], sys.argv[3])

@@ -1,20 +1,23 @@
 import json
 import os
 import sys
+import time
 
-# Script used to quickly generate a json for reviewing purposes
+# Script used to generate a review file out of a folder of jsons.
 
 if (len(sys.argv) < 2):
-    print("Usage: python create-review-file.py <folder-path>")
-    exit(1)
+    print("USAGE: python create-review-file.py <folder-path>")
+    sys.exit(1)
 
-FOLDER = sys.argv[1]
+target = sys.argv[1]
+
+start_time = time.time()
 
 reviews = {}
-for f in os.listdir(FOLDER):
+for f in [f for f in os.listdir(target) if f.endswith(".json")]:
     reviews.update({"{}".format(f) : ""})
 
-with open("{}-review.json".format(FOLDER), "w", encoding="utf-8") as f:
+with open("{}-review.json".format(target), "w", encoding="utf-8") as f:
     json.dump(reviews, f, indent=4)
 
-print("Job done")
+print("INFO: Job done in {:.3f}s.".format(time.time() - start_time))

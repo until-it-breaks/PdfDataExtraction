@@ -1,0 +1,116 @@
+{
+    "dipartimenti": [
+        {
+            "posizione": 1,
+            "area": "AREA SCIENTIFICA",
+            "dipartimento": "Chimica «Giacomo Ciamician» – CHIM",
+            "docenti_e_ricercatori": 92,
+            "tecnici_amministrativi": 37
+        },
+        {
+            "posizione": 2,
+            "area": "AREA SCIENTIFICA",
+            "dipartimento": "Chimica industriale «Toso Montanari>> - CHIMIND",
+            "docenti_e_ricercatori": 74,
+            "tecnici_amministrativi": 32
+        },
+        {
+            "posizione": 3,
+            "area": "AREA SCIENTIFICA",
+            "dipartimento": "Farmacia e Biotecnologie - FaBiT",
+            "docenti_e_ricercatori": 124,
+            "tecnici_amministrativi": 45
+        },
+        {
+            "posizione": 4,
+            "area": "AREA SCIENTIFICA",
+            "dipartimento": "Fisica e Astronomia «Augusto Righi» – DIFA",
+            "docenti_e_ricercatori": 154,
+            "tecnici_amministrativi": 40
+        },
+        {
+            "posizione": 5,
+            "area": "AREA SCIENTIFICA",
+            "dipartimento": "Matematica - MAT",
+            "docenti_e_ricercatori": 105,
+            "tecnici_amministrativi": 13
+        },
+        {
+            "posizione": 6,
+            "area": "AREA SCIENTIFICA",
+            "dipartimento": "Scienze biologiche, geologiche e ambientali - BiGeA",
+            "docenti_e_ricercatori": 94,
+            "tecnici_amministrativi": 33
+        },
+        {
+            "posizione": 7,
+            "area": "AREA SCIENTIFICA",
+            "dipartimento": "Scienze per la Qualità della Vita - QUVI",
+            "docenti_e_ricercatori": 57,
+            "tecnici_amministrativi": 9
+        },
+        {
+            "posizione": 8,
+            "area": "AREA SCIENTIFICA",
+            "dipartimento": "Architettura - DA",
+            "docenti_e_ricercatori": 61,
+            "tecnici_amministrativi": 15
+        },
+        {
+            "posizione": 9,
+            "area": "AREA TECNOLOGICA",
+            "dipartimento": "Informatica - Scienza e Ingegneria - DISI",
+            "docenti_e_ricercatori": 115,
+            "tecnici_amministrativi": 19
+        },
+        {
+            "posizione": 10,
+            "area": "AREA TECNOLOGICA",
+            "dipartimento": "Ingegneria civile, chimica, ambientale e dei Materiali - DICAM",
+            "docenti_e_ricercatori": 131,
+            "tecnici_amministrativi": 47
+        },
+        {
+            "posizione": 11,
+            "area": "AREA TECNOLOGICA",
+            "dipartimento": "Ingegneria dell'Energia elettrica e dell'Informazione «G. Marconi» – DEI",
+            "docenti_e_ricercatori": 148,
+            "tecnici_amministrativi": 42
+        },
+        {
+            "posizione": 12,
+            "area": "AREA TECNOLOGICA",
+            "dipartimento": "Ingegneria industriale - DIN",
+            "docenti_e_ricercatori": 117,
+            "tecnici_amministrativi": 37
+        },
+        {
+            "posizione": 13,
+            "area": "AREA TECNOLOGICA",
+            "dipartimento": "Scienze e Tecnologie agro-alimentari – DISTAL",
+            "docenti_e_ricercatori": 174,
+            "tecnici_amministrativi": 116
+        },
+        {
+            "posizione": 14,
+            "area": "AREA MEDICA",
+            "dipartimento": "Scienze biomediche e neuromotorie - DIBINEM",
+            "docenti_e_ricercatori": 147,
+            "tecnici_amministrativi": 56
+        },
+        {
+            "posizione": 15,
+            "area": "AREA MEDICA",
+            "dipartimento": "Scienze mediche e chirurgiche - DIMEC",
+            "docenti_e_ricercatori": 311,
+            "tecnici_amministrativi": 67
+        },
+        {
+            "posizione": 16,
+            "area": "AREA MEDICA",
+            "dipartimento": "Scienze mediche veterinarie - DIMEVET",
+            "docenti_e_ricercatori": 124,
+            "tecnici_amministrativi": 81
+        }
+    ]
+}

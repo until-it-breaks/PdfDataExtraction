@@ -1,0 +1,78 @@
+{
+    "laurea_magistrale": [
+        {
+            "anno": "2023",
+            "unibo": {
+                "occupati": "78,3%",
+                "non_occupati_ma_impegnati_in_formazione_post_laurea": "3,3%",
+                "ne_occupati_ne_impegnati_in_formazione_post_laurea": "18,4%",
+                "laureati_intervistati": 5181
+            },
+            "italia": {
+                "occupati": "77,1%",
+                "non_occupati_ma_impegnati_in_formazione_post_laurea": "4,1%",
+                "ne_occupati_ne_impegnati_in_formazione_post_laurea": "18,8%",
+                "laureati_intervistati": 67593
+            },
+            "grandi_atenei": {
+                "occupati": "77,3%",
+                "non_occupati_ma_impegnati_in_formazione_post_laurea": "4,2%",
+                "ne_occupati_ne_impegnati_in_formazione_post_laurea": "18,5%",
+                "laureati_intervistati": 22264
+            }
+        },
+        {
+            "anno": "2021 2022",
+            "unibo_1": {
+                "occupati": "79,5%",
+                "non_occupati_ma_impegnati_in_formazione_post_laurea": "3,6%",
+                "ne_occupati_ne_impegnati_in_formazione_post_laurea": "17,0%",
+                "laureati_intervistati": 5189
+            },
+            "unibo_2": {
+                "occupati": "75,6%",
+                "non_occupati_ma_impegnati_in_formazione_post_laurea": "4,5%",
+                "ne_occupati_ne_impegnati_in_formazione_post_laurea": "20,0%",
+                "laureati_intervistati": 4348
+            }
+        }
+    ],
+    "laurea_magistrale_a_ciclo_unico": [
+        {
+            "anno": "2023",
+            "unibo": {
+                "occupati": "73,8%",
+                "non_occupati_ma_impegnati_in_formazione_post_laurea": "13,3%",
+                "ne_occupati_ne_impegnati_in_formazione_post_laurea": "12,9%",
+                "laureati_intervistati": 1279
+            },
+            "italia": {
+                "occupati": "74,2%",
+                "non_occupati_ma_impegnati_in_formazione_post_laurea": "11,7%",
+                "ne_occupati_ne_impegnati_in_formazione_post_laurea": "14,1%",
+                "laureati_intervistati": 22806
+            },
+            "grandi_atenei": {
+                "occupati": "75,7%",
+                "non_occupati_ma_impegnati_in_formazione_post_laurea": "11,2%",
+                "ne_occupati_ne_impegnati_in_formazione_post_laurea": "13,1%",
+                "laureati_intervistati": 6737
+            }
+        },
+        {
+            "anno": "2021 2022",
+            "unibo_1": {
+                "occupati": "76,9%",
+                "non_occupati_ma_impegnati_in_formazione_post_laurea": "12,9%",
+                "ne_occupati_ne_impegnati_in_formazione_post_laurea": "10,2%",
+                "laureati_intervistati": 1366
+            },
+            "unibo_2": {
+                "occupati": "69,5%",
+                "non_occupati_ma_impegnati_in_formazione_post_laurea": "16,0%",
+                "ne_occupati_ne_impegnati_in_formazione_post_laurea": "14,5%",
+                "laureati_intervistati": 1378
+            }
+        }
+    ]
+}

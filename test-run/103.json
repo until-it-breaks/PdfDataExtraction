@@ -1,0 +1,50 @@
+{
+    "dottori_e_laureati_occupati": {
+        "dottori_indagine_2023": [
+            {
+                "anno": "Dottori 2022 a 1 anno",
+                "attivita_sostenuta_da_borsa_assegno": "35,7%",
+                "altra_attivita": "60,1%",
+                "non_occupati": "4,2%",
+                "totale_occupati": "95,8%"
+            },
+            {
+                "anno": "Dottori 2020 a 3 anni",
+                "attivita_sostenuta_da_borsa_assegno": "19,9%",
+                "altra_attivita": "77,8%",
+                "non_occupati": "2,3%",
+                "totale_occupati": "97,7%"
+            },
+            {
+                "anno": "Dottori 2018 a 5 anni",
+                "attivita_sostenuta_da_borsa_assegno": "15,1%",
+                "altra_attivita": "81,6%",
+                "non_occupati": "3,3%",
+                "totale_occupati": "96,7%"
+            }
+        ],
+        "laureati_lm_e_lmcu_indagine_2023": [
+            {
+                "anno": "Laureati 2022 a 1 anno",
+                "attivita_sostenuta_da_borsa_assegno": "9,7%",
+                "altra_attivita": "67,7%",
+                "non_occupati": "22,6%",
+                "totale_occupati": "77,4%"
+            },
+            {
+                "anno": "Laureati 2020 a 3 anni",
+                "attivita_sostenuta_da_borsa_assegno": "9,2%",
+                "altra_attivita": "76,4%",
+                "non_occupati": "14,4%",
+                "totale_occupati": "85,6%"
+            },
+            {
+                "anno": "Laureati 2018 a 5 anni",
+                "attivita_sostenuta_da_borsa_assegno": "5,8%",
+                "altra_attivita": "83,1%",
+                "non_occupati": "11,1%",
+                "totale_occupati": "88,9%"
+            }
+        ]
+    }
+}

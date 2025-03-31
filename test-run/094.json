@@ -1,0 +1,60 @@
+{
+    "docenti_ricercatori_progetti_pnrr_pnc": {
+        "area_progetto": [
+            {
+                "area": "Tecnologica",
+                "numero_docenti_ricercatori": 380
+            },
+            {
+                "area": "Scientifica",
+                "numero_docenti_ricercatori": 189
+            },
+            {
+                "area": "Sociale",
+                "numero_docenti_ricercatori": 102
+            },
+            {
+                "area": "Medica",
+                "numero_docenti_ricercatori": 96
+            },
+            {
+                "area": "Umanistica",
+                "numero_docenti_ricercatori": 39
+            }
+        ],
+        "genere": [
+            {
+                "tipo_contratto": "Ordinario",
+                "percentuale_donne": "26,3%",
+                "percentuale_uomini": "73,7%"
+            },
+            {
+                "tipo_contratto": "Associato",
+                "percentuale_donne": "38,8%",
+                "percentuale_uomini": "61,2%"
+            },
+            {
+                "tipo_contratto": "Ricercatore",
+                "percentuale_donne": "42,0%",
+                "percentuale_uomini": "58,0%"
+            }
+        ]
+    },
+    "prin_pnrr": {
+        "numero_progetti_finanziati": 161,
+        "valore_finanziamenti": {
+            "valore": 15,
+            "unita_misura": "milioni di euro"
+        },
+        "numero_progetti_unibo_coordinati": 67
+    },
+    "borse_dottorato_pnrr": {
+        "ciclo": "XXIX",
+        "numero_borse_assegnate": 329,
+        "numero_borse_cofinanziate_da_imprese": 113
+    },
+    "edilizia_pnrr": {
+        "numero_interventi_avviati": 7,
+        "numero_interventi_in_programma": 16
+    }
+}

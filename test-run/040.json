@@ -1,0 +1,18 @@
+{
+    "numerosita_enti_partecipati": {
+        "fondazioni": 67,
+        "centri_interuniversitari": 47,
+        "societa": 9,
+        "consorzi": 38
+    },
+    "dettagli_enti_partecipati": {
+        "societa_costituite_pnrr": 3,
+        "consorzi_interuniversitari": 32,
+        "consorzi_universita_privati": 6,
+        "fondazioni_attive": 67,
+        "fondazioni_in_house": 1,
+        "fondazioni_consiglio_amministrazione_coincidente": 2,
+        "fondazioni_partecipate_enti_pubblici": 3,
+        "fondazioni_costituite_pnrr_pnc": 17
+    }
+}

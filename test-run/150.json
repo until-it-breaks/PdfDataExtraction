@@ -1,0 +1,21 @@
+{
+    "nuova_imprenditorialita": {
+        "imprese_accreditate_2023": {
+            "totale": 59,
+            "spin_off": 43,
+            "startup": 16
+        },
+        "incremento_imprese_accreditate_rispetto_2022": 7,
+        "imprese_accreditate_non_riconosciute": 4,
+        "spin_off_partecipate_da_unibo": 23,
+        "spin_off_detenute_da_holding_behold": 14,
+        "call_for_startup": {
+            "progetti_presentati_2023": 116,
+            "progetti_selezionati": 30,
+            "start_up_costituite": 3
+        },
+        "startup_day_2023": {
+            "partecipanti": 1700
+        }
+    }
+}

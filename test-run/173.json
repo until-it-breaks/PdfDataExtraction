@@ -1,0 +1,19 @@
+{
+    "partecipanti_visite_guidate_2023": {
+        "visite_programmate_unibocultura": "49%",
+        "visite_extra_non_programmate": "26%",
+        "summer_school": "9%",
+        "alma_mater_fest": "9%",
+        "convegno_una_europa": "5%",
+        "notte_europea_dei_ricercatori": "3%"
+    },
+    "newsletter_istituzionali_esterne": {
+        "newsletter_inviate": 19
+    },
+    "unibocultura": {
+        "visite_guidate_organizzate": 56,
+        "partecipanti_visite_guidate": 1073,
+        "partecipanti_corso_formazione": 89,
+        "edizione_corso_formazione": 1
+    }
+}

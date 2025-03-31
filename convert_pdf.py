@@ -1,27 +1,29 @@
 import multiprocessing
 import sys
-import os
 import time
 
 from tempfile import TemporaryDirectory
 from pathlib import Path
 from pdf2image import pdfinfo_from_path, convert_from_path
 
+# A simple script that turns pdf pages into images.
+
 OUTPUT_FOLDER_NAME = "images"
+PAGE_COUNT_KEY = "Pages"
 
 if (len(sys.argv) < 2):
-    print("Usage: python convert_pdf.py <PDF Path>")
+    print("USAGE: python convert_pdf.py <pdf-path>")
     sys.exit(1)
 
 pdf_path = sys.argv[1]
-pdf_info = pdfinfo_from_path(sys.argv[1])
-pages_count = pdf_info["Pages"]
+pdf_info = pdfinfo_from_path(pdf_path=pdf_path)
+pages_count = pdf_info[PAGE_COUNT_KEY]
 threads = multiprocessing.cpu_count()
 
-output_dir = (Path(__file__).parent / OUTPUT_FOLDER_NAME / Path(pdf_path).stem ).resolve()
+output_dir = (Path(__file__).parent / OUTPUT_FOLDER_NAME / Path(pdf_path).stem).resolve()
 output_dir.mkdir(parents=True, exist_ok=True)
 
-print("Converting {} pages from {} with {} threads".format(pages_count, pdf_path, threads))
+print("INFO: Converting {} pages from {} with {} threads.".format(pages_count, pdf_path, threads))
 
 start_time = time.time()
 
@@ -33,4 +35,4 @@ with TemporaryDirectory() as temp_folder:
 
 end_time = time.time()
 
-print("Job done in {:.3f}s Output at {}".format(end_time - start_time, os.path.abspath(output_dir)))
+print("INFO: Job done in {:.3f}s. Output at {}".format(end_time - start_time, output_dir))

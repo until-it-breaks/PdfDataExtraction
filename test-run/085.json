@@ -1,0 +1,236 @@
+{
+    "stato_avanzamento_progetti": {
+        "investimento_1_3": [
+            {
+                "nome_progetto": "PE1 - FAIR",
+                "rendicontato": "29%",
+                "bandi_avviati": "41%",
+                "bandi_da_avviare": "19%",
+                "valore": 8.09,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "PE2 - NEST",
+                "rendicontato": "19%",
+                "bandi_avviati": null,
+                "bandi_da_avviare": null,
+                "valore": 5.62,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "PE3 - RETURN",
+                "rendicontato": "17%",
+                "bandi_avviati": "25%",
+                "bandi_da_avviare": null,
+                "valore": 8.75,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "PE5 - CHANGES",
+                "rendicontato": "22%",
+                "bandi_avviati": "28%",
+                "bandi_da_avviare": null,
+                "valore": 9.49,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "PE6 - HEAL-ITALIA",
+                "rendicontato": "16%",
+                "bandi_avviati": null,
+                "bandi_da_avviare": null,
+                "valore": 9.16,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "PE7 - SERICS",
+                "rendicontato": "18%",
+                "bandi_avviati": "48%",
+                "bandi_da_avviare": null,
+                "valore": 10.46,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "PE8 - AGE-IT",
+                "rendicontato": "16%",
+                "bandi_avviati": "14%",
+                "bandi_da_avviare": null,
+                "valore": 6.9,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "PE9 - GRINS",
+                "rendicontato": "15%",
+                "bandi_avviati": "28%",
+                "bandi_da_avviare": null,
+                "valore": 17.65,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "PE10 - ONFOODS",
+                "rendicontato": "17%",
+                "bandi_avviati": "16%",
+                "bandi_da_avviare": "15%",
+                "valore": 10.39,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "PE11 - MICS",
+                "rendicontato": "24%",
+                "bandi_avviati": null,
+                "bandi_da_avviare": null,
+                "valore": 4.95,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "PE12 - MNESYS",
+                "rendicontato": "24%",
+                "bandi_avviati": "27%",
+                "bandi_da_avviare": null,
+                "valore": 8.1,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "PE13 - INF-ACT",
+                "rendicontato": "17%",
+                "bandi_avviati": null,
+                "bandi_da_avviare": null,
+                "valore": 4.42,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "PE14 - RESTART",
+                "rendicontato": "23%",
+                "bandi_avviati": "20%",
+                "bandi_da_avviare": "7%",
+                "valore": 8.56,
+                "unita_di_misura": "mln"
+            }
+        ],
+        "investimento_1_4": [
+            {
+                "nome_progetto": "CN1 - HPC",
+                "rendicontato": "22%",
+                "bandi_avviati": "29%",
+                "bandi_da_avviare": null,
+                "valore": 22.89,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "CN2 - AGRITECH",
+                "rendicontato": "11%",
+                "bandi_avviati": "16%",
+                "bandi_da_avviare": null,
+                "valore": 7.7,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "CN3-mRNA",
+                "rendicontato": "24%",
+                "bandi_avviati": null,
+                "bandi_da_avviare": null,
+                "valore": 10.94,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "CN4-MOST",
+                "rendicontato": "18%",
+                "bandi_avviati": "17%",
+                "bandi_da_avviare": null,
+                "valore": 13.39,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "CN5-BIODIV",
+                "rendicontato": "24%",
+                "bandi_avviati": null,
+                "bandi_da_avviare": null,
+                "valore": 4.08,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "DARE (PNC)",
+                "rendicontato": "5%",
+                "bandi_avviati": "31%",
+                "bandi_da_avviare": null,
+                "valore": 24.67,
+                "unita_di_misura": "mln"
+            }
+        ],
+        "investimento_1_5": [
+            {
+                "nome_progetto": "ECOSISTER",
+                "rendicontato": "30%",
+                "bandi_avviati": "8%",
+                "bandi_da_avviare": "11%",
+                "valore": 25.77,
+                "unita_di_misura": "mln"
+            }
+        ],
+        "investimento_3_1": [
+            {
+                "nome_progetto": "IR STILES",
+                "rendicontato": "16%",
+                "bandi_avviati": null,
+                "bandi_da_avviare": null,
+                "valore": 3.79,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "IR SOBIGDATA",
+                "rendicontato": "2%",
+                "bandi_avviati": null,
+                "bandi_da_avviare": null,
+                "valore": 0.36,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "IR ENTRANCE@ENL",
+                "rendicontato": "16%",
+                "bandi_avviati": null,
+                "bandi_da_avviare": null,
+                "valore": 1.65,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "IR ETIC",
+                "rendicontato": "10%",
+                "bandi_avviati": null,
+                "bandi_da_avviare": null,
+                "valore": 0.76,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "IR ELIXIRxNextGenIT",
+                "rendicontato": "2%",
+                "bandi_avviati": null,
+                "bandi_da_avviare": null,
+                "valore": 0.19,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "IR ECCSELLENT",
+                "rendicontato": "1%",
+                "bandi_avviati": null,
+                "bandi_da_avviare": null,
+                "valore": 3.95,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "IR CTA+",
+                "rendicontato": "9%",
+                "bandi_avviati": null,
+                "bandi_da_avviare": null,
+                "valore": 1.24,
+                "unita_di_misura": "mln"
+            },
+            {
+                "nome_progetto": "IR BBMRI",
+                "rendicontato": "2%",
+                "bandi_avviati": null,
+                "bandi_da_avviare": null,
+                "valore": 0.49,
+                "unita_di_misura": "mln"
+            }
+        ]
+    }
+}

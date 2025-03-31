@@ -1,0 +1,30 @@
+{
+    "i_numeri_del_lavoro_a_distanza": {
+        "tipologie": [
+            {
+                "tipologia": "Telelavoro domiciliare",
+                "anno_2021": 461,
+                "anno_2022": 1668,
+                "anno_2023": 1963
+            },
+            {
+                "tipologia": "Smart working",
+                "anno_2021": null,
+                "anno_2022": 136,
+                "anno_2023": 311
+            },
+            {
+                "tipologia": "Lavoro decentrato\nnei centri satellite",
+                "anno_2021": 29,
+                "anno_2022": 29,
+                "anno_2023": 29
+            },
+            {
+                "tipologia": "Totale",
+                "anno_2021": 490,
+                "anno_2022": 1833,
+                "anno_2023": 2276
+            }
+        ]
+    }
+}

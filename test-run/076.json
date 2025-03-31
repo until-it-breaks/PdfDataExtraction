@@ -1,0 +1,67 @@
+{
+    "attivita_di_orientamento_al_lavoro": {
+        "descrizione": "Tabella riassuntiva delle attività di orientamento al lavoro (presenze)",
+        "dati": [
+            {
+                "attivita": "Incontri di gruppo sul curriculum vitae",
+                "anno_2023": 172
+            },
+            {
+                "attivita": "Incontri di gruppo sul Linkedin",
+                "anno_2023": 285
+            },
+            {
+                "attivita": "Incontri di gruppo sulle strategie di ricerca del lavoro",
+                "anno_2023": 134
+            },
+            {
+                "attivita": "Incontri di gruppo di preparazione all'intervista di selezione",
+                "anno_2023": 244
+            },
+            {
+                "attivita": "Incontri di gruppo in lingua inglese sul CV",
+                "anno_2023": 59
+            },
+            {
+                "attivita": "Laboratori di gruppo definizione obiettivo professionale e attivazione delle risorse per la carriera",
+                "anno_2023": 10
+            },
+            {
+                "attivita": "Train yourself!\nAllena le tue competenze per affrontare il mondo del lavoro\n(in collaborazione con ER.GO)",
+                "anno_2023": 9
+            },
+            {
+                "attivita": "Orientamento nel percorso delle competenze trasversali dei dottorandi di ricerca",
+                "anno_2023": 43
+            },
+            {
+                "attivita": "Seminario CV in preparazione al Career Day",
+                "anno_2023": 135
+            },
+            {
+                "attivita": "Speech si temi di orientamento al lavoro durante il Career Day",
+                "anno_2023": 80
+            },
+            {
+                "attivita": "Check Point CV individuali in presenza/online in preparazione a Recruiting e Career Day di Ateneo",
+                "anno_2023": 231
+            },
+            {
+                "attivita": "Check Point CV individuali in presenza e online (in collaborazione con ER.GO)",
+                "anno_2023": 63
+            },
+            {
+                "attivita": "Attività di orientamento nell'ambito di corsi di studio e master dell'Ateneo",
+                "anno_2023": 145
+            },
+            {
+                "attivita": "Colloqui individuali di consulenza orientativa professionale",
+                "anno_2023": 115
+            },
+            {
+                "attivita": "Totale attività",
+                "anno_2023": 1725
+            }
+        ]
+    }
+}

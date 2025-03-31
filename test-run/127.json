@@ -1,0 +1,106 @@
+{
+    "incentivi_per_il_personale_ta_e_cel": {
+        "fonte": "Figura 72 - Incentivi per il personale TA e CEL",
+        "tipologie": [
+            {
+                "nome": "fondo_incentivi_per_funzioni_tecniche",
+                "valori_per_anno": [
+                    {
+                        "anno": 2021,
+                        "valore": 2.33
+                    },
+                    {
+                        "anno": 2022,
+                        "valore": 2.33
+                    },
+                    {
+                        "anno": 2023,
+                        "valore": 2.33
+                    }
+                ]
+            },
+            {
+                "nome": "welfare_aziendale",
+                "valori_per_anno": [
+                    {
+                        "anno": 2021,
+                        "valore": 1.12
+                    },
+                    {
+                        "anno": 2022,
+                        "valore": 1.56
+                    },
+                    {
+                        "anno": 2023,
+                        "valore": 1.7
+                    }
+                ]
+            },
+            {
+                "nome": "fondo_per_la_premialita_(ex_art._9_l_240/2010)",
+                "valori_per_anno": [
+                    {
+                        "anno": 2021,
+                        "valore": 3.67
+                    },
+                    {
+                        "anno": 2022,
+                        "valore": 3.82
+                    },
+                    {
+                        "anno": 2023,
+                        "valore": 3.58
+                    }
+                ]
+            },
+            {
+                "nome": "conto_terzi",
+                "valori_per_anno": [
+                    {
+                        "anno": 2021,
+                        "valore": 14.73
+                    },
+                    {
+                        "anno": 2022,
+                        "valore": 14.65
+                    },
+                    {
+                        "anno": 2023,
+                        "valore": 14.93
+                    }
+                ]
+            },
+            {
+                "nome": "fondo_accessorio_(comprensivo_costo_peo_a_bilancio)",
+                "valori_per_anno": [
+                    {
+                        "anno": 2021,
+                        "valore": 21.84
+                    },
+                    {
+                        "anno": 2022,
+                        "valore": 22.35
+                    },
+                    {
+                        "anno": 2023,
+                        "valore": 22.53
+                    }
+                ]
+            }
+        ],
+        "altro": [
+            {
+                "anno": 2021,
+                "valore": 0.19
+            },
+            {
+                "anno": 2022,
+                "valore": 0.51
+            },
+            {
+                "anno": 2023,
+                "valore": 0.69
+            }
+        ]
+    }
+}

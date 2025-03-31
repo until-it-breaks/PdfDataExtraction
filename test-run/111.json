@@ -1,0 +1,75 @@
+{
+    "pubblicazioni_unibo_pro_capite_vs_benchmark_europeo": {
+        "descrizione": "Rapporto tra il numero di pubblicazioni pro-capite di ciascun SDGs di Unibo rispetto al benchmark europeo (valore benchmark europeo uguale a 100)",
+        "valori_sdgs": [
+            {
+                "sdg": "GOAL 1",
+                "valore": 100
+            },
+            {
+                "sdg": "GOAL 2",
+                "valore": 180
+            },
+            {
+                "sdg": "GOAL 3",
+                "valore": 110
+            },
+            {
+                "sdg": "GOAL 4",
+                "valore": 100
+            },
+            {
+                "sdg": "GOAL 5",
+                "valore": 80
+            },
+            {
+                "sdg": "GOAL 6",
+                "valore": 170
+            },
+            {
+                "sdg": "GOAL 7",
+                "valore": 190
+            },
+            {
+                "sdg": "GOAL 8",
+                "valore": 180
+            },
+            {
+                "sdg": "GOAL 9",
+                "valore": 270
+            },
+            {
+                "sdg": "GOAL 10",
+                "valore": 130
+            },
+            {
+                "sdg": "GOAL 11",
+                "valore": 200
+            },
+            {
+                "sdg": "GOAL 12",
+                "valore": 220
+            },
+            {
+                "sdg": "GOAL 13",
+                "valore": 110
+            },
+            {
+                "sdg": "GOAL 14",
+                "valore": 160
+            },
+            {
+                "sdg": "GOAL 15",
+                "valore": 110
+            },
+            {
+                "sdg": "GOAL 16",
+                "valore": 110
+            },
+            {
+                "sdg": "GOAL 17",
+                "valore": 110
+            }
+        ]
+    }
+}

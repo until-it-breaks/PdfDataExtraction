@@ -1,0 +1,79 @@
+{
+    "valutazioni_positive_sulla_didattica": [
+        {
+            "domanda": "Sei complessivamente soddisfatto/a di come è stato svolto l'insegnamento?",
+            "anno": "2022/23",
+            "percentuale": "85,8%"
+        },
+        {
+            "domanda": "Sei complessivamente soddisfatto/a di come è stato svolto l'insegnamento?",
+            "anno": "2021/22",
+            "percentuale": "86,8%"
+        },
+        {
+            "domanda": "Sei complessivamente soddisfatto/a di come è stato svolto l'insegnamento?",
+            "anno": "2020/21",
+            "percentuale": "87,0%"
+        },
+        {
+            "domanda": "Il carico di studio dell'insegnamento è proporzionato ai crediti assegnati?",
+            "anno": "2022/23",
+            "percentuale": "86,6%"
+        },
+        {
+            "domanda": "Il carico di studio dell'insegnamento è proporzionato ai crediti assegnati?",
+            "anno": "2021/22",
+            "percentuale": "87,1%"
+        },
+        {
+            "domanda": "Il carico di studio dell'insegnamento è proporzionato ai crediti assegnati?",
+            "anno": "2020/21",
+            "percentuale": "86,8%"
+        },
+        {
+            "domanda": "Il docente espone gli argomenti in modo chiaro?",
+            "anno": "2022/23",
+            "percentuale": "88,1%"
+        },
+        {
+            "domanda": "Il docente espone gli argomenti in modo chiaro?",
+            "anno": "2021/22",
+            "percentuale": "89,0%"
+        },
+        {
+            "domanda": "Il docente espone gli argomenti in modo chiaro?",
+            "anno": "2020/21",
+            "percentuale": "89,0%"
+        },
+        {
+            "domanda": "Le aule in cui si sono svolte le lezioni sono risultate adeguate (si vede, si sente, si trova posto)?",
+            "anno": "2022/23",
+            "percentuale": "86,6%"
+        },
+        {
+            "domanda": "Le aule in cui si sono svolte le lezioni sono risultate adeguate (si vede, si sente, si trova posto)?",
+            "anno": "2021/22",
+            "percentuale": "92,3%"
+        },
+        {
+            "domanda": "Le aule in cui si sono svolte le lezioni sono risultate adeguate (si vede, si sente, si trova posto)?",
+            "anno": "2020/21",
+            "percentuale": "94,9%"
+        },
+        {
+            "domanda": "L'orario delle lezioni è stato congegnato in modo tale da consentire una frequenza e una attività di studio individuale adeguate?",
+            "anno": "2022/23",
+            "percentuale": "85,8%"
+        },
+        {
+            "domanda": "L'orario delle lezioni è stato congegnato in modo tale da consentire una frequenza e una attività di studio individuale adeguate?",
+            "anno": "2021/22",
+            "percentuale": "86,8%"
+        },
+        {
+            "domanda": "L'orario delle lezioni è stato congegnato in modo tale da consentire una frequenza e una attività di studio individuale adeguate?",
+            "anno": "2020/21",
+            "percentuale": "87,5%"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "alma_mater_fest": {
+        "anno": 2023,
+        "incontri_organizzati": 250,
+        "persone_partecipanti": 13000,
+        "ospiti": 100
+    },
+    "tesseramento_cusb": {
+        "costo_tesseramento_studenti_unibo": {
+            "valore": 5.0,
+            "unita_di_misura": "€"
+        },
+        "costo_tesseramento_non_studenti": {
+            "valore": 13.0,
+            "unita_di_misura": "€"
+        }
+    },
+    "campi_estivi": {
+        "anno": 2023,
+        "famiglie_iscritte": 100,
+        "ore_di_attivita_gestite": 130
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "progetti_bando_mur_edilizia_universitaria": {
+        "descrizione": "Progetti del Bando MUR sull'Edilizia Universitaria",
+        "dati": [
+            {
+                "linea_bando_mur": "A",
+                "interventi_presentati": 11,
+                "quadri_economici_candidati": 58997000.0,
+                "unita_di_misura_quadri_economici_candidati": "euro",
+                "cofinanziamento_richiesto_al_mur": 35398200.0,
+                "unita_di_misura_cofinanziamento_richiesto_al_mur": "euro",
+                "anno_ammissibilita_al_finanziamento": 2022
+            },
+            {
+                "linea_bando_mur": "B",
+                "interventi_presentati": 14,
+                "quadri_economici_candidati": 60003600.0,
+                "unita_di_misura_quadri_economici_candidati": "euro",
+                "cofinanziamento_richiesto_al_mur": 33102160.0,
+                "unita_di_misura_cofinanziamento_richiesto_al_mur": "euro",
+                "anno_ammissibilita_al_finanziamento": 2023
+            },
+            {
+                "linea_bando_mur": "C",
+                "interventi_presentati": 3,
+                "quadri_economici_candidati": 11525000.0,
+                "unita_di_misura_quadri_economici_candidati": "euro",
+                "cofinanziamento_richiesto_al_mur": 6915000.0,
+                "unita_di_misura_cofinanziamento_richiesto_al_mur": "euro",
+                "anno_ammissibilita_al_finanziamento": 2023
+            },
+            {
+                "linea_bando_mur": "E",
+                "interventi_presentati": 4,
+                "quadri_economici_candidati": 26445000.0,
+                "unita_di_misura_quadri_economici_candidati": "euro",
+                "cofinanziamento_richiesto_al_mur": 15827332.0,
+                "unita_di_misura_cofinanziamento_richiesto_al_mur": "euro",
+                "anno_ammissibilita_al_finanziamento": "in attesa"
+            },
+            {
+                "linea_bando_mur": "TOT.",
+                "interventi_presentati": 32,
+                "quadri_economici_candidati": 156970600.0,
+                "unita_di_misura_quadri_economici_candidati": "euro",
+                "cofinanziamento_richiesto_al_mur": 91242692.0,
+                "unita_di_misura_cofinanziamento_richiesto_al_mur": "euro"
+            }
+        ]
+    }
+}

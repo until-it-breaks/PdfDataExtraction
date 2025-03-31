@@ -1,0 +1,55 @@
+{
+    "canali_social_istituzionali": [
+        {
+            "canale": "@UNIbo",
+            "followers_attuali_complessivi": 142519.0,
+            "periodo_followers": "Gennaio dicembre 2023",
+            "crescita_del_2023": "+11.519"
+        },
+        {
+            "canale": "UniboPER",
+            "followers_attuali_complessivi": 4388.0,
+            "periodo_followers": "Dicembre 2023",
+            "crescita_del_2023": "+539"
+        },
+        {
+            "canale": "Facebook",
+            "followers_attuali_complessivi": 133765.0,
+            "periodo_followers": "Dicembre 2023",
+            "crescita_del_2023": "+13.324"
+        },
+        {
+            "canale": "LinkedIn",
+            "followers_attuali_complessivi": 397203.0,
+            "periodo_followers": "Dicembre 2023",
+            "crescita_del_2023": "+62.574"
+        },
+        {
+            "canale": "X",
+            "followers_attuali_complessivi": 31091.0,
+            "periodo_followers": "Dicembre 2023",
+            "crescita_del_2023": "+2.832"
+        },
+        {
+            "canale": "@UNIbo",
+            "followers_attuali_complessivi": 32600.0,
+            "periodo_followers": "Dicembre 2023",
+            "crescita_del_2023": "+3.438"
+        },
+        {
+            "canale": "Spreaker",
+            "followers_attuali_complessivi": 36000.0,
+            "periodo_followers": "Download 2023"
+        },
+        {
+            "canale": "Telegram",
+            "followers_attuali_complessivi": 20416.0,
+            "periodo_followers": "Iscritti nel 2023"
+        },
+        {
+            "canale": "TIKTOK",
+            "followers_attuali_complessivi": null,
+            "periodo_followers": "Canale aperto a fine dicembre 2023"
+        }
+    ]
+}
