@@ -7,7 +7,6 @@ from ollama import chat
 from ollama import ChatResponse
 from pathlib import Path
 
-
 PROMPT = (
     """
     Analizza l'immagine fornita, che fa parte di un bilancio di sostenibilità. Il tuo obiettivo è estrarre dati strutturati rilevanti per la valutazione delle performance di sostenibilità dell'azienda.
