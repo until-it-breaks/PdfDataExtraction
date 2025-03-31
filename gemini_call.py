@@ -3,7 +3,6 @@ import json
 import re
 
 from pathlib import Path
-from types import NoneType
 from PIL import Image
 from google import genai
 
