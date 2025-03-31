@@ -26,7 +26,7 @@ processes = []
 
 for i in range(length):
     if (count == RPM):
-        print("Waiting a {}s before next batch".format(MINUTE + EXTRA_TIME))
+        print("Waiting {}s before next batch".format(MINUTE + EXTRA_TIME))
         time.sleep(MINUTE + EXTRA_TIME)
         count = 0
 
