@@ -11,6 +11,8 @@ import gemini_call
 RPM = 15 # Gemini 2 free tier allows 15 api calls per minute.
 DELAY = 64 # Amount of seconds to wait before next batch.
 
+start_time = time.time()
+
 if (len(sys.argv) < 4):
     print("USAGE: python extract_data.py <image_folder_path> <output_folder_name> <Gemini_API_key>")
     sys.exit(1)
@@ -18,8 +20,6 @@ if (len(sys.argv) < 4):
 images_path = Path(sys.argv[1])
 output_folder_name = sys.argv[2]
 api_key = sys.argv[3]
-
-start_time = time.time()
 
 images = [f for f in images_path.iterdir() if f.is_file()]
 length = len(images)

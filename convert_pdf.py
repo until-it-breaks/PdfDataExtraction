@@ -11,8 +11,10 @@ from pdf2image import pdfinfo_from_path, convert_from_path
 OUTPUT_FOLDER_NAME = "images"
 PAGE_COUNT_KEY = "Pages"
 
+start_time = time.time()
+
 if (len(sys.argv) < 2):
-    print("USAGE: python convert_pdf.py <pdf-path>")
+    print("USAGE: python convert_pdf.py <pdf_path>")
     sys.exit(1)
 
 pdf_path = sys.argv[1]
@@ -24,8 +26,6 @@ output_dir = (Path(__file__).parent / OUTPUT_FOLDER_NAME / Path(pdf_path).stem).
 output_dir.mkdir(parents=True, exist_ok=True)
 
 print("INFO: Converting {} pages from {} with {} threads.".format(pages_count, pdf_path, threads))
-
-start_time = time.time()
 
 # Using a temporary directory yields better performance when using multiple threads
 with TemporaryDirectory() as temp_folder:

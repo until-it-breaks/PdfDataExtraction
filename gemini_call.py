@@ -34,13 +34,14 @@ def extract_json(text):
     return match.group(1).strip() if match else None
 
 def process_image(image_path, output_folder_name, api_key):
+    start_time = time.time()
+
     image_path = Path(image_path)
 
     if not image_path.exists():
         print("ERROR: The file {} does not exist".format(image_path))
         return
 
-    start_time = time.time()
     with Image.open(image_path) as image:
         client = genai.Client(api_key=api_key)
         response = client.models.generate_content(
