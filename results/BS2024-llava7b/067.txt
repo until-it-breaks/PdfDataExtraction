@@ -1,0 +1,59 @@
+INFO: Job done in 26.999s.
+ ```json
+{
+  "2020": {
+    "Bilancio sostenibilità": [
+      "Nuova Eclatica",
+      {
+        "Consommazioni nette totale (kWh)": 19456,
+        "Prestazione certificata 3CERTI": "82%"
+      },
+      {
+        "Impatto ambientale relativo ai consumi di energia elettricità (CO2e)": "2.70 kWh/m³"
+      },
+      "Percentuale di impegno sulle linee guida della Comune Regionale dell'Umbria": "68,5%",
+        "Bolletta azienda del Consorzio per la gestione ambientale della Umbria": 2500
+      }
+    ],
+    "Ricerca e sviluppo": [
+      {
+        "Prestazione certificata 3CERTI": "84,1%"
+      },
+      {
+        "Impatto ambientale relativo ai consumi di energia elettricità (CO2e)": "2.67 kWh/m³",
+        "Bolletta azienda del Consorzio per la gestione ambientale della Umbria": 2500
+      }
+    ]
+  },
+  "2019": {
+    "Bilancio sostenibilità": [
+      "Nuova Eclatica",
+      {
+        "Consommazioni nette totale (kWh)": 17536,
+        "Prestazione certificata 3CERTI": "81%"
+      },
+      {
+        "Impatto ambientale relativo ai consumi di energia elettricità (CO2e)": "2.70 kWh/m³",
+        "Bolletta azienda del Consorzio per la gestione ambientale della Umbria": 2500
+      }
+    ],
+    "Ricerca e sviluppo": [
+      {
+        "Prestazione certificata 3CERTI": "81%",
+        "Impatto ambientale relativo ai consumi di energia elettricità (CO2e)": "2.69 kWh/m³",
+        "Bolletta azienda del Consorzio per la gestione ambientale della Umbria": 2500
+      }
+    ]
+  },
+  "Uomini": "Euro",
+  "Gestione azienda": [
+    {
+      "Impacto ambientale relativo ai consumi di energia elettricità (CO2e)": "2.70 kWh/m³"
+    },
+    {
+      "Bolletta azienda del Consorzio per la gestione ambientale della Umbria": 2500
+    }
+  ]
+}
+```
+Note: La chiave `Uomini` è stata aggiunta per indicare che l'unità di misura dei dati numerici sia Euro. La sommatoria delle bollette azienda del Consorzio per la gestione ambientale della Umbria è stata inclusa come un oggetto separato, in modo da poter essere visualizzata e utilizzata per i calcoli. 

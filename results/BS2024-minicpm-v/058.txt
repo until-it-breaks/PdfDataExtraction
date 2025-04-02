@@ -1,0 +1,35 @@
+INFO: Job done in 25.320s.
+{
+  "title": "Mobilità internazionale",
+  "section": "Accordi attivi",
+  "figures": [
+    {
+      "figure_number": "22",
+      "figure_title": "Figura 22 - Accordi attivi",
+      "table": [
+        {
+          "header": ["Totale con università dell'Unione europea", "Totale con Università extra-Europee", "Totale con aziende di Paesi esteri"],
+          "rows": [
+            ["2.409 con università dell'Unione europea per scambi di mobilità e training", "368", "", "2,533"],
+            ["2.361 con università extra-Europee per scambi di mobilità", "379", "349", ""],
+            ["Accordi con aziende", "2021", "305", "335", "2023"]
+          ]
+        }
+      ],
+      "footnotes": [
+        "Figura 22",
+        "* Il dato si riferisce al numero di compagnie vigenti con aziende/entisti per mobilità in entrata e in uscita.",
+        "** Indice della mobilità degli studenti per partecipazione a attività didattiche e/o tirocini all'estero, garantendo il ricongosciamento e l'integrazione di tali esperienze nel loro percorso di studio."
+      ]
+    }
+  ],
+  "summary": [
+    "Nei settembre del 2013 l'Università ha preso parte attivamente a vari programmi di mobilità internazionale come Erasmus+",
+    "Oversess e scambi con la sede di Buenos Aires. Tali iniziative si sono fondato su accordi con altre università al fine potenziale delle relazioni istituzionali, accademiche, scientifiche e didattiche a livello globale.",
+    "Questi accordi facilitano la mobilità degli studenti per partecipare a attività didattiche e/o tirocini all'estero, garantendo il ricongosciamento e l'integrazione di tali esperienze nel loro percorso di studio."
+  ],
+  "additional_info": {
+    "* Il dato si riferisce al numero di compagnie vigenti con aziende/entisti per mobilità in entrata e in uscita.",
+    "** Indice della mobilità degli studenti per partecipazione a attività didattiche e/o tirocini all'estero, garantendo il ricongosciamento e l'integrazione di tali esperienze nel loro percorso di studio."
+  }
+}

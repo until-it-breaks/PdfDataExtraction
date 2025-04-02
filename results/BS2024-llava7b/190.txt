@@ -1,0 +1,30 @@
+INFO: Job done in 19.898s.
+ ```json
+{
+  "titolo": "Bilancio Di Sostenibilità",
+  "azienda": {
+    "nome": "Azienda Italiana",
+    "indicatore_sostenibilità": "Sostenibilità Energia"
+  },
+  "periodo": "2019-2020",
+  "finanziamenti": {
+    "investimenti": [
+      {
+        "tipologia": "Investimenti Energie Rinnovabili",
+        "importanza": "6.350,481 euro",
+        "percentuale_annuale": "2.9%"
+      },
+      {
+        "tipologia": "Spesi Energie",
+        "importanza": "9.762,834 euro",
+        "percentuale_annuale": "0.3%"
+      }
+    ]
+  },
+  "energia_producente": {
+    "tipologia": "Energia Eolica",
+    "importanza": "264,835 kWh",
+    "percentuale_annuale": "0.1%"
+  }
+}
+``` 

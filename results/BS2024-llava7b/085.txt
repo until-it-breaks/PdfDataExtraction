@@ -1,0 +1,31 @@
+INFO: Job done in 15.878s.
+ Sì, ho estratto i dati strutturati rilevanti per la valutazione delle performances di sostenibilità dell'azienda. Elenco le informazioni estratte e le chiavi usate nella struttura JSON:
+
+```json
+{
+  "esercizio": {
+    "descrizione": "2021",
+    "valores_monetari": [322561252.71, 25224985.55]
+  },
+  "sostenibilità": {
+    "indicatore_1": {
+      "denominazione": "Indice di Sostenibilità",
+      "percentuale": "0,6%"
+    },
+    "indicatore_2": {
+      "denominazione": "Indice di Impatto Ambientale",
+      "percentuale": "1,5%"
+    },
+    "indicatore_3": {
+      "denominazione": "Indice di Sostenibilità Sociale",
+      "percentuale": "0,6%"
+    },
+    "indicatore_4": {
+      "denominazione": "Indice di Impatto Economico e Societario",
+      "percentuale": "1,3%"
+    }
+  }
+}
+```
+
+L'immagine presenta una tabella con i valori numerici per quattro indicatori di sostenibilità, insieme ai loro nomi. Ciascun indicatore ha un valore numerico e viene espresso in percentuale del totale dell'esercizio 2021. I valori numerici sono stati estratti dal documento PDF fornito e sono stati salvati senza spazi o accenti, utilizzando la convenzione italiana per scrivere le percentuali. Le unità di misura dei valori numerici non vengono esplicitate, quindi non sono presenti nella struttura JSON fornecita. 

@@ -1,0 +1,76 @@
+{
+    "numero_personale_ta_per_area": [
+        {
+            "area": "ACCE AREA DI CAMPUS CESENA",
+            "numero": 81
+        },
+        {
+            "area": "ACFO AREA DI CAMPUS FORLÌ",
+            "numero": 103
+        },
+        {
+            "area": "ACRA AREA DI CAMPUS RAVENNA",
+            "numero": 59
+        },
+        {
+            "area": "ACRN AREA DI CAMPUS RIMINI",
+            "numero": 81
+        },
+        {
+            "area": "APOS AREA DEL PERSONALE",
+            "numero": 141
+        },
+        {
+            "area": "SSRD STAFF RETTORE E DIRETTORE GENERALE",
+            "numero": 74
+        },
+        {
+            "area": "APAT AREA DEL PATRIMONIO",
+            "numero": 73
+        },
+        {
+            "area": "ARAG AREA FINANZA E CONTABILITÀ",
+            "numero": 93
+        },
+        {
+            "area": "ATES AREA TECNICA EDILIZIA E SOSTENIBILITÀ",
+            "numero": 166
+        },
+        {
+            "area": "ARPAC AREA PATRIMONIO CULTURALE",
+            "numero": 171
+        },
+        {
+            "area": "APAP AREA APPALTI E APPROVVIGIO-NAMENTI",
+            "numero": 44
+        },
+        {
+            "area": "SAM AREA SERVICE AREA MEDICA",
+            "numero": 169
+        },
+        {
+            "area": "AFORM AREA FORMAZIONE E DOTTORATO",
+            "numero": 263
+        },
+        {
+            "area": "ASES AREA SERVIZI STUDENTI",
+            "numero": 105
+        },
+        {
+            "area": "ARIN AREA INNOVAZIONE",
+            "numero": 122
+        },
+        {
+            "area": "APPC AREA PIANIFICAZIONE, PROGRAMMAZIONE, COMUNICAZIONE",
+            "numero": 78
+        },
+        {
+            "area": "CESIA AREA SISTEMI E SERVIZI INFORMATICI",
+            "numero": 157
+        },
+        {
+            "area": "ARIC AREA RICERCA",
+            "numero": 69
+        }
+    ]
+}

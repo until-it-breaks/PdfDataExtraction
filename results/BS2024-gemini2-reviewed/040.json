@@ -1,0 +1,20 @@
+{
+    "numerosita_enti_partecipati": [
+        {
+            "categoria": "Fondazioni",
+            "valore": 67
+        },
+        {
+            "categoria": "Centri Interuniversitari",
+            "valore": 47
+        },
+        {
+            "categoria": "Società",
+            "valore": 9
+        },
+        {
+            "categoria": "Consorzi",
+            "valore": 38
+        }
+    ]
+}

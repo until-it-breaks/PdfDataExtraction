@@ -1,0 +1,39 @@
+INFO: Job done in 24.615s.
+{
+  "title": "When I Grow Up: If Not Siamo Classificabile",
+  "event": {
+    "name": "Collezione di Zoologia",
+    "location": "Bologna Sarà - Transistoria, Bozolo MI",
+    "start_date": "2012-11-13",
+    "end_date": "2024-07-06"
+  },
+  "event": {
+    "name": "Biennale dell'Olio e del Gusto",
+    "location": "Bologna - Salone Internazionale dell'Olio di Bologna, Polo Fiera - Spazio Italiano",
+    "start_date": "2014-03-19",
+    "end_date": "2014-03-23"
+  },
+  "event": {
+    "name": "Biennale dell'Olio e del Gusto",
+    "location": "Bologna - Salone Internazionale dell'Olio di Bologna, Polo Fiera - Spazio Italiano",
+    "start_date": "2016-03-18",
+    "end_date": "2016-03-22"
+  },
+  "event": {
+    "name": "Biennale dell'Olio e del Gusto",
+    "location": "Bologna - Salone Internazionale dell'Olio di Bologna, Polo Fiera - Spazio Italiano",
+    "start_date": "2018-03-16",
+    "end_date": "2018-03-20"
+  },
+  "event": {
+    "name": "Biennale dell'Olio e del Gusto",
+    "location": "Bologna - Salone Internazionale dell'Olio di Bologna, Polo Fiera - Spazio Italiano",
+    "start_date": "2016-03-18",
+    "end_date": "2016-03-22"
+  },
+  {
+    "title": "Bologna Sarà Transistoria",
+    "text": "Bozolo MISentosa - A casa, studiare, abitarre e vivere"
+  },
+  <missing_image_description>
+}

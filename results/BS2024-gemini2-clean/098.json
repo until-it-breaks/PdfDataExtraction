@@ -1,0 +1,53 @@
+{
+    "finanziamenti_dipartimenti": {
+        "unita_di_misura": "euro",
+        "anno": 2023,
+        "dati": [
+            {
+                "dipartimento": "Chimica \"Giacomo Ciamician\"",
+                "finanziamento": 1687792.0
+            },
+            {
+                "dipartimento": "Filologia Classica e Italianistica",
+                "finanziamento": 1444594.0
+            },
+            {
+                "dipartimento": "Ingegneria dell'Energia Elettrica e dell'Informazione \"Guglielmo Marconi\"",
+                "finanziamento": 1819118.0
+            },
+            {
+                "dipartimento": "Psicologia \"Renzo Canestrari\"",
+                "finanziamento": 1313267.0
+            },
+            {
+                "dipartimento": "Scienze Economiche",
+                "finanziamento": 1575921.0
+            },
+            {
+                "dipartimento": "Scienze Giuridiche",
+                "finanziamento": 1575921.0
+            },
+            {
+                "dipartimento": "Scienze Politiche e Sociali",
+                "finanziamento": 1575921.0
+            },
+            {
+                "dipartimento": "Scienze e Tecnologie Agro-Alimentari",
+                "finanziamento": 1819118.0
+            },
+            {
+                "dipartimento": "Delle Arti",
+                "finanziamento": 1444594.0
+            },
+            {
+                "dipartimento": "Scienze Mediche e Chirurgiche",
+                "finanziamento": 1819118.0
+            },
+            {
+                "dipartimento": "Storia, Culture e Civiltà",
+                "finanziamento": 1575921.0
+            }
+        ],
+        "totale": 17651285.0
+    }
+}

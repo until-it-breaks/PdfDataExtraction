@@ -1,0 +1,73 @@
+{
+    "pubblicazioni_unibo_pro_capite_rispetto_al_benchmark_europeo": [
+        {
+            "goal": "GOAL 1",
+            "valore": 100.0
+        },
+        {
+            "goal": "GOAL 2",
+            "valore": 180.0
+        },
+        {
+            "goal": "GOAL 3",
+            "valore": 115.0
+        },
+        {
+            "goal": "GOAL 4",
+            "valore": 100.0
+        },
+        {
+            "goal": "GOAL 5",
+            "valore": 80.0
+        },
+        {
+            "goal": "GOAL 6",
+            "valore": 175.0
+        },
+        {
+            "goal": "GOAL 7",
+            "valore": 195.0
+        },
+        {
+            "goal": "GOAL 8",
+            "valore": 180.0
+        },
+        {
+            "goal": "GOAL 9",
+            "valore": 260.0
+        },
+        {
+            "goal": "GOAL 10",
+            "valore": 120.0
+        },
+        {
+            "goal": "GOAL 11",
+            "valore": 240.0
+        },
+        {
+            "goal": "GOAL 12",
+            "valore": 320.0
+        },
+        {
+            "goal": "GOAL 13",
+            "valore": 70.0
+        },
+        {
+            "goal": "GOAL 14",
+            "valore": 170.0
+        },
+        {
+            "goal": "GOAL 15",
+            "valore": 100.0
+        },
+        {
+            "goal": "GOAL 16",
+            "valore": 90.0
+        },
+        {
+            "goal": "GOAL 17",
+            "valore": 90.0
+        }
+    ],
+    "benchmark_europeo_valore": 100
+}

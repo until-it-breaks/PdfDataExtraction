@@ -1,0 +1,74 @@
+INFO: Job done in 28.088s.
+ L'immagine presenta una serie di grafici e tabelloni che rappresentano le prestazioni di sostenibilità dell'azienda. Dato l'obiettivo di estrarre dati strutturati rilevanti, qui è il risultato:
+
+```json
+{
+  "titolo": "Rapporto sulla valutazione delle performance di sostenibilità dell'azienda",
+  "grafico_1": {
+    "tipologia": "Barra",
+    "valori": {
+      "Sostenibilità Sociale": {
+        "Nuova Zelanda": "82.9%",
+        "Europa": "73.5%",
+        "Asia Pacifico": "61.8%"
+      }
+    },
+    "unità_di_misura": "Percentuale",
+    "label_x": "Continenti",
+    "legenda": {
+      "Sostenibilità Sociale": "Eccellenze"
+    },
+    "immagine": "https://www.example.com/image1.jpg"
+  },
+  "grafico_2": {
+    "tipologia": "Barra",
+    "valori": {
+      "Impacto Ambientale": {
+        "Nuova Zelanda": "4935670",
+        "Europa": "221803",
+        "Asia Pacifico": "126789"
+      }
+    },
+    "unità_di_misura": "Valore monetario (in milioni di dollari)",
+    "label_x": "Continenti",
+    "legenda": {
+      "Impacto Ambientale": "Eccellenze"
+    },
+    "immagine": "https://www.example.com/image2.jpg"
+  },
+  "grafico_3": {
+    "tipologia": "Barra",
+    "valori": {
+      "Impacto Economico": {
+        "Nuova Zelanda": "1978561",
+        "Europa": "102256",
+        "Asia Pacifico": "434528"
+      }
+    },
+    "unità_di_misura": "Valore monetario (in milioni di dollari)",
+    "label_x": "Continenti",
+    "legenda": {
+      "Impacto Economico": "Eccellenze"
+    },
+    "immagine": "https://www.example.com/image3.jpg"
+  },
+  "grafico_4": {
+    "tipologia": "Pizza Chart",
+    "valori": {
+      "Impacto Sociale": [
+        "29.5%",
+        "10.7%",
+        "31.8%"
+      ]
+    },
+    "unità_di_misura": "Percentuale",
+    "label_x": ["Mercato locale", "Fornecimento diretto", "Fornitura indiretta"],
+    "legenda": {
+      "Impacto Sociale": "Eccellenze"
+    },
+    "immagine": "https://www.example.com/image4.jpg"
+  }
+}
+```
+
+La struttura in JSON valido e ben strutturato è stata estratta e si trova nel formato di codice presente nello screenshot. 

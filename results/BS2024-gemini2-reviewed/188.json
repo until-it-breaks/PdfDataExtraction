@@ -1,0 +1,54 @@
+{
+    "serie_storica_consumi_tep": {
+        "unita_di_misura": "Tep",
+        "dati": [
+            {
+                "anno": "2021",
+                "energia_elettrica": 7615,
+                "gas_naturale": 3061,
+                "teleriscaldamento": 3583,
+                "totale": 14461
+            },
+            {
+                "anno": "2022",
+                "energia_elettrica": 7961,
+                "gas_naturale": 2675,
+                "teleriscaldamento": 3237,
+                "totale": 14067
+            },
+            {
+                "anno": "2023",
+                "energia_elettrica": 7752,
+                "gas_naturale": 2283,
+                "teleriscaldamento": 2461,
+                "totale": 12590
+            }
+        ]
+    },
+    "serie_storica_emissioni_tco2": {
+        "unita_di_misura": "tCO2",
+        "dati": [
+            {
+                "anno": "2021",
+                "energia_elettrica": 17640,
+                "gas_naturale": 7480,
+                "teleriscaldamento": 6950,
+                "totale": 32676
+            },
+            {
+                "anno": "2022",
+                "energia_elettrica": 18442,
+                "gas_naturale": 6537,
+                "teleriscaldamento": 6279,
+                "totale": 31824
+            },
+            {
+                "anno": "2023",
+                "energia_elettrica": 17957,
+                "gas_naturale": 5579,
+                "teleriscaldamento": 4774,
+                "totale": 28596
+            }
+        ]
+    }
+}

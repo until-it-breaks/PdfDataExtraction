@@ -1,0 +1,63 @@
+INFO: Job done in 22.731s.
+```json
+{
+  "action3AzioniAziendaPromuovere": [
+    {
+      "description": "Promozione dei mezzi pubblici",
+      "data": null,
+      "percentage": ""
+    },
+    {
+      "description": "Adozione di una flora di alti eco-sostenibili",
+      "data": null,
+      "percentage": ""
+    },
+    {
+      "description": "Contenimento dell'uso della polistico monosulfo",
+      "data": null,
+      "percentage": ""
+    }
+  ],
+  "action4AzioniPiantamento": [
+    {
+      "description": "Piantamento di alberi"
+    },
+    {
+      "description": "Riduzione dell'impatto ambientale del 'Ateneo e migliorare la qualità della vita negli spaghetti universitar",
+      "data": null,
+      "percentage": ""
+    }
+  ],
+  "action5AzioniDematerializzazione": [
+    {
+      "description": "Dismaterialization",
+      "data": [
+        {"name": "per ridurre il consumo di carta", "value": "null"}
+      ]
+    },
+    {
+      "description": "Minimizationi organizzative e straordinarie"
+    }
+  ],
+  "action6AzioniManutenzione": [
+    {
+      "description": "Mantenere l'edificio nell'attuale condizione",
+      "data": [
+        {"name": "per migliorare la qualità della vita negli spaghetti universitar", "value": "null"}
+      ]
+    }
+  ],
+  "action7AzioniErogatoriAcquaMicrofiltrata": [
+    {
+      "description": "Collaboration with the City of Bologna",
+      "data": null,
+      "percentage": ""
+    },
+    {
+      "description": "The 'Ateneo' has become a center for sustainable development.",
+      "data": null,
+      "percentage": ""
+    }
+  ]
+}
+```

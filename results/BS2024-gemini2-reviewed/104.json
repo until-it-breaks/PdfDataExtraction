@@ -1,0 +1,30 @@
+{
+    "dottori_di_ricerca_occupati_per_professione": [
+        {
+            "categoria": "Dottori 2022 a 1 categoria a 1 anno",
+            "ricercatori_e_tecnici_laureati_nell_universita": "50,4%",
+            "altre_professioni_intellettuali_scientifiche_e_di_elevata_spec": "35,5%",
+            "imprenditori_legislatori_e_alta_dirigenza": "5,0%",
+            "formazione_retribuita": "3,5%",
+            "altre_professioni": "4,1%",
+            "non_rispondono": "1,5%"
+        },
+        {
+            "categoria": "Dottori 2020 a 3 anni",
+            "ricercatori_e_tecnici_laureati_nell_universita": "45,4%",
+            "altre_professioni_intellettuali_scientifiche_e_di_elevata_spec": "46,8%",
+            "imprenditori_legislatori_e_alta_dirigenza": "0,7%",
+            "formazione_retribuita": "2%",
+            "altre_professioni": "4,7%",
+            "non_rispondono": "0,3%"
+        },
+        {
+            "categoria": "Dottori 2018 a 5 anni",
+            "ricercatori_e_tecnici_laureati_nell_universita": "40,3%",
+            "altre_professioni_intellettuali_scientifiche_e_di_elevata_spec": "52,1%",
+            "imprenditori_legislatori_e_alta_dirigenza": "2,3%",
+            "formazione_retribuita": "1,9%",
+            "altre_professioni": "3,4%"
+        }
+    ]
+}

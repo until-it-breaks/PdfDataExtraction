@@ -1,0 +1,39 @@
+{
+    "tesserati_cusb": {
+        "numero": 20000
+    },
+    "accessi_strutture": {
+        "milioni": 1
+    },
+    "partecipanti_eventi": {
+        "numero": 13000,
+        "unita_misura": "più di"
+    },
+    "campi_sportivi": {
+        "numero": 30
+    },
+    "impianti_sportivi": {
+        "numero": 9
+    },
+    "atleti_alto_livello": {
+        "numero": 200,
+        "unita_misura": "oltre"
+    },
+    "titoli_europei_2023": {
+        "numero": 3
+    },
+    "titoli_italiani_universitari_2023": {
+        "numero": 11
+    },
+    "discipline": {
+        "numero": 100,
+        "unita_misura": "Più di"
+    },
+    "corsi_sportivi": {
+        "numero": 150,
+        "unita_misura": "Più di"
+    },
+    "sezioni_agonistiche_federali": {
+        "numero": 8
+    }
+}

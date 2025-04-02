@@ -1,0 +1,13 @@
+{
+    "didattica_e_comunita_studentesca": {
+        "corsi_di_studio": {
+            "numero_corsi": 312,
+            "dottorati_di_ricerca": 51
+        },
+        "studenti_iscritti_2023": 87865,
+        "studenti_internazionali": 8060,
+        "numero_laureati": 19783,
+        "borse_di_studio_ergo": 13180,
+        "percentuale_iscritti_in_corso": "81,2%"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "progetti_europei": [
+        {
+            "anno": "2021",
+            "horizon_europe": 0,
+            "horizon_2020": 39,
+            "altri_programmi_europei": 7,
+            "totale": 46
+        },
+        {
+            "anno": "2022",
+            "horizon_europe": 96,
+            "horizon_2020": 0,
+            "altri_programmi_europei": 19,
+            "totale": 115
+        },
+        {
+            "anno": "2023",
+            "horizon_europe": 87,
+            "horizon_2020": 0,
+            "altri_programmi_europei": 24,
+            "totale": 111
+        }
+    ],
+    "finanziamento_progetti_europei": {
+        "unita_di_misura": "migliaia di euro",
+        "dati": [
+            {
+                "anno": "2021",
+                "horizon_europe": 0,
+                "horizon_2020": 17488,
+                "altri_programmi_europei": 769,
+                "totale": 18257
+            },
+            {
+                "anno": "2022",
+                "horizon_europe": 49203,
+                "horizon_2020": 0,
+                "altri_programmi_europei": 4382,
+                "totale": 53585
+            },
+            {
+                "anno": "2023",
+                "horizon_europe": 35868,
+                "horizon_2020": 0,
+                "altri_programmi_europei": 3818,
+                "totale": 39686
+            }
+        ]
+    }
+}

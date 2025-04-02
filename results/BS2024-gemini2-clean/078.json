@@ -1,0 +1,35 @@
+{
+    "eventi_e_partecipanti_2023": [
+        {
+            "attivita": "Job day Isi (Ingegneria e scienze informatiche Campus di Cesena)",
+            "aziende_intervenute": 40
+        },
+        {
+            "attivita": "Recruiting Day Distretto Chimico Navile",
+            "aziende_intervenute": 5,
+            "partecipanti": 193
+        },
+        {
+            "attivita": "Recruiting@DicamWorks",
+            "aziende_intervenute": 8,
+            "partecipanti": 386
+        },
+        {
+            "attivita": "Recruiting Day Scienze mediche veterinarie",
+            "aziende_intervenute": 10,
+            "partecipanti": 74
+        },
+        {
+            "attivita": "Career Day (in presenza)",
+            "aziende_intervenute": 171,
+            "partecipanti": 3693
+        },
+        {
+            "attivita": "Servizio Job Placement di Ateneo",
+            "n_annunci_postati": 5064,
+            "n_aziende_accreditate": 1105,
+            "n_cv_consultati": 64592,
+            "totale_aziende_accreditate": 9424
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "valore_distribuito": {
+        "unita_di_misura": "mln di €",
+        "voci": [
+            {
+                "nome": "Pubblica Amministrazione",
+                "2021": 23.1,
+                "2022": 24.6,
+                "2023": 26.3
+            },
+            {
+                "nome": "Fornitori",
+                "2021": 117.5,
+                "2022": 139.5,
+                "2023": 143.5
+            },
+            {
+                "nome": "Trasferimenti Passivi verso Terzi",
+                "2021": 25.7,
+                "2022": 34.9,
+                "2023": 41.9
+            },
+            {
+                "nome": "Interventi per studenti/esse",
+                "2021": 91.7,
+                "2022": 113.0,
+                "2023": 123.8
+            },
+            {
+                "nome": "Risorse Umane",
+                "2021": 384.0,
+                "2022": 412.3,
+                "2023": 469.1
+            },
+            {
+                "nome": "Totale",
+                "2021": 642.0,
+                "2022": 724.3,
+                "2023": 804.6
+            }
+        ]
+    },
+    "valore_economico_trattenuto_2023": {
+        "unita_di_misura": "mln",
+        "voci": [
+            {
+                "nome": "Ammortamenti e svalutazioni",
+                "valore": 40,
+                "percentuale": "26%"
+            },
+            {
+                "nome": "Accantonamenti per rischi e oneri",
+                "valore": 15,
+                "percentuale": "10%"
+            },
+            {
+                "nome": "Oneri diversi di gestione",
+                "valore": 30,
+                "percentuale": "19%"
+            },
+            {
+                "nome": "Utile d'esercizio",
+                "valore": 68,
+                "percentuale": "45%"
+            },
+            {
+                "nome": "Totale",
+                "valore": 153,
+                "percentuale": "100%"
+            }
+        ]
+    },
+    "acquisti_green": {
+        "percentuale_2023": "17%",
+        "percentuale_2022": "16%",
+        "target_2024": "18%"
+    }
+}

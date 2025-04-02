@@ -1,0 +1,19 @@
+{
+    "destinazione_uso_patrimonio_edilizio": {
+        "aule_e_laboratori": "30,4%",
+        "studi_e_uffici": "19,8%",
+        "depositi_e_locali_tecnici": "18,5%",
+        "ospedale": "14,4%",
+        "biblioteche_e_musei": "6,3%",
+        "spazi_per_gli_studenti_impianti_sportivi_e_alloggi": "6,1%",
+        "altro": "4,5%"
+    },
+    "progetto_di_sviluppo": {
+        "investimenti_triennio_2023_2025": {
+            "valore": 179,
+            "unita_di_misura": "milioni di euro"
+        },
+        "interventi": 48,
+        "interventi_con_cofinanziamento_mur": 32
+    }
+}

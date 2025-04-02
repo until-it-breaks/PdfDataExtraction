@@ -1,0 +1,29 @@
+INFO: Job done in 18.990s.
+ ```json
+{
+  "sostenibilità": {
+    "azienda": "",
+    "bilancio": "",
+    "esistenza_impegno_duratura": {
+      "valore": "100",
+      "unità_monetaria": "€"
+    },
+    "contenimento_informazione": {
+      "indicatore_proportionalità_risorse_innovative": {
+        "valore": "68,9",
+        "unità_monetaria": "€"
+      }
+    },
+    "risposta_ambientale": {
+      "indicatore_emissioni_greenhouse": {
+        "valore": "100",
+        "unità_monetaria": "€"
+      },
+      "risorse_innovative": {
+        "valore": "32.561.252",
+        "unità_monetaria": "€"
+      }
+    }
+  }
+}
+``` 

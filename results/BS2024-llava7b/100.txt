@@ -1,0 +1,64 @@
+INFO: Job done in 23.466s.
+ ```json
+{
+  "azienda": {
+    "nome": "US INVESTIMENTO NELLA PRODUZIONE E DISTRIBUTIONE DEL GAS NATURALE"
+  },
+  "annualita": "2016-2020",
+  "indicatori_sostenibilità": [
+    {
+      "titolo": "Indici di sostenibilità dell'azienda",
+      "elementi": [
+        {
+          "titolo": "Risorse Umane",
+          "valori": {
+            "2016": "3,17",
+            "2017": "2,89",
+            "2018": "3,25",
+            "2019": "4,19",
+            "2020": "4,57"
+          },
+          "unità_misura": "Persone impiegate",
+          "note": "Inclusa anche i provvedimenti e le attività di sviluppo umano"
+        },
+        {
+          "titolo": "Rischio ambientale",
+          "valori": {
+            "2016": "1,38",
+            "2017": "1,35",
+            "2018": "1,32",
+            "2019": "1,30",
+            "2020": "1,28"
+          },
+          "unità_misura": "Rischio ambientale nel 10% dei volumi di gas naturale venduto",
+          "note": "Inclusa anche le attività di sviluppo e protezione dell'ambiente"
+        },
+        {
+          "titolo": "Risorse economiche",
+          "valori": {
+            "2016": "9,457,58",
+            "2017": "10,327,10",
+            "2018": "11,092,52",
+            "2019": "12,643,71",
+            "2020": "13,418,12"
+          },
+          "unità_misura": "Euro",
+          "note": "Inclusa anche i volumi di gas naturale venduto e il fatturato"
+        }
+      ]
+    },
+    {
+      "titolo": "Contributo alla sostenibilità",
+      "valori": [
+        "3,17",
+        "2,89",
+        "3,25",
+        "4,19",
+        "4,57"
+      ],
+      "unità_misura": "Persone impiegate",
+      "note": "Inclusa anche le attività di sviluppo umano e ambientale"
+    }
+  ]
+}
+``` 

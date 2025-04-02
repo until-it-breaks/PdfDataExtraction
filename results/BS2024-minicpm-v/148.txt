@@ -1,0 +1,36 @@
+INFO: Job done in 17.509s.
+```json
+{
+  "contratti": [
+    {
+      "Livello": ["nazione regionale"],
+      "Anno": [2013],
+      "Importo": ["2.330.000,00"]
+    },
+    {
+      "Livello": ["regionale"],
+      "Anno": [2015],
+      "Importo": [
+        {"Contrattanti": [
+          {"Più Importante": true},
+          {"Più Importante": false}
+        ]}, 
+        {"Più Importante": true},
+        {"Più Importante": false}
+      ]
+    }
+  ],
+  "Valori": ["322.561.252,71"],
+  "Percentuali": [
+    {
+      "Livello": ["nazione regionale", "regionale", "internazionale"],
+      "Importo": [
+        {"Più Importante": true},
+        {"Più Importante": false}
+      ]
+    }
+  ],
+  "Contratti": [86],
+  "Importo": [2.330.000,00]
+}
+```

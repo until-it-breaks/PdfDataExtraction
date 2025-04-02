@@ -1,0 +1,43 @@
+INFO: Job done in 40.336s.
+ ```json
+{
+  "titolo": "Bilancio di sostenibilità",
+  "valore_totale": "4.561.234 euro",
+  "indicatore_sostenibilità": "322.561.252,71 euro",
+  "percentuale_sostenibilità": "85.96%",
+  "rendita_azienda": {
+    "valore": "211.456 euro",
+    "perc_aumento": "0.36%"
+  },
+  "investimenti_sostenibilità": {
+    "valore": "897.345 euro",
+    "indice_investimento_sostenibile": "1.234"
+  },
+  "percentuale_investimento_sostenible": "0.36%",
+  "indicatore_finanziamento": {
+    "valore": "987.567 euro",
+    "perc_aumento": "-10.24%"
+  },
+  "percentuale_finanziamento": "0.36%",
+  "indicatore_occupazione": {
+    "valore": "1587.333 euro",
+    "perc_aumento": "-2.34%"
+  },
+  "percentuale_occupazione": "0.36%",
+  "dettaglio_azienda": {
+    "valore": "987.567 euro",
+    "perc_aumento": "-2.34%"
+  },
+  "percentuale_dettaglio_azienda": "0.36%",
+  "indicatore_attività": {
+    "valore": "987.567 euro",
+    "perc_aumento": "-2.34%"
+  },
+  "percentuale_attività": "0.36%",
+  "indicatore_innovazione": {
+    "valore": "987.567 euro",
+    "perc_aumento": "-2.34%"
+  },
+  "percentuale_innovazione": "0.36%"
+}
+``` 

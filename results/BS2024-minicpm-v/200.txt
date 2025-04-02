@@ -1,0 +1,36 @@
+INFO: Job done in 16.784s.
+```json
+{
+  "total": {
+    "students": [
+      { "age": "", "category": "" },
+      { "age": "", "category": "" }
+    ],
+    "staff": []
+  },
+  "beneficiaries": [
+    {
+      "category": ["studenti", "studenti erasmus"],
+      "count": ""
+    },
+    {
+      "category": ["dottorandi", "altre categorie"],
+      "count": ""
+    },
+    {
+      "category": "personale (docente e TA)",
+      "count": ""
+    }
+  ],
+  "total_subscriptions": "",
+  "annual_cost": "1.305.000 euro",
+  "eco_fleet": [
+    { "type": "", "vehicles": "" },
+    {
+      "electric_vehicles": "",
+      "bi-fuel_vehicles": "",
+      "double_fuel_diesel_electric": ""
+    }
+  ]
+}
+```

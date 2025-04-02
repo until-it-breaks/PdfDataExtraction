@@ -1,0 +1,40 @@
+INFO: Job done in 26.813s.
+```json
+{
+  "figura93": {
+    "titolo": "Rifiuti speciali smalliti (in kg)²³",
+    "data1": [
+      ["2021", "182.116"],
+      ["2022", "182.175"],
+      ["2023", "192.175"]
+    ],
+    "totale": {
+      "Rifiuti speciali da laboratorio": [
+        ["2021", "120,619"],
+        ["2022", "128.978"],
+        ["2023", "132.043"]
+      ],
+      "Rifiuti sanitari": [
+        ["2021", "66.265"],
+        ["2022", "61.497"],
+        ["2023", "63.197"]
+      ],
+      "Totale": [
+        ["2021", "81,212"],
+        ["2022", "83.596"],
+        ["2023", "84.971"]
+      ]
+    }
+  },
+  "workshop": {
+    "titolo": "Cessioni di beni mobili",
+    "testo": [
+      "La cessione dei beni rappresenta l'unificazione dell'efficacia aziendale da previsione dei rifiuti. In questo quadro l'Ateneo di Bologna ha partecipato attivamente dall'atto laboratorio del settoreggiamento 'Cessione Beni Mobili del GdL Risorse e Rifiuti della RUSS che ha analizzato gli ostellati alla cessione dei beni mobili degli Atenesi, e che cerca strategie per l'amministrazione il loro vitae utile. Sono state predisposte specifiche Linee guida che è raccologono informazioni utili agli atenieri per averli proceduto attraverso il proprio lavoro.",
+      "Si teme che una cessione di beni mobili possa promuovere la diffusione tra gli atenari italiani e stato organizzato dal Ateneo a febbraio 2023.",
+      "Di conseguenza lo sono anche quelli sul totale."
+    ]
+  }
+}
+```
+Note:
+- Per l'immagine non corrispondente al criterio di rilevanza, il JSON restituito è vuoto (`{}`).

@@ -1,0 +1,61 @@
+INFO: Job done in 18.549s.
+```json
+{
+  "qr_world_university_ranking": {
+    "italia": [
+      {"154 degrees": ["QS World University Ranking", "1"]},
+      {"30%": []}
+    ],
+    "mondo": [
+      {"156 degrees": []}
+    ]
+  },
+  "times_higher_education_world_ranking": {
+    "italia": [
+      {"159 degrees": []}
+    ],
+    "mondo": [
+      {"180 degrees": []},
+      {"3%": []}
+    ]
+  },
+  "qs_sustainability_quality": {
+    "italia": [
+      {"126.74 points": ["QS Sustainability Quality", "108"]},
+      {"59.80 points": []}
+    ],
+    "mondo": [
+      {"3%": []}
+    ]
+  },
+  "the_impact_sdg_5_un_2030": {
+    "italia": [
+      {"64.76 points": ["The Impact SDG's UN 2030 (Uguaglianza Generale)", "108"]},
+      {"5%": []}
+    ],
+    "mondo": [
+      {"29.24 points": []},
+      {"2 degrees": []}
+    ]
+  },
+  "green_meter": {
+    "italia": [
+      {"36 months": ["Green Meter", "108"]},
+      {"7%": []}
+    ],
+    "mondo": [
+      {"15 years": []},
+      {"4" + " years": []}
+    ]
+  },
+  "censis": {
+    "italia": [
+      {"32.65 points": ["Censis", "108"]},
+      {"7%": []}
+    ],
+    "mondo": [
+      {"39 months": []}
+    ]
+  }
+}
+```

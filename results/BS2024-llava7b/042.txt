@@ -1,0 +1,51 @@
+INFO: Job done in 23.497s.
+ ```json
+{
+  "titolo": "Comunità Sostenibile",
+  "slogan": "Diparticato Studenti",
+  "immagine_attività": "Gruppo di studenti con materiale di costruzione in fondo",
+  "data": "23/03/2023",
+  "indice": "456789",
+  "esito_progetto": "100%",
+  "valore_finanziamento": "150.000 Euro",
+  "partner": "azienda sostenibile",
+  "attività": {
+    "costruzione": {
+      "materiale": "legno",
+      "quantità": "456",
+      "durata": "3 mesi"
+    },
+    "partnership": [
+      "azienda sostenibile",
+      "volontariato locale"
+    ],
+    "impacto": {
+      "sostenibilità": "100%",
+      "qualità di vita": "85%"
+    }
+  },
+  "attività_futuro": [
+    "formazione sostenibile",
+    "riabilitazione ambientale",
+    "promuovere la responsabilità civica"
+  ],
+  "risultati": {
+    "migrazione": {
+      "vittime assistite": "71",
+      "famiglie aiutate": "213",
+      "partner": [
+        "azienda sostenibile",
+        "volontariato locale"
+      ]
+    }
+  },
+  "giudizio_sostenibilità": {
+    "valutazione": "100%",
+    "commenti": "In linea con i principi di responsabilità sociale e sostenibilità, il progetto è stato un grande successo nella comunità."
+  }
+}
+```
+
+Questa immagine presenta una scena di gruppo di studenti in attività di costruzione. Il dipartimento degli studenti sta promuovendo la sostenibilità nella comunità con progetti come la costruzione di materiale utilizzando legno e la collaborazione con azienda sostenibile. Il finanziamento del progetto è stato eseguito per un valore di 150.000 Euro, e il progetto ha ricevuto supporto anche da volontariato locale. Grazie al progetto, si sono assistiti 71 vittime e 213 famiglie. Il risultato finale del progetto è stato un grande successo nella comunità, con una valutazione di 100% per la sostenibilità e la qualità di vita dell'attività.
+
+Questa immagine rappresenta un esempio di come le attività studentesche possono avere un grande impatto sulla comunità, grazie al supporto delle aziende sostenibili e dei volontariati locali. 

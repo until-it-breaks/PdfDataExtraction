@@ -1,0 +1,66 @@
+INFO: Job done in 40.612s.
+```json
+{
+  "Figura_41-Dipartimenti_eccellenti-Finanziamenti_23-27": {
+    "Scienze_Mediche_e_Chirurgiche": {
+      "Valore": 9.095.590,
+      "Posizione": "1"
+    },
+    "Scienze_e_Tecnologie_Agro-alimentari": {
+      "Valore": 9.095.590,
+      "Posizione": "2"
+    },
+    "Ingegneria_\"Guglielmo_Marconi\":": {
+      "Valore": 8.438.960,
+      "Posizione": "17"
+    },
+    "Chimica_\"Gacomo_Ciamician\":": {
+      "Valore": 7.879.605,
+      "Posizione": "24-27"
+    },
+    "Storia_Cultura_e_Civiltà": {
+      "Valore": 7.879.605,
+      "Posizione": "31-33"
+    },
+    "Scienze_Politiche_e_Sociali": {
+      "Valore": 7.879.605,
+      "Posizione": "42-44"
+    },
+    "Scienze_Giuridiche": {
+      "Valore": 7.879.605,
+      "Posizione": "31-33"
+    },
+    "Scienze_Economiche": {
+      "Valore": 7.879.605
+    },
+    "Delle_Arti": {
+      "Valore": 24.222.790,
+      "Posizione": "1-3"
+    },
+    "Filologia_Classica_e_Italianistica": {
+      "Valore": 24.222.790
+    },
+    "Psicologia_\"Renzo_Canestrari\":": {
+      "Valore": 6.566.335,
+      "Posizione": "1-3"
+    }
+  },
+  "Progetti_di_Rilevante_Interesse_Nazionale": {
+    "Scienze_Fisiche": {
+      "Valore": 9.095.590
+    },
+    "Scienze_Economiche": {
+      "Valore": 8.438.960,
+      "Posizione": "1-7"
+    }
+  },
+  "Progetti_FIS": {
+    "Valore": [24.222.790, 24.222.790],
+    "Posizione": ["Delle Arti", "Filologia Classica e Italianistica"]
+  },
+  "Fondo_italiano_per_le_Scienze": {
+    "Valore": [38.315.614, '€'],
+    "Posizione": ['Scienze Fisiche']
+  }
+}
+```

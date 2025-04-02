@@ -1,0 +1,31 @@
+INFO: Job done in 26.802s.
+```json
+{
+  "C. PERSONALE": {
+    "6.2.1 PERSONALE AMMINISTRATIVO INTECNICO": {
+      "Nelle ultime tre Annate": [
+        {
+          "2023": {
+            "Full-time": 2922,
+            "Part-time": 320
+          },
+          "2022": {
+            "Full-time": 2820,
+            "Part-time": 333
+          },
+          "2021": {
+            "Full-time": 2660,
+            "Part-time": 350
+          }
+        }
+      ]
+    },
+    "Figura 65 - Personale T con contratto Full-Time o Part-time (2023)": [
+      <table>
+        <tr><th></th><th>Full-time</th><th>Part-time</th><th>Totali</th></tr>
+        <tr><td>Personale Tecnico-aministrativo: 18 dirigenti compreso il Direttore Generale, 3.140 dipendenti,</td><td>2922</td><td>320</td><td>3242 unità.</td></tr>
+      </table>
+    ]
+  }
+}
+```

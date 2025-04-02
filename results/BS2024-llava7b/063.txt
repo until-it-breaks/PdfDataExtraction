@@ -1,0 +1,6 @@
+INFO: Job done in 8.280s.
+ Lo sforzo per estrarre dati strutturati rilevanti dal documento fornito è notevole. Tuttavia, il documento sembra essere un documento testuale anziché un bilancio di sostenibilità o alcun altro tipo di rapporto finanziario, che avrebbe contenuto tabelle, grafici e infografiche che presentano dati numerici.
+
+Il documento è composto da una serie di paragrafi testuali che non forniscono informazioni quantitative o numeriche. Inoltre, non c'è nessuna tabella, grafico o infografia che possa essere analizzata per estrarre dati.
+
+In questo caso, non è possibile restituire un JSON valido e ben strutturato, poiché il documento non fornisce informazioni quantitative o numeriche rilevanti. 

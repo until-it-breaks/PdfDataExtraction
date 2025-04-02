@@ -1,0 +1,60 @@
+INFO: Job done in 38.026s.
+{
+  "University": {
+    "total_students": "600.000",
+    "students_per_university": "100.000"
+  },
+  "European Degree Label": "UNIVERSITÀ EUROPEA DEGREE LABEL",
+  "Interdisciplinary Fields of Study": [
+    "EUROPEAN UNIVERSITY",
+    "EUROPEAN COLLEGE OF MANAGEMENT AND ECONOMICS",
+    "EUROPEAN SCHOOL OF DESIGN"
+  ],
+  "Academic Staff and Technicians in Administrative Roles": "100.000 PERSONALE DOCENTE E TECNICO AMMINISTRATIVO",
+  "Partners Associated with the Project for Financial Innovation of Europe": "38 PARTNER ASSOCIATEI NEL PROGETTO FINANZIATO FINANZIATO DELLO EUROPE",
+  "European Commission Support and Activity Projects": [
+    {
+      "total_projects": "60.000 PROJECTS SUPPORTED BY THE EUROPEAN COMMISSION",
+      "funding in euros": "639.281.457,00"
+    },
+    "EUROPEAN REGIONAL DEVELOPMENT FUND - ERDF (2007-2013)",
+    "EUROPEAN INTEGRATION FUND - EITF",
+    "EUROPEAN UNION STRUCTURAL FUNDS (European Social Fund and European Regional Development Fund) - 28.654 PROJECTS SUPPORTED BY THE EUROPEAN COMMISSION",
+    "TOTAL EU AID FOR GROWTH AND JOBS: OVER €103 BILLION"
+  ],
+  "University of Bologna's Internationalization Process": [
+    {
+      "international cooperation programs and projects implemented for the capacity-building initiative, carried out in collaboration with leading institutions around the world": "28 COORDINATED DIRECTLY BY THE UNIVERSITY OF BOLOGNA IN ITS INTERNATIONAL PROGRAMMES AND PROJECTS"
+    },
+    {
+      "worldwide universities involved (15): University of Rome I - La Sapienza,
+        Central European University, National University of Ireland Galway
+        North Carolina State University - USA",
+        Utrecht University in the Netherlands; Bocconi School for Management and Economics at Università Cattolica del Sacro Cuore in Milan;
+        CNRS-Sciences Po Paris"
+    },
+    "European universities involved (15): University of Rome I, Central European University,
+      National University of Ireland Galway
+      North Carolina State University - USA",
+      Utrecht University in the Netherlands; Bocconi School for Management and Economics at Università Cattolica del Sacro Cuore in Milan;
+      CNRS-Sciences Po Paris"
+    },
+    "UNIVERSITY OF BOLOGNA INTERNATIONAL PROJECTS SUPPORTED BY THE EUROPEAN COMMISSION": [
+      {
+        "number of projects supported by the European Commission's Erasmus+ programme, with funding over €342 million for 68 different countries": "OVER 19.000"
+      },
+      "TOTAL: OVER€5 BILLION IN FUNDING FOR ERASMUS PROGRAMMES",
+      "UNIVERSITY OF BOLOGNA INTERNATIONAL PROJECTS SUPPORTED BY THE EUROPEAN COMMISSION'S HORIZON 2020 PROGRAMME": [
+        {
+          "over €163 million in funding over a period of seven years for research and innovation projects related to climate change, energy transition, sustainable development and more specifically the circular economy": "OVER €163 MILLION IN FUNDING OVER A PERIOD OF SEVEN YEARS FOR RESEARCH AND INNOVATION PROJECTS RELATED TO CLIMATE CHANGE"
+        },
+        {
+          "over €50 million for research projects on data protection in electronic communication networks, including smart grids and energy systems": "OVER€ 50 MILLION IN FUNDING OVER A PERIOD OF SEVEN YEARS FOR RESEARCH AND INNOVATION PROJECTS RELATED TO DATA PROTECTION"
+        }
+      ]
+    ],
+    {
+      "over €673 million for research projects on sustainable development, renewable energies and other environmental issues": "OVER€ 50 MILLION IN FUNDING OVER A PERIOD OF SEVEN YEARS FOR RESEARCH AND INNOVATION PROJECTS RELATED TO DATA PROTECTION"
+    }
+  ]
+}

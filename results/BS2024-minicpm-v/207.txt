@@ -1,0 +1,270 @@
+INFO: Job done in 62.063s.
+{
+  "GRI_202": {
+    "Presence_on_market": [
+      {
+        "title": "Rapporto tra lo stipendio standard dei neo-assunti e lo stipendio minimo Locale per secco",
+        "value": "Non Applicable"
+      },
+      {
+        "title": "Percentuale di seniores in management assunti che provengono dalla comunita locale",
+        "value": 202-1
+      }
+    ],
+    "index": [
+      {
+        "title": "Le remunerazioni sono stabilite sulla base delle categorie contrattuali come da contrattazione collettiva",
+        "value": "Non Applicable"
+      },
+      {
+        "title": "La disciplina dell'assunzione del personale dell'Ateneo è definita per legge in base a procedure di valutazione comparativa e ai bandi di concorso pubblico, nonché il rispetto della normativa e del diritto al lavoro delle persone con disabilità",
+        "value": 202-2
+      }
+    ]
+  },
+  "GRI_203": {
+    "Economic_influences_on_directors": [
+      {
+        "title": "Investimenti in infrastruttura e servizi-supporti",
+        "subpoints": [
+          {
+            "title": "Patrimonio culturale (musei, biblioteche)",
+            "value": 7.4
+          },
+          {
+            "title": "Sport e salute",
+            "subpoints": [
+              {
+                "title": "Politiche energetiche e consumi",
+                "value": "Not Applicable"
+              },
+              {
+                "title": "Il patrimonio edilizio",
+                "value": 8.2
+              }
+            ]
+          },
+          {
+            "title": "Valore economico",
+            "value": 3
+          },
+          {
+            "title": "Servizi alla comunita studentesca",
+            "subpoints": [
+              {
+                "title": "Personale tecnico amministrativo (welfare del Ateneo)",
+                "value": "Not Applicable"
+              },
+              {
+                "title": "Azione i favore della sostenibilita' (network per la sostenibilita')",
+                "value": 8.3
+              }
+            ]
+          },
+          {
+            "title": "Ricerca",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "title": "Valore economico distribuito",
+        "subpoint": [
+          {
+            "title": "Percentuale di spesa concentrata su fornitori locali",
+            "value": "Not Applicable"
+          }
+        ]
+      }
+    ],
+    "index": [
+      {
+        "title": "Patrimonio culturale (musei, biblioteche)",
+        "value": 7.4
+      },
+      {
+        "title": "Sport e salute",
+        "subpoints": [
+          {
+            "title": "Politiche energetiche e consumi",
+            "value": "Not Applicable"
+          },
+          {
+            "title": "Il patrimonio edilizio",
+            "value": 8.2
+          }
+        ]
+      },
+      {
+        "title": "Valore economico",
+        "value": 3
+      },
+      {
+        "title": "Servizi alla comunita studentesca",
+        "subpoints": [
+          {
+            "title": "Personale tecnico amministrativo (welfare del Ateneo)",
+            "value": "Not Applicable"
+          },
+          {
+            "title": "Azione i favore della sostenibilita' (network per la sostenibilita')",
+            "value": 8.3
+          }
+        ]
+      },
+      {
+        "title": "Ricerca",
+        "value": 5
+      }
+    ],
+    "index": [
+      {
+        "title": "Patrimonio culturale (musei, biblioteche)",
+        "value": 7.4
+      },
+      {
+        "title": "Sport e salute",
+        "subpoints": [
+          {
+            "title": "Politiche energetiche e consumi",
+            "value": "Not Applicable"
+          },
+          {
+            "title": "Il patrimonio edilizio",
+            "value": 8.2
+          }
+        ]
+      },
+      {
+        "title": "Valore economico",
+        "value": 3
+      },
+      {
+        "title": "Servizi alla comunita studentesca",
+        "subpoints": [
+          {
+            "title": "Personale tecnico amministrativo (welfare del Ateneo)",
+            "value": "Not Applicable"
+          },
+          {
+            "title": "Azione i favore della sostenibilita' (network per la sostenibilita')",
+            "value": 8.3
+          }
+        ]
+      },
+      {
+        "title": "Ricerca",
+        "value": 5
+      }
+    ],
+    "index": [
+      {
+        "title": "Patrimonio culturale (musei, biblioteche)",
+        "value": 7.4
+      },
+      {
+        "title": "Sport e salute",
+        "subpoints": [
+          {
+            "title": "Politiche energetiche e consumi",
+            "value": "Not Applicable"
+          },
+          {
+            "title": "Il patrimonio edilizio",
+            "value": 8.2
+          }
+        ]
+      },
+      {
+        "title": "Valore economico",
+        "value": 3
+      },
+      {
+        "title": "Servizi alla comunita studentesca",
+        "subpoints": [
+          {
+            "title": "Personale tecnico amministrativo (welfare del Ateneo)",
+            "value": "Not Applicable"
+          },
+          {
+            "title": "Azione i favore della sostenibilita' (network per la sostenibilita')",
+            "value": 8.3
+          }
+        ]
+      },
+      {
+        "title": "Ricerca",
+        "value": 5
+      }
+    ],
+    "index": [
+      {
+        "title": "Patrimonio culturale (musei, biblioteche)",
+        "value": 7.4
+      },
+      {
+        "title": "Sport e salute",
+        "subpoints": [
+          {
+            "title": "Politiche energetiche e consumi",
+            "value": "Not Applicable"
+          },
+          {
+            "title": "Il patrimonio edilizio",
+            "value": 8.2
+          }
+        ]
+      },
+      {
+        "title": "Valore economico",
+        "value": 3
+      },
+      {
+        "title": "Servizi alla comunita studentesca",
+        "subpoints": [
+          {
+            "title": "Personale tecnico amministrativo (welfare del Ateneo)",
+            "value": "Not Applicable"
+          },
+          {
+            "title": "Azione i favore della sostenibilita' (network per la sostenibilita')",
+            "value": 8.3
+          }
+        ]
+      },
+      {
+        "title": "Ricerca",
+        "value": 5
+      }
+    ],
+    "index": [
+      {
+        "title": "Patrimonio culturale (musei, biblioteche)",
+        "value": 7.4
+      },
+      {
+        "title": "Sport e salute",
+        "subpoints": [
+          {
+            "title": "Politiche energetiche e consumi",
+            "value": "Not Applicable"
+          },
+          {
+            "title": "Il patrimonio edilizio",
+            "value": 8.2
+          }
+        ]
+      },
+      {
+        "title": "Valore economico",
+        "value": 3
+      },
+      {
+        "title": "Servizi alla comunita studentesca",
+        "subpoints": [
+          {
+            "title": "Personale tecnico amministrativo (welfare del Ateneo)",
+            "value": "Not Applicable"
+          },
+          {
+            "title": "Azione i favore della sostenibilita' (network per la

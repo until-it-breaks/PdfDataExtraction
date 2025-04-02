@@ -1,0 +1,47 @@
+INFO: Job done in 17.866s.
+ {
+  "sostenibilità": [
+    {
+      "tipo_sostenibilità": "Alimentazione",
+      "percentuale": "96.57%",
+      "valore_in_moneta": "406125,68 euro",
+      "anno": "2021"
+    },
+    {
+      "tipo_sostenibilità": "Energia",
+      "percentuale": "99.37%",
+      "valore_in_moneta": "23500,68 euro",
+      "anno": "2021"
+    },
+    {
+      "tipo_sostenibilità": "Acqua",
+      "percentuale": "94.90%",
+      "valore_in_moneta": "6836,56 euro",
+      "anno": "2021"
+    },
+    {
+      "tipo_sostenibilità": "Trasporti",
+      "percentuale": "93.47%",
+      "valore_in_moneta": "52692,54 euro",
+      "anno": "2021"
+    },
+    {
+      "tipo_sostenibilità": "Rifiuti",
+      "percentuale": "95.73%",
+      "valore_in_moneta": "3861,47 euro",
+      "anno": "2021"
+    },
+    {
+      "tipo_sostenibilità": "Difesa ambientale",
+      "percentuale": "97.50%",
+      "valore_in_moneta": "28606,46 euro",
+      "anno": "2021"
+    },
+    {
+      "tipo_sostenibilità": "Impacto sociale",
+      "percentuale": "96.70%",
+      "valore_in_moneta": "38514,32 euro",
+      "anno": "2021"
+    }
+  ]
+} 

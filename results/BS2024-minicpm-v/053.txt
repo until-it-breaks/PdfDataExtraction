@@ -1,0 +1,105 @@
+INFO: Job done in 33.863s.
+```json
+{
+  "title": "Laurea magistrale",
+  "subtitle": "Didattica e Comunità Studentesca",
+  "data": {
+    "2013-2023": [
+      {
+        "university": "Unibo",
+        "percentage": "78,3%"
+      },
+      {
+        "university": "Italia*",
+        "percentage": "4,1%"
+      },
+      {
+        "university": "Grandi Atenei*",
+        "percentage": "2,0%"
+      }
+    ],
+    "2021-2023": [
+      {
+        "university": "Unibo",
+        "percentage": "79,5%"
+      },
+      {
+        "university": "Italia*",
+        "percentage": "4,6%"
+      },
+      {
+        "university": "Grandi Atenei*",
+        "percentage": "2,1%"
+      }
+    ],
+    "2020-2022": [
+      {
+        "university": "Unibo",
+        "percentage": "75,9%"
+      },
+      {
+        "university": "Italia*",
+        "percentage": "4,6%"
+      },
+      {
+        "university": "Grandi Atenei*",
+        "percentage": "2,1%"
+      }
+    ],
+    "Laurea magistrale a ciclo unico": [
+      {
+        "university": "Unibo",
+        "percentage": "73,8%",
+        "students": 5.181
+      },
+      {
+        "university": "Italia*",
+        "percentage": "4,2%"
+      },
+      {
+        "university": "Grandi Atenei*",
+        "percentage": "0%"
+      }
+    ],
+    "Laureati interventisti":
+      [
+        {
+          "occupied": "Occupati", 
+          "percentage": "67.593%"
+        },
+        {
+          "non_occupants_with_formations": "Non occupati ma impegnati in formazione post-laurea (non retribuita)", 
+          "percentage": "4,1%"
+        },
+        {
+          "non_employed_after_formations": "Né occupati né impegnati in formazione post-laurea", 
+          "percentage": "2.048"
+        }
+      ],
+    "Laureati interventisti a ciclo unico":
+      [
+        {
+          "occupied": "Occupati",
+          "percentage": "6,375%"
+        },
+        {
+          "non_occupants_with_formations": "Non occupati ma impegnati in formazione post-laurea (non retribuita)",
+          "percentage": "12.9%"
+        },
+        {
+          "non_employed_after_formations": "Né occupati né impegnati in formazione post-laurea",
+          "percentage": "34"
+        }
+      ]
+  },
+  "source": [
+    "Fonte: AlmaLaurea – Indagine 2023 sulla condizione sostenziale.",
+    "* N°75 Atenei italiani coinvolti. | Grandi Atenei sono uno",
+    "| Bologna, Milano, Napoli Federico II, Padova, Roma Sapienza e Torino."
+],
+"additional_info": "La formazione post laurea o magistrale comprese: per i laureati con la laurea triennale, corso di 2° livello, tirocinio/praticantato, scuola di specializzazione o master universitario di 1° livello; per i laureati magistrali o gli magistrati a ciclo unico: tirconnino/praticantato, dottorato, scuola da specializzazione o master universitario di 1° o 2° livello.",
+"credit": "Fonte: AlmaLaurea – Indagine 2023 sulla condizione sostenziale.",
+"note": "Nè occupati né impegnati in formazione post-laurea",
+"page_number": "53"
+}
+```

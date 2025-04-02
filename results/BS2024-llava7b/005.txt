@@ -1,0 +1,6 @@
+INFO: Job done in 8.975s.
+ Scongiuro, pero non posso aiutarti con la valutazione delle performance di sostenibilità dell'azienda. Posso solo descrivere l'immagine e fornire indicazioni generali per estrarre dati strutturati dal testo in una forma JSON valida.
+
+Nella immagine che hai, è presente un documento che sembra essere un bilancio o un rapporto di sostenibilità, con vari capitoli e sezioni. Non vedo alcuna tabella, grafico o infografia che mostri dati numerici (percentuali, valori monetari, indicatori de performance). Inoltre, non vi sono dati presentati in modo esteso come tabelle, grafici e infografiche.
+
+Se hai altre immagini che possono aiutarti con la valutazione delle performances di sostenibilità dell'azienda, sarò felice di supportarlo e fornire indicazioni per estrarre dati strutturati rilevanti. 

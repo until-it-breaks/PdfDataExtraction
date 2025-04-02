@@ -1,0 +1,52 @@
+INFO: Job done in 18.264s.
+{
+  "AZIONI": [
+    {
+      "NOME_AZIONE": "P1",
+      "INDICATORE": "DIDATTICA E COMUNITÀ STUDENTESCA"
+    },
+    {
+      "NOME_AZIONE": "P2",
+      "INDICATORE": "RICERCA, RIVOLUSIONE E TRANSIZIONE CULTURE E TURISMO"
+    },
+    {
+      "NOME_AZIONE": "P3",
+      "INDICATORE": "SUSTAINABLE DEVELOPMENT GOALS (SDGs)"
+    },
+    {
+      "NOME_AZIONE": "P4",
+      "INDICATORE": "INCLUSIONE E COESIONE SALUTE"
+    }
+  ],
+  "INDICATORI": [
+    {
+      "NOME_INDICATORE": "Ricercare e promuovere la Didattica di alta qualita' per lo sviluppo sostenibile",
+      "PERCENTAGGI": [
+        {
+          "PERCENTALE": "90%"
+        },
+        {
+          "PERCENTALE": "15%"
+        },
+        {
+          "PERCENTALE": "5%"
+        }
+      ]
+    },
+    {
+      "NOME_INDICATORE": "Promuovere il Cooperazione con le Altre Nazioni nel campo della Didattica",
+      "PERCENTAGGI": [
+        {
+          "PERCENTALE": "30%"
+        },
+        {
+          "PERCENTALE": "25%"
+        },
+        {
+          "PERCENTALE": "10%"
+        }
+      ]
+    },
+    ...
+  ]
+}

@@ -1,0 +1,46 @@
+INFO: Job done in 26.787s.
+```json
+{
+  "research": {
+    "visiting_profs_2013": [
+      {
+        "country": "Italy",
+        "docents": 405,
+        "dottorandi": 425,
+        "total": 830
+      },
+      {
+        "country": "Sweden",
+        "docents": 715,
+        "dottorandi": 644,
+        "total": 1359
+      }
+    ],
+    "visiting_profs_by_country": [
+      {
+        "country": "United States of America",
+        "docents": 165,
+        "dottorandi": 208,
+        "total": 373
+      },
+      {
+        "country": "France",
+        "docents": 100,
+        "dottorandi": 94,
+        "total": 194
+      },
+      {
+        "country": "Brazil",
+        "docents": 85,
+        "dottorandi": 72,
+        "total": 157
+      },
+      /* ... */
+    ],
+    "countries_with_most_achievements": [
+      {"name": "Spagna", "achievement_value": 231},
+      {"name": "Italya", "achievement_value": 89}
+    ]
+  }
+}
+```

@@ -1,0 +1,15 @@
+INFO: Job done in 7.856s.
+ ```json
+{
+  "sostenibilità": {
+    "energia_rinnovabile": {
+      "percentuale": "50",
+      "value_eur": "32.2561252.71"
+    },
+    "consumo_energia": {
+      "percentuale": "100",
+      "value_eur": "0"
+    }
+  }
+}
+``` 

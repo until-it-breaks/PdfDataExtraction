@@ -1,0 +1,34 @@
+INFO: Job done in 24.842s.
+{
+  "patrimonio-arboreo-di-atenéo": {
+    "aggiornamento-2022-2023": [
+      {"cerceggiatore-universitario": "1.867", "istruttori": "Bologna"},
+      {"cerceggiatori-biennale-patrimonio-arboreo-di-atenéo": "40"}
+    ],
+    "collaborazione-azienda-agriboria": {
+      "patrimonio-arboreo-di-atenéo": "Un backlog elettronico",
+      "indagine-in-campo": [
+        {"cerceggiatori-patrimonio-arboreo-di-atenéo-dati": "2.105"}
+      ],
+      "organizzazione-servizi": {
+        "patrimonio-arboreo-di-atenéo-visitatori": [
+          {"parcheggio": "984", "casse-di-riscatto": "637", "scontrini": "2105"}
+        ]
+      }
+    },
+    "agricola-zanetti-giuseppe": {
+      "patrimonio-arboreo-di-atenéo-visitatori": [
+        {"parcheggio": "984", "casse-di-riscatto": "637", "scontrini": "2105"}
+      ]
+    },
+    "la-bologna2023": {
+      "cerceggiatore-sostenibile": ["AUB"],
+      "cerceggiatore-scolastico-azienda-agriboria": [
+        {"città": "Bologna", "sindaco": "Mattioli"},
+        {"patrimonio-arboreo-di-atenéo-patrimoni-culturale-bienniale-visitatori": 163},
+        {"cerceggiatore-scolastico-azienda-agriboria-patrimonio-arboreo-di-atenéo-parcheggio": "984"},
+        {"cerceggiatore-scolastico-azienda-agriboria-patrimonio-arboreo-di-atenéo-casse-di-riscatto": "637"}
+      ]
+    }
+  }
+}

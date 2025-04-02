@@ -1,0 +1,45 @@
+INFO: Job done in 14.515s.
+ ```json
+{
+  "introduzione": "Valutazione delle performance di sostenibilità dell'azienda",
+  "capitolo1": {
+    "titolo": "Impacto sociale",
+    "valori": [
+      {
+        "indicatore": "Società per la prevenzione della criminalità",
+        "valore_monetario": "65,234 euro"
+      },
+      {
+        "indicatore": "Programma di formazione per giovani",
+        "valore_monetario": "180,729 euro"
+      }
+    ]
+  },
+  "capitolo2": {
+    "titolo": "Impacto ambientale",
+    "valori": [
+      {
+        "indicatore": "Tonnellaggio di rifiuti raccolti e gestiti",
+        "percentuale": "85.1%"
+      },
+      {
+        "indicatore": "Reduzione della quantità di acqua usata per la produzione",
+        "valore_monetario": "79,432 euro"
+      }
+    ]
+  },
+  "capitolo3": {
+    "titolo": "Impacto economico",
+    "valori": [
+      {
+        "indicatore": "Investimenti in prodotti e processi di produzione",
+        "valore_monetario": "2,859,610 euro"
+      },
+      {
+        "indicatore": "Percentuale di vendita estera",
+        "percentuale": "37.4%"
+      }
+    ]
+  }
+}
+``` 

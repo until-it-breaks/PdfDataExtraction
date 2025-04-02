@@ -1,0 +1,46 @@
+INFO: Job done in 20.687s.
+```json
+{
+  "ambiente": {
+    "superficies_fotovoltaica": [
+      {
+        "valor": "8.443",
+        "unita": "mg"
+      }
+    ],
+    "energia_efficiente": [
+      {
+        "valor": "1.975",
+        "unita": ""
+      },
+      {
+        "valor": "1.103,885",
+        "unita": "kWh"
+      }
+    ]
+  },
+  "abbonamenti": {
+    "agevolati_studenti_e_personale": [
+      {
+        "valore": "20.369",
+        "descrizione": "Abbonamenti agevolati studenti e personale per incentivare l'uso dei mezzi di trasporto pubblico"
+      }
+    ],
+    "abbonamenti_agevolati": [
+      {
+        "valore": "1.305,000",
+        "descrizione": "Abbonamenti agevolati per incentivare l'uso dei mezzi di trasporto pubblico"
+      },
+      {
+        "descrizione": "€ 20.369 abbonamenti agevolati studenti e personale per incentivare l'uso dei mezzi di trasporto pubblico"
+      }
+    ]
+  },
+  "spesa_per": [
+    {
+      "descrizione": "Spesa per abbonamenti agevolati studenti e personale per incentivare l'uso dei mezzi di trasporto pubblico",
+      "valore": "1.305,000 €"
+    }
+  ]
+}
+```

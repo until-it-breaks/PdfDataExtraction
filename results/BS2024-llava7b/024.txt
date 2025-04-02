@@ -1,0 +1,70 @@
+INFO: Job done in 17.993s.
+ ```json
+{
+  "titolo": "2 DELLA DELLA SOSTENIBILITÁ",
+  "indice_principale": "1.34",
+  "valore_indice_principale": "80.90",
+  "descrizione": [
+    {
+      "titolo": "Governo",
+      "percentuale": "85%",
+      "dettaglio": [
+        {
+          "chiave": "1.34.2567",
+          "valore_numerico": "85.90"
+        }
+      ]
+    },
+    {
+      "titolo": "Finanziamento",
+      "percentuale": "75%",
+      "dettaglio": [
+        {
+          "chiave": "1.34.2568",
+          "valore_numerico": "75"
+        }
+      ]
+    },
+    {
+      "titolo": "Ambiente",
+      "percentuale": "90%",
+      "dettaglio": [
+        {
+          "chiave": "1.34.2569",
+          "valore_numerico": "90"
+        }
+      ]
+    },
+    {
+      "titolo": "Comunità",
+      "percentuale": "80%",
+      "dettaglio": [
+        {
+          "chiave": "1.34.2569",
+          "valore_numerico": "80"
+        }
+      ]
+    },
+    {
+      "titolo": "Produzione",
+      "percentuale": "75%",
+      "dettaglio": [
+        {
+          "chiave": "1.34.2568",
+          "valore_numerico": "75"
+        }
+      ]
+    },
+    {
+      "titolo": "Innovazione",
+      "percentuale": "90%",
+      "dettaglio": [
+        {
+          "chiave": "1.34.2569",
+          "valore_numerico": "90"
+        }
+      ]
+    }
+  ]
+}
+``` 

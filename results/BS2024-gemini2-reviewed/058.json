@@ -1,0 +1,19 @@
+{
+    "accordi_attivi": {
+        "accordi_con_universita_unione_europea": {
+            "2021": 2409,
+            "2022": 2368,
+            "2023": 2533
+        },
+        "accordi_con_universita_extra_unione_europea": {
+            "2021": 349,
+            "2022": 352,
+            "2023": 495
+        },
+        "accordi_con_aziende_paesi_esteri": {
+            "2021": 271,
+            "2022": 305,
+            "2023": 335
+        }
+    }
+}

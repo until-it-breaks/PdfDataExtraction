@@ -1,0 +1,43 @@
+{
+    "servizi_abitativi": {
+        "numero_studentati_gestiti": 29,
+        "distribuzione_studentati": [
+            {
+                "citta": "Bologna",
+                "numero": 21
+            },
+            {
+                "citta": "Cesena",
+                "numero": 3
+            },
+            {
+                "citta": "Forlì",
+                "numero": 2
+            },
+            {
+                "citta": "Rimini",
+                "numero": 2
+            },
+            {
+                "citta": "Ravenna",
+                "numero": 1
+            }
+        ],
+        "contributo_affitti": {
+            "numero_contributi": 600,
+            "valore_contributo": 1000,
+            "unita_di_misura": "€",
+            "isee_max": 28000,
+            "ispe_max": 62000
+        }
+    },
+    "miglioramento_condizioni_vita_studio": {
+        "budget_2023": 350000,
+        "domande_ricevute_2023": 1200,
+        "distribuzione_bologna_2023": 1015,
+        "distribuzione_campus_romagna_2023": 185,
+        "domande_ricevute_2022": 1035,
+        "domande_ricevute_anni_precedenti": 900,
+        "colloqui_consultazione_2023": 3200
+    }
+}

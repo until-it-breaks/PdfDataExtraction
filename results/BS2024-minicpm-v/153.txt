@@ -1,0 +1,28 @@
+INFO: Job done in 27.799s.
+{
+  "Title": "7.2 Dimensione Internazionale",
+  "Subtitle": "L'Internazionalizzazione è uno pilastro fondamentale dell'attività istituzionale, caratterizzato da un approccio mirato e diversificato che si parte dall'Europa pone anche alla dimensione globale.",
+  "Body": [
+    {
+      "Line1": "Le università promuovono attivamente collaborazione con un numero sempre maggiore di istituzioni in vari Paesi, attraverso partnership strategiche, partecipazione a reti internazionali, accreditati e mobilità a tutti i livelli.",
+      "Line2": "Gli studenti si laureano all'università pubblica europea.",
+      "Line3": "L'Alliance européenne è composta da dieci istituzioni europaei: HU Berlin (Germany), Högskolan i Gävle, Lilleås Universitetet (Sweden), Leiden University, Paris Panthéon-Sorbonne University and several other higher education institutions in the United States."
+    },
+    {
+      "Line1": "L'Alliance européenne ha anche promosso per l'attivita dell'università statale financiata dalla Commissione Europea.",
+      "Line2": "Questo progetto è stato promovuto da tre universitá: HU Berlin, Leiden University e Paris Panthéon-Sorbonne."
+    },
+    {
+      "Line1": "Le istituzioni dell'Alliance europea si sono unite per promuovere l'università internazionale.",
+      "Line2": "Il progetto Futura, avviato il decembre 2022, ha portato all'attivita dell'Alliance anche nel quadriennio 2023-2026."
+    },
+    {
+      "Line1": "Le istituzioni dell'Alliance europea si sono unite per promuovere l'università internazionale.",
+      "Line2": "Il progetto Futura, avviato il decembre 2022, ha portato all'attivita dell'Alliance anche nel quadriennio 2023-2026."
+    },
+    {
+      "Line1": "Il progetto Futura, avviato il decembre 2022, ha portato l'attivita dell'Alliance anche nel quadriennio 2023-2026.",
+      "Line2": "Le istituzioni dell'Alliance europea si sono unite per promuovere l'università internazionale."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+INFO: Job done in 54.011s.
+```json
+{
+  "Mobilità in uscita": {
+    "Year2019": [
+      {"Amount": "5.768"}
+    ],
+    "Figures": [
+      {
+        "FigureNumber": "52",
+        "Title": "Dottoranti outgoing with main almo"
+      },
+      {
+        "FigureNumber": "53",
+        "Title": "Docenti outgoing nell'anno 30gg di mobilità nell'anno"
+      }
+    ],
+    "Table1": [
+      {
+        "Year2021": ["623", "4.453"],
+        "Year2022": ["701", "386"],
+        "Year2023": ["5.994", "1.232"]
+      }
+    ],
+    "Table2": [
+      {
+        "Year2021": ["386"],
+        "Year2022": ["4.453"],
+        "Year2023": ["1.232"]
+      },
+      {
+        "Years": ["2021", "2022", "2023"],
+        "Value1": ["386", "4.453", "1.232"],
+        "Value2": ["701", "386", "1.232"]
+      }
+    ]
+  },
+  "Mobilità in uscita Description": [
+    {
+      "Line1": "L'Università promuove la mobilità internazionale del personale docente e ricercatore attraverso vari programmi",
+      "Line2": "e accordi con istituzioni in Europa e nel mondo. Queste opportunità includono il Programma Erasmus+ per la mobilità, le Marie Skłodowska-Curie Actions per la ricerca, i protocolli con il Ministero degli Affari Esteri e della Cooperazione Internazionale.",
+      "Line3": "Inoltre, questa è la possibilità di svolgere temporarymente attività in altre istituzioni",
+      "Line4": "attraverso verschieden konzepte, partecipare al programmi EURIAUS fellowship per la ricerca e prendere parte al programma EPDF dell'University of Sussex per ricerca didattica.",
+      "Line5": "La mobilità dei dottoranti nell’anno 2019 con un totale di 701 unità ha da gran lunga superato il valore del 2019 (501); anche la mobilità dei docenti con un totale di 5.994 unità ha finalmente oltrepasse il numero grosso pre-pandemiche nel (marchio 2019 erano: 5.173 unita).",
+      "Line6": "Figura 52 – Dottoranti outgoing with main almo"
+    },
+    {
+      "Line7": "Figura 53 - Docenti outgoing nell’anno 30gg di mobilità nell’ anno",
+      "Line8": "*3.94%"
+    }
+  ],
+  "Table3": [
+    {
+      "Year2019": ["5.768"],
+      "Year2021": ["386"]
+    },
+    {
+      "Years": ["2021", "2022", "2023"],
+      "Value1": ["4.453", "1.232"],
+      "Value2": ["701", "386"]
+    }
+  ]
+}
+```

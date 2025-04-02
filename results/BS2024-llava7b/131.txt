@@ -1,0 +1,59 @@
+INFO: Job done in 67.806s.
+ Ecco il contenuto estratto e strutturato in formato JSON valido come richiesto:
+
+```json
+{
+  "Sostenibilità": {
+    "Indicatore_1": {
+      "Anno": 2020,
+      "Valore_1": "64.998"
+    },
+    "Indicatore_2": {
+      "Anno": 2021,
+      "Valore_2": "63.546"
+    },
+    "Indicatore_3": {
+      "Anno": 2022,
+      "Valore_3": "69.685"
+    },
+    "Indicatore_4": {
+      "Anno": 2023,
+      "Valore_4": "68.172"
+    },
+    "Indicatore_5": {
+      "Anno": 2024,
+      "Valore_5": "69.687"
+    }
+  },
+  "Sostenibilità_2": [
+    "322561252.71",
+    "322561252.71",
+    "322561252.71",
+    "322561252.71",
+    "322561252.71"
+  ],
+  "Sostenibilità_3": [
+    "322561252.71",
+    "322561252.71",
+    "322561252.71",
+    "322561252.71",
+    "322561252.71"
+  ],
+  "Sostenibilità_4": [
+    "322561252.71",
+    "322561252.71",
+    "322561252.71",
+    "322561252.71",
+    "322561252.71"
+  ]
+}
+```
+
+Ecco il descrizione dei dati estratti:
+
+- Il contenuto sembra riportare quattro indicatori di sostenibilità, chiamati `Indicatore_1`, `Indicatore_2`, `Indicatore_3`, e `Indicatore_4`.
+- L'indicatore `Indicatore_5` viene rappresentato graficamente come un bar chart con tre valori numerici.
+- Il contenuto include anche alcuni indicatori di sostenibilità (`Sostenibilità_2`, `Sostenibilità_3`, e `Sostenibilità_4`) con due valori numerici ciascuno per ogni anno, ma non sono rappresentati graficamente come le altre sezioni.
+- Non esiste un indicatore chiamato `Indicatore_5` nella sezione grafica che sembra riportare i dati del bar chart, pertanto si suppone che il valore corrispondente sia quello sommato dei tre valori numerici sul bar chart.
+- Non sono presenti informazioni su unità di misura o posizioni cardinali nel contenuto estratto, dunque non è stato possibile convertire i dati in JSON con interi o float. Perciò il formato originale dei dati viene mantenuto come estratto.
+- Le percentuali vengono rappresentate come stringhe enveilenti, senza alcuna operazione matematica eseguita per convertire le stringhe in numeri. 

@@ -1,0 +1,28 @@
+INFO: Job done in 25.328s.
+{
+  "title": "Sportelli Virtuali",
+  "description": "Il sistema Sportelli Virtuali rappresenta uno nuovo modello di servizio online per l'regolare interfaccia con gli utenti dell'Università. Eè dedicato a tutti gli utenti (futuri studenti, studenti iscritti, studenti internazionali, laureati e personale). Questo sistema è parte della strategia di trasformazione digitale dell'Università e miera a mira la dematerializzazione del processo e i servizi, migliorando l'organizzazione delle attività dal Attendere e il reinterazione degli utenti con gli utenti.",
+  "services": [
+    {
+      "name": "Sincrona",
+      "description": "tramite videoconferenza integrata nell'applicazione, gli utenti possono osservare direttamente il servizio o fissare un appuntamento;"
+    },
+    {
+      "name": "Asynchronous",
+      "description": "tramite un sistema di ticketing simile a una chat. Gli utenti inviano un richiesta che genera un ticket.",
+      "further_details": "Gli utenti possono mostrare lo stato della loro richiesta, rispondere alle chiamate di giudici degli organizzatori e ricevere una risposta."
+    }
+  ],
+  "orientation": [
+    {
+      "name": "In itinere",
+      "description": "Il progetto di orientamento in itinerari previsto dal piano discostrico di Ateneo 2021-2027 ha lo obiettivo di accompagnare studenti e studentesse durante tutto il percorso da studio progettazione a esperienza accademica.",
+      "further_details": "Il attività sono progettate per essere includevole, consentendo la partecipazione degli studenti con disabilità."
+    },
+    {
+      "name": "In itinere",
+      "description": "il servizio è stato ampliato nel 2013",
+      "further_details": "Per le sezioni dell'organizzazione"
+    }
+  ]
+}

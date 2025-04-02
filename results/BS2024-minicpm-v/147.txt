@@ -1,0 +1,19 @@
+INFO: Job done in 14.657s.
+{
+  "title": "Tabella 24 - Accordi con centri di ricerca esterni",
+  "columns": [
+    {
+      "name": "Centro di ricerca"
+    },
+    {
+      "name": "Accordo"
+    },
+    {
+      "name": "Durata"
+    }
+  ],
+  "rows": [
+    ["Agenzia Spaziale Italiana", "5-2013-HH.0 'Nagivazione operativa per i missioni di ISS'", "1,5 anni"],
+    ["Agenzia Spaziale Italiana", "2022-8-HH.0 Mission HERA", "3 anni"]
+  ]
+}

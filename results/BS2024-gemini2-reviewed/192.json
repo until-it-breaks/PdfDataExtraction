@@ -1,0 +1,40 @@
+{
+    "destinazione_uso_patrimonio_edilizio": [
+        {
+            "categoria": "Aule e laboratori",
+            "percentuale": "30,4%"
+        },
+        {
+            "categoria": "Studi e uffici",
+            "percentuale": "19,8%"
+        },
+        {
+            "categoria": "Depositi e locali tecnici",
+            "percentuale": "18,5%"
+        },
+        {
+            "categoria": "Ospedale",
+            "percentuale": "14,4%"
+        },
+        {
+            "categoria": "Biblioteche e musei",
+            "percentuale": "6,3%"
+        },
+        {
+            "categoria": "Spazi per gli studenti, impianti sportivi e alloggi",
+            "percentuale": "6,1%"
+        },
+        {
+            "categoria": "Altro",
+            "percentuale": "4,5%"
+        }
+    ],
+    "progetto_di_sviluppo": {
+        "investimenti_triennio_2023_2025": {
+            "valore": 179,
+            "unita_di_misura": "milioni di euro"
+        },
+        "interventi": 48,
+        "interventi_con_cofinanziamento_mur": 32
+    }
+}

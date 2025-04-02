@@ -1,0 +1,31 @@
+{
+    "provenienza_geografica_fornitori": {
+        "origine": [
+            {
+                "nome": "Provincia di Bologna",
+                "2021": "33,2%",
+                "2022": "36,8%",
+                "2023": "38,4%"
+            },
+            {
+                "nome": "Emilia-Romagna",
+                "2021": "14,1%",
+                "2022": "13,5%",
+                "2023": "10,1%"
+            },
+            {
+                "nome": "Resto d'Italia",
+                "2021": "46,8%",
+                "2022": "44,2%",
+                "2023": "47,5%"
+            },
+            {
+                "nome": "Estero",
+                "2021": "5,9%",
+                "2022": "5,5%",
+                "2023": "4,1%"
+            }
+        ]
+    },
+    "indice_tempestivita_pagamenti_2023": -12.77
+}

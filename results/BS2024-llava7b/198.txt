@@ -1,0 +1,4 @@
+INFO: Job done in 8.419s.
+ Lo sguardo dell'immagine non consente di ottenere dati numerici estratti da tabelle o grafici. L'immagine sembra contenere solo il nome di una struttura universitaria e un testo, ma nessuna tabella o grafico che presenti informazioni quantitative su rendite, occupazione, etc.
+
+Se tu hai domande sull'immagine fornita o su come estrarre dati da immagini, sono felice di aiutarti! 

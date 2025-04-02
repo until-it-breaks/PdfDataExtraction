@@ -1,0 +1,84 @@
+INFO: Job done in 24.785s.
+```json
+{
+  "title": "Tabella 5 – Offerta formativa 2023/2024 nel Multicampus",
+  "courses": [
+    {
+      "name": "Corso, iscrizioni e lauree",
+      "type": ["Bologna", "Cesena"],
+      "data": [
+        ["Bologna", '79', '10'],
+        ["Cesena", '10', '9']
+      ]
+    },
+    {
+      "name": "Corso di Laurea e Laurea magistrale a ciclo unico",
+      "type": ["Bologna"],
+      "data": ['79']
+    },
+    {
+      "name": "Corso di Laurea e Laurea magistrale",
+      "type": ["Cesena", '10'],
+      "data": [
+        ["Bologna", '102', '9'],
+        ["Cesena", '8', '7']
+      ]
+    },
+    {
+      "name": "Totale corsi di studio",
+      "data": ['181', '19']
+    },
+    {
+      "name": "di cui: a doppi diploi",
+      "type": ["Bologna"],
+      "data": [
+        [0, 3],
+        [46, 1]
+      ]
+    },
+    {
+      "name": "Dottorati",
+      "type": ['Cesena', 'Ravenna'],
+      "data": [
+        [8, 7],
+        [21, 19]
+      ]
+    },
+    {
+      "name": "Master",
+      "type": ["Bologna"],
+      "data": [
+        [0, 3]
+      ]
+    },
+    {
+      "name": "Immacricolazioni",
+      "type": ['Cesena'],
+      "data": [1.528],
+      "notes": 'Non presente nel bilancio di sostenibilità'
+    },
+    {
+      "name": "Iscrizioni",
+      "type": ["Bologna"],
+      "data": [
+        [67, 490],
+        [3.71, 285]
+      ]
+    }
+  ],
+  "total": [
+    ['Cesena', 'Ravenna'],
+    [19, 19],
+    [20,
+     {
+       "doppi diplomi": [
+         {'Bologna': '46'},
+         {'Cesena': '3'}
+       ]
+     },
+     [578]
+   ]
+ ],
+"notes": '* Dati indicatori in riferimento all' anno solare 2023. ^ Per l'ottimizzazione dei servizi e del sito web.'
+}
+```

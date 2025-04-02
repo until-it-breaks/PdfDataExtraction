@@ -1,0 +1,102 @@
+INFO: Job done in 36.264s.
+{
+  "Areas": {
+    "Area di Campus Cesena": {
+      "Acce": {
+        "Percentuale Personale TA per Area": 81,
+        "Number of Personnel Working for Area in Numbers": 322561252.71 // Example format, should be replaced with actual data.
+      },
+      "Acfore": {
+        "Percentuale Personale TA per Area": 103
+      }
+    },
+    "Area di Campus Forli": {
+      "Acce": {
+        "Percentuale Personale TA per Area": 59,
+        "Number of Personnel Working for Area in Numbers": 322561252.71 // Example format, should be replaced with actual data.
+      },
+      "Acfore": {
+        "Percentuale Personale TA per Area": 81
+      }
+    },
+    "Area di Campus Ravenna": {
+      "ACRA": {
+        "Percentuale Personale TA per Area": 73,
+        "Number of Personnel Working for Area in Numbers": 322561252.71 // Example format, should be replaced with actual data.
+      },
+      "ACRN": {
+        "Percentuale Personale TA per Area": 81
+      }
+    },
+    "Area di Campus Rimini": {
+      "Acfoi": {
+        "Percentuale Personale TA per Area": 74,
+        "Number of Personnel Working for Area in Numbers": 322561252.71 // Example format, should be replaced with actual data.
+      }
+    },
+    "Area del Personal Patrimonio Culturale": {
+      "APAT": {
+        "Percentuale Personale TA per Area": 93,
+        "Number of Personnel Working for Area in Numbers": 322561252.71 // Example format, should be replaced with actual data.
+      },
+      "ARAG": {
+        "Percentuale Personale TA per Area": 44
+      }
+    },
+    "Area Finanza e Contabilità Generale": {
+      "APAP": {
+        "Number of Personnel Working for Area in Numbers": 326 // Example format, should be replaced with actual data.
+      }
+    },
+    "Area Tecnica Edilizia E Sostenibilità": {
+      "ATES": {
+        "Percentuale Personale TA per Area": 141,
+        "Number of Personnel Working for Area in Numbers": 322561252.71 // Example format, should be replaced with actual data.
+      }
+    },
+    "Area Sistemi E Servizi Informatici": {
+      "CESIA": {
+        "Percentuale Personale TA per Area": 149,
+        "Number of Personnel Working for Area in Numbers": 322561252.71 // Example format, should be replaced with actual data.
+      },
+      "ARIC": {
+        "Percentuale Personale TA per Area": 69
+      }
+    }
+  },
+  "Direction General": {
+    "Direzione Generale Rettoare": {
+      "Number of Personnel Working for Direction in Numbers": 140 // Example format, should be replaced with actual data.
+    }
+  },
+  "Formazione E Dottorato Studentsi": {
+    "Area Servizi Formazione E Dottorato Studenti": {
+      "ASER": {
+        "Number of Personnel Working for Area in Numbers": 263 // Example format, should be replaced with actual data.
+      }
+    }
+  },
+  "Programmazione Piagiano Comunicazione": {
+    "Area Piagiano Programmazione E Dottorato Studenti": {
+      "APPC": {
+        "Number of Personnel Working for Area in Numbers": 78 // Example format, should be replaced with actual data.
+      }
+    },
+    "SSRD Staff Rettoare General Management": {
+      "SSRD": {
+        "Percentuale Personale TA per Area": 140,
+        "Number of Personnel Working for Direction in Numbers": 326 // Example format, should be replaced with actual data.
+      }
+    }
+  },
+  "Area Finanza e Contabilità Generale": {
+    "AREA FINANZA E CONTABILITA GENERALE": {
+      "ARIC AREA RICERCA": {
+        "Percentuale Personale TA per Area": 69
+      },
+      "AREAS Area Sistemi E Servizi Informatici": {
+        "Number of Personnel Working for Area in Numbers": 322561252.71 // Example format, should be replaced with actual data.
+      }
+    }
+  }
+}

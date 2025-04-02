@@ -1,0 +1,120 @@
+INFO: Job done in 31.005s.
+{
+  "Title": "Composizione studenti di primo e secondo ciclo per provenienza",
+  "Figures": [
+    {
+      "Number": "19",
+      "Description": "Nuovi Cantiere (23-24) per Cittadinanza da provenienza",
+      "Year": [
+        {
+          "2023": [6.318, "", 8.06]
+        },
+        {
+          "2022": [5.624, "", 7.337]
+        },
+        {
+          "2021": [5.209, "", 6.784]
+        }
+      ],
+      "Legend": [
+        { 
+          "key": "Paesi comunitari", 
+          "color": "#1F78B4" 
+        }, 
+        {
+          "key": "Paesi extra-comunitari*", 
+          "color": "#EF5D3E" 
+        } 
+      ]
+    },
+    {
+      "Number": "20",
+      "Description": "Composizione dottrandi per provenienza",
+      "Year": [
+        {
+          "2023": [482, 91]
+        },
+        {
+          "2022": [470, 110]
+        },
+        {
+          "2021": [386, 102]
+        }
+      ],
+      "Legend": [
+        { 
+          "key": "Paesi comunitari", 
+          "color": "#1F78B4" 
+        }, 
+        {
+          "key": "Paesi extra-comunitari*", 
+          "color": "#EF5D3E" 
+        } 
+      ]
+    }
+  ],
+  "NewCapacities": [
+    { 
+      "Country": "Iran",
+      "CapacityComunitary": [473]
+    },
+    {
+      "Country": "Cina Repubblica Popolare",
+      "CapacityComunitary": [321],
+      "CapacityExtraComunitari": [80]
+    },
+    { 
+      "Country": "Turchia",
+      "CapacityComunitary": [195]
+    },
+    {
+      "Country": "Romania",
+      "CapacityComunitary": [167],
+      "CapacityExtraComunitari": [35]
+    },
+    { 
+      "Country": "Russia - Federazione Russa",
+      "CapacityComunitary": [135]
+    },
+    {
+      "Country": "India",
+      "CapacityComunitary": [93]
+    },
+    { 
+      "Country": "Albania",
+      "CapacityComunitary": [91]
+    },
+    { 
+      "Country": "Camera",
+      "CapacityComunitary": [90],
+      "CapacityExtraComunitari": [82]
+    },
+    {
+      "Country": "San Marino",
+      "CapacityComunitary": [88]
+    }
+  ],
+  "IranianStudents": [
+    { 
+      "Year": 2023,
+      "Number": ["479", ""],
+      "CountryCode": ""
+    }, 
+    {
+      "Year": 2022, 
+      "Number": ["168", ""],
+      "CountryCode": ""
+    },
+    { 
+      "Year": 2021,
+      "Number": ["347", ""],
+      "CountryCode": ""
+    }
+  ],
+  "Credits": [
+    {
+      "Line": "* Escluso San Marino.",
+      "Reference": [5]
+    }
+  ]
+}

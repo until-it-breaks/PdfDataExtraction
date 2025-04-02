@@ -1,0 +1,7 @@
+INFO: Job done in 14.431s.
+{
+  "output": [],
+  "success": false,
+  "message": "Il contenuto dell'immagine non corrisponde ai criteri di rilevanza.",
+  "explanation": "L'immagine non contiene tabelle, grafici o infografiche che presentano dati numerici (percentuali, valori monetari, indicatori di performance). Pertanto, non può essere estratto e non può essere convertito in un formato JSON valido."
+}

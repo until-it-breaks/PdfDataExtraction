@@ -1,0 +1,67 @@
+{
+    "contributo_2023_progetti_horizon_europe": {
+        "unita_di_misura": "migliaia di €",
+        "obiettivi": [
+            {
+                "goal": "GOAL 1",
+                "valore": 1.228
+            },
+            {
+                "goal": "GOAL 2",
+                "valore": 1.596
+            },
+            {
+                "goal": "GOAL 3",
+                "valore": 6.21
+            },
+            {
+                "goal": "GOAL 4",
+                "valore": 1.363
+            },
+            {
+                "goal": "GOAL 5",
+                "valore": 728.0
+            },
+            {
+                "goal": "GOAL 6",
+                "valore": 653.0
+            },
+            {
+                "goal": "GOAL 7",
+                "valore": 2.76
+            },
+            {
+                "goal": "GOAL 9",
+                "valore": 1.683
+            },
+            {
+                "goal": "GOAL 10",
+                "valore": 254.0
+            },
+            {
+                "goal": "GOAL 11",
+                "valore": 4.345
+            },
+            {
+                "goal": "GOAL 12",
+                "valore": 1.686
+            },
+            {
+                "goal": "GOAL 13",
+                "valore": 2.043
+            },
+            {
+                "goal": "GOAL 14",
+                "valore": 265.0
+            },
+            {
+                "goal": "GOAL 15",
+                "valore": 781.0
+            },
+            {
+                "goal": "GOAL 16",
+                "valore": 3.66
+            }
+        ]
+    }
+}

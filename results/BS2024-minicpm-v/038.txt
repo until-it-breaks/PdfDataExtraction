@@ -1,0 +1,55 @@
+INFO: Job done in 18.980s.
+{
+  "output": {
+    "title": [
+      "Provenienza geografica dei fornitori"
+    ],
+    "percentage_values": [
+      "38,4%",
+      "10,1%",
+      "5,9%"
+    ],
+    "figures": [
+      "2023",
+      "2022",
+      "2021"
+    ],
+    "locations": [
+      {
+        "location_name": "Bologna",
+        "percentage": "38,4%"
+      },
+      {
+        "location_name": "Emilia Romagna",
+        "percentage": "10,1%"
+      },
+      {
+        "location_name": "Resto d'Italia",
+        "percentage": "5,9%"
+      }
+    ],
+    "figures_title": [
+      "Provenienza geografica dei fornitori"
+    ]
+  },
+  "additional_info": {
+    "-23,78 INDICE DI TEMPESTIVITÀ DEI PAGAMENTI 2023": {}
+  },
+  "percentage_of_sustainability": {
+    "title": [
+      "La tempestità dei pagamenti"
+    ],
+    "figure": [
+      "Per l'Ateneo l'indicatore nel 2023 è pari a -1,77; ciò significa che l'Ateneo in media paga le fatture di acquisto ricevute dai propri fornitori in anticipo di quasi 13 giorni riscettetto alla data di scadenza."
+    ],
+    "index_of_sustainability": [
+      "-23,78 INDICE DI TEMPESTIVITÀ DEI PAGAMENTI 2023"
+    ]
+  },
+  "exclusion": [
+    {
+      "text": "* Escluse la provincia di Bologna."
+    }
+  ],
+  "_note": "Note: Non è esclusa l'inside di una slide che contengono informazioni di contatto, introduzioni generiche, immagini senza dati numerici o solo titoli/intestazioni."
+}

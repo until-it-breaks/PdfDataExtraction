@@ -1,0 +1,53 @@
+INFO: Job done in 50.148s.
+ ```json
+{
+  "Sostenibilità": {
+    "Grafico1": {
+      "ValoriNumerici": {
+        "2018": 6371.56,
+        "2019": 4630.73,
+        "2020": 6763.98
+      },
+      "UnitàDiMisura": "Euro",
+      "TitoloGrafico": "Sostenibilità (in Euro)"
+    }
+  }
+}
+```
+
+L'immagine presenta un grafico a barre che mostra i valori monetari delle spese in sostenibilità per le tre anni: 2018, 2019 e 2020. Il grafico utilizza l'unità di misura dell'euro come valore numerico.
+
+Per la descrizione, potreste utilizzare un JSON valido e ben strutturato per fornire le informazioni in modo più chiaro e conciso:
+```json
+{
+  "Sostenibilità": {
+    "Grafico1": {
+      "ValoriNumerici": {
+        "2018": 6371.56,
+        "2019": 4630.73,
+        "2020": 6763.98
+      },
+      "UnitàDiMisura": "Euro",
+      "TitoloGrafico": "Sostenibilità (in Euro)"
+    }
+  }
+}
+```
+
+Per rendere il JSON più chiaro, potresti anche aggiungere un'etichetta che spiega la significazione del grafico e i dati visualizzati. In questo caso, l'etichetta potrebbe essere:
+```json
+{
+  "Sostenibilità": {
+    "Grafico1": {
+      "ValoriNumerici": {
+        "2018": 6371.56,
+        "2019": 4630.73,
+        "2020": 6763.98
+      },
+      "UnitàDiMisura": "Euro",
+      "TitoloGrafico": "Sostenibilità (in Euro)",
+      "DescrizioneGrafico": "Questo grafico mostra i valori monetari delle spese in sostenibilità per le tre anni: 2018, 2019 e 2020. I valori sono espressi in Euro. C'è un aumento del 42% tra il 2019 e il 2020, con un aumento dell'11% nel 2020 rispetto al 2018."
+    }
+  }
+}
+``` 

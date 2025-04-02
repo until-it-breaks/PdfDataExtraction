@@ -1,0 +1,25 @@
+{
+    "orientamento_in_entrata_2023": {
+        "presentazioni_scuole_superiori": {
+            "presentazioni_in_presenza_e_online": 85,
+            "numero_partecipanti": 10024
+        },
+        "presentazioni_corsi_di_studio": {
+            "presentazioni_in_presenza_e_webinar": 157,
+            "numero_partecipanti_presentazione_specifica": 14800
+        },
+        "orientamento": {
+            "numero_giornate": 7,
+            "numero_partecipanti_giornate": 23460
+        },
+        "convenzioni_pcto": {
+            "numero_convenzioni_con_scuole_per_pcto": 145,
+            "numero_percorsi_attivati": 456,
+            "numero_studenti_coinvolti": 6770
+        },
+        "stand_ateneo": {
+            "stand_in_presenza_o_online": 9,
+            "numero_partecipanti_stand": 1078
+        }
+    }
+}

@@ -1,0 +1,37 @@
+INFO: Job done in 22.639s.
+ ```json
+{
+  "Indicatori": {
+    "Performance Finanziaria": [
+      {
+        "Titolo": "Indici",
+        "Valori": {
+          "Revenue": "322.561.252",
+          "EBITDA": "71 euro",
+          "Net Income": "0,35"
+        }
+      },
+      {
+        "Titolo": "Indici Fiscali",
+        "Valori": {
+          "Tax on Profits": "224.143,18",
+          "Fine for Late Payments": "0,37"
+        }
+      },
+      {
+        "Titolo": "Indici Rendita",
+        "Valori": {
+          "Net Interest Rate": "5,65%",
+          "Share Capital": "145.242,48",
+          "Dividends Paid": "0,39"
+        }
+      }
+    ]
+  },
+  "Note": {
+    "Note 1": "Aumento y-axis per legibilità",
+    "Note 2": "Risalta alla misura delle prestazioni della sostenibilità",
+    "Note 3": "Informazione aggiuntiva sul tipo di indicatori utilizzati"
+  }
+}
+``` 

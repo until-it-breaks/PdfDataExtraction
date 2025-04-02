@@ -1,0 +1,33 @@
+INFO: Job done in 24.014s.
+ ```json
+{
+  "titolo": "Bilancio di sostenibilità",
+  "dati": {
+    "annuale_2019": {
+      "risorse_umane": "256",
+      "valore_netto": "184.325",
+      "indice_sostenibilità": "82%",
+      "ambiente": {
+        "carbone_scartato": "573 tonnes",
+        "eccellenze_energetiche": "100%"
+      },
+      "society": {
+        "turismo_locale": "42%",
+        "impatto_sociale": "19.211",
+        "parità_salari": "83.37%"
+      }
+    },
+    "risorse_monetarie": {
+      "ricerca_e innovazione": "400.000",
+      "formazione_e addestramento": "250.000"
+    }
+  },
+  "slogan": "Non solo attività, ma anche sostenibilità",
+  "data_validazione": "19/06/21",
+  "autore": {
+    "nome": "Giuseppe D.",
+    "ruolo": "Direttore",
+    "azienda": "Società Italiana"
+  }
+}
+``` 

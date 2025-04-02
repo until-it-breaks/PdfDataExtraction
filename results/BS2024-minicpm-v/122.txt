@@ -1,0 +1,114 @@
+INFO: Job done in 67.374s.
+{
+  "title": "Rapporto TA – Docenti",
+  "figures": [
+    {
+      "figure_number": "66",
+      "description": "Figura 66 - Rapporto TA/Doctori",
+      "graphical_data": [
+        {
+          "year": "2018-03.947", 
+          "data_series": "Personale docente e ricercatore",
+          "percentage_value": "3,002"
+        },
+        {
+          "year": "2019-03.010", 
+          "data_series": "Personale docente e ricercatore",
+          "percentage_value": "3,176"
+        },
+        {
+          "year": "2020-03.153", 
+          "data_series": "Personale docente e ricercatore",
+          "percentage_value": "3,384"
+        },
+        {
+          "year": "2021-03.376", 
+          "data_series": "Personale docente e ricercatore",
+          "percentage_value": "3,53"
+        }
+      ],
+      "indicators": [
+        {
+          "indicator": "Indeterminato",
+          "value": 0
+        },
+        {
+          "indicator": "Deterrminato",
+          "value": 2461,
+          "percentage_value": "98.563"
+        }
+      ]
+    },
+    {
+      "figure_number": "67",
+      "description": "Figura 67 - Distribuzione del Personale TA (EP, D,C,B)",
+      "graphical_data": [
+        {
+          "year": "2019-04.385", 
+          "data_series": "Personale docente e ricercatore",
+          "percentage_value": "1"
+        },
+        {
+          "year": "2020-04.167", 
+          "data_series": "Personale docente e ricercatore",
+          "percentage_value": "3,589"
+        }
+      ],
+      "indicators": [
+        {
+          "indicator": "Indeterminato",
+          "value": 2
+        },
+        {
+          "indicator": "Deterrminato",
+          "value": 176,
+          "percentage_value": "4.053"
+        }
+      ]
+    }
+  ],
+  "totaldocents": [
+    {
+      "year": "2021-1", 
+      "value": "1,850"
+    },
+    {
+      "year": "2022-1",
+      "value": "1,934.67%
+    }
+  ],
+"totaltecnico": [
+{
+"year": "2021-1", 
+"value": "1,0385
+},
+{
+"year": "2022-1",
+"value": "1,15"
+}
+],
+"personnelTA": {
+      "description": "Il personale TA è distribuito in due strutture e viene raggruppato in base alla funzione问责在其主要活动中进行活动管理。其行政办公室平均员工数量为 1867人，其中约450个结构的工作人员被分配到不同的部门。这些人员从事与服务相关的各种工作：图书馆、信息学、医学出版物、教学和医疗服务等。",
+      "departments": [
+        {
+          "department": "Dipartimento",
+          "staff": 231,
+          "percentage_value": "5.98%"
+        },
+        {
+          "department": "Servizi generali",
+          "staff": 640
+        }
+      ]
+    },
+"totalpersonnelTA": [
+{
+"year": "2021-1", 
+"value": "3,72"
+},
+{
+"year": "2022-1",
+"value": "5.89%
+"}
+]
+}

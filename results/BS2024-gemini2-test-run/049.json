@@ -1,0 +1,32 @@
+{
+    "didattica_e_comunita_studentesca": {
+        "percentuale_studenti_minori_25_anni": "76,8%",
+        "iscrizioni_ai_corsi_di_studio_per_classe_di_eta": [
+            {
+                "anno": "2023/24",
+                "anni_17_19": "14,5%",
+                "anni_20_24": "62,3%",
+                "anni_25_29": "14,4%",
+                "anni_30_e_oltre": "8,9%"
+            },
+            {
+                "anno": "2022/23",
+                "anni_17_19": "14,6%",
+                "anni_20_24": "61,2%",
+                "anni_25_29": "15,0%",
+                "anni_30_e_oltre": "9,1%"
+            },
+            {
+                "anno": "2021/22",
+                "anni_17_19": "15,3%",
+                "anni_20_24": "60,7%",
+                "anni_25_29": "14,9%",
+                "anni_30_e_oltre": "9,1%"
+            }
+        ],
+        "regolarita_studi_universitari": {
+            "percentuale_fuori_corso_2022_23": "18,5%",
+            "percentuale_fuori_corso_2023_24": "18,8%"
+        }
+    }
+}

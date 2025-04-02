@@ -1,0 +1,28 @@
+{
+    "orientamento_in_ingresso": {
+        "colloqui_orientamento": {
+            "anno": 2023,
+            "numero_colloqui": 312
+        },
+        "incontri_scuole_superiori": {
+            "anno": 2023,
+            "numero_incontri": 85
+        },
+        "eventi_online_presenza": {
+            "anno": 2023,
+            "numero_eventi": 157
+        },
+        "giornate_orientamento_ateneo_campus": {
+            "anno": 2023,
+            "numero_giornate": 7
+        },
+        "download_app_myalmaorienta": {
+            "anno": 2023,
+            "numero_utenti": 26697
+        },
+        "convenzioni_pcto_pls_pot": {
+            "anno": 2023,
+            "numero_convenzioni": 145
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "personale_docente_e_ricercatore": [
+        {
+            "personale": "Docenti",
+            "compito_didattico_tempo_pieno": {
+                "ore_annue": 350,
+                "note": "almeno 120 didattica frontale"
+            },
+            "compito_didattico_tempo_definito": {
+                "ore_annue": 250,
+                "note": "almeno 80 didattica frontale"
+            }
+        },
+        {
+            "personale": "Ricercatori Junior",
+            "compito_didattico_tempo_pieno": {
+                "ore_annue": 350,
+                "note": "massimo 60 didattica frontale"
+            },
+            "compito_didattico_tempo_definito": {
+                "ore_annue": 200,
+                "note": "massimo 60 di didattica frontale"
+            }
+        },
+        {
+            "personale": "Ricercatori Senior",
+            "compito_didattico_tempo_pieno": {
+                "ore_annue": 350,
+                "note": "almeno 60 didattica frontale"
+            }
+        },
+        {
+            "personale": "Ricercatori in tenure track",
+            "compito_didattico_tempo_pieno": {
+                "ore_annue": 350,
+                "note": "almeno 60 didattica frontale"
+            },
+            "compito_didattico_tempo_definito": {
+                "ore_annue": 200,
+                "note": "massimo 60 didattica frontale"
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "valore_economico_distribuito": {
+        "unita_di_misura": "mln",
+        "dati": [
+            {
+                "voce": "Risorse umane",
+                "valore_2023": 469,
+                "percentuale": "58%"
+            },
+            {
+                "voce": "di cui Personale docente e di ricerca",
+                "valore_2023": 331,
+                "percentuale": "41%"
+            },
+            {
+                "voce": "di cui Personale dirigente\ne tecnico amministrativo",
+                "valore_2023": 138,
+                "percentuale": "17%"
+            },
+            {
+                "voce": "Interventi a favore di studenti/esse",
+                "valore_2023": 124,
+                "percentuale": "15%"
+            },
+            {
+                "voce": "Trasferimenti passivi verso terzi",
+                "valore_2023": 42,
+                "percentuale": "5%"
+            },
+            {
+                "voce": "Fornitori",
+                "valore_2023": 141,
+                "percentuale": "18%"
+            },
+            {
+                "voce": "Capitale di credito",
+                "valore_2023": 2,
+                "percentuale": "0%"
+            },
+            {
+                "voce": "Pubblica amministrazione",
+                "valore_2023": 26,
+                "percentuale": "3%"
+            },
+            {
+                "voce": "Totale",
+                "valore_2023": 805,
+                "percentuale": "100%"
+            }
+        ]
+    }
+}

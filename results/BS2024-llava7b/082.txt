@@ -1,0 +1,15 @@
+INFO: Job done in 5.721s.
+ ```json
+{
+  "Performance": {
+    "Energia Produced in Renewable Sources (kWh)": {
+      "2019": 322561252.71,
+      "2020": 322561252.71
+    },
+    "Carbon Footprint (tonnes CO2e)": {
+      "2019": 100,
+      "2020": 98
+    }
+  }
+}
+``` 

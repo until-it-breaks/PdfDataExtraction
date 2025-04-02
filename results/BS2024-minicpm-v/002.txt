@@ -1,0 +1,55 @@
+INFO: Job done in 20.600s.
+```json
+{
+  "title": "Bilancio di Sostenibilità cura di",
+  "data": [
+    {
+      "name": "Alma Mater Studiorum - Università di Bologna",
+      "category": "APPC – Area Pianificazione, Programmazione e Comunicazione - Settore Programmazione ai Ateneo e analisi dati"
+    },
+    {
+      "title": "Progetto grafico:",
+      "description": "Alma Mater Studiorum - Università di Bologna, APPC Area Pianificazione, Programmazione e Comunicazione – Settore Communicazione - Ufficio Graphic design per la comunicazione Foto: © Alma Mater Studiorum - Università di Bologna, Banca Immagine di Ateneo - APPC AREA PIANIFICAZIONE, PROGRAMM Azione e COMUNICAZIONE"
+    },
+    {
+      "title": "Text",
+      "content": [
+        {
+          "text": "Queste Guida è stata davvero un importante contributo nella comunicazione di contrastare gli stereotipi che i genere nelle area didascalica istituzionale dell’Universita` di Bologna, approvato nel 2020. 2019 presentedo Belancio Societabilità in"
+        },
+        {
+          "text": "Cercati di esporli il generale female o qualcuno utilizzare una terminologia neutra."
+        }
+      ]
+    },
+    {
+      "title": "Bilancio Sociaile",
+      "year": [
+        "2018", 
+        "2017"
+      ],
+      "percentuale": [
+        "39.5%", 
+        "46%"
+      ],
+      "calcolo": [
+        "valore a", 
+        "valore b"
+      ]
+    },
+    {
+      "title": "Bilancio Sociaile",
+      "year": [
+        "2017"
+      ],
+      "percentuale": [
+        "46%"
+      ],
+      "calcolo": [
+        "valore a", 
+        "valore b"
+      ]
+    }
+  ]
+}
+```

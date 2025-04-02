@@ -1,0 +1,70 @@
+INFO: Job done in 30.517s.
+```json
+{
+  "partenariati": [
+    {
+      "title": "Partenariati (esclude le Università)",
+      "members": [
+        {"name": "Fondazione Nazionale del Lincei", "role": "Partner"},
+        {"name": "ISME T", "role": "Partner"},
+        {"name": "Enea ENEA", "role": "Partner"},
+        {"name": "Albisol", "role": "Partner"}
+      ],
+      "collaborations": [
+        {
+          "title": "Fondazione Policlinico Campus Bio-Medico Università di Roma",
+          "members": [
+            {"name": "Telethon", "role": "Progetto"},
+            {"name": "ICR", "role": "Progetto"},
+            {"name": "Gli Ospedali Pediatrici Bambino Gesù", "role": "Partener"},
+            {"name": "IRCCS San Martino", "role": "Partner"}
+          ]
+        },
+        {
+          "title": "Fondazione Carlo Gnocchi",
+          "members": [
+            {"name": "Telethon", "role": "Progetto"},
+            {"name": "Ospedale Pediatrico Bambino Gesù-IRCCS", "role": "Partner"}
+          ]
+        },
+        {
+          "title": "Fondazione Carlo Gnocchi",
+          "members": [
+            {"name": "Telethon", "role": "Progetto"},
+            {"name": "Ospedale Pediatrico Bambino Gesù-IRCCS", "role": "Partner"}
+          ]
+        }
+      ],
+      "collaborations_with_universita": true
+    },
+    {
+      "title": "Partenariati con le Università",
+      "members": [
+        {"name": "UNIV","role": "Progetto"},
+        {"name": "UNITN","role": "Partner"},
+        {"name": "UNIMU","role": "Partner"},
+        {"name": "UNISI","role": "Partner"}
+      ],
+      "collaborations": [
+        {
+          "title": "Gestione",
+          "members": [
+            {"name": "IRCCS San Raffaele", "role": "Progetto"},
+            {"name": "IRCCS Ospedale Maggiore Policlinico", "role": "Partener"},
+            {"name": "UNIMED", "role": "Partner"}
+          ]
+        },
+        {
+          "title": "Rete Publica",
+          "members": [
+            {"name": "IRCCS Ospedale San Raffaele", "role": "Progetto"},
+            {"name": "Gestione", "role": "Partener"},
+            {"name": "UNIMED", "role": "Partner"}
+          ]
+        }
+      ],
+      "collaborations_with_universita": true
+    }
+  ]
+}
+```

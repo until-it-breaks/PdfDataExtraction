@@ -1,0 +1,52 @@
+INFO: Job done in 20.653s.
+{
+  "output": [],
+  "title": "L'analisi del materialismo da la prioritizzazione delle tematiche",
+  "paragraphs": [
+    "Il processo di individuazione degli elementi della tabella di materialità ha seguito il seguente fasi logiche:",
+    "\n",
+    "- Iniziale: l'identificazione dei materialisti e degli aspetti rilevanti.",
+    "\n",
+    "- Sulla base del processo di individuazione dell'importanza degli elementi da considerare si ha come results in the stakeholder management process. Con i membri della delegazione, la governance state condotte intervente one-to-one, mentre sono stati organizzati focus group per ascoltare un campione selezionato dei principali stakeholders rienvoi nelle loro categorie.",
+    "\n",
+    "- Nel processo di identificazione e definizione degli indicatori si è considerato che la valutazione del rispetto del campo完整性, le soluzioni da adottare per il successo del progetto.",
+    "\n",
+    "Il risultato del processus ha portato a simmetrizzarne l'importanza con diversi gradi di priorità, selezionando una serie limitata che si cuiangi come i tematiche e di redondazione."
+  ],
+  "table": {
+    "header": [
+      "Criteri",
+      "Valori"
+    ]
+  },
+  "figures": [
+    {
+      "type": "图表",
+      "title": "Tavola",
+      "description": "Tabella mostrante i dati da analizzare.",
+      "data": [
+        "Valore",
+        "10.5463239"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "type": "图片",
+      "alt": "图示",
+      "description": "A graphic representation of the data from a table.",
+      "data": [
+        {
+          "label": "图表标签1",
+          "value": "532.786"
+        },
+        {
+          "label": "图表标签2",
+          "value": "904.325"
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "credits": []
+}

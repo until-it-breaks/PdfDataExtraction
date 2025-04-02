@@ -1,0 +1,71 @@
+{
+    "strutture_servizi_patrimonio_e_dati_di_attivita_2023": {
+        "patrimonio_documentario_a_catalogo": {
+            "valore": 5413519.0,
+            "unita_di_misura": null,
+            "composizione": [
+                {
+                    "tipo": "libri",
+                    "valore": 3315448.0,
+                    "unita_di_misura": null
+                },
+                {
+                    "tipo": "annate di periodici",
+                    "valore": 1141277.0,
+                    "unita_di_misura": null
+                },
+                {
+                    "tipo": "altro materiale documentario",
+                    "valore": 40307.0,
+                    "unita_di_misura": null
+                },
+                {
+                    "tipo": "materiale su supporto fisico non cartaceo",
+                    "valore": 40327.0,
+                    "unita_di_misura": null
+                }
+            ]
+        },
+        "risorse_elettroniche": {
+            "valore": 870980.0,
+            "unita_di_misura": null,
+            "composizione": [
+                {
+                    "tipo": "libri elettronici (e-book)",
+                    "valore": 799000.0,
+                    "unita_di_misura": null
+                },
+                {
+                    "tipo": "periodici online",
+                    "valore": 71600.0,
+                    "unita_di_misura": null
+                },
+                {
+                    "tipo": "banche dati",
+                    "valore": 380.0,
+                    "unita_di_misura": null
+                }
+            ]
+        },
+        "abbonamenti_a_periodici_cartacei": {
+            "valore": 5180.0,
+            "unita_di_misura": null
+        },
+        "circolazione_documentale_totale": {
+            "valore": 228658.0,
+            "unita_di_misura": null
+        },
+        "prestiti_e_rinnovi": {
+            "valore": 197624.0,
+            "unita_di_misura": null
+        },
+        "prestiti_interbibliotecari": {
+            "valore": 10133.0,
+            "unita_di_misura": null
+        },
+        "articoli_inviati_ricevuti": {
+            "valore": 20901.0,
+            "unita_di_misura": null
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "borse_di_studio": [
+        {
+            "anno_accademico": "2022/2023",
+            "studenti_beneficiari": 13180
+        },
+        {
+            "borse_studio_collaborazioni_studentesche": {
+                "ore": 150,
+                "importo_massimo": {
+                    "valore": 1125.0,
+                    "unita_di_misura": "€"
+                },
+                "anno_accademico": "2022/2023",
+                "borse_disponibili": 2202
+            }
+        },
+        {
+            "intervento_alluvione": {
+                "anno_accademico": "2022/2023",
+                "studenti_beneficiari": 553
+            }
+        }
+    ]
+}

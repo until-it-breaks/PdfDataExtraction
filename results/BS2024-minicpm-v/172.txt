@@ -1,0 +1,30 @@
+INFO: Job done in 16.215s.
+{
+  "title": "Figura 83 - Eventi del 2023",
+  "data": {
+    "total_events": [
+      [534, 1.16],
+      [1.97]
+    ],
+    "seminars": [
+      [497, 1.06]
+    ],
+    "presentations": [
+      [153, 2.85]
+    ],
+    "visits_and_tours": [
+      [107, 1.97],
+      [32, 0.59]
+    ]
+  },
+  "years": {
+    "total": [497, 1.63],
+    "seminars": [107, 1.83],
+    "presentations": [
+      [153, 2.73]
+    ],
+    "visits_and_tours": [
+      [32, 0.59]
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+INFO: Job done in 14.350s.
+{
+  "Partecipanti visitate UniboCultura": {
+    "% Viste programmate UniboCultura": 49,
+    "% Viste extra non programmate": 26,
+    "% Summer school": 10,
+    "% Alma Mater Fest": 5,
+    "% Congegno UNA Europa": 3
+  },
+  "Newsletter istituzionali esterne": {
+    "Numero organizzazioni": 5.004,
+    "Principalmente destinatario": Università Italiane",
+    "Corso del 2023": 19 newsletter state inviate
+  }
+}

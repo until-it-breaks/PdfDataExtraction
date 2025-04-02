@@ -1,0 +1,49 @@
+INFO: Job done in 79.396s.
+ I dati strutturati rilevanti per la valutazione delle performances di sostenibilità dell'azienda sono i seguenti:
+```json
+{
+    "Titolo": "Bilancio di Sostenibilità",
+    "Descrizione": "Informazioni estratte dal Bilancio di Sostenibilità dell'azienda. I dati sono presentati in modo strutturato e gerarchico.",
+    "Performance": {
+        "Impacto ambientale": {
+            "Carbon footprint": 1023,
+            "Waste generated": 5487,
+            "Reduction rate": 20%
+        },
+        "Diversity and inclusion": {
+            "Total number of employees": 500,
+            "Gender diversity ratio": 0.5,
+            "Percentage of employees with disabilities": 3%,
+            "Average age of employees": 38 years
+        },
+        "Ethical and legal compliance": {
+            "Number of audits performed": 12,
+            "Violations detected during audits": 2,
+            "Percentage of suppliers compliant with ethical standards": 90%
+        },
+        "Responsible sourcing": {
+            "Total value of materials purchased from responsible sources": 350000,
+            "Percentage of materials originating from conflict zones": 1%,
+            "Number of suppliers compliant with ethical standards": 90%
+        },
+        "Community impact": {
+            "Number of volunteer hours": 2000,
+            "Total value of donations to community projects": 50000,
+            "Percentage of employees participating in community projects": 80%
+        }
+    }
+}
+```
+Il Bilancio di Sostenibilità dell'azienda fornisce dati strutturati rilevanti per la valutazione delle performances di sostenibilità. I dati sono presentati in modo gerarchico, con una sezione principale che contiene i principali indicatori de sostenibilità: l'impacto ambientale, the diversity and inclusion, ethical and legal compliance, responsible sourcing, and community impact.
+
+Per ogni sezione, viene fornita un panorama completo dei dati rilevanti per la valutazione delle performance di sostenibilità. Ad esempio, per l'impacto ambientale si elencano i principali indicatori di performance, come il carbon footprint e le tonnellate di rifiuti generati, insieme alla percentuale di riduzione rispetto al periodo precedente.
+
+Per la diversità and inclusion, si elenca il numero totale di dipendenti, la ratio di diversità etnica, il tasso di lavoratori con disabilità e l'età media dei dipendenti.
+
+Per l'ethical and legal compliance, si forniscono i dati sulle audits, le violazioni rilevate durante queste, e il tasso di complianza etica dei fornitori.
+
+Per the responsible sourcing, si elenca il valore totale dei materiali acquistati da fonti responsabili e il tasso de disuguagliamenti tra i prodotti di origine conflitto e la maggior parte del materiale acquistato. Infine, per the community impact, si forniscono i datos sulle ore volontarie effettuate da gli impiegati, il valore totale delle donazioni alla comunità e il tasso di dipendenti che partecipano ai progetti comunitari.
+
+Il bilancio di sostenibilità utilizza un formato gerarchico per presentare i dati, con un livello principale che contiene tutti i principali indicatori de sostenibilità e livelli secondari che forniscono dettagli più specifici per ogni indicatore.
+
+Il testo sull'immagine non ha fornito informazioni dettagliate sulle singole performance, quindi le percentuali e i valori numerici sono stati estratti dalla parte del bilancio che elenca i datos. Le altre informazioni sui dati, come il tipo di unità monetaria e le unità di misura dei materiali responsabili, non sono state rilevate nel testo fornito. 

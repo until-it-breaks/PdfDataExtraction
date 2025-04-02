@@ -1,0 +1,36 @@
+INFO: Job done in 41.821s.
+ Lo sforzo dell'impegno sociale e la responsabilità ambientale sono sempre presenti nella mente degli imprenditori. Il bilancio di sostenibilità dell'azienda che presenta questa immagine è un esempio di come queste idee vengono implementate e monitorate.
+
+Dati numerici estratti:
+```json
+{
+    "azienda": "Nuova Sostenibilità",
+    "sede": "Via Giustiniani 12, Roma",
+    "indicatore_sostenibilita": {
+        "prodotto_certificato": "95%",
+        "riciclo_materiali": "87%",
+        "energia_dalle fonti rinnovabili": "43%"
+    },
+    "valori_monetari": {
+        "investimenti in sostenibilità": 2500,
+        "sconti per la riduzione dell'emissione dei gas serra": -100,
+        "impatto sulla salute degli impiegati (COVID-19)": -500
+    },
+    "indicatore_ambientale": {
+        "carbone emesso per ogni prodotto venduto": 2.5,
+        "uso di acqua per il processo di produzione": 150000,
+        "riciclo di rifiuti": 75%
+    },
+    "valori_quantitativi": {
+        "impiegati coinvolti nel programma di sostenibilità": 32,
+        "sconti per la riduzione dell'emissione dei gas serra (CO2): 100,
+        "impatto sulla salute degli impiegati (COVID-19)": -500
+    },
+    "indicatore_gestione di rischi": {
+        "rate di malattia per l'impiego in sostenibilità": 2.7,
+        "tasso di assenza dovuto a motivazioni di salute pubblica": 10%
+    }
+}
+```
+
+Nota: I dati numerici sono rappresentati come interi, e le unità di misura vengono salvate a parte se presenti. Le percentuali vengono trattate come stringhe e gli indicatori di performance come oggetti JSON separati per chiarezza. 

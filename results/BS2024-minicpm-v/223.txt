@@ -1,0 +1,30 @@
+INFO: Job done in 20.494s.
+```json
+{
+  "Indice delle Tabelle e delle Figure": {
+    "Figura 57": [
+      {"titolo": "Pubblicazioni Unibo pro-capite rispetto a quella del benchmark Europeo (valore benchmark Europeo uguale a 100)", "pagine": "111"}
+    ],
+    "Figura 58": [
+      {"titolo": "Citarazioni Unibo pro-capite rispetto a quella del benchmark Europeo (valore benchmark Europeo uguale a 100)", "pagine": "112"}
+    ],
+    "Figura 59": [
+      {"titolo": "Contributo 2023 in progetti Horizon Europe (valori in migliaia di €)", "pagine": "113"}
+    ],
+    ...
+    "Figura 87": {
+      {"titolo": "Progetti di cooperazione e collaborazione internazionali", "pagine": "181"}
+    },
+    "Figura 88": [
+      {"titolo": "Serie storica dei consumi (Tep)", "pagine": "188"}
+    ],
+    ...
+    "Figura 93": {
+      {"titolo": "Rifiuti speciali (in kg)", "pagine": "198"}
+    },
+    "Figura 94": [
+      {"titolo": "Didattica e Formazione su tematiche ambientali", "pagine": "201"}
+    ]
+  }
+}
+```

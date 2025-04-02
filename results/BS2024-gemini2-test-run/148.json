@@ -1,0 +1,33 @@
+{
+    "contratti_di_ricerca_con_aziende": {
+        "totale_contratti": {
+            "contratti": 86,
+            "importo": 2330000.0,
+            "unita_di_misura": "euro"
+        }
+    },
+    "proprieta_intellettuale_e_brevetti": {
+        "portafoglio_brevettuale": {
+            "famiglie_brevetti_e_varieta_vegetali": 260,
+            "brevetti_varieta_vegetali": 840,
+            "nuovi_brevetti_software": 29,
+            "nuove_varieta_vegetali": 6,
+            "estensioni_internazionali": 47
+        },
+        "accordi": {
+            "riservatezza": 10,
+            "valorizzazione": 12
+        },
+        "risultati_di_ricerca": {
+            "ricerca_in_gestione": 15,
+            "accordi_di_valorizzazione": 3
+        },
+        "finanziamento_progetti_alma_value": {
+            "numero_progetti": 18
+        },
+        "finanziamento_progetti_alma_value_for_rr": {
+            "importo": 480000.0,
+            "unita_di_misura": "Euro"
+        }
+    }
+}

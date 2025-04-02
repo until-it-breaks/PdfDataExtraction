@@ -1,0 +1,86 @@
+INFO: Job done in 47.830s.
+```json
+{
+  "personnel": {
+    "incemini_by_person": [
+      {
+        "year": "2021",
+        "total": {
+          "gross": 2184,
+          "net": 1953.67
+        },
+        "categories": {
+          "employees_incentives_for_professional_training": 1473,
+          "training_incentive": 302,
+          "employee_incentive": 114.68,
+          "workforce_awareness": 597
+        }
+      },
+      {
+        "year": "2022",
+        "total": {
+          "gross": 2235,
+          "net": 2042.55
+        },
+        "categories": {
+          "employees_incentives_for_professional_training": 1697,
+          "training_incentive": 383,
+          "employee_incentive": 128.2,
+          "workforce_awareness": 730.5
+        }
+      },
+      {
+        "year": "2023",
+        "total": {
+          "gross": 2253,
+          "net": 2069.45
+        },
+        "categories": {
+          "employees_incentives_for_professional_training": 1708,
+          "training_incentive": 402,
+          "employee_incentive": 123.1,
+          "workforce_awareness": 739.5
+        }
+      },
+      "% of personnel incentives distributed as fixed base salary for professional training": [
+        {
+          "year": "2021",
+          "value": "4"
+        },
+        {
+          "year": "2022",
+          "value": "6"
+        },
+        {
+          "year": "2023",
+          "value": "8.57%"
+        }
+      ],
+      "% of personnel incentives used for professional training instead of the fixed base salary": [
+        {
+          "year": "2021",
+          "value": "96"
+        },
+        {
+          "year": "2022",
+          "value": "84.35%"
+        },
+        {
+          "year": "2023",
+          "value": "75.9%"
+        }
+      ]
+    }
+  },
+  "internal mobility within the company": [
+    {
+      "year": "2021",
+      "total": {
+        "gross": 467,
+        "net": 388
+      },
+      "categories": {
+        "employees_incentives_for_professional_training": 59,
+        "training_incentive": 31.1,
+        "employee_incentive": -
+```

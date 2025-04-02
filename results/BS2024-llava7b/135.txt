@@ -1,0 +1,38 @@
+INFO: Job done in 29.299s.
+ ```json
+{
+  "Sostenibilità": {
+    "Indicatori": {
+      "Annuo 2018": {
+        "Finanziamenti per la produzione di energia rinnovable": {
+          "Valore:": "6.5",
+          "Percentuale (vs. 2017):": "5,5%"
+        },
+        "Impacto sociale": {
+          "Valore:": "322561252.71",
+          "Percentuale (vs. 2017):": "100%"
+        },
+        "Economicità di sostenibilità": {
+          "Valore:": "85.67",
+          "Percentuale (vs. 2017):": "4,9%"
+        }
+      },
+      "Annuo 2019": {
+        "Finanziamenti per la produzione di energia rinnovable": {
+          "Valore:": "6.5",
+          "Percentuale (vs. 2018):": "100%"
+        },
+        "Impacto sociale": {
+          "Valore:": "322561252.71",
+          "Percentuale (vs. 2018):": "100%"
+        },
+        "Economicità di sostenibilità": {
+          "Valore:": "85.67",
+          "Percentuale (vs. 2018):": "4,9%"
+        }
+      }
+    },
+    "Note": "Non sono presenti note significative nell'immagine fornita."
+  }
+}
+``` 

@@ -1,0 +1,58 @@
+{
+    "il_servizio_avro_cura_di_te": {
+        "domande_pervenute": [
+            {
+                "categoria": "Genitorialità",
+                "quantita": 13
+            },
+            {
+                "categoria": "Adolescenti",
+                "quantita": 13
+            },
+            {
+                "categoria": "Familiari",
+                "quantita": 43
+            },
+            {
+                "categoria": "Totale",
+                "quantita": 69
+            }
+        ],
+        "colloqui_effettuati": [
+            {
+                "categoria": "Genitorialità",
+                "quantita": 66
+            },
+            {
+                "categoria": "Adolescenti",
+                "quantita": 56
+            },
+            {
+                "categoria": "Familiari",
+                "quantita": 97
+            },
+            {
+                "categoria": "Totale",
+                "quantita": 219
+            }
+        ],
+        "ore_di_colloqui_svolte": [
+            {
+                "categoria": "Genitorialità",
+                "quantita": 130
+            },
+            {
+                "categoria": "Adolescenti",
+                "quantita": 114
+            },
+            {
+                "categoria": "Familiari",
+                "quantita": 134
+            },
+            {
+                "categoria": "Totale",
+                "quantita": 378
+            }
+        ]
+    }
+}

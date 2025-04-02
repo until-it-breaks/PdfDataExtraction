@@ -1,0 +1,22 @@
+INFO: Job done in 9.831s.
+ ```json
+{
+  "Sostenibilità": {
+    "Sostenibilità_globale": "35",
+    "Concretezza_di": "10",
+    "Concretezza_di": "89",
+    "Valore_monetario": "154.246",
+    "Percentuale_dei_costi_sostenibili": "73.76%",
+    "Costo_ambientale_dell'azienda": "6.95",
+    "Sostenibilità_investimenti": {
+      "Tipologia_di_progetto": {
+        "Energia_eolica": "40",
+        "Rinnovo_energie": "28",
+        "Costruzione_nueve": "13"
+      },
+      "Percentuale_dei_costi_indiretti": "50.78%",
+      "Percentuale_dei_beneficii_ambientali": "36.42%"
+    }
+  }
+}
+``` 

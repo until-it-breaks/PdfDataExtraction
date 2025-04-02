@@ -1,0 +1,42 @@
+INFO: Job done in 19.892s.
+{
+  "title": "Tavola GRI",
+  "sections": [
+    {
+      "id": "2-21",
+      "title": "Dichiarazione sulla strategia di sviluppo sostenibile",
+      "criteria": [
+        {"id": "2.2", "name": "Governamento della sostenibilità"},
+        {"id": "2", "name": "Azioni e risultati"}
+      ]
+    },
+    {
+      "id": "2-23",
+      "title": "Impegni politici"
+    },
+    {
+      "id": "2-24",
+      "title": "Integrazione degli impegni politici",
+      "criteria": [
+        {"id": "1.2", "name": "Azioni e risultati"},
+        {"id": "2", "name": "Governamento della sostenibilità"}
+      ]
+    },
+    {
+      "id": "2-25",
+      "title": "Processi per riedimersi agli impatti negativi"
+    },
+    {
+      "id": "2-26",
+      "title": "Procedure per chiedere consigli e segnalare problemi"
+    },
+    {
+      "id": "2-27",
+      "title": "Conformità alle leggi e regolamenti"
+    },
+    {
+      "id": "2-28",
+      "title": "Appartenenza ad associazioni"
+    }
+  ]
+}

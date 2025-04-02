@@ -1,0 +1,20 @@
+INFO: Job done in 7.529s.
+ ```json
+{
+  "sostenibilità": {
+    "financial_performance": {
+      "total_revenue": "322561252.71",
+      "operating_income": "292065.19",
+      "net_income": "199824.09"
+    },
+    "social_responsibility": {
+      "community_engagement_score": "5 / 7",
+      "diversity_and_inclusion_score": "6 / 10"
+    },
+    "environmental_sustainability": {
+      "energy_consumption": "3.24",
+      "greenhouse_gas_emissions": "2.58"
+    }
+  }
+}
+``` 

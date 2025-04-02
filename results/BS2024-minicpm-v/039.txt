@@ -1,0 +1,49 @@
+INFO: Job done in 18.460s.
+{
+  "economic_value_of_group": {
+    "title": "3. VALORE ECONOMICO DEL GRUPPO UNIBO",
+    "university": "L'Università di Bologna",
+    "group_description": "Il gruppo Unibo ha detto il suo capogruppo dai institutes da enti e societies in cui espri\u012f come una forma di partecipazione e nei quali esercita forza di influenza nei processi decisionali.",
+    "year_2023": "Nel 2023 il gruppo Unibo E stato costituito dai seguenti soggetti:"
+  },
+  "funding Institutions": [
+    {
+      "name": "Fondazione Agraria Sperimentale Castelfretri",
+      "color": "#D5E74B"
+    },
+    {
+      "name": "Fondazione Ferruccio Avoni",
+      "color": "#C098FF"
+    },
+    {
+      "name": "Fondazione Gaetano Salvioni",
+      "color": "#1A9CB2"
+    },
+    {
+      "name": "Fondazione Pasquale Sfameni",
+      "color": "#D5E74B"
+    },
+    {
+      "name": "Behold S.R.L. a Socio Unico",
+      "color": "#31C0FF"
+    },
+    {
+      "name": "Fondazione Federico Zeri",
+      "color": "#2A6897"
+    }
+  ],
+  "UniboInstitutions": [
+    {
+      "institution": "Luciano Tosio Montanari Foundation",
+      "color": "#00BFFF"
+    },
+    {
+      "institution": "University Studiorum Foundation",
+      "color": "#FFCC65"
+    },
+    {
+      "institution": "\"Centro\" Foundation of Bertinoro C.E.U.B.",
+      "color": "#9C27B0"
+    }
+  ]
+}

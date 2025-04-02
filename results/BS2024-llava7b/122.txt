@@ -1,0 +1,47 @@
+INFO: Job done in 53.968s.
+ L'immagine fornita rappresenta un bilancio di sostenibilità con una serie di dati numerici. I dati sono presentati in diverse forme, come tabelle, grafici e infografiche, e sembrano essere indicatori di performance, valori monetari e percentuali che indicano la percentuale di ogni categoria rispetto a un valore totale.
+
+Per sintetizzare l'immagine e fornire una struttura in JSON valido, potrebbe essere necessario eseguire alcune operazioni di estrazione dei dati per evitare la duplicazione e garantirsi che le informazioni riportate siano corrette. Tuttavia, dato il formato dell'immagine fornita, che sembra un'immagine digitale di una presentazione, potrebbe essere possibile estrarre i dati solo in modo approssimativo e con alcune limitazioni.
+
+Ecco quindi un esempio di come potresti strutturare i dati in JSON valido:
+
+```json
+{
+  "presentazione": {
+    "titolo": "Sostenibilità",
+    "anno": "2023",
+    "indicatori": [
+      {
+        "tipo": "Totale",
+        "valore": "1.000"
+      },
+      {
+        "tipo": "Ricevimento UD",
+        "descrizione": "Risorse ricevute da un ente di gestione UD",
+        "valore": 8549,
+        "percentuale": "0.85"
+      },
+      {
+        "tipo": "Ricevimento DAD",
+        "descrizione": "Risorse ricevute da un ente di gestione DAD",
+        "valore": 1943,
+        "percentuale": "0.19"
+      },
+      {
+        "tipo": "Ricevimento GAS",
+        "descrizione": "Risorse ricevute da un ente di gestione GAS",
+        "valore": 7384,
+        "percentuale": "0.73"
+      },
+      {
+        "tipo": "Totale",
+        "descrizione": "Risorse ricevute complessamente",
+        "valore": "1946",
+        "percentuale": "1.94"
+      }
+    ]
+  }
+}
+```
+
+Nota: Questo esempio rappresenta un esempio generale e potrebbe essere differente dalle caratteristiche esatte dell'immagine fornita in quanto potrebbe essere presente una maggiore quantità di dati, una maggiore complessità nella struttura e un formato diverso delle informazioni. 

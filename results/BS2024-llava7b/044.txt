@@ -1,0 +1,67 @@
+INFO: Job done in 22.837s.
+ La immagine mostra una struttura organizzata con informazioni finanziarie e di sostenibilità. Ecco il JSON estratto e strutturato in base ai criteri di rilevanza:
+
+```json
+{
+  "titolo": "Rapporto di sostenibilità",
+  "indice": {
+    "valore_monetario": "3.205",
+    "unità_di_misura": "euro"
+  },
+  "sostenibilità": [
+    {
+      "titolo": "Sostenibilità economica",
+      "indicatore": {
+        "valore_monetario": "2021",
+        "unità_di_misura": "euro"
+      },
+      "valori": [
+        15.389,
+        48.768,
+        62.122
+      ],
+      "percentuali": {
+        "valore_monetario": "10",
+        "unità_di_misura": "%"
+      },
+      "trend": "increase"
+    },
+    {
+      "titolo": "Sostenibilità sociale",
+      "indicatore": {
+        "valore_monetario": "2021",
+        "unità_di_misura": "euro"
+      },
+      "valori": [
+        37.586,
+        49.641,
+        55.897
+      ],
+      "percentuali": {
+        "valore_monetario": "20",
+        "unità_di_misura": "%"
+      },
+      "trend": "decrease"
+    },
+    {
+      "titolo": "Sostenibilità ambientale",
+      "indicatore": {
+        "valore_monetario": "2021",
+        "unità_di_misura": "euro"
+      },
+      "valori": [
+        48.753,
+        51.628,
+        60.981
+      ],
+      "percentuali": {
+        "valore_monetario": "10",
+        "unità_di_misura": "%"
+      },
+      "trend": "increase"
+    }
+  ]
+}
+```
+
+In questo JSON, sono stati estratti i valori numerici rilevanti per la valutazione delle performance di sostenibilità dell'azienda. Sono stati utilizzati le chiavi in snake case e si è adottato un formato gerarchico con array e oggetti quando necessario. Le unità di misura sono state separate dai valori numerici, e i dati estratti hanno ricevuto titoli significativi evitando prefissi come `"figura"`, `"tabella"` etc. 

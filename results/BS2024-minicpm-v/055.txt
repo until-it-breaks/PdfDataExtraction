@@ -1,0 +1,48 @@
+INFO: Job done in 25.703s.
+{
+  "Centri di formazione post-universitaria": {
+    "Collegio Superiore": {
+      "descrizione": "Il Collegio e 'l'Istituto di Studi Avanzati fanno parte del'Instituto di Studi Superiori (ISS) dell'Università, un centro di eccellenza interdisciplinare e internazionale impegnato in tutte le faccine dell'educazione e della ricerca.",
+      "aggiornamento": 2023,
+      "state offerte": 330,
+      "state oltraggiate": 451,
+      "eventi convezzionali internazionali": {
+        "totali": 338
+      },
+      "converse internazionali": {
+        "totali": 479
+      }
+    },
+    "Collegio MED3 - Education Continua in Medicine": {
+      "descrizione": "MED3 e' un consorzio no-profit composto dal'Unibo, dal Consorzio interuniversitario Cineca e da quattro Azioni Sanitarie della regione, insieme a Mecatone R.I. SPA.",
+      "oggetto": {
+        "sviluppare, realizzare e riconoscere dei corsi di formazione",
+        "distanza (FAD)"
+      },
+      "bidanti nell'edizione": 2018,
+      "processi formativi": [
+        "L'Unibo",
+        "altra se主宰e principale dei processi formativi"
+      ],
+      "ruolo guida del regire e sviluppare modelli innovativi di educazione continua in medicine"
+    },
+    "Centro Residenziale Universitario": {
+      "descrizione": "Dal 1994, il C.e.U.B., situato nell'area monumentale de Bertinoro.",
+      "aggiornamento": 2014,
+      "capacità di organizzazione": [
+        "congressuali",
+        "internazionali"
+      ]
+    },
+    "Bologna Business School": {
+      "descrizione": "Dal 2014, la Bologna Business School (BBS) si dedicà alla formazione maneggeriale post-laurea e esperienze.",
+      "chiami master ed programmi formativi": [
+        "circa 1.600 studenti provenienti da 103 paesi in tutto il mondo ogni anno"
+      ]
+    }
+  },
+  "didattica e comunità studentesca": {
+    "titolo": "4. Didattica e Comunità Studentesca",
+    "output": {}
+  }
+}

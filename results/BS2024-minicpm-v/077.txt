@@ -1,0 +1,19 @@
+INFO: Job done in 22.184s.
+```json
+{
+  "title": "Didattica e Comunità del Studentesse",
+  "section": "Job Placement",
+  "paragraphs": [
+    "Il Servizio di Job Placement dell'Università organizza una serie di iniziative per facilitare il passaggio dall'Universitá al mondo del lavoro. Questo include dokumenti, finalizzati ad aktivitad recruiting con coloquiocoscientifici o/o selezione, workshop tematici, business games, case study, visites aziendali per conoscere il contesto lavorativo e gli stabilimenti produttivi del territorio, e activitd networking con referenti aziendali e sempre piú frequentemente, con alumni che portano la propria testimonianza sui diversi percorsi professionali internazionali.",
+    "Nel 2019 l'Ateneo ha organizzato 2 Job Corner - aziende in Ateneo e la decima edizione del Career Day coincidendola centinaia di aziende nazionali e internazionali."
+  ],
+  "table": {
+    "title": "Tabella 12 - Job placement",
+    "rows": [
+      ["Attività", "Aziende/Partecipanti | Anno", "2023"],
+      ["Job Incontra Online", "[aziende intervento] azioni di investimento in aziende intervente, manuale per i partecipanti", "2 6"],
+      ["Job Concontra (iniziative con singole aziende in presenza)", "[partecipanti intevenute] parte participanti", "372"]
+    ]
+  }
+}
+```

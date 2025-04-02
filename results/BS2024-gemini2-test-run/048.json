@@ -1,0 +1,94 @@
+{
+    "composizione_iscrizioni_per_genere": {
+        "stem": [
+            {
+                "anno": "2023/24",
+                "donne": "35,1%",
+                "uomini": "64,9%"
+            },
+            {
+                "anno": "2022/23",
+                "donne": "34,1%",
+                "uomini": "65,9%"
+            },
+            {
+                "anno": "2021/23",
+                "donne": "34,0%",
+                "uomini": "66,0%"
+            }
+        ],
+        "non_stem": [
+            {
+                "anno": "2023/24",
+                "donne": "65,0%",
+                "uomini": "35,0%"
+            },
+            {
+                "anno": "2022/23",
+                "donne": "64,5%",
+                "uomini": "35,5%"
+            },
+            {
+                "anno": "2021/23",
+                "donne": "64,4%",
+                "uomini": "35,6%"
+            }
+        ],
+        "totale": [
+            {
+                "anno": "2023/24",
+                "donne": "56,7%",
+                "uomini": "43,3%"
+            },
+            {
+                "anno": "2022/23",
+                "donne": "56,3%",
+                "uomini": "43,7%"
+            },
+            {
+                "anno": "2021/23",
+                "donne": "56,3%",
+                "uomini": "43,7%"
+            }
+        ]
+    },
+    "iscrizioni_ai_corsi_di_studio_per_regione_di_residenza": [
+        {
+            "anno": "2023/24",
+            "emilia_romagna": 43455.0,
+            "altre_regioni_ed_estero": 44410.0
+        },
+        {
+            "anno": "2022/23",
+            "emilia_romagna": 43286.0,
+            "altre_regioni_ed_estero": 46398.0
+        },
+        {
+            "anno": "2021/22",
+            "emilia_romagna": 43027.0,
+            "altre_regioni_ed_estero": 46688.0
+        }
+    ],
+    "iscritti_per_regione_di_provenienza": {
+        "valle_d_aosta": "0,1%",
+        "piemonte": "1,1%",
+        "liguria": "0,8%",
+        "lombardia": "3,9%",
+        "trentino_alto_adige": "1,4%",
+        "friuli_venezia_giulia": "1,1%",
+        "veneto": "4,8%",
+        "emilia_romagna": "49,5%",
+        "toscana": "4,1%",
+        "umbria": "1,2%",
+        "marche": "5,6%",
+        "abruzzo": "2,7%",
+        "molise": "0,7%",
+        "lazio": "1,8%",
+        "campania": "4,2%",
+        "puglia": "2,4%",
+        "basilicata": "1,0%",
+        "calabria": "1,8%",
+        "sicilia": "3,6%",
+        "sardegna": "1,3%"
+    }
+}

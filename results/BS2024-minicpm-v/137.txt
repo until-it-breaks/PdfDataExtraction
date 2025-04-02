@@ -1,0 +1,53 @@
+INFO: Job done in 61.729s.
+```json
+{
+  "title": {
+    "value": "6. PERSONA",
+    "label": "tutela"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "\u00c8 l'Università mostra un impiego significativo verso i personi con la disabilit\u00e1 e coloro che affrontano difficulties lavorative o personali. L'Ufficio Inclusione e Tutela Laborativa si dedica all'integrazione di queste persone nel contesto lavorativo, promuovendo principali di Diversity & Disability management. Questo approccio interdisciplinary e trasversale mira a costruire e consolidare il ben\u00e9re organizzativo e a valorizzare le personalit\u00e1 individuali."
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "text": "\u2764 Consiglieria di Fiducia"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La Consigliera di Fiducia \u00e8 un punto di riferimento nelle case universitarie in questioni di scriminazione, molestation, mobbing e rispetto del Codice Etico e del Comportamento dell'Alto Studi. Anche se non ha poteri giudiziari, la Consigliera lavora in modo autonomo per promuovere azioni preventive e resolutive con collaborazione con le scuole accademiche e per sostener una cultura di genere e antidiscriminatoria."
+    },
+    {
+      "type": "paragraph",
+      "text": "\n Nel 2023, la Consigliera ha assistito 75 persone, con una distribuzione da 56% docenti, 27% personale TA e 17% studenti. La sua azione \u00e8 stato positivamente integrata nella squadra del CGU, il Preditore sul Personale, del Predittore e del Ricerche e del Delegato alle studentesse e studenti."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "\nSupporto psicologico"
+    },
+    {
+      "type": "paragraph",
+      "text": "\u00c8 gratuito rivendere servizio \u2764 'Avr\u00ed Curato di Me', destinato a tutti i personi, forniciato, accompagnamento e supporto per gestire sovraccarico emotional e difficulty relazionali in vari ambiti."
+    },
+    {
+      "type": "paragraph",
+      "text": "\n Rivendere \u2764 'Avr\u00ed Curato di Me' è gratuito, che fornisce uno supporto psicologico per le rilevazioni sull'organizzazione e gestione della carriera. L'offerta del servizio è accessibile attraverso la piattaforma online."
+    },
+    {
+      "type": "paragraph",
+      "text": "\n Nel 2016, sono state state fatte il primo annullamento dei servizi di Cultura e Diversita (C&D) \u2764. Queste modifiche comportano una limitazione del servizio psicologico. Si prevedeva che i personi potessero accedere a un ministro per fornire supporto psicologico."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "\nSupporto psicologico"
+    }
+  ]
+}
+```

@@ -1,0 +1,30 @@
+INFO: Job done in 23.503s.
+ Lo spero che questa immagine sia stata corretta e che possa aiutarti a estrarre dati strutturati pertinenti alla valutazione delle performance di sostenibilità dell'azienda. Tuttavia, il contenuto della pagina web è stato modificato o censurato in modo significativo rispetto alle informazioni che potrebbero essere state presenti nella versione originale.
+
+In particolare, la pagina web ora mostra solamente una sezione del sito web, mentre le sezioni che contengono i dati sulle prestazioni di sostenibilità sono censurate o inaccesso. In questo caso, potrebbe essere possibile estrarre solo un limitato insieme di dati numerici e non è stato possibile accedere alla descrizione completa delle prestazioni di sostenibilità dell'azienda.
+
+Tuttavia, posso aiutarti con quanto si vede. Potrebbe essere utile estrarre i valori monetari che compaiono nella sezione censurata della pagina web, come ad esempio "322561252.71". In questo caso, posso aiutarti con la formattazione e l'ordinamento dei dati estratti.
+
+Ecco una sintesi delle informazioni che si vengono a vedere nella sezione censurata della pagina web:
+
+- I valori numerici sono separati dal resto del testo per evitare confusioni con il resto del contenuto.
+- Possono essere estratti i datos sulle prestazioni di sostenibilità dell'azienda e strutturati in modo da mantenere le chiavi specifiche all'interno delle chiavi dei datos.
+
+Per quanto riguarda l'estrazione dei dati, posso estrarre i valori numerici come segue:
+
+```json
+{
+    "azienda": "NOME DA L'AZIONE",
+    "valore_1": 322561252.71,
+    "valore_2": 489200,
+    "valore_3": 730150,
+    "valore_4": 2509902,
+    "valore_5": 263209,
+    "indicatore_1": "INDIICE DI PERFORMANZA",
+    "indicatore_2": "PERCENTUALE DE VALORE ASEGNAZIONE",
+    "indicatore_3": "PERCENTUALE DE VALORE ASEGNAZIONE",
+    "indicatore_4": "PERCENTUALE DE VALORE ASEGNAZIONE"
+}
+```
+
+Spero che questo aiuti a ottenere informazioni utili. Se hai bisogno di ulteriori aiuto, non esitare ad avvicinarti per chiedere! 

@@ -1,0 +1,27 @@
+{
+    "una_futura": {
+        "anno_avvio": 2022,
+        "periodo": "quadriennio 2023-2026"
+    },
+    "staff_week": [
+        {
+            "modalita": "online",
+            "anno": 2021,
+            "numero_partecipanti": 150
+        },
+        {
+            "modalita": "blended",
+            "anno": 2022,
+            "numero_partecipanti": 31
+        },
+        {
+            "modalita": "fisica",
+            "anno": 2023,
+            "numero_partecipanti": 52
+        }
+    ],
+    "job_shadowing_live_my_life": {
+        "numero_edizioni": 3,
+        "numero_partecipanti": 134
+    }
+}

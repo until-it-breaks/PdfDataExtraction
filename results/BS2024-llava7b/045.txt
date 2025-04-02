@@ -1,0 +1,41 @@
+INFO: Job done in 20.972s.
+ ```json
+{
+  "2021": {
+    "Sostenibilità totale": 495687,
+    "Reduzione delle emissioni verdi": 11535,
+    "Investimenti in energie rinnovabili": 13871,
+    "Risorse umane impiegate": 83529,
+    "Puntualità per la gestione delle acque usate": 46,
+    "Materiali sostenibili e riciclabili": 100,
+    "Influenza sulla salute e la sicurezza degli impiegati": 35.25
+  },
+  "2020": {
+    "Sostenibilità totale": 485076,
+    "Reduzione delle emissioni verdi": 10966,
+    "Investimenti in energie rinnovabili": 13868,
+    "Risorse umane impiegate": 82465,
+    "Puntualità per la gestione delle acque usate": 46,
+    "Materiali sostenibili e riciclabili": 100,
+    "Influenza sulla salute e la sicurezza degli impiegati": 35.25
+  },
+  "2019": {
+    "Sostenibilità totale": 476875,
+    "Reduzione delle emissioni verdi": 10362,
+    "Investimenti in energie rinnovabili": 13750,
+    "Risorse umane impiegate": 82556,
+    "Puntualità per la gestione delle acque usate": 46,
+    "Materiali sostenibili e riciclabili": 100,
+    "Influenza sulla salute e la sicurezza degli impiegati": 35.25
+  },
+  "2018": {
+    "Sostenibilità totale": 476095,
+    "Reduzione delle emissioni verdi": 10078,
+    "Investimenti in energie rinnovabili": 13666,
+    "Risorse umane impiegate": 82747,
+    "Puntualità per la gestione delle acque usate": 46,
+    "Materiali sostenibili e riciclabili": 100,
+    "Influenza sulla salute e la sicurezza degli impiegati": 35.25
+  }
+}
+``` 

@@ -1,0 +1,78 @@
+INFO: Job done in 40.655s.
+```
+{
+  "overall_sustainability": {
+    "index_name": "Tasse ed esoneri",
+    "value": "232/2016"
+  },
+  "student_sustainability": {
+    "income_source": "% del reddito degli studenti utilizzato da DATAGENIA per la Gestione dell'Attestazione INPS e dallo SISEE.",
+    "percentage": "5%",
+    "students_affected": "20.3M students",
+    "beneficiaries": "4,786k families"
+  },
+  "economic_independence": {
+    "source": "Pubblicato dalla Legge nationale n. 1/9.",
+    "percentage": "5% del reddito degli studenti.",
+    "beneficiaries": "20.3M students",
+    "families_benefitted": "4,786k families"
+  },
+  "tax_exemptions": {
+    "flat_tax": "L'Università ha introdotto l'Attestazione INPS e dallo SISEE.",
+    "income_source": "% del reddito degli studenti utilizzato da DATAGENIA per la Gestione dell'Attestazione INPS e dallo SISEE.",
+    "percentage": "5%",
+    "students_affected": "20.3M students",
+    "beneficiaries": "4,786k families"
+  },
+  "tax_exemptions": {
+    "flat_tax受益者": "19,7K benefits received by over 2m registered users.",
+    "gender_equal": "Women and men equally benefit from the flat tax system. The gender gap has been reduced to less than one percentage point in recent years."
+  },
+  "tax_exemptions": {
+    "income_source": "% del reddito degli studenti utilizzato da DATAGENIA per la Gestione dell'Attestazione INPS e dallo SISEE.",
+    "percentage": "5%",
+    "students_affected": "20.3M students",
+    "beneficiaries": "4,786k families"
+  },
+  "tax_exemptions": {
+    "flat_tax受益者": "19,7K benefits received by over 2m registered users.",
+    "gender_equal": "Women and men equally benefit from the flat tax system. The gender gap has been reduced to less than one percentage point in recent years."
+  },
+  "tax_exemptions": {
+    "flat_tax受益者": "19,7K benefits received by over 2m registered users.",
+    "gender_equal": "Women and men equally benefit from the flat tax system. The gender gap has been reduced to less than one percentage point in recent years."
+  },
+  "tax_exemptions": {
+    "flat_tax受益者": "19,7K benefits received by over 2m registered users.",
+    "gender_equal": "Women and men equally benefit from the flat tax system. The gender gap has been reduced to less than one percentage point in recent years."
+  },
+  "tax_exemptions": {
+    "flat_tax受益者": "19,7K benefits received by over 2m registered users.",
+    "gender_equal": "Women and men equally benefit from the flat tax system. The gender gap has been reduced to less than one percentage point in recent years."
+  },
+  "tax_exemptions": {
+    "flat_tax受益者": "19,7K benefits received by over 2m registered users.",
+    "gender_equal": "Women and men equally benefit from the flat tax system. The gender gap has been reduced to less than one percentage point in recent years."
+  },
+  "tax_exemptions": {
+    "flat_tax受益者": "19,7K benefits received by over 2m registered users.",
+    "gender_equal": "Women and men equally benefit from the flat tax system. The gender gap has been reduced to less than one percentage point in recent years."
+  },
+  "tax_exemptions": {
+    "flat_tax受益者": "19,7K benefits received by over 2m registered users.",
+    "gender_equal": "Women and men equally benefit from the flat tax system. The gender gap has been reduced to less than one percentage point in recent years."
+  },
+  "tax_exemptions": {
+    "flat_tax受益者": "19,7K benefits received by over 2m registered users.",
+    "gender_equal": "Women and men equally benefit from the flat tax system. The gender gap has been reduced to less than one percentage point in recent years."
+  },
+  "tax_exemptions": {
+    "flat_tax受益者": "19,7K benefits received by over 2m registered users.",
+    "gender_equal": "Women and men equally benefit from the flat tax system. The gender gap has been reduced to less than one percentage point in recent years."
+  },
+  "tax_exemptions": {
+    "flat_tax受益者": "19,7K benefits received by over 2m registered users.",
+    "gender_equal": "Women and men equally benefit from the flat tax system. The gender gap has been reduced to less than one percentage point in recent years."
+  },
+}
+```

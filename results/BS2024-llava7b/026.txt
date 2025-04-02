@@ -1,0 +1,52 @@
+INFO: Job done in 19.181s.
+ ```json
+{
+  "introduzione": {
+    "titolo": "Il piano di sostenibilità",
+    "sottotitolo": "Un'opera d'arte che esprime la missione dell'azienda",
+    "immagine": "https://example.com/image-description"
+  },
+  "sostenibilita": {
+    "titolo": "Indicatori di sostenibilità",
+    "punteggio": {
+      "energia": "32,5",
+      "acqua": "71,3",
+      "ambiente": "60,8",
+      "immagine": "https://example.com/image-description"
+    },
+    "subindicatori": {
+      "energia": [
+        {"tipologia": "elettrica", "percentuale": "25%"},
+        {"tipologia": "ambiente", "percentuale": "71,3"}
+      ],
+      "acqua": [
+        {"tipologia": "riciclo", "percentuale": "80%"},
+        {"tipologia": "immagine", "percentuale": "20%"}
+      ],
+      "ambiente": [
+        {"tipologia": "carbone", "percentuale": "30%"},
+        {"tipologia": "immagine", "percentuale": "70%"}
+      ]
+    },
+    "indicatore_addizionale": {
+      "nome": "Sostenibilità",
+      "value": "100",
+      "unità": "100"
+    }
+  },
+  "azienda": {
+    "titolo": "Performance dell'azienda",
+    "numeri": [
+      {"anno": 2021, "risorse_finanziate": "500.000,32"},
+      {"anno": 2022, "risorse_finanziate": "650.000,34"}
+    ],
+    "subindicatori": {
+      "anni": [
+        {"annata": 2021, "percentuale": "50%"},
+        {"annata": 2022, "percentuale": "65%"}
+      ]
+    },
+    "immagine": "https://example.com/image-description"
+  }
+}
+``` 

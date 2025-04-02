@@ -1,0 +1,42 @@
+{
+    "progetti_bando_mur_edilizia_universitaria": {
+        "unita_di_misura": "€",
+        "dati": [
+            {
+                "linea_bando_mur": "A",
+                "interventi_presentati": 11,
+                "quadri_economici_candidati": 58997000,
+                "cofinanziamento_richiesto_al_mur": 35398200,
+                "anno_ammissibilita_al_finanziamento": "2022"
+            },
+            {
+                "linea_bando_mur": "B",
+                "interventi_presentati": 14,
+                "quadri_economici_candidati": 60003600,
+                "cofinanziamento_richiesto_al_mur": 33102160,
+                "anno_ammissibilita_al_finanziamento": "2023"
+            },
+            {
+                "linea_bando_mur": "C",
+                "interventi_presentati": 3,
+                "quadri_economici_candidati": 11525000,
+                "cofinanziamento_richiesto_al_mur": 6915000,
+                "anno_ammissibilita_al_finanziamento": "2023"
+            },
+            {
+                "linea_bando_mur": "E",
+                "interventi_presentati": 4,
+                "quadri_economici_candidati": 26445000,
+                "cofinanziamento_richiesto_al_mur": 15827332,
+                "anno_ammissibilita_al_finanziamento": "in attesa"
+            },
+            {
+                "linea_bando_mur": "TOTALE",
+                "interventi_presentati": 32,
+                "quadri_economici_candidati": 156970600,
+                "cofinanziamento_richiesto_al_mur": 91242692,
+                "anno_ammissibilita_al_finanziamento": null
+            }
+        ]
+    }
+}

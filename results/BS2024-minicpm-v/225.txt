@@ -1,0 +1,36 @@
+INFO: Job done in 24.995s.
+{
+  "Nome e cognome": {
+    "Rebecca Levy Orelli": ["Delegato al Bilancio", "Indirizzo, supervisione realeggiate e coordinamento del progetto complessivo"],
+    "Simona Tondelli": ["Prorectrice Vicaria", "Indirizzo, supervisione realeggiate e coordinamento del progetto complessivo"],
+    "Giacomo Bergamini": ["Delegato alla Sostenibilità", "Indirizzo del progetto"]
+  },
+  "Posizione": {
+    "Rebecca Levy Orelli": "Del riguardo al Bilancio",
+    "Simona Tondelli": "Prorectrice Vicaria",
+    "Giacomo Bergamini": "Delegato alla Sostenibilità"
+  },
+  "Ruolo ricoperto": [
+    {
+      "Rebecca Levy Orelli": ["Indirizzo, supervisione realeggiate e coordinamento del progetto complessivo", "rebecca.orelli@unibo.it"],
+      "Simona Tondelli": ["Indirizzo, supervisione realeggiate e coordinamento del progetto complessivo", "prorettice.vicaria@unibo.it"],
+      "Giacomo Bergamini": ["Indirizzo del progetto"]
+    },
+    {
+      "Federico Condello": ["Delegato alla Comunicazione Istituzionale, alle Studentesse e agli Studenti", "federico.condello@unibo.it"],
+      "Paola Mandelli": ["Direcente dell'Area Pianificazione", "paola.mandelli@unibo.it"]
+    },
+    {
+      "Maria Letizia Guerra": "Del riguardo all’Impiego Pubblico",
+      "Sabrina Luccarini": ["Direttore Generale della rendicontazione complessiva"],
+      "Paola Mandelli": ["Coordinamento, Programmazione e comunicazione della rendicontazione"]
+    },
+    {
+      "Federico Condello": [
+        "Indirizzo del progetto",
+        "federico.condello@unibo.it"
+      ],
+      "Maria Letizia Guerra": ["Del riguardo all’Impiego Pubblico", "mletizia.guerra@unibo.it"]
+    }
+  ]
+}

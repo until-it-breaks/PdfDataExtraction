@@ -1,0 +1,58 @@
+INFO: Job done in 21.191s.
+```json
+{
+  "title": {
+    "content": "3.2 Valore economico distribuito",
+    "language": "Italian"
+  },
+  "table1": {
+    "header": [
+      {
+        "name": "Valore economico distribuito",
+        "year": "(2023 min)",
+        "unit": "€mL",
+        "percentage": "%"
+      }
+    ],
+    "rows": [
+      ["Risorse umane", '469', '58%'],
+      ['di cui Personale docente e di ricerca', '331', '41%'],
+      ['di cui Personale dirigente', '138', '17%'],
+      ['e tecnico amministrativo', '', ""],
+      ["Interventi a favore dei studenti/esse", '124', '15%'],
+      ['Trasferimenti passivi verso terzi', '42', '5%'],
+      ['Fornitori', '141', '18%'],
+      ['Capitale di credito', '2', '0%'],
+      ["Pubblica amministrazione", '26', '3%'],
+      [
+        "Totale",
+        '805',
+        '100%'
+      ]
+    ]
+  },
+  "table2": {
+    "header": [
+      {
+        "name": "Valore economico distribuito",
+        "unit": "(mln)"
+      }
+    ],
+    "rows": [
+      ["Risorse umane", '', "469"],
+      ['di cui Personale docente e di ricerca', '', '331'],
+      ['di cui Personale dirigente', '', '138'],
+      ["e tecnico amministrativo", '', ""],
+      ["Interventi a favore dei studenti/esse", '124', '15%'],
+      ['Trasferimenti passivi verso terzi', '42', '5%'],
+      ['Fornitori', '141', '18%'],
+      ['Capitale di credito', '2', '0%'],
+      ["Pubblica amministrazione", '26', '3%']
+    ]
+  },
+  "total": {
+    "content": "Totale",
+    "language": "Italian"
+  }
+}
+```

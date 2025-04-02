@@ -1,0 +1,57 @@
+{
+    "tabella_valore_economico_attratto": {
+        "valore_economico_attratto": [
+            {
+                "voce": "Contribuzione studentesca",
+                "valore_2023_mln": 132.0,
+                "percentuale": "14%"
+            },
+            {
+                "voce": "Contributi dallo Stato",
+                "valore_2023_mln": 639.0,
+                "percentuale": "67%"
+            },
+            {
+                "voce": "di cui FFO",
+                "valore_2023_mln": 516.0,
+                "percentuale": "54%"
+            },
+            {
+                "voce": "Contributi dalle Regioni",
+                "valore_2023_mln": 5.0,
+                "percentuale": "1%"
+            },
+            {
+                "voce": "Contributi da UE e resto del mondo",
+                "valore_2023_mln": 8.0,
+                "percentuale": "1%"
+            },
+            {
+                "voce": "Contributi da altri soggetti",
+                "valore_2023_mln": 37.0,
+                "percentuale": "4%"
+            },
+            {
+                "voce": "Proventi da ricerche commissionate e trasferimento tecnologico",
+                "valore_2023_mln": 14.0,
+                "percentuale": "1%"
+            },
+            {
+                "voce": "Proventi di ricerca",
+                "valore_2023_mln": 95.0,
+                "percentuale": "10%"
+            },
+            {
+                "voce": "Altri proventi",
+                "valore_2023_mln": 27.0,
+                "percentuale": "3%"
+            },
+            {
+                "voce": "Totale",
+                "valore_2023_mln": 957.0,
+                "percentuale": "100%"
+            }
+        ],
+        "unita_di_misura": "mln"
+    }
+}

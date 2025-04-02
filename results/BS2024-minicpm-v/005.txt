@@ -1,0 +1,61 @@
+INFO: Job done in 19.319s.
+```json
+{
+  "Biblioteche": {
+    "Percentuale per il Personale Tecnico Amministrativo": [
+      [126]
+    ]
+  },
+  "Crescita professionale": [
+    [0, "0.3"]
+  ],
+  "Trattamento economico accessorio e incentivio economici": [
+    [89]
+  ],
+  "Mobilità interna ed esterna": [
+    [126]
+  ],
+  "Welfare di Ateneo e altre agevolazioni": [
+    [73, ["5.4"]]
+  ],
+  "Formazione": [
+    [0],
+    [189]
+  ],
+  "Lavoro a distanza": [
+    [133]
+  ],
+  "Generi e Cittadinanza": {
+    "Salute e sicurezza": [
+      [76, ["5.2"]]
+    ]
+  },
+  "Comunicazione E Informazione": [
+    [0],
+    [89]
+  ],
+  "Il sistema dei siti web istituzionali di Ateneo": [
+    [143]
+  ],
+  "Canali sociali": [
+    [76, ["5.2"]]
+  ],
+  "Efficienza del relazioni con il pubblico": [
+    [0],
+    [89]
+  ],
+  "Sport E Salute": {
+    "Tutela della salute": [
+      [143]
+    ]
+  },
+  "Impatto sugli Obiettivi di Sostenibilità dell'Onu SDGs": [
+    [76, ["5.2"]]
+  ],
+  "Ambiente": [
+    ["L'Aliceana Università Europea", [0]],
+    ["Progetti di cooperazione, accordi e attività internazionali", [143]],
+    ["Network internazionale", [189]]
+  ]
+}
+```

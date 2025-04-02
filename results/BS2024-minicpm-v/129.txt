@@ -1,0 +1,28 @@
+INFO: Job done in 23.985s.
+{
+  "Title": "Welfare of Ateneo and other agevolazioni",
+  "Year": 2023,
+  "Source": "Accordo sindacale sul welfare del Ateneo",
+  "Categories": [
+    {
+      "Name": "Contributo sostanziano Mobilità (per dipendenti TA e CEL)",
+      "Value": "525.000"
+    },
+    {
+      "Name": "Pulizia sanitaria Unisalute",
+      "Value": "1.094.544"
+    },
+    {
+      "Name": "Contributo per centri educativi e servizi di babysitting, assistenza per l'Iscrizione dei figli ai nisi d'infanzia",
+      "Value": "Premio di natalità"
+    },
+    {
+      "Name": "Erogato da erogatore (per gli iscritti dai figli ai nididi infanzia)",
+      "Value": "43.683"
+    },
+    {
+      "Name": "Premio di natalità",
+      "Value": "8.000"
+    }
+  ]
+}

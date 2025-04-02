@@ -1,0 +1,45 @@
+INFO: Job done in 26.426s.
+```json
+{
+  "data_sulla_sostenibilita": [
+    {
+      "anno": ["2021", "2023"],
+      "carico_elettrica": [7.615, 8.442],
+      "fuori_elettrica": [2.691, 3.141]
+    },
+    {
+      "anno": ["2021", "2023"],
+      "carico_elettrica": [7.752, 8.442],
+      "fuori_elettrica": [3.069, 3.064]
+    },
+    {
+      "figura_88": [
+        {"serie_storica": ["energia elettrica", "gas naturale", "teleriscaldamento"], 
+         "valori": [14.461, 12.590, 3.583]},
+        {"serie_storica": ["energia elettrica", "gas naturale", "teleriscaldamento"],
+         "valori": [14.067, 3.237, 2.675]}
+      ]
+    },
+    {
+      "figura_89": [
+        {"serie_storica": ["emissioni tCO2", 
+                          "energia elettrica",
+                          "gas naturale"],
+         "valori": [140.31, 26.75, 2.61]},
+        {"serie_storica": ["emissioni tCO2", 
+                           "energy electrica",
+                           "gas natural"],
+         "valori": [326.89, 40.37, 4.16]}
+      ]
+    }
+  ],
+  "note": {
+    "figura_88": ["Figura 88 - Serie storica dei consumi (Tep)²⁰",
+                  "L'interroga sulle forniture e le emisioni.",
+                  "Per quanto riguarda la fornitura della fornitura di energia elettrica è costato per l’appendicino che con i primi anni 2019.",
+                  "... del 23% rispetto all'anno precedente."],
+    "figura_89": ["Figura 89 - Serie storica delle emissioni (tCO2)²¹",
+                 "Il gas naturale è acquisito ad agosto 2022 durante la grande"]
+  }
+}
+```

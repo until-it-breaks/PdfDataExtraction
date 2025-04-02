@@ -1,0 +1,52 @@
+INFO: Job done in 33.645s.
+{
+  "title": "4. Didattica e Comunità studentesca",
+  "sections": [
+    {
+      "header": "Associazioni studentesche",
+      "content": "Le Associazioni studentsche organizzano attività culturale e sociali per migliorare il coinvolgimento degli studenti nella vita universitaria e citadina. Inoltre, forniscono supporto agli studenti che si trovano ad affrontare unesperienza fuori pelo o alle loro. L'ateneo promuove e sostiene le associazioni con fondi, spazi ed mezzi di comunicazione dedicati.",
+      "data": {
+        "% Accredited Student Associations since 2013": "32"
+      }
+    },
+    {
+      "header": "Alluvione in Emilia-Romagna",
+      "content": "Miglioramento del romagnolo 2023 ha stillato una profonda ondata di solidarietà alla communità della Luna. Magli Materi, il giallo studenti e i volanti sono stati mobiliati con grande determinazione, offrendo acqua fredda e secco e, ancora investendo insieme tra le macchie, l'albero e il fango per aiutare le persone in difficulty.",
+      "data": {
+        "% Volunteering Students": ""
+      }
+    },
+    {
+      "header": "Angelo di Fiango",
+      "content": "Migliaia di volontari sono stati rivolto col tondo 'Romagna mia', cercando di rispondere prevalentemente alle numerose segnalazioni e richieste d'aide.",
+      "data": {
+        "% Volunteering Students' Name": "Angelo di Fiango"
+      }
+    },
+    {
+      "header": "Cultural Activity",
+      "content": "Il Museo desiderato viene valorizzato e preservato come questa straordinaria dimostrazione di generosità e solidarietà. Pertanto, il lanciatore ha un raccordo a testemonianze attraverso un form olive, con l'obiettivo di documentare storie ed esperienze di mutuo aiuto.",
+      "data": {
+        "% Cultural Activity's Name": ""
+      }
+    },
+    {
+      "header": "Generosity",
+      "content": "Queste testimonianze sono state poi utilizzate per creare un'opera d'arte collettiva, realizzata dall'artista Francesca Grossò.",
+      "data": {
+        "% Generosity's Name": ""
+      }
+    },
+    {
+      "header": "Artistic Collaborations",
+      "content": "Ecco celebrate e ricordare il tempo che il valore insostituibile della comunità, della responsabilità pubblica e della partecipazione attiva.",
+      "data": {
+        "% Artistic Collaborations' Name": ""
+      }
+    },
+    {
+      "header": "Positions",
+      "content": "Le informazioni sull'imposizione del tempo sono riportate."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+INFO: Job done in 10.952s.
+ {
+  "titolo": "Rapporto annuale di sostenibilità",
+  "indicatore_sostenibilità": {
+    "risorse_umane": {
+      "vacanzieri": {
+        "totale": "8,523.769",
+        "nuovi": "110",
+        "turnover": "202,1"
+      },
+      "formazione": {
+        "total_trained": "4,311",
+        "training_hours": "5,098,367"
+      },
+      "salute e sicurezza": {
+        "injuries": "29",
+        "accidents": "30",
+        "illnesses": "198"
+      }
+    },
+    "ambiente": {
+      "emissions_CO2": "7,584,221.604",
+      "water_consumption": "2,593,699"
+    },
+    "responsabilità sociale": {
+      "community_investment": {
+        "total": "2,377,581.373",
+        "partnerships": "42"
+      }
+    }
+  }
+} 

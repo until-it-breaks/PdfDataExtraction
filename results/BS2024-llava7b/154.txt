@@ -1,0 +1,10 @@
+INFO: Job done in 26.504s.
+ L'immagine presenta una vignetta o infografia in stile moderno con una serie di cerchi concentrici che contengono testo. Il cerchio centrale contiene il nome "Sostenibilità" e vi sono cinque cerchi concentrici ad esso, ciascuno con un tema di sostenibilità diverso:
+
+1. "Education" con la frase "More than 2000 students", indicando l'educazione e il numero di studenti.
+2. "University" con "More than 150 employees", che riguarda l'impiego all'interno dell'università e il numero di dipendenti.
+3. "Environment" con "European leader in sustainable mobility solutions", che indica la posizione di leadership dell'azienda nell'ambito della mobilità sostenibile in Europa.
+4. "Society" con "More than 500000 people benefiting from our programs, services and products", che riguarda l'impatto sull'intero sociale e il numero di persone beneficiate dalle attività dell'azienda.
+5. "Business" con "Economic value creation for all stakeholders", che riguarda la creazione di valore economico per tutti i stakeholder, sia essi clienti che fornitori.
+
+La vignetta è un elemento di una presentazione o documento di tipo informativo o promozionale, che cerca di evidenziare le dimensioni di sostenibilità dell'azienda, attraverso una rappresentazione visuale e significativa. 

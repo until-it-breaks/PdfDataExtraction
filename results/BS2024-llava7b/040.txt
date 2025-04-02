@@ -1,0 +1,34 @@
+INFO: Job done in 21.265s.
+ L'immagine fornita è una sezione di un bilancio o report di sostenibilità che presenta informazioni su alcuni dei fattori di sostenibilità dell'azienda. I dati sono estratti e riorganizzati in modo strutturato e valido per essere utilizzati come input per una analisi.
+
+```json
+{
+  "titolo": "Bilancio sostenibilità 2021",
+  "indicatori_sostenibilità": [
+    {
+      "titolo": "Risorse umane",
+      "valori": [9.8, 993.5]
+    },
+    {
+      "titolo": "Conflitto di interessi",
+      "valori": [0, 2]
+    },
+    {
+      "titolo": "Educazione e sviluppo della forza lavoro",
+      "valori": [68.5, 917.4]
+    },
+    {
+      "titolo": "Responsabilità sociale",
+      "valori": [322561252.71, 913.29]
+    }
+  ]
+}
+```
+
+Il bilancio sostenibilità sembra essere articolato in base alla suddivisione dei fattori di sostenibilità e i dati estratti sono strutturati in modo da rispecchiarne le caratteristiche. Il JSON contiene un oggetto radice con una chiave "titolo" che descrive il documento, un array "indicatori_sostenibilità" che contiene informazioni su quattro indicatori di sostenibilità differenti: risorse umane, conflitto di interessi, educazione e sviluppo della forza lavoro e responsabilità sociale.
+
+Ogni indicatore ha una descrizione breve "titolo" che indica il campo di sostenibilità cui si riferisce, mentre i valori numerici sono rappresentati in due format: un numero con quattro cifre per la percentuale e un valore monetario corrispondente all'indicatore.
+
+Il JSON presenta una struttura gerarchica corretta, dove il "titolo" è un elemento di livello superiore e l'array "indicatori_sostenibilità" contiene gli indicatori di sostenibilità come elementi a livello inferiore. Le percentuali e i valori numerici sono presentati in modo che si distingua facilmente l'unità (percentuale) dall'intero (valore monetario).
+
+Se necessario, posso fornire una descrizione più dettagliata dei singoli indicatori di sostenibilità. 

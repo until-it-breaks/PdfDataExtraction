@@ -1,0 +1,47 @@
+{
+    "lauree": {
+        "descrizione": "Il numero di laureati e laureate complessivo per l'anno solare 2023 ha visto un leggero aumento registrando 19.783 unità.",
+        "dati": [
+            {
+                "anno": 2023,
+                "campus_bologna": 14836,
+                "campus_romagna": 4947,
+                "totale": 19783
+            },
+            {
+                "anno": 2022,
+                "campus_bologna": 14149,
+                "campus_romagna": 4786,
+                "totale": 18935
+            },
+            {
+                "anno": 2021,
+                "campus_bologna": 15171,
+                "campus_romagna": 4915,
+                "totale": 20086
+            }
+        ]
+    },
+    "tempistiche_conseguimento_laurea": {
+        "dati": [
+            {
+                "anno": 2023,
+                "in_corso": "69,9%",
+                "primo_anno_fuori_corso": "19,5%",
+                "secondo_anno_fuori_corso_e_oltre": "10,7%"
+            },
+            {
+                "anno": 2022,
+                "in_corso": "71,9%",
+                "primo_anno_fuori_corso": "17,7%",
+                "secondo_anno_fuori_corso_e_oltre": "10,3%"
+            },
+            {
+                "anno": 2021,
+                "in_corso": "69,0%",
+                "primo_anno_fuori_corso": "18,3%",
+                "secondo_anno_fuori_corso_e_oltre": "12,6%"
+            }
+        ]
+    }
+}

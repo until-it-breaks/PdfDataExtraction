@@ -1,0 +1,30 @@
+INFO: Job done in 26.332s.
+```json
+{
+  "Piano Energico per Ridurre e Consumi": {
+    "Percentuale dell'energia prodotta da fonti innovativi": "",
+    "Efficienza energetica degli edifici finalizzati": 2035,
+    "Emissioni di gas caloranti dal livello localeistance simili": 2104.76%,
+    "Decarbonizzazione del sistema di raffinaggio e trasporto petrolifero": "-",
+    "Decarbonizzazione della mobilità": "",
+    "Decarbonizzazione dei sistemi centralizzati di produzione e distribuzione dell'energia": -,
+    "Decarbonizzazione degli utilizzatori finali di energia": 2035
+  },
+  "Piano Energico per Ateneo": {
+    "Modifiche del piano energy: REPOWEREU ha modificato in modo significativo il target": "",
+    "Livello localeistance simili sono porte avanti dal Patto per il Lavoro e per il Clima": "-",
+    "La regione Emilia-Romagna che può raggiungere la decarbonizzazione primato del 2050 e l'100% di energia rinnovabili dentro il 2035. Bologna è stata individuata come una delle smart cities a impiatta climatica zeroando nel 2030": -,
+    "Il Piano energetico coglie sfide sfe ed il calo nel concorso dell'Ateneo individualizzato obiettivi, milestone e strumenti per raggiungere gli sui obiettivi". ""
+  },
+  "Nuovi Strumenti di Sostenibilità Ambientale": {
+    "Piano energy: Archivus": "",
+    "Il studio realizzato del Piano energetico Ateneo con i University": -,
+    "Il report dell'energy: Archivus": "-",
+    "Il calcolo degli comportamenti": -,
+    "Il piano nazionale di contenimento dei consumi energetici e in genere per sensibilizzare la Comunità universitaria sulla tema del risparmio energetico. Inoltre, isatto a canale dedicato alla segnalazione degli scatti speriati: resparmiorenergy@unibo.it": -,
+    "Piano energico di Ateneo": "-",
+    "Gli output che sono in organizzazioni e raffigurano": "",
+    "Il target realizzato del Piano energy: Archivus": ""
+  }
+}
+```

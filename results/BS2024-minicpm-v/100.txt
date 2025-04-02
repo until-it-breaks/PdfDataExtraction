@@ -1,0 +1,44 @@
+INFO: Job done in 20.001s.
+```json
+{
+  "title": "Investimenti nella ricerca e ricerca",
+  "investments_in_research_and_ricerca": [
+    {
+      "year": "2013",
+      "investment_amount": "1.227"
+    },
+    {
+      "year": "2022",
+      "investment_amount": "1.298"
+    },
+    {
+      "year": "2023",
+      "investment_amount": "1.369"
+    }
+  ],
+  "total_research_and_ricerca_investment": [
+    {
+      "year": "2013",
+      "investment_amount": "1,227"
+    },
+    {
+      "year": "2022",
+      "investment_amount": "1.298 €"
+    },
+    {
+      "year": "2023",
+      "investment_amount": "1.369"
+    }
+  ],
+  "other_research_investment": [
+    {
+      "year": "2022",
+      "investment_amount": "54,7€"
+    },
+    {
+      "year": "2023",
+      "investment_amount": "NA"
+    }
+  ]
+}
+```

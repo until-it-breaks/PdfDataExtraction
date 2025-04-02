@@ -1,0 +1,70 @@
+INFO: Job done in 24.413s.
+```
+{
+  "M1": {
+    "Obiettivo": [
+      {
+        "Titolo": "DIGITALIZZAZIONE, INNOVAZIONE",
+        "Valori": [
+          "Competitività Cultura E Turismo"
+        ],
+        "Percentuale": ["Ripresa e Resilienza"]
+      },
+      {
+        "Titolo": "INNOVAZIONI CONCRETE (M4.C2)",
+        "Valori": [
+          {
+            "Valore": "30,88",
+            "Unita": "MILDEURO"
+          }
+        ],
+        "Percentuale": ["Ripresa e Resilienza"]
+      },
+      {
+        "Titolo": "INCLUSIONE E COESIONE (M5)",
+        "Valori": [
+          {
+            "Valore": "24,13",
+            "Unita": "ATTRATTI UNIBO"
+          }
+        ],
+        "Percentuale": ["Ripresa e Resilienza"]
+      }
+    ]
+  },
+  "M2": {
+    "Obiettivo": [
+      {
+        "Titolo": "REVOLUTIONE VERDE E TRANSIZIONE ECологICALA",
+        "Valori": [
+          {
+            "Valore": "15,63",
+            "Unita": "MILDEURO"
+          },
+          {
+            "Valore": "40,73",
+            "Unita": "MILDEURO"
+          }
+        ],
+        "Percentuale": ["Ripresa e Resilienza"]
+      }
+    ]
+  },
+  "M3": [
+    "INFRASTRUCTURE PER UNA MOBILITA SOSTENIBLE",
+    {
+      "Valori": [
+        {
+          "Valore": "19,44",
+          "Unita": "MILDEURO"
+        },
+        {
+          "Valore": "30,87",
+          "Unita": "MILDEURO"
+        }
+      ],
+      "Percentuale": ["Ripresa e Resilienza"]
+    }
+  ]
+}
+```

@@ -1,0 +1,48 @@
+INFO: Job done in 17.963s.
+ ```json
+{
+  "titolo": "Performance Sostenibilità Azienda",
+  "indicatore_perc_da_sostenibilità": "82.5%",
+  "indicatori_finanziari": {
+    "fatturato_annuale": "3,00 euro",
+    "utile_patrimonio": "674.89 euro",
+    "rendita_media": "212.63 euro"
+  },
+  "team_azienda": {
+    "persona_1": {
+      "nome": "Giovanni Martini",
+      "ruolo": "Finanziario",
+      "foto": "https://link-to-image.com/giovanni-martini"
+    },
+    "persona_2": {
+      "nome": "Emma Rossi",
+      "ruolo": "Sostenibilità",
+      "foto": "https://link-to-image.com/emma-rossi"
+    },
+    "persona_3": {
+      "nome": "Giorgio Zaccone",
+      "ruolo": "Marketing",
+      "foto": "https://link-to-image.com/giorgio-zaccone"
+    }
+  },
+  "ambiente_sostenibilità": {
+    "energia_renovabile": {
+      "percentuale_utilizzo": "100%",
+      "tipo_energia_principale": "Energia eolica"
+    },
+    "materiali_sostenibili": {
+      "indicatore_percentuale": "72.5%",
+      "esempi_materiali_sostenibili": [
+        "Materiale di base: Legno FSC",
+        "Paper: 100% riciclatario"
+      ]
+    }
+  },
+  "attività_sociali": {
+    "percentuale_volontariato": "54.2%",
+    "progetti_sociale": [
+      "Partecipazione attiva in progetti di volontariato"
+    ]
+  }
+}
+``` 

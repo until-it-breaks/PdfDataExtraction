@@ -1,0 +1,28 @@
+{
+    "costi_e_consumi_acqua": {
+        "consumi_mc": {
+            "2021": 294923,
+            "2022": 318787,
+            "2023": 316684
+        },
+        "costo_euro": {
+            "2021": 877635,
+            "2022": 991863,
+            "2023": 1036040
+        }
+    },
+    "impianti_fotovoltaici": {
+        "superficie_fotovoltaica": {
+            "valore": 8443,
+            "unita_di_misura": "mq"
+        },
+        "energia_prodotta_nel_2023": {
+            "valore": "3%",
+            "unita_di_misura": null
+        },
+        "potenza_totale_installata": {
+            "valore": 1185.81,
+            "unita_di_misura": "kWp"
+        }
+    }
+}

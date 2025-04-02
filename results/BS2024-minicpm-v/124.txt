@@ -1,0 +1,108 @@
+INFO: Job done in 54.718s.
+{
+  "age_distribution": {
+    "65-69 years old": [
+      "63"
+    ],
+    "60-64 years old": [
+      "424"
+    ],
+    "55-59 years old": [
+      "582"
+    ],
+    "50-54 years old": [
+      "641"
+    ],
+    "45-49 years old": [
+      "504"
+    ],
+    "40-44 years old": [
+      "369"
+    ],
+    "35-39 years old": [
+      "305"
+    ],
+    "30-34 years old": [
+      "229"
+    ],
+    "25-29 years old": [
+      "108"
+    ],
+    "20-24 years old": [
+      "10"
+    ]
+  },
+  "temporary employment statistics": {
+    "periods": [
+      {
+        "start_year": "2021",
+        "end_year": "2023",
+        "total": {
+          "permanent_employees": "665",
+          "temporary_employees": "407"
+        },
+        "annual_employment": {
+          "2021": {
+            "permanent_employees": "176",
+            "temporary_employees": "112"
+          },
+          "2022": {
+            "permanent_employees": "252",
+            "temporary_employees": "150"
+          },
+          "2023": {
+            "permanent_employees": "237",
+            "temporary_employees": "145"
+          }
+        }
+      }
+    ]
+  },
+  "statistical_data": [
+    {
+      "age_group": "65-69 years old",
+      "percentage": "6.08%"
+    },
+    {
+      "age_group": "60-64 years old",
+      "percentage": "12.73%"
+    },
+    {
+      "age_group": "55-59 years old",
+      "percentage": "16.81%"
+    },
+    {
+      "age_group": "50-54 years old",
+      "percentage": "15.49%"
+    },
+    {
+      "age_group": "45-49 years old",
+      "percentage": "7.25%"
+    },
+    {
+      "age_group": "40-44 years old",
+      "percentage": "6.38%"
+    },
+    {
+      "age_group": "35-39 years old",
+      "percentage": "11.61%"
+    },
+    {
+      "age_group": "25-29 years old",
+      "percentage": "0.47%"
+    }
+  ],
+  "temporary_employment_data": [
+    {
+      "total": {
+        "permanent_employees": "665",
+        "temporary_employees": "407"
+      },
+      "annual_employment": {
+        "2021": {
+          "permanent_employees": "398.5% per cento dell'impiego permanente.",
+          "temporary_employees": "43,0%
+        }
+    }
+  ]
+}

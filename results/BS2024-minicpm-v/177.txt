@@ -1,0 +1,39 @@
+INFO: Job done in 17.111s.
+```json
+{
+  "relazioni_con pubblico": {
+    "titolo": "Ufficio relazioni con il pubblico",
+    "carichi": [
+      {
+        "carico": "Front office",
+        "count": 28.8,
+        "percentage": 107469
+      },
+      {
+        "carico": "Pubblicazione fotografica e mese",
+        "count": 30.6,
+        "percentage": 115630
+      },
+      {
+        "carico": "Canale sociali institutionalizzati (in particolare Instagram, TikTok e Telegram)",
+        "count": 28.8,
+        "percentage": 107469
+      }
+    ]
+  },
+  "utenza_URP": [
+    {
+      "utenza": ["Potenziale studente"],
+      "count": "56,8%"
+    },
+    {
+      "utenza": ["Familiare"],
+      "count": "12.2%"
+    },
+    {
+      "utenza": ["Studente Unibo"],
+      "count": "4.7%"
+    }
+  ]
+}
+```

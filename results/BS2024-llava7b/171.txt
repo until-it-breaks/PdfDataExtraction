@@ -1,0 +1,4 @@
+INFO: Job done in 11.080s.
+ Il bilancio che hai fornito contiene una sezione intitolata "Totale Sostenibilità", che si concentra sulla sostenibilità aziendale. Tuttavia, non ci sono dati numerici o grafici visibili nella sezione mostrata in questa immagine. La sezione mostra solamente il testo "TOTALE SUSTENIBILITà" su un fondo blu chiaro.
+
+In quanto ai criteri di rilevanza, non ci sono dati numerici o strutturati da estrarre. Quindi, non è possibile fornire i dati in JSON valido e ben strutturato in questo caso. 

@@ -1,0 +1,57 @@
+INFO: Job done in 16.785s.
+ ```json
+{
+  "sostenibilità": {
+    "economia": {
+      "profit_margin": {
+        "value": "12.5%",
+        "unit_of_measure": "Euro",
+        "label": "Margine di profita"
+      },
+      "turnover": {
+        "value": "322561252.71",
+        "unit_of_measure": "Euro",
+        "label": "Fatturato"
+      }
+    },
+    "ambiente": {
+      "emissions": [
+        {
+          "value": "30.911 kgCO2/Kg",
+          "unit_of_measure": "Kg CO2/Kg",
+          "label": "Emissioni di CO2 per Kg"
+        },
+        {
+          "value": "850 euro",
+          "unit_of_measure": "Euro",
+          "label": "Costi associati all'ambiente"
+        }
+      ]
+    },
+    "society": {
+      "employee_turnover": {
+        "value": "15.8%",
+        "unit_of_measure": "%",
+        "label": "Tassa di turnover degli employee"
+      },
+      "employee_satisfaction": {
+        "value": "92.71",
+        "unit_of_measure": "Su 10",
+        "label": "Indicatore di soddisfazione degli employee"
+      }
+    },
+    "governance": {
+      "board_diversity": {
+        "value": "32.5%",
+        "unit_of_measure": "%",
+        "label": "Percentuale di diversità nella composizione del board of directors"
+      },
+      "compliance_rate": {
+        "value": "89.911%",
+        "unit_of_measure": "%",
+        "label": "Ratel de compilienza"
+      }
+    }
+  }
+}
+``` 

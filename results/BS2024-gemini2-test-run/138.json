@@ -1,0 +1,38 @@
+{
+    "il_servizio_avro_cura_di_te": {
+        "domande_pervenute": {
+            "genitorialita": 13,
+            "adolescenti": 43,
+            "familiari": 13,
+            "totale": 69
+        },
+        "colloqui_effettuati": {
+            "genitorialita": 66,
+            "adolescenti": 97,
+            "familiari": 56,
+            "totale": 219
+        },
+        "ore_di_colloqui_svolte": {
+            "genitorialita": 130,
+            "adolescenti": 134,
+            "familiari": 114,
+            "totale": 378
+        }
+    },
+    "iniziative_benessere_e_inclusione_lavorativa_dipendenti": {
+        "persone_partecipanti": 791,
+        "ore_formazione": 4074
+    },
+    "seminari_lavoro_a_distanza": {
+        "partecipanti": 564,
+        "ore_formazione": 3384
+    },
+    "incontro_personale_gestionale": {
+        "partecipanti": 115,
+        "ore_fruite": 230
+    },
+    "iniziative_sostenibilita": 10,
+    "partecipanti_iniziative_sostenibilita": 152,
+    "ore_formazione_iniziative_sostenibilita": 644,
+    "partecipazioni_corsi_alta_formazione": 5
+}

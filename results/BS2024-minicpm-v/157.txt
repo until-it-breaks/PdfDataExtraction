@@ -1,0 +1,148 @@
+INFO: Job done in 47.922s.
+```json
+{
+  "title": "Osservatorio Magna Charta",
+  "main_topic": {
+    "year": "2033",
+    "celebration": "la celebrazione dell'anniversario della Magna Charta Universitatum",
+    "event": "MCU2020 presso l’Università di Lodz",
+    "theme": [
+      "Universita e Ricostituzione",
+      "il Ruolo della Racicca e dell'Educazione"
+    ],
+    "historical_relevance": {
+      "year_1988": "IX Centenario dell'Università di Bologna",
+      "document": "redattore la Magna Charta",
+      "principal_founding_institutions": [
+        "Universitá Iuventus",
+        "Iuventus Accademia"
+      ],
+      "academic_liberality": {
+        "founders": ["Powers & Wilton"],
+        "dates": [
+          "1987",
+          "1994",
+          "2006"
+        ]
+      },
+      "international_involvement": "la Magna Charta fu inizialmente adottata da 388 Rettori di Università e successivamente adotta da mille istituzioni accademiche",
+      "total_institutions": {
+        "degrees": [
+          "94 paesi"
+        ],
+        "graduates": [
+          "1.067mio studenti",
+          "95,3%"
+        ]
+      }
+    },
+    "institutes_and_institutions": [
+      {
+        "institution": "IUAV - Iuventus Accademia",
+        "initiative": "Questo Osservatorio",
+        "awards": [
+          "Magna Charta",
+          "New Magna Charta"
+        ],
+        "fields": [
+          "academical excellence and responsibility in academic areas"
+        ]
+      },
+      {
+        "institution": "Generale Assemblée di IUAV - Iuventus Accademia (GAA)",
+        "initiative": "Valori sostantivi",
+        "projects": "Collaboration project for research on the issue of freedom of education, and other relevant topics in university life"
+      }
+    ],
+    "university_of_bologna": {
+      "history": [
+        "1987 - foundation",
+        "2015 - Magna Charta Universitatum",
+        "1963 - founding principles: dialogue and language base, promotion of the production activities on an equal basis with scientific research"
+      ],
+      "research_funding": {
+        "funding": [
+          "Iuventus Accademia",
+          "IUAV",
+          "New Magna Charta",
+          "1.067mio studenti",
+          "95,3%"
+        ]
+      },
+      "researchareas": [
+        {
+          "area": "Sciences of Languages and Literature",
+          "students": 824,
+          "funding": ["Iuventus Accademia"],
+          "universities": [
+            "1.067mio studenti"
+          ]
+        },
+        {
+          "area": "Philosophy, History and Humanistic Sciences",
+          "students": "New Magna Charta", 
+          "funding": ["Iuventus Accademia"],
+          "universities": [
+            "1.067mio studenti"
+          ]
+        },
+        {
+          "area": "Economics",
+          "students": 824,
+          "funding": ["IUAV"]
+        }
+      ],
+      "research_institutions": [
+        "Iuventus Accademia", 
+        "New Magna Charta",
+        "1.067mio studenti"
+      ]
+    },
+    "universitá_iuventus": {
+      "founders": ["Powers & Wilton"],
+      "dates": [
+        "2023 - foundation of IUAV", 
+        "1984 - first academic year",
+        "1.067mio studenti"
+      ],
+      "initiatives": [
+        "Redazione della Magna Charta Universitatum MCU2020 presso l’Università di Lodz",
+        "Universitá Iuventus", 
+        "Iuventus Accademia"
+      ]
+    },
+    "università_iuventus": {
+      "historical_relevance": [
+        ["1987 - foundation"],
+        ["342 graduates"]
+      ],
+      "fields": [
+        "Redazione della Magna Charta Universitatum MCU2020 presso l’Università di Lodz",
+        "Universitá Iuventus", 
+        "Iuventus Accademia"
+      ]
+    },
+    "researchareas": {
+      "philosophy": ["New Magna Charta"],
+      "sciences of languages and literature": [
+        "1.067mio studenti", 
+        "funding: IU Juventus Iuventus",
+        "Iuventus Accademia"
+      ],
+      "humanistic sciences": [
+        "Philosophy, History and Humanistic Sciences",
+        "New Magna Charta", 
+        "universities: 1.067mio studenti",
+        "funding IU Juventus Iu Juventus"
+      ],
+      "economics": ["Iuventus Accademia"]
+    },
+    "research_funding": [
+      ["New Magna Charta"],
+      "1.067mio studenti", 
+      "funding: IU Juventus Iu Juventus",
+      "universities 95,3%"
+    ]
+  }
+}
+```

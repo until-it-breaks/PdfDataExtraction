@@ -1,0 +1,99 @@
+{
+    "corsi_attivati": [
+        {
+            "nome": "Laurea",
+            "2021_22": 97,
+            "2022_23": 101,
+            "2023_24": 104
+        },
+        {
+            "nome": "Laurea magistrale",
+            "2021_22": 132,
+            "2022_23": 137,
+            "2023_24": 142
+        },
+        {
+            "nome": "Laurea magistrale a ciclo unico",
+            "2021_22": 14,
+            "2022_23": 14,
+            "2023_24": 14
+        },
+        {
+            "nome": "Scuole di specializzazione",
+            "2021_22": 56,
+            "2022_23": 59,
+            "2023_24": 59
+        },
+        {
+            "nome": "Dottorato di ricerca",
+            "2021_22": 48,
+            "2022_23": 51,
+            "2023_24": 51
+        },
+        {
+            "nome": "Master",
+            "2021_22": 91,
+            "2022_23": 94,
+            "2023_24": 86
+        },
+        {
+            "nome": "Corso di Alta Formazione e di Formazione Permanente",
+            "2021_22": 24,
+            "2022_23": 32,
+            "2023_24": 28
+        }
+    ],
+    "immatricolazioni_primo_anno": {
+        "2023_24": {
+            "l": {
+                "campus_bologna": 10376,
+                "campus_romagna": 4013,
+                "totale": 14389
+            },
+            "lm": {
+                "campus_bologna": 6972,
+                "campus_romagna": 2122,
+                "totale": 9094
+            },
+            "lmcu": {
+                "campus_bologna": 2095,
+                "campus_romagna": 492,
+                "totale": 2587
+            }
+        },
+        "2022_23": {
+            "l": {
+                "campus_bologna": 11054,
+                "campus_romagna": 3878,
+                "totale": 14932
+            },
+            "lm": {
+                "campus_bologna": 6829,
+                "campus_romagna": 2117,
+                "totale": 8946
+            },
+            "lmcu": {
+                "campus_bologna": 2286,
+                "campus_romagna": 465,
+                "totale": 2751
+            }
+        },
+        "2021_22": {
+            "l": {
+                "campus_bologna": 11407,
+                "campus_romagna": 4125,
+                "totale": 15532
+            },
+            "lm": {
+                "campus_bologna": 7758,
+                "campus_romagna": 2364,
+                "totale": 10122
+            },
+            "lmcu": {
+                "campus_bologna": 2535,
+                "campus_romagna": 387,
+                "totale": 2922
+            }
+        }
+    }
+}

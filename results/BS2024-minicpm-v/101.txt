@@ -1,0 +1,40 @@
+INFO: Job done in 26.989s.
+```json
+{
+  "dottorato": {
+    "accademico_2019/20": [
+      ["Laureati LM e LMCU in Italia", 152.49],
+      ["Accessi all'istratorio presso Unibo", 628]
+    ],
+    "accademico_2020/21": [
+      ["Laureati LM e LMCU in Italia", 152.49],
+      ["Accessi all'achelorato presso Unibo", 628]
+    ],
+    "accademico_2021/22": [
+      ["Laureati LM e LMCU in Italia", 162.43],
+      ["Accessi all'achelorato presso Unibo", 759]
+    ],
+    "accademico_2022/23": [
+      ["Laureati LM e LMCU in Italia", 164.84],
+      ["Accessi all'achelorato presso Unibo", 841]
+    ]
+  },
+  "collaboration": {
+    "year": [
+      [2020/21, 5395],
+      [2021/22, 6272],
+      [2022/23, 5814]
+    ],
+    "total": 17,881
+  },
+  "rating": [
+    {
+      "year": [
+        ["2020/21", 'Media 8.1'],
+        ['2021/22', 'Media 8.1'],
+        ['2022/23', 'Media 7.5']
+      ]
+    }
+  ]
+}
+```

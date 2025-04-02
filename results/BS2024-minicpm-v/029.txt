@@ -1,0 +1,138 @@
+INFO: Job done in 49.307s.
+{
+  "Dimensione": [
+    {
+      "Ambito": [
+        "Didattica e comunità",
+        "Società"
+      ],
+      "Descrizione": [
+        "Incrementare gli interventi per il diritto allo studio studentesco e alla disponibilità accademici",
+        "Promuovere iniziativi di fundraising, valorizzare l'impresolitaria e trasferimento tecnologico",
+        "Valore dell'imprenditorialità e la trasformazione digitale"
+      ]
+    },
+    {
+      "Ambito": [
+        "Ricerca"
+      ],
+      "Descrizione": [
+        "Incrementare la partecipazione ai bandi competitivi economici",
+        "Promuovere una mobilità a basso impatto ambientale effettivi (mod 2018)",
+        "Promuovere i modelli di gestione ambientale efficiente e economica circolare"
+      ]
+    },
+    {
+      "Ambito": [
+        "Economico",
+        "Ambientale",
+        "Personale"
+      ],
+      "Descrizione": [
+        "Presenta in mercato",
+        "Impatti economici indiretti nazionali, regionali e locali, Imprese",
+        "Simplificare i processi, anche mediante la trasformazione digitale",
+        "Promuovere l'efficienza energetico (2031)",
+        "Acqua ed emisioni ambientali"
+      ]
+    }
+  ],
+  "GR1": [
+    {
+      "Ambito": [
+        "Didattica e comunità",
+        "Società"
+      ],
+      "Descrizione": [
+        "Incrementare gli interventi per il diritto allo studio studentesco e alla disponibilità accademici",
+        "Promuovere iniziativi di fundraising, valorizzare l'impresolitaria e trasferimento tecnologico",
+        "Valore dell'imprenditorialità e la trasformazione digitale"
+      ],
+      "Stakeholder": [
+        "Studenti, Enti di sostegno, Istituzioni nazionali, regionali e locali; Famiglie",
+        "Impatti economici indiretti nazionali, regionali e locali, Imprese",
+        "Docenti, Personale Tecnico Amministrativo, Studenti e famiglie"
+      ]
+    },
+    {
+      "Ambito": [
+        "Ricerca"
+      ],
+      "Descrizione": [
+        "Incrementare la partecipazione ai bandi competitivi economici",
+        "Promuovere una mobilità a basso impatto ambientale effettivi (mod 2018)",
+        "Promuovere i modelli di gestione ambientale efficiente e economica circolare"
+      ],
+      "Stakeholder": [
+        "Comunità scientifici, Docenti, Institutional",
+        "Famiglie, Istituzioni economici indiretti nazionali, regionali e locali; Imprese",
+        "Docenti, Personale Tecnico Amministrativo Studenti ed famiglie"
+      ]
+    },
+    {
+      "Ambito": [
+        "Economico",
+        "Ambientale",
+        "Personale"
+      ],
+      "Descrizione": [
+        "Presenta in mercato Impatti economici indiretti nazionali, regionali e locali; Famiglie",
+        "Simplificare i processi, anche mediante la trasformazione digitale",
+        "Promuovere l'efficienza energetico (2031)",
+        "Acqua ed emisioni ambientali"
+      ],
+      "Stakeholder": [
+        "Comunità scientifici, Docenti, Institutional",
+        "Famiglie, Istituzioni economici indiretti nazionali, regionali e locali; Imprese",
+        "Docenti, Personale Tecnico Amministrativo Studenti ed famiglie"
+      ]
+    }
+  ],
+  "GR2": [
+    {
+      "Ambito": [
+        "Didattica e comunità",
+        "Società"
+      ],
+      "Descrizione": [
+        "Incrementare gli interventi per il diritto allo studio studentesco e alla disponibilità accademici",
+        "Promuovere iniziativi di fundraising, valorizzare l'impresolitaria e trasferimento tecnologico",
+        "Valore dell'imprenditorialità e la trasformazione digitale"
+      ],
+      "Stakeholder": [
+        "Studenti, Enti di sostegno, Istituzioni nazionali, regionali e locali; Famiglie",
+        "Impatti economici indiretti nazionali, regionali e locali, Imprese",
+        "Docenti, Personale Tecnico Amministrativo Studenti ed famiglie"
+      ]
+    },
+    {
+      "Ambito": [
+        "Ricerca"
+      ],
+      "Descrizione": [
+        "Incrementare la partecipazione ai bandi competitivi economici",
+        "Promuovere una mobilità a basso impatto ambientale effettivi (mod 2018)",
+        "Promuovere i modelli di gestione ambientale efficiente e economica circolare"
+      ],
+      "Stakeholder": [
+        "Comunità scientifici, Docenti, Institutional",
+        "Famiglie, Istituzioni economici indiretti nazionali, regionali e locali; Imprese",
+        "Docenti, Personale Tecnico Amministrativo Studenti ed famiglie"
+      ]
+    },
+    {
+      "Ambito": [
+        "Economico",
+        "Ambientale",
+        "Personale"
+      ],
+      "Descrizione": [
+        "Presenta in mercato Impatti economici indiretti nazionali, regionali e locali; Famiglie",
+        "Simplificare i processi, anche mediante la trasformazione digitale",
+        "Promuovere l'efficienza energetico (2031)",
+        "Acqua ed emisioni ambientali"
+      ],
+      "Stakeholder": [
+        "Comunità scientifici, Docenti, Institutional",
+        "Famiglie, Istituzioni economici indiretti nazionali, regionali e locali; Imprese",
+        "Docenti, Personale Tecnico Amministrativo Studenti ed famiglia

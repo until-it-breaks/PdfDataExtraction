@@ -1,0 +1,54 @@
+INFO: Job done in 37.645s.
+ ```json
+{
+  "presentazione": {
+    "sponsor": "LASIOS",
+    "descrizione_evento": "evento di sostenibilità",
+    "data_evento": "31 marzo"
+  },
+  "dati_finanziamenti": [
+    {
+      "titolo": "Risorse umane",
+      "valore": "20896,567,429.301 euro"
+    },
+    {
+      "titolo": "Ammessa",
+      "valore": "322561252.71 euro"
+    },
+    {
+      "titolo": "Peso delle entrate",
+      "valore": "51291,084,918.169 euro"
+    }
+  ],
+  "dati_impacto": [
+    {
+      "titolo": "Impacto nel contesto dell'azienda",
+      "valore": "35269,394.737 euro"
+    },
+    {
+      "titolo": "Peso delle entrate sul PNLS",
+      "valore": "291150,183.682 euro"
+    }
+  ],
+  "dati_attività": [
+    {
+      "titolo": "Investimenti sociali",
+      "valore": "43436,573.251 euro"
+    },
+    {
+      "titolo": "Participazione femminile",
+      "valore": "92082,523.493 euro"
+    }
+  ],
+  "dati_gestione": [
+    {
+      "titolo": "Investimenti nel PNLS",
+      "valore": "761766,209.681 euro"
+    },
+    {
+      "titolo": "Risorse umane del personale",
+      "valore": "35269,394.737 euro"
+    }
+  ]
+}
+``` 

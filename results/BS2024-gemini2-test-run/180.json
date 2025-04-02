@@ -1,0 +1,92 @@
+{
+    "impatto_sugli_obiettivi_di_sostenibilita_dell_onu_sdgs": {
+        "totale_programmi_e_progetti_attivi": 119,
+        "sdgs": [
+            {
+                "sdg_numero": 1,
+                "sdg_nome": "No Poverty",
+                "numero_progetti": 3
+            },
+            {
+                "sdg_numero": 2,
+                "sdg_nome": "Zero Hunger",
+                "numero_progetti": 7
+            },
+            {
+                "sdg_numero": 3,
+                "sdg_nome": "Good Health and Well-being",
+                "numero_progetti": 11
+            },
+            {
+                "sdg_numero": 4,
+                "sdg_nome": "Quality Education",
+                "numero_progetti": 68
+            },
+            {
+                "sdg_numero": 5,
+                "sdg_nome": "Gender Equality",
+                "numero_progetti": 3
+            },
+            {
+                "sdg_numero": 6,
+                "sdg_nome": "Clean Water and Sanitation",
+                "numero_progetti": 1
+            },
+            {
+                "sdg_numero": 7,
+                "sdg_nome": "Affordable and Clean Energy",
+                "numero_progetti": 3
+            },
+            {
+                "sdg_numero": 8,
+                "sdg_nome": "Decent Work and Economic Growth",
+                "numero_progetti": 14
+            },
+            {
+                "sdg_numero": 9,
+                "sdg_nome": "Industry, Innovation and Infrastructure",
+                "numero_progetti": 0
+            },
+            {
+                "sdg_numero": 10,
+                "sdg_nome": "Reduced Inequalities",
+                "numero_progetti": 3
+            },
+            {
+                "sdg_numero": 11,
+                "sdg_nome": "Sustainable Cities and Communities",
+                "numero_progetti": 8
+            },
+            {
+                "sdg_numero": 12,
+                "sdg_nome": "Responsible Consumption and Production",
+                "numero_progetti": 1
+            },
+            {
+                "sdg_numero": 13,
+                "sdg_nome": "Climate Action",
+                "numero_progetti": 6
+            },
+            {
+                "sdg_numero": 14,
+                "sdg_nome": "Life Below Water",
+                "numero_progetti": 1
+            },
+            {
+                "sdg_numero": 15,
+                "sdg_nome": "Life on Land",
+                "numero_progetti": 4
+            },
+            {
+                "sdg_numero": 16,
+                "sdg_nome": "Peace, Justice and Strong Institutions",
+                "numero_progetti": 7
+            },
+            {
+                "sdg_numero": 17,
+                "sdg_nome": "Partnerships for the Goals",
+                "numero_progetti": 10
+            }
+        ]
+    }
+}

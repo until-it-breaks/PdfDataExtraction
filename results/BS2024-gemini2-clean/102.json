@@ -1,0 +1,64 @@
+{
+    "soddisfazione_attivita_formative_strutturate": {
+        "scala": "0-10",
+        "valori": [
+            {
+                "categoria": "Competenza del supervisore su argomento tesi",
+                "valore": 8.1
+            },
+            {
+                "categoria": "Acquisizione di nuove competenze e abilità specifiche",
+                "valore": 7.8
+            },
+            {
+                "categoria": "Capacità del supervisore di inserire in reti di rapporti",
+                "valore": 7.6
+            },
+            {
+                "categoria": "Padronanza di tecniche di ricerca",
+                "valore": 7.4
+            },
+            {
+                "categoria": "Approfondimento di contenuti teorici",
+                "valore": 7.2
+            },
+            {
+                "categoria": "Qualità della ricerca di base",
+                "valore": 7.1
+            },
+            {
+                "categoria": "Prospettive di carriera",
+                "valore": 6.5
+            },
+            {
+                "categoria": "Padronanza di tecniche per la didattica",
+                "valore": 6.1
+            }
+        ]
+    },
+    "soddisfazione_esperienza_dottorato": {
+        "scala": "0-10",
+        "valori": [
+            {
+                "categoria": "Competenza dei docenti",
+                "valore": 8.1
+            },
+            {
+                "categoria": "Adeguatezza del carico didattico rispetto all'attività di ricerca",
+                "valore": 6.9
+            },
+            {
+                "categoria": "Livello di approfondimento/aggiornamento degli argomenti",
+                "valore": 6.7
+            },
+            {
+                "categoria": "Coerenza con gli obiettivi generali del dottorato",
+                "valore": 6.5
+            },
+            {
+                "categoria": "Addestramento alla ricerca",
+                "valore": 6.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ambiente": {
+        "superficie_fotovoltaica": {
+            "valore": 8443.0,
+            "unita_di_misura": "mq"
+        },
+        "insegnamenti_tematiche_ambientali": {
+            "valore": 1975
+        },
+        "energia_fonti_rinnovabili": {
+            "valore": 1103885.0,
+            "unita_di_misura": "kWh"
+        },
+        "abbonamenti_agevolati": {
+            "valore": 20369
+        },
+        "spesa_abbonamenti_agevolati": {
+            "valore": 1305000.0,
+            "unita_di_misura": "€"
+        }
+    }
+}

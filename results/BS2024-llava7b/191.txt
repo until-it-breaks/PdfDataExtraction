@@ -1,0 +1,63 @@
+INFO: Job done in 40.468s.
+ ```json
+{
+  "introduzione": {
+    "titolo": "Sostenibilità",
+    "testo": "Questo bilancio presenta i dati e le performance dell'azienda in termini di sostenibilità."
+  },
+  "tabella_sostenibilita": {
+    "titolo": "Tabella Sostenibilità",
+    "descrizione": "La tabella mostra il bilancio dell'azienda per gli anni precedenti.",
+    "data": [
+      {
+        "anno": "2018",
+        "valori": [1469, 7560]
+      },
+      {
+        "anno": "2019",
+        "valori": [1328, 7160]
+      },
+      {
+        "anno": "2020",
+        "valori": [1455, 7420]
+      }
+    ]
+  },
+  "grafico_carbone_emissi": {
+    "titolo": "Grafico Carbonio Emissioni (in tonnes)",
+    "descrizione": "Il grafico mostra l'evoluzione delle emissioni di carbonio dell'azienda negli anni precedenti.",
+    "data": [
+      {
+        "anno": "2017",
+        "valori": 469
+      },
+      {
+        "anno": "2018",
+        "valori": 453
+      },
+      {
+        "anno": "2019",
+        "valori": 457
+      }
+    ]
+  },
+  "infografia_energia_renewable": {
+    "titolo": "Infografia Energia Renewable (in MWh)",
+    "descrizione": "L'infografia presenta l'evoluzione dell'utilizzo di energia renewable nell'azienda negli anni precedenti.",
+    "data": [
+      {
+        "anno": "2017",
+        "valori": 385.69
+      },
+      {
+        "anno": "2018",
+        "valori": 401.46
+      },
+      {
+        "anno": "2019",
+        "valori": 427.23
+      }
+    ]
+  }
+}
+``` 

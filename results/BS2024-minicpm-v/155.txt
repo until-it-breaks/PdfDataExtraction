@@ -1,0 +1,105 @@
+INFO: Job done in 109.389s.
+```json
+{
+  "header": {
+    "title": "7. SOSTENIBILITÀ"
+  },
+  "body": [
+    {
+      "cell1": "Bologna",
+      "cell2": "2023 nel 2023, nei Balcani occidentali, si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "In Africa",
+      "cell2": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },
+    {
+      "cell1": "nel 2023, nei Balcani occidentali si è iniziato un nuovo progetto di capacity building in Montenegro e Kosovo, insieme a un progetto finanziato dalla DG International Partnerships dell’Unione europea sulla formazione dei funzionari delle amministrazione pubbliche in Albania. Inoltre, proseguendo il lavoro su un progetto focalizzato sul raffortamento della capacità di quattro università albanesi nel campo della ricerca innovativa conser-vazione e del restauro del patrimonio culturale.",
+      "cell3": ""
+    },

@@ -1,0 +1,41 @@
+INFO: Job done in 22.669s.
+ Le immagini fornite contengono un grafico e una tabella con dati numerici e un indice di performance. Il grafico rappresenta il cambio percentuale (%) della rendita degli stessi esercizi nei quattro trimestri dell'anno, mentre la tabella presenta indicatori di performance in diverse posizioni cardinali, con valori numerici che sembrano rappresentare valori monetari (in euro), percentuali (%), ed indice di performance.
+
+In base ai criteri di rilevanza forniti, ho estratto i dati strutturati rilevanti per la valutazione delle performance di sostenibilità dell'azienda. La valutazione sarà basata solo sulla tabella.
+
+Ecco come sono strutturati i dati:
+
+```json
+{
+    "posizioni": [1, 2, 3, 4],
+    "indicatori_performance": {
+        "1": {
+            "valore_monetario": 6098.75,
+            "percentuale": 55,
+            "unità_di_misura": "EUR",
+            "legenda": "Terzo trimestre"
+        },
+        "2": {
+            "valore_monetario": 6397.87,
+            "percentuale": 55.25,
+            "unità_di_misura": "EUR",
+            "legenda": "Primo trimestre"
+        },
+        "3": {
+            "valore_monetario": 6793.01,
+            "percentuale": 57,
+            "unità_di_misura": "EUR",
+            "legenda": "Secondo trimestre"
+        },
+        "4": {
+            "valore_monetario": 6892.58,
+            "percentuale": 56.17,
+            "unità_di_misura": "EUR",
+            "legenda": "Primo trimestre"
+        }
+    },
+    "titolo": "Performance di sostenibilità - Indicatori di rendita degli esercizi"
+}
+```
+
+Il grafico e la tabella presentano i valori numerici (in Euro) e le percentuali. La struttura JSON rappresenta i dati strutturati con le chiavi "posizioni", "indicatori_performance" e "titolo". Il formato dei valori monetari è in linea con il criterio di rilevanza, e l'unità di misura è sempre indicata in modo correto (EUR). La legenda indica qual è il trimestre associato al valore. 

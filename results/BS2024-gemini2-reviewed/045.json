@@ -1,0 +1,308 @@
+{
+    "offerta_formativa_2023_2024": [
+        {
+            "voce": "Corsi di Laurea e Laurea magistrale a ciclo unico",
+            "citta": [
+                {
+                    "nome": "Bologna",
+                    "quantita": 79
+                },
+                {
+                    "nome": "Cesena",
+                    "quantita": 10
+                },
+                {
+                    "nome": "Forlì",
+                    "quantita": 9
+                },
+                {
+                    "nome": "Ravenna",
+                    "quantita": 11
+                },
+                {
+                    "nome": "Rimini",
+                    "quantita": 9
+                }
+            ]
+        },
+        {
+            "voce": "Corsi di Laurea magistrale",
+            "citta": [
+                {
+                    "nome": "Bologna",
+                    "quantita": 102
+                },
+                {
+                    "nome": "Cesena",
+                    "quantita": 9
+                },
+                {
+                    "nome": "Forlì",
+                    "quantita": 12
+                },
+                {
+                    "nome": "Ravenna",
+                    "quantita": 8
+                },
+                {
+                    "nome": "Rimini",
+                    "quantita": 11
+                }
+            ]
+        },
+        {
+            "voce": "Totale corsi di studio",
+            "citta": [
+                {
+                    "nome": "Bologna",
+                    "quantita": 181
+                },
+                {
+                    "nome": "Cesena",
+                    "quantita": 19
+                },
+                {
+                    "nome": "Forlì",
+                    "quantita": 21
+                },
+                {
+                    "nome": "Ravenna",
+                    "quantita": 19
+                },
+                {
+                    "nome": "Rimini",
+                    "quantita": 20
+                }
+            ],
+            "dettagli": [
+                {
+                    "voce": "di cui: a doppi diplomi",
+                    "citta": [
+                        {
+                            "nome": "Bologna",
+                            "quantita": 31
+                        },
+                        {
+                            "nome": "Cesena",
+                            "quantita": 3
+                        },
+                        {
+                            "nome": "Forlì",
+                            "quantita": 8
+                        },
+                        {
+                            "nome": "Ravenna",
+                            "quantita": 1
+                        },
+                        {
+                            "nome": "Rimini",
+                            "quantita": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "voce": "Dottorati",
+            "citta": [
+                {
+                    "nome": "Bologna",
+                    "quantita": 46
+                },
+                {
+                    "nome": "Cesena",
+                    "quantita": 1
+                },
+                {
+                    "nome": "Forlì",
+                    "quantita": 3
+                },
+                {
+                    "nome": "Ravenna",
+                    "quantita": 1
+                },
+                {
+                    "nome": "Rimini",
+                    "quantita": 1
+                }
+            ]
+        },
+        {
+            "voce": "Master",
+            "citta": [
+                {
+                    "nome": "Bologna",
+                    "quantita": 78
+                },
+                {
+                    "nome": "Cesena",
+                    "quantita": 1
+                },
+                {
+                    "nome": "Forlì",
+                    "quantita": 3
+                },
+                {
+                    "nome": "Ravenna",
+                    "quantita": 4
+                },
+                {
+                    "nome": "Rimini",
+                    "quantita": 0
+                }
+            ]
+        },
+        {
+            "voce": "Corsi di alta formazione",
+            "citta": [
+                {
+                    "nome": "Bologna",
+                    "quantita": 26
+                },
+                {
+                    "nome": "Cesena",
+                    "quantita": 0
+                },
+                {
+                    "nome": "Forlì",
+                    "quantita": 1
+                },
+                {
+                    "nome": "Ravenna",
+                    "quantita": 1
+                },
+                {
+                    "nome": "Rimini",
+                    "quantita": 0
+                }
+            ]
+        },
+        {
+            "voce": "Immatricolazioni",
+            "citta": [
+                {
+                    "nome": "Bologna",
+                    "quantita": 19443
+                },
+                {
+                    "nome": "Cesena",
+                    "quantita": 1528
+                },
+                {
+                    "nome": "Forlì",
+                    "quantita": 2414
+                },
+                {
+                    "nome": "Ravenna",
+                    "quantita": 1163
+                },
+                {
+                    "nome": "Rimini",
+                    "quantita": 1522
+                }
+            ]
+        },
+        {
+            "voce": "Iscrizioni",
+            "citta": [
+                {
+                    "nome": "Bologna",
+                    "quantita": 67431
+                },
+                {
+                    "nome": "Cesena",
+                    "quantita": 4976
+                },
+                {
+                    "nome": "Forlì",
+                    "quantita": 6672
+                },
+                {
+                    "nome": "Ravenna",
+                    "quantita": 3980
+                },
+                {
+                    "nome": "Rimini",
+                    "quantita": 4806
+                }
+            ],
+            "dettagli": [
+                {
+                    "voce": "di cui: a corsi di Laurea magistrale",
+                    "citta": [
+                        {
+                            "nome": "Bologna",
+                            "quantita": 17912
+                        },
+                        {
+                            "nome": "Cesena",
+                            "quantita": 1260
+                        },
+                        {
+                            "nome": "Forlì",
+                            "quantita": 1783
+                        },
+                        {
+                            "nome": "Ravenna",
+                            "quantita": 819
+                        },
+                        {
+                            "nome": "Rimini",
+                            "quantita": 1283
+                        }
+                    ]
+                },
+                {
+                    "voce": "di cui: a doppi diplomi",
+                    "citta": [
+                        {
+                            "nome": "Bologna",
+                            "quantita": 14122
+                        },
+                        {
+                            "nome": "Cesena",
+                            "quantita": 338
+                        },
+                        {
+                            "nome": "Forlì",
+                            "quantita": 1491
+                        },
+                        {
+                            "nome": "Ravenna",
+                            "quantita": 482
+                        },
+                        {
+                            "nome": "Rimini",
+                            "quantita": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "voce": "Lauree",
+            "citta": [
+                {
+                    "nome": "Bologna",
+                    "quantita": 14836
+                },
+                {
+                    "nome": "Cesena",
+                    "quantita": 1138
+                },
+                {
+                    "nome": "Forlì",
+                    "quantita": 1774
+                },
+                {
+                    "nome": "Ravenna",
+                    "quantita": 734
+                },
+                {
+                    "nome": "Rimini",
+                    "quantita": 1301
+                }
+            ]
+        }
+    ]
+}

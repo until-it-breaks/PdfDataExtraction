@@ -1,0 +1,127 @@
+INFO: Job done in 42.660s.
+{
+  "Area Scientifica": {
+    "1. Chimica 'Giacomo Ciamianò' – CHIM": [
+      {
+        "Dipartimento": "CHIM",
+        "Docenti e ricercafatori": 92,
+        "Tecnicisti amministrativi e ricercatori": 37
+      },
+      {
+        "Dipartimento": "CHIMIND",
+        "Docenti e ricercafatori": 74,
+        "Tecnicisti amministrativi e ricercatori": 32
+      }
+    ],
+    "2. Chimica industriale 'Toso Montanari'" - CHIMIND": [
+      {
+        "Dipartimento": "CHIMIND",
+        "Docenti e ricercafatori": 74,
+        "Tecnicisti amministrativi e ricercatori": 32
+      }
+    ],
+    "3. Farmacia e Biotechologie – FaBIT": [
+      {
+        "Dipartimento": "FaBIT",
+        "Docenti e ricercafatori": 124,
+        "Tecnicisti amministrativi e ricercatori": 45
+      }
+    ],
+    "4. Fisica e Astronomia 'Augusto Righi'" - DIFA": [
+      {
+        "Dipartimento": "DIFA",
+        "Docenti e ricercafatori": 154,
+        "Tecnicisti amministrativi e ricercatori": 40
+      }
+    ],
+    "5. Matematica – MAT": [
+      {
+        "Dipartimento": "MAT",
+        "Docenti e ricercafatori": 105,
+        "Tecnicisti amministrativi e ricercatori": 13
+      }
+    ],
+    "6. Scienze biologiche, geologiche e ambientali – BiGeA": [
+      {
+        "Dipartimento": "BiGeA",
+        "Docenti e ricercafatori": 94,
+        "Tecnicisti amministrativi e ricercatori": 33
+      }
+    ],
+    "7. Scienze per la Qualità della Vita – QUVI": [
+      {
+        "Dipartimento": "QUVI",
+        "Docenti e ricercafatori": 57,
+        "Tecnicisti amministrativi e ricercatori": 9
+      }
+    ],
+    "8. Architettura – DA": [
+      {
+        "Dipartimento": "DA",
+        "Docenti e ricercafatori": 61,
+        "Tecnicisti amministrativi e ricercatori": 15
+      }
+    ],
+    "9. Informatica – Scienze e Ingegneria – DISI": [
+      {
+        "Dipartimento": "DISI",
+        "Docenti e ricercafatori": 115,
+        "Tecnicisti amministrativi e ricercatori": 19
+      }
+    ],
+    "10. Ingegneria civile, chimica, ambientale e dei Materiali – DICAM": [
+      {
+        "Dipartimento": "DICAM",
+        "Docenti e ricercafatori": 131,
+        "Tecnicisti amministrativi e ricercatori": 47
+      }
+    ],
+    "11. Ingegneria dell'Eletrica e dell'Informazione 'G. Marconi'" – DEI": [
+      {
+        "Dipartimento": "DEI",
+        "Docenti e ricercafatori": 148,
+        "Tecnicisti amministrativi e ricercatori": 42
+      }
+    ],
+    "12. Ingegneria industriale – DIN": [
+      {
+        "Dipartimento": "DIN",
+        "Docenti e ricercafatori": 117,
+        "Tecnicisti amministrativi e ricercatori": 37
+      }
+    ],
+    "13. Scienze e Tecnologie agro-alimentari – DISTAL": [
+      {
+        "Dipartimento": "DISTAL",
+        "Docenti e ricercafatori": 174,
+        "Tecnicisti amministrativi e ricercatori": 116
+      }
+    ],
+    "14. Scienze per la Qualità della Vita – QUVI": [
+      {
+        "Dipartimento": "QUVI",
+        "Docenti e ricercafatori": 57,
+        "Tecnicisti amministrativi e ricercatori": 9
+      }
+    ]
+  },
+  "Area Tecnologica di Innovazione (ATI)": [
+    {
+      "Dipartimento": "ATI",
+      "Docenti e ricercafatori": 15,
+      "Tecnicisti amministrativi e ricercatori": 3
+    }
+  ],
+  "Area Sportiva": [
+    {
+      "Dipartimento": "SSP",
+      "Docenti e ricercafatori": 20,
+      "Tecnicisti amministrativi e ricercatori": 14
+    },
+    {
+      "Dipartimento": "SSF",
+      "Docenti e ricercafatori": 8,
+      "Tecnicisti amministrativi e ricercatori": 7
+    }
+  ]
+}

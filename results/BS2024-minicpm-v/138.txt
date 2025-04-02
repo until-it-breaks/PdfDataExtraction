@@ -1,0 +1,162 @@
+INFO: Job done in 69.362s.
+{
+"report": {
+"title": "Figura 78 - Il servizio ‘Avrà cura di te’",
+"data": [
+{
+"name": "Domande perversite",
+"value": {
+"total": 69,
+"genitorialita": 13,
+"adolescenti": 43
+}
+},
+{
+"name": "Colloqui effettuati",
+"value": {
+"total": 219,
+"genitorialita": 97,
+"adolescenti": 66
+}
+},
+{
+"name": "Ore di colloquio svolte",
+"value": {
+"total": 378,
+"genitorialita": 134,
+"adolescenti": 114
+}
+}
+],
+"sources": [
+{
+"text": "Nel 2023, sono state lanciate initiative mirate a sostenerile il benessere e l’incidenza lavorativa dei dipendenti Dell'Ateneo. Complessivamente, hanno partecipato 791 persone con 4.074 ore di formazione.",
+"location": "Comunicato Unico del Garanzia",
+"participation": [
+{
+"value": ["persone", "ore"],
+"data": {
+"total": {
+"value": "115"
+},
+"genitorialita": {
+"value": "329.604"
+},
+"adolescenti": {
+"value": "857.604"
+}
+}
+},
+{
+"value": ["personale", "ore"],
+"data": [
+[
+"value": "115",
+"data": "persone"
+],
+[
+"value": "13",
+"data": "colloquio svolto"
+]
+]
+},
+{
+"value": ["personale", "partecipazione"],
+"data": [
+[
+"value": "1.074",
+"data": "ore di formazione"
+],
+[
+"value": "568",
+"data": "colloquio svolto"
+],
+[
+"value": "329.604",
+"data": "partecipazione del personale con ruoli gestionali"
+],
+[
+"value": "1.074",
+"data": "total participation in educational initiatives (CUG) focused on education and training for employees of the Ateneo company."
+]
+]
+}
+],
+"events": [
+{
+"value": ["total", "total"]
+},
+{
+"value": ["participations"],
+"data": {
+"total": 69,
+"genitorialita": 13,
+"adolescenti": 43
+}
+},
+{
+"value": ["colloquies"],
+"data": {
+"total": 219,
+"genitorialita": 97,
+"adolescenti": 66
+}
+},
+{
+"value": ["hours of colloquiums", "total"]
+},
+{
+"value": [
+[
+"value": "378",
+"data": "total hours"
+],
+[
+"value": "14.052",
+"data": "participations in educational initiatives focused on education and training for employees."
+]
+}
+]
+},
+"report_date": "2023-06-30",
+"organization": [
+{
+"name": "Dell'Ateneo S.p.A.",
+"value": ["total"],
+"data": {
+"total": 154.89,
+"value": "personnel"
+}
+},
+{
+"value": ["total", "participation"]
+},
+{
+"value": [4,2],
+"value": ["hours of colloquiums"]
+},
+{
+"value": [
+[
+"value": "378",
+"data": "total hours in educational initiatives focused on education and training for employees."
+]
+}
+]
+},
+"explanation": "Nel 2023, sono state lanciate initiative mirate a sostenerile il benessere e l’incidenza lavorativa dei dipendenti Dell'Ateneo. Complessivamente, hanno partecipato 791 persone con 4.074 ore di formazione.",
+},
+"reporters": [
+{
+"name": "Unico del Garanzia",
+"value": ["total"]
+}
+],
+"data": {
+"data": [258]
+},
+"credits": [],
+"introduction": null,
+"contact": []
+}
+}

@@ -1,0 +1,37 @@
+INFO: Job done in 20.315s.
+ ```json
+{
+  "Sostenibilità": {
+    "Performance2021": {
+      "Immagine Rilievi": "",
+      "Indicatore1": {
+        "Valore": "18935",
+        "Unità di Misura": "Euro"
+      },
+      "Indicatore2": {
+        "Valore": "10671",
+        "Unità di Misura": "Euro"
+      },
+      "Indicatore3": {
+        "Valore": "895",
+        "Unità di Misura": "Euro"
+      }
+    },
+    "Performance2020": {
+      "Immagine Rilievi": "",
+      "Indicatore1": {
+        "Valore": "17638",
+        "Unità di Misura": "Euro"
+      },
+      "Indicatore2": {
+        "Valore": "90345",
+        "Unità di Misura": "Euro"
+      },
+      "Indicatore3": {
+        "Valore": "866",
+        "Unità di Misura": "Euro"
+      }
+    }
+  }
+}
+``` 

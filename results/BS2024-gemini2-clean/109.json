@@ -1,0 +1,31 @@
+{
+    "visiting_professors_e_phd": {
+        "docenti": {
+            "2021": 138,
+            "2022": 405,
+            "2023": 425
+        },
+        "dottorandi": {
+            "2021": 141,
+            "2022": 239,
+            "2023": 290
+        },
+        "totale": {
+            "2021": 279,
+            "2022": 644,
+            "2023": 715
+        }
+    },
+    "provenienza_visiting_professors_e_phd_triennio_20_22": {
+        "spagna": 231,
+        "stati_uniti_d_america": 165,
+        "francia": 100,
+        "brasile": 93,
+        "polonia": 91,
+        "germania": 89,
+        "cina_repubblica_popolare": 88,
+        "gran_bretagna_e_irlanda_del_nord": 71,
+        "portogallo": 39,
+        "italia": 38
+    }
+}

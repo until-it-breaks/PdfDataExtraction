@@ -1,0 +1,30 @@
+INFO: Job done in 13.471s.
+ Ecco il JSON valido e ben strutturato estratto dall'immagine:
+
+```json
+{
+  "titolo": "Bilancio di sostenibilità",
+  "dati_strutturati": {
+    "annuale": {
+      "indicatori_finanziari": {
+        "ricorde_fondi": [13567, 2201],
+        "utenti_beneficiati": [9248, 833]
+      },
+      "impatto_sociale": {
+        "investimenti_sociali": "2,1 milioni di euro",
+        "numero_personnel": "704",
+        "indicatori_ambientali": [632.51, 82.59],
+      },
+    },
+    "metodologie": {
+      "procedimenti": [
+        "Valutazione ambientale e sociale dei prodotti",
+        "Programma di formazione per il lavoro sostenibile",
+        "Soccorso ai soccorsi e ai bisogni dei colleghi"
+      ],
+    },
+  }
+}
+```
+
+Il JSON valido e ben strutturato estratto dall'immagine presenta i dati rilevanti in modo gerarchico, con le chiavi in snake case senza spazi o accenti. Inoltre, viene separata la posizione cardinale dei numeri numerici da questi stessi, salvando il formato originale per le unità di misura come il milione e l'euro. 

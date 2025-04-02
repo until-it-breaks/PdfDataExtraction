@@ -1,0 +1,34 @@
+{
+    "inclusione_e_tutela": {
+        "dipendenti_con_disabilita": {
+            "anno": 2023,
+            "numero_dipendenti": 196
+        }
+    },
+    "consigliera_di_fiducia": {
+        "persone_assistite": {
+            "anno": 2023,
+            "numero_persone": 75,
+            "distribuzione": {
+                "docenti": "56%",
+                "personale_ta": "27%",
+                "studenti": "17%"
+            }
+        }
+    },
+    "supporto_psicologico": {
+        "ore_di_supporto": {
+            "periodo": "dal 6 ottobre 2022 al 6 ottobre 2023",
+            "numero_ore": 640
+        },
+        "richieste_di_supporto": {
+            "numero_richieste": 443,
+            "suddivisione": {
+                "personale_tecnico_amministrativo": 222,
+                "docenti_e_ricercatori": 98,
+                "assegnisti_di_ricerca": 53
+            }
+        },
+        "soddisfazione_utenti": "85%"
+    }
+}

@@ -1,0 +1,17 @@
+INFO: Job done in 23.307s.
+ Lo siento, ma non posso estrarre dati strutturati da immagini. Tuttavia, posso descrivere lo screenshot che fornisce informazioni sull'immagine e suggerire come potresti procedere nella sua analisi:
+
+La immagine è un grafico o una tabella presentata in modo esteso su un dispositivo digitale. Questa rappresentazione sembra mostrarci dati sulle prestazioni di sostenibilità dell'azienda. In base alle descrizioni fornite, potresti procedere estraendo i dati strutturati dal grafico e dalla tabella in modo coerente con le chiavi e i formati di output richiesti.
+
+Per cominciare, considera che il grafico sembra mostrarci due tipologie di informazioni: una serie di barre che rappresentano la percentuale di un determinato indicatore di sostenibilità, e un'altra serie di barre che rappresentano le prestazioni in termini di risparmio energetico.
+
+Per estrarre i dati strutturati, potresti seguire questi passaggi:
+
+1. Identifica il tipo di grafico (barre, linee, etc.) e come vengono rappresentate le percentuali e le prestazioni in termini di risparmio energetico.
+2. Determina i dati che potresti estrarre dal grafico: possono essere valori numerici per la percentuale e il risparmio energetico, intervalli o etichette per le categorie o le unità di misura (ad esempio, % di riduzione di emissioni, MWh di risparmio energetico).
+3. Identifica eventuali segnalazioni o note associati al grafico che potresti convertire in stringhe o commenti.
+4. Inserisci i dati estratti in un formato JSON valido e ben strutturato, come descritto nella guida per la creazione del file JSON. Assicurati di mantenere le chiavi in snake case e di adottare una sintassi corrette per rappresentare le unità di misura e le percentuali.
+5. Se necessario, potresti dividere i dati estratti tra più oggetti JSON (per esempio, separando le informazioni sulla percentuale e sul risparmio energetico) per mantenere la struttura logica del JSON.
+6. Verifica se il grafico include anche una tabella o un'altra forma di presentazione di dati che potrebbe contenere ulteriori informazioni utilizzabili per l'analisi di sostenibilità.
+
+In caso di qualsiasi dubbio o difficoltà, potresti chiedere aiuto con specifiche richieste per avere un supporto più dettagliato sull'estrazione dei dati. 

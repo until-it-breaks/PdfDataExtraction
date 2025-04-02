@@ -1,0 +1,28 @@
+INFO: Job done in 18.175s.
+{
+  "società": {
+    "piattaforme": [
+      {
+        "titolo": "Esplora della risa",
+        "percentuale": "",
+        "valori": []
+      },
+      {
+        "titolo": "Pensaci",
+        "percentuale": "",
+        "valori": []
+      }
+    ],
+    "presente": true,
+    "partecipanti": [
+      {
+        "età": "15-29",
+        "valore": 0.3
+      },
+      {
+        "età": "30-49",
+        "valore": 0.6
+      }
+    ]
+  }
+}

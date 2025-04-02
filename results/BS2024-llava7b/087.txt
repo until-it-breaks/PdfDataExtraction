@@ -1,0 +1,78 @@
+INFO: Job done in 29.456s.
+ {
+  "Sostenibilità": {
+    "Risorse umane": {
+      "Totale dipendenti": {
+        "Numeri": 147,
+        "Unità": "Persone"
+      },
+      "Percentuale di occupazione degli abitanti del territorio": {
+        "Numeri": 98.37,
+        "Unità": "%",
+        "Valore valutativo": "Media Toscana"
+      }
+    },
+    "Territorio e ambiente": {
+      "Superficie demaniati a coltivazione intensiva": {
+        "Numeri": 23.15,
+        "Unità": "Hectare",
+        "Valore valutativo": "Media Toscana"
+      },
+      "Percentuale di occupazione degli abitanti del territorio con attività legate alla produzione e conservazione della biodiversità": {
+        "Numeri": 94.37,
+        "Unità": "%",
+        "Valore valutativo": "Media Toscana"
+      },
+      "Risorse idrocarboniferi": {
+        "Numeri": 602.561,
+        "Unità": "Tonnes di CO2 equivalenti",
+        "Valore valutativo": "Media Toscana"
+      }
+    },
+    "Governance e trasparenza": {
+      "Percentuale di occupazione degli abitanti del territorio con attività legate alla produzione e conservazione della biodiversità": {
+        "Numeri": 94.37,
+        "Unità": "%",
+        "Valore valutativo": "Media Toscana"
+      }
+    },
+    "Sostenibilità dei consumatori": {
+      "Risorse idrocarboniferi": {
+        "Numeri": 602.561,
+        "Unità": "Tonnes di CO2 equivalenti",
+        "Valore valutativo": "Media Toscana"
+      }
+    },
+    "Risorse economiche": {
+      "Totale fatturato": {
+        "Numeri": 36570.89,
+        "Unità": "Euro",
+        "Valore valutativo": "Media Toscana"
+      },
+      "Percentuale di occupazione degli abitanti del territorio con attività legate alla produzione e conservazione della biodiversità": {
+        "Numeri": 94.37,
+        "Unità": "%",
+        "Valore valutativo": "Media Toscana"
+      }
+    },
+    "Risorse sociali": {
+      "Percentuale di occupazione degli abitanti del territorio con attività legate alla produzione e conservazione della biodiversità": {
+        "Numeri": 94.37,
+        "Unità": "%",
+        "Valore valutativo": "Media Toscana"
+      }
+    },
+    "Risorse ambientali": {
+      "Totale demaniati a coltivazione intensiva": {
+        "Numeri": 23.15,
+        "Unità": "Hectare",
+        "Valore valutativo": "Media Toscana"
+      },
+      "Percentuale di occupazione degli abitanti del territorio con attività legate alla produzione e conservazione della biodiversità": {
+        "Numeri": 94.37,
+        "Unità": "%",
+        "Valore valutativo": "Media Toscana"
+      }
+    }
+  }
+} 

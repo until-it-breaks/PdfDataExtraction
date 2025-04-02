@@ -1,0 +1,90 @@
+INFO: Job done in 24.613s.
+{
+  "Area Umanistica": {
+    "Beni culturali – DBC": {
+      "Dipartimento DBB": [
+        [59]
+      ],
+      "Tecnic e riceratori amministrativi": [
+        [13]
+      ]
+    },
+    "Filologia classica e Italianistica – FICLIT": {
+      "Dipartimento FILI": [
+        [78],
+        [20]
+      ]
+    },
+    "Psicologia «Renzo Canestri» – PSI": {
+      "Dipartimento PSI": [
+        [651.49]
+      ],
+      "Tecnic e riceratori amministrativi": [
+        [387],
+        [205],
+        [265],
+        [270],
+        [267],
+        [205]
+      ]
+    },
+    "Psicologia (19. Filosofia – FILD)": {
+      "Dipartimento": [
+        []
+      ],
+      "Tecnic e riceratori amministrativi": [
+        [48]
+      ]
+    },
+    "Lingue, Letterature e Culture moderne – LILEC": {
+      "Dipartimento LILEC": [
+        [60],
+        [235]
+      ],
+      "Tecnic e riceratori amministrativi": [
+        [78], [19. Filosofia - FILD] 
+      ]
+    },
+    "Psicologia (18. Delie Arti – DAR)": {
+      "Dipartimento DAB": [
+        []
+      ],
+      "Tecnic e riceratori amministrativi": [
+        [20],
+        [59]
+      ]
+    }
+  },
+  "AREA SOCIAL": {
+    "Sociologia e diritto dell'Economia – SDE": {
+      "Dipartimento SDE": [
+        [341.68] 
+      ],
+      "Tecnic e riceratori amministrativi": []
+    }
+  },
+  "AREA SOCIALE": {
+    "Sociologia ed istituzioni politiche – SPs": [
+      [
+       ["PSI"],
+       [
+        [
+         [127.09],
+         [48]
+       ],
+       [
+        [
+          [53], 
+           [
+            63
+           ]
+        ],
+        [
+        ,
+        "Filosofia (19 Filosofia) - FILD"
+        ]
+      ]
+    ]]]
+
+   }
+}

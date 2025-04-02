@@ -1,0 +1,6 @@
+INFO: Job done in 10.109s.
+ La immagine presenta una infografia in stile italiano che illustra la bilancia delle esigenze e degli obiettivi di sostenibilità. Tuttavia, l'immagine non fornisce dati numerici specifici o informazioni strutturate come tabelle o grafici. Per quanto si può osservare, ci sono testi che dicono "Bilancia delle esigenze e degli obiettivi di sostenibilità 2018-2020", che sembrano essere titoli o sezioni de l'infografia.
+
+La bilancia è rappresentata da due colonne, una verde e una rossa, con un numero intero centrale che esprime il risultato finale di sostenibilità, "100". Ci sono inoltre esempi di obiettivi e azioni de sostenibilità, come l'utilizzo di carburante alternativo e la riduzione dell'impronto carbonio.
+
+Dato che l'immagine non fornisce dati numerici strutturati o informazioni dettagliate, è impossibile fornire dati estratti in formato JSON valido. 

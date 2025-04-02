@@ -1,0 +1,54 @@
+INFO: Job done in 27.581s.
+ ```json
+{
+  "sostenibilità": {
+    "titolo": "Sostenibilità",
+    "performance": [
+      {
+        "indice": "Performance sostenibilità",
+        "valori": [
+          "20",
+          "15",
+          "5",
+          "3"
+        ],
+        "unità": "euro",
+        "note": "Note: euro è indicatore di performance."
+      },
+      {
+        "indice": "Uso delle risorse naturali",
+        "valori": [
+          "25.374",
+          "19.186",
+          "3.092",
+          "0.000"
+        ],
+        "unità": "euro",
+        "note": "Note: euro è indicatore di performance."
+      },
+      {
+        "indice": "Risorse naturali",
+        "valori": [
+          "47.826",
+          "31.905",
+          "1.043",
+          "1.539"
+        ],
+        "unità": "euro",
+        "note": "Note: euro è indicatore di performance."
+      },
+      {
+        "indice": "Sostenibilità ambientale",
+        "valori": [
+          "100%",
+          "95%",
+          "4%",
+          "2%"
+        ],
+        "unità": "Percentuali",
+        "note": "Note: % esprime percentuali."
+      }
+    ]
+  }
+}
+``` 

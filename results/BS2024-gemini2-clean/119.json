@@ -1,0 +1,55 @@
+{
+    "assunzioni_personale_docente": {
+        "ordinario": {
+            "2021": 90,
+            "2022": 66,
+            "2023": 26
+        },
+        "associato": {
+            "2021": 217,
+            "2022": 197,
+            "2023": 104
+        },
+        "ricercatore": {
+            "2021": 277,
+            "2022": 292,
+            "2023": 361
+        },
+        "totale": {
+            "2021": 584,
+            "2022": 555,
+            "2023": 491
+        }
+    },
+    "cessazioni_personale_docente": {
+        "ordinario": {
+            "2021": 38,
+            "2022": 27,
+            "2023": 35
+        },
+        "associato": {
+            "2021": 113,
+            "2022": 76,
+            "2023": 108
+        },
+        "ricercatore": {
+            "2021": 192,
+            "2022": 283,
+            "2023": 147
+        },
+        "totale": {
+            "2021": 343,
+            "2022": 386,
+            "2023": 290
+        }
+    },
+    "saldo_assunzioni_cessazioni_2021_2023": "611 unità",
+    "assunzioni_totali": 1630,
+    "cessazioni_totali": 1019,
+    "saldo_2023": "201 unità",
+    "assunzioni_2023": 491,
+    "cessazioni_2023": 290,
+    "saldo_professori_ordinari": "+147",
+    "saldo_professori_associati": "+410",
+    "saldo_ricercatori": "+308"
+}

@@ -1,0 +1,42 @@
+INFO: Job done in 25.721s.
+```json
+{
+  "title": "Tabella 33 – Progetto del Bando MUR sull’Edilizia Universitaria",
+  "data": [
+    {
+      "Linea_bando_MUR": "A",
+      "Interventi_presentati": "11",
+      "Quadri_economici_candidati_(€)": "58,997.000",
+      "Cofinanziamento_richestio_mil.MUR_(€)": "35,398.200",
+      "Anno_ammissibilita_finanziamento": "2022"
+    },
+    {
+      "Linea_bando_MUR": "B",
+      "Interventi_presentati": "14",
+      "Quadri_economici_candidati_(€)": "60,003.600",
+      "Cofinanziamento_richestio_mil.MUR_(€)": "33,102.160",
+      "Anno_ammissibilita_finanziamento": "2023"
+    },
+    {
+      "Linea_bando_MUR": "C",
+      "Interventi_presentati": "3",
+      "Quadri_economici_candidati_(€)": "11,525.000",
+      "Cofinanziamento_richestio_mil.MUR_(€)": "6,915.000",
+      "Anno_ammissibilita_finanziamento": "2023"
+    },
+    {
+      "Linea_bando_MUR": "D",
+      "Interventi_presentati": "4",
+      "Quadri_economici_candidati_(€)": "15,876.450.000",
+      "Cofinanziamento_richestio_mil.MUR_(€)": "322519.323",
+      "Anno_ammissibilita_finanziamento": "in attesa"
+    },
+    {
+      "Linea_bando_MUR": "Totale",
+      "Interventi_presentati": "32",
+      "Quadri_economici_candidati_(€)": "156,970.600",
+      "Cofinanziamento_richestio_mil.MUR_(€)": "91,242.692"
+    }
+  ]
+}
+```

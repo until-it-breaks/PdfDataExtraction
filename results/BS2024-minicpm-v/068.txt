@@ -1,0 +1,33 @@
+INFO: Job done in 16.825s.
+```json
+{
+  "benefici": [
+    {
+      "title": "Borse economici per sostenere il diritto allo studio",
+      "description": "Gestiti dalla 'Emilia-Romagna', tramite l'azienda 'Azioni Regionale' per il Diritto agli studi superiori (ER.GO), che dalla Università.",
+      "beneficiati": 130,
+      "percentuale": null
+    },
+    {
+      "title": "Borse economici per gli studenti di casa",
+      "description": "Gestiti dal 'Borse e il Diritto' di collaborazione studiosi a tempo parziale.",
+      "beneficiati": 150,
+      "percentuale": null
+    },
+    {
+      "title": "Borse economici per gli studenti che si trovano in condizioni di disaggio socio-economico, fisico o familiare",
+      "description": "Gestite da ER.GO.",
+      "beneficiati": 130,
+      "percentuale": null
+    }
+  ],
+  "borse_2022_2023": [
+    {
+      "title": "Borse di studio per gli studenti colpiti dall'Alluvione in alcuni aree della Regione nel maggio",
+      "description": "Stato attivato l'intervento.",
+      "beneficiati": 553,
+      "percentuale": null
+    }
+  ]
+}
+```

@@ -1,0 +1,50 @@
+INFO: Job done in 17.340s.
+{
+  "Title": "ISTITUITONI NAZIONALI, REGIONALI E LOCALI",
+  "Subtitle": "ENTI DI SOSTEGNO"
+},
+{
+"Title": "2.2 STAKEHOLDER E CONVOLGIMENTO",
+"Body": [
+"Percorso di interesse per studenti, docenti, personale tecnico amministrativo, tivio, entri e messo e comunità.",
+"Il Bilancio di Sostenibilità ha il compito di illustrare la relazione tra l'Universita ed i suoi stakeholder",
+"Collaborative role of the University in supporting various stakeholders through different categories"
+]
+},
+{
+"Title": "FAMIGLIA",
+"Body": [
+"Comunica,"
+],
+"Subcategories": ["PERSONALE TENDO"],
+"Description": {
+"Famiglia",
+"Personale tendo"
+}
+},
+{
+"Title": "STUDENTI",
+"Body": [
+"Mettente",
+"Dicego",
+"Risorse",
+"Approvvigionamento"
+],
+"Subcategories": ["DOCE", "NETWORK INTERNAZIONALE"]
+},
+{
+"Title": "IMPRESE",
+"Body": [
+"Progettante",
+"Educazione",
+"Strategie sostenibili"
+],
+"Subcategories": []
+},
+{
+"Title": "CITTADINANZA",
+"Body": [
+"Innovazione,"
+"Tecnico amministrativo"
+]
+}

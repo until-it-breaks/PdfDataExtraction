@@ -1,0 +1,40 @@
+INFO: Job done in 28.220s.
+{
+  "report": {
+    "figure_48": {
+      "title": "Dottori di ricerca occupati, per professione",
+      "data": [
+        {
+          "year": "2022",
+          "researchers_in_academic职务": ["50.4%", "35.5%"],
+          "researchers_in_management职务": ["1%, 5,8%"]
+        },
+        {
+          "year": "2020",
+          "researchers_in_academic职务": ["45.4%", "46,8%"],
+          "researchers_in_management职务": ["0.7%", "2,4%"]
+        },
+        {
+          "year": "2018",
+          "researchers_in_academic职务": ["40,3%", "52,1%"],
+          "researchers_in_management职务": ["2,3%", "4,9%"]
+        },
+        {
+          "profession": [
+            {"name": "Ricerca e tecnici laureati nell'università", "%_of_total_researchers": "0%"},
+            {"name": "Altre professioni intellettuali, scientifice e di elevata specializzazione nei governi", "%_of_total_researchers": "52,1%"},
+            {"name": "Formazione retribuitiva", "%_of_total_researchers": "3.4%"},
+            {"name": "Ricerca e tecnici laureati nell'università", "%_of_total_researchers": "0%"}
+          ]
+        },
+        {
+          "professional职务": [
+            ["ricercatori e tecnici laureati nell'Università", "25%"],
+            ["Altre professioni intellettuali, scientifice e di elevata specializzazione nei governi", "75%"]
+          ],
+          "_total_researchers": "100%"
+        }
+      ]
+    }
+  }
+}

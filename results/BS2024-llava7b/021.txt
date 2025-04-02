@@ -1,0 +1,4 @@
+INFO: Job done in 6.963s.
+ Il tuo obiettivo è analizzare un documento che presenta dati sulle performance di sostenibilità. Tuttavia, la qualità della foto non permette di leggere il contenuto del documento con chiarezza, quindi non è possibile fornire i dati richiesti in formato JSON valido e ben strutturato.
+
+Per rispondere alla tua richiesta, sarebbe necessario avere una descrizione o un altro tipo di immagine che contenga il contenuto testuale del documento. In questo caso, la foto non fornisce informazioni sui dati strutturati rilevanti per la valutazione delle performances di sostenibilità dell'azienda. 

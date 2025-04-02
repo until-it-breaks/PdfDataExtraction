@@ -1,0 +1,143 @@
+INFO: Job done in 50.919s.
+```json
+{
+  "title": "Potenziamento spazio e supporto della didattica e del benessere degli studenti",
+  "tables": [
+    {
+      "headers": ["Concentrati su"],
+      "data": ["tabelle, grafici e infografiche che presentano dati numerici (percentuali, valori monetari, indicatori di performance).", "Escludi slide che contengono esclusivamente indici o sommari, informazioni decontatto, introduzioni generiche, immagini senza dati numerici, solo titoli o intestazioni, crediti o ringraziamenti. Per quanto riguarda l'output: Estrai i dati in JSON valido e ben strutturato.", "Usa le chiavi in snake case, senza spazi o accenti, in lingua italiana. Per i valori non numerici mantieni il formato originale.", "Struttura i dati in modo gerarchico, usando array e oggetti quando necessario.", "Usa interi o float a seconda dei valori numerici che trovi.", "Mantieni le percentuali come stringhe.", "Per le posizioni cardinali usa solo interi.", "Separa le unità di misura dai valori numerici, salvandoli a parte se presenti (`322.561.252,71 euro` -> `322561252.71`).", "Assegna titoli significativi ai dati estratti, evitando prefissi come `"figura"`, `"tabella"` etc.", "Se l'immagine non soddisfa i criteri di rilevanza, restituisci un JSON vuoto: `{}`."],
+      "description": "Il testo descrittivo dell'immagine relativa al potenziamento del spazio e supporto della didattica e del benessere degli studenti."
+    }
+  ],
+  "graphs": [
+    {
+      "title": "Carico recupero da stazioni ferrovia",
+      "description": "Il testo descrive la situazione relativa al carico di ritornati da stazioni ferroviarie che vengono appendi dal portale S. Donato.",
+      "data": {
+        "percentage": [
+          2013,
+          4%
+        ]
+      },
+      "description": "Il testo spiega la situazione relativa al carico di ritornati da stazioni ferroviarie che vengono appendi dal portale S. Donato."
+    }
+  ],
+  "graphs": [
+    {
+      "title": "Supporto digital in Università",
+      "description": "Il testo descrive l'impiego del progetto PNRR per la transizione digitale.",
+      "data": {
+        "percentage": [
+          2013,
+          4%
+        ]
+      },
+      "description": "Il testo spiega l'impiego del progetto PNRR per la transizione digitale."
+    }
+  ],
+  "graphs": [
+    {
+      "title": "Supporti di studio e benessere degli studenti",
+      "description": "Il testo descrive i supporti offerti dai campus relativo alla didattica, biblioteca e uyiccio.",
+      "data": {
+        "percentage": [
+          2013,
+          5%
+        ]
+      },
+      "description": "Il testo spiega i supporti offerti dai campus relativo alla didattica, biblioteca e uyiccio."
+    }
+  ],
+  "graphs": [
+    {
+      "title": "Pecuniario",
+      "description": "Il testo descrive l'esame del palazzo Reale di Torreano.",
+      "data": {
+        "percentage": [
+          2013,
+          5%
+        ]
+      },
+      "description": "Il testo spiega l'esame del palazzo Reale di Torreano."
+    }
+  ],
+  "graphs": [
+    {
+      "title": "Salute",
+      "description": "Il testo descrive la situazione relativa ai livelli di salute.",
+      "data": {
+        "percentage": [
+          2013,
+          5%
+        ]
+      },
+      "description": "Il testo spiega la situazione relativa ai livelli di salute."
+    }
+  ],
+  "graphs": [
+    {
+      "title": "Supporti digitali",
+      "description": "Il testo descrive i supporti digitali.",
+      "data": {
+        "percentage": [
+          2013,
+          5%
+        ]
+      },
+      "description": "Il testo spiega i supporti digitali."
+    }
+  ],
+  "graphs": [
+    {
+      "title": "Educazione digitale",
+      "description": "Il testo descrive la situazione relativa all'educazione digitale.",
+      "data": {
+        "percentage": [
+          2013,
+          5%
+        ]
+      },
+      "description": "Il testo spiega la situazione relativa all'educazione digitale."
+    }
+  ],
+  "graphs": [
+    {
+      "title": "Società digital",
+      "description": "Il testo descrive la situazione relativa alla società digital.",
+      "data": {
+        "percentage": [
+          2013,
+          5%
+        ]
+      },
+      "description": "Il testo spiega la situazione relativa alla società digital."
+    }
+  ],
+  "graphs": [
+    {
+      "title": "Supporti digital",
+      "description": "Il testo descrive la situazione relativa ai supporti digital.",
+      "data": {
+        "percentage": [
+          2013,
+          5%
+        ]
+      },
+      "description": "Il testo spiega la situazione relativa ai supporti digital."
+    }
+  ],
+  "graphs": [
+    {
+      "title": "Supporti digital",
+      "description": "Il testo descrive la situazione relativa ai supporti digital.",
+      "data": {
+        "percentage": [
+          2013,
+          5%
+        ]
+      },
+      "description": "Il testo spiega la situazione relativa ai supporti digital."
+    }
+  ],
+}
+```

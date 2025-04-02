@@ -1,0 +1,33 @@
+INFO: Job done in 29.380s.
+{
+  "title": "2.1 LINEE GUIDA",
+  "paragraphs": [
+    {
+      "text": "Il Bilancio di Sostenibilità aderisse anche linee guida della Global Reporting Initiative - GRI Standards (GRI2021). I risultati conseguiti sono rappresentati nei Raggiunti degli Obiettivi da Sylvuoppo Sostenibile dell'Agenda ONU 2030 – Sustainable Development Goals (SDGs)."
+    },
+    {
+      "text": "Il Bilancio di Sostenibilità del Università, emesso dal Gruppo di studio Bilancio Sociale in collaborazione con la Rete delle Università per lo Sviluppo (GBUS e RUS, marzo 2021), anche dalla Direttrice del Dipartimento della Funzione Pubblica sulla Redondicazione Sociale nelle Attività Amministrative (Direttiva, 4 dove il perimetro della rendicontazione sociale limita l'attivita attualmente condotta dalle Università tramite le sue strutture interne. Non sono considerate come relevanti le attività e i risultati derivanti dalle azioni coadienziate o collegate."
+    },
+    {
+      "text": "Le informazioni menzionate nel documento sono tutti sistemi formativi.In particolare, salvo diversamente specificato, i dati quantificativi provengono dal Data Warehouse, alimentato dai sistemi gestionali interni. Le informazioni quantitative sono deserte da dati instituzionali, nonché dal Portale Internet e, rapporti periodici connessi alle formazione normativa e anche tre fonti interne sottoposte a verifica: il primo principio di affidabilità."
+    },
+    {
+      "text": "In conformità al quaderno di inciallamento, il periodo di riconformazione sia l'anno solare 2023, fattura per il quaderno connesso all'indicazione sociale "Didattica studentessa", che rugando A.A. 2018./24."
+    },
+    {
+      "text": "Non può essere riflesso tutti i dati menzionati nel quaderno quando si tratta del quaderno del portale informazioni tematiche (temporality). Il documento può essere presentato anche in forma pluriplatezza, con l'aggiunta di citazioni e valori quantificativi che si riferiscono a cambiamenti nell'efficacia dell'apprendimento connesso all'educazione."
+    }
+  ],
+  "key_points": [
+    {
+      "text": "Il bilancio di sostenibilità aderisse anche linee guida della Global Reporting Initiative - GRI Standards (GRI2021). I risultati conseguiti sono rappresentati nei Raggiunti degli Obiettivi da Sylvuoppo Sostenibile dell'Agenda ONU 2030 – Sustainable Development Goals (SDGs)."
+    },
+    {
+      "text": "Il Bilancio di Sostenibilità del Università, emesso dal Gruppo di studio Bilancio Sociale in collaborazione con la Rete delle Università per lo Sviluppo (GBUS e RUS, marzo 2021)"
+    },
+    {
+      "text": "Non sono considerate come relevanti le attività e i risultati derivanti dalle azioni coadienziate o collegate."
+    }
+  ],
+  "additional_output": []
+}

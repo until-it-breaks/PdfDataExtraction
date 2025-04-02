@@ -1,0 +1,21 @@
+{
+    "servizi_educativi": {
+        "numero_sedi": 11
+    },
+    "percorsi_scolastici_2022_2023": [
+        {
+            "tipo_scuola": "Scuola dell'infanzia",
+            "numero_percorsi": 11
+        },
+        {
+            "tipo_scuola": "Scuola primaria",
+            "numero_percorsi": 53,
+            "disponibili_on_air": 14
+        },
+        {
+            "tipo_scuola": "Scuola secondaria di primo grado",
+            "numero_percorsi": 40,
+            "disponibili_on_air": 10
+        }
+    ]
+}

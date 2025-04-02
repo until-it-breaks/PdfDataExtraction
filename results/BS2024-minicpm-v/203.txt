@@ -1,0 +1,47 @@
+INFO: Job done in 23.421s.
+Based on the provided image and requirements for structuring data from a sustainability performance report using specific criteria (table headers or descriptions), here's an output in JSON format containing relevant structured information:
+```json
+{
+  "section1": {
+    "title": "L'organizzazione e pratiche di rendicontazione",
+    "criteria1": [
+      { "code": "2-1", "description": "Dettagli organizzativi" },
+      { "code": "2-2", "description": "Soggetti inclusi nella rendicontazione di sostenibilità dell'organizzazione" }
+    ],
+    "criteria2": [
+      {
+        "code": "2-3",
+        "description": "Periodo di rendicontazione, frequenza e referenti"
+      },
+      { "code": "2-4", "description": "Riformulazione delle informazioni" }
+    ]
+  },
+  "section2": {
+    "title": "Attività e dipendenti",
+    "criteria1": [
+      { "code": "2-6", "description": "Attività, catena del valore e altre relazioni commerciali" },
+      { "code": "2-7", "description": "Dipendenti" }
+    ],
+    "criteria2": [
+      {
+        "code": "2-8",
+        "description": "Lavoratori che non sono dipendenti"
+      }
+    ]
+  },
+  "section3": {
+    "title": "Governance e organizzazione",
+    "criteria1": [
+      { "code": "6", "description": "Personale" }
+    ],
+    "criteria2": [
+      {
+        "code": "4.5-13",
+        "description": "Valore economico"
+      },
+      { "code": "4.6-13", "description": "Personale docente e ricercatore"}
+    ]
+  },
+}
+```
+This JSON output represents the structured information from the image according to specified criteria, excluding non-relevant sections and maintaining a clear hierarchy of data with descriptive titles for each section or criterion.

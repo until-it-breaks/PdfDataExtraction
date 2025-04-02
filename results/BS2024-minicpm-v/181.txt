@@ -1,0 +1,22 @@
+INFO: Job done in 15.311s.
+{
+  "title": "Progetti di cooperazione e collaborazione intenzionalmente",
+  "subtitle": "Società",
+  "data": {
+    "goal_1": 3,
+    "goal_2": 4,
+    "goal_3": 2,
+    "goal_4": 10,
+    "goal_5": 7,
+    "goal_6": 8,
+    "goal_7": 2,
+    "goal_8": 2,
+    "goal_9": 3,
+    "goal_10": 5,
+    "goal_11": 4,
+    "goal_12": 5,
+    "goal_13": 1,
+    "goal_14": 1,
+    "goal_15": 6
+  }
+}

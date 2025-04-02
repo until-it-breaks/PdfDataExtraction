@@ -1,0 +1,48 @@
+{
+    "mobilita": {
+        "mobilita_interna": {
+            "numero_domande_mobilita_interna": {
+                "2021": 69,
+                "2022": 100,
+                "2023": 52
+            },
+            "domande_accolte": {
+                "2021": 24,
+                "2022": 37,
+                "2023": 23
+            },
+            "numero_bandi_avvisi_mobilita_interna": {
+                "2021": 47,
+                "2022": 20,
+                "2023": 36
+            },
+            "numero_trasferimenti_interni_personale": {
+                "2021": 80,
+                "2022": 128,
+                "2023": 173
+            }
+        },
+        "mobilita_esterna": {
+            "numero_richieste_nullaosta_mobilita_esterna_uscita": {
+                "2021": 17,
+                "2022": 67,
+                "2023": 26
+            },
+            "numero_richieste_nullaosta_mobilita_esterna_accolte": {
+                "2021": 15,
+                "2022": 54,
+                "2023": 25
+            },
+            "numero_richieste_nullaosta_con_diniego": {
+                "2021": 2,
+                "2022": 13,
+                "2023": 3
+            },
+            "numero_trasferimenti_mobilita_esterna_uscita": {
+                "2021": 18,
+                "2022": 15,
+                "2023": 13
+            }
+        }
+    }
+}

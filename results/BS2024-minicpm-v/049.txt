@@ -1,0 +1,37 @@
+INFO: Job done in 20.865s.
+{
+  "title": "4. Didattica e Comunità Studentsca",
+  "figures": [
+    {
+      "id": "Figure12",
+      "description": "Iscrizioni ai corsi di studio per classe di età",
+      "data": [
+        {"year": "2023/24", "under_17_19_anni": 14.5, "20-24": 62.3, "25-29": 8.9},
+        {"year": "2022/23", "under_17_19_anni": 14.6, "20-24": 61.2, "25-29": 15, "30anni_o_oltre": 9.1},
+        {"year": "2021/22", "under_17_19_anni": 15.3, "20-24": 60.7, "25-29": 14.9}
+      ],
+      "categories": [
+        {
+          "range": "Under 17-19 anni",
+          "percentage": "percentuale"
+        },
+        {
+          "range": "20-24",
+          "percentage": "percentuale"
+        },
+        {
+          "range": "25-29",
+          "percentage": "percentuale"
+        },
+        {
+          "range": "30 anni o oltre",
+          "percentage": "percentuale"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Il data relativo alla regulari negli studi universitari vede l'aumento degli iscritti fuori corso, passato dal 18.5% del 2022/23 al 18.8% del 2023/24.",
+    "Il tasso di abbandono degli studi dopo essere aumentato negli anni 2021/22 è tornato a decrescere nel 2022/23."
+  ]
+}

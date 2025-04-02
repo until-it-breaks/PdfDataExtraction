@@ -1,0 +1,84 @@
+INFO: Job done in 56.767s.
+Based on the provided image and according to your criteria for relevant data extraction from a sustainability report table, here is the structured output in JSON format:
+
+```json
+{
+  "Interventi edizilidi nei progetti PNRR/PNCR": {
+    "Bando": [
+      {
+        "Titolo intervento edizio": "Realizzazione di Laboratori di Ricerca DEI presso Ex CN HPC Clinica Neuro, via Ugo Foscolo 7 - Bologna",
+        "MQ ottenuto intervento": "349.56 mq",
+        "Postazioni del lavoro creati intervento": "28 postazioni di lavoro +1 sala riunioni"
+      },
+      {
+        "Titolo intervento edizio": "Lavori per la realizzazione nuovo laboratori di ricerca presso il Fano Marino Center - Fano",
+        "MQ ottenuto intervento": "985 mq",
+        "Postazioni del lavoro creati intervento": "34 postazioni di lavoro"
+      },
+      {
+        "Titolo intervento edizio": "Ore per la realizzazione di una cabina elettiva presso il Fano Marino Center - Fano",
+        "MQ ottenuto intervento": "868 mq",
+        "Postazioni del lavoro creati intervento": "134 postazioni di lavoro + 24 postazioni da lavoro"
+      },
+      {
+        "Titolo intervento edizio": "Lavori per la realizzazione della pista prove trattanti Ca-driano (Spoke3) presso il sedi del sedi di Cadriano cure",
+        "MQ ottenuto intervento": "3.796 mq",
+        "Postazioni del lavoro creati intervento": "12 postazioni del lavoro"
+      },
+      {
+        "Titolo intervento edizio": "Intervento di rilqualificazione presso realizzazione di un laboratorio computerizzato, PzZa Scaravelli 2 - Bo- PE09 - Grins logna",
+        "MQ ottenuto intervento": "188 mq",
+        "Postazioni del lavoro creati intervento": "34 postazioni del lavoro"
+      },
+      {
+        "Titolo intervento edizio": "Rifunzionalizzazione di spazi per ricercatori del Dip. DEI - via Saragozza, 8 a Bologna (c. mod. edif. 339)",
+        "MQ ottenuto intervento": "560 mq",
+        "Postazioni del lavoro creati intervento": "24 postazioni del lavoro"
+      }
+    ],
+    "Titolo intervento edizio": [
+      {
+        "CN HPC Clinica Neuro, via Ugo Foscolo 7 - Bologna": "Realizzazione di Laboratori di Ricerca DEI presso Ex CN HPC Clinica Neuro, via Ugo Foscolo 7 - Bologna",
+        "MQ ottenuto intervento": "349.56 mq"
+      },
+      {
+        "CN BIODIV presso il Fano Marino Center - Fano": "Lavori per la realizzazione nuovo laboratori di ricerca presso il Fano Marino Center - Fano"
+      },
+      {
+        "BIODIV CN Biodiv": "Ore per la realizzazione di una cabina elettiva presso il Fano Marino Center - Fano",
+        "MQ ottenuto intervento": "868 mq"
+      },
+      {
+        "AGRITE CN AGRIE": "Lavori per la realizzazione della pista prove trattanti Ca-driano (Spoke3) presso il sedi del sedi di Cadriano cure",
+        "MQ ottenuto intervento": "3.796 mq"
+      },
+      {
+        "PE09-Grins logna PF E188": "Intervento di rilqualificazione presso realizzazione di un laboratorio computerizzato, PzZa Scaravelli 2 - Bo- PE09 - Grins logna",
+        "MQ ottenuto intervento": "188 mq"
+      },
+      {
+        "PNCR Dare DEI via Saragozza, 8 a Bologna (c. mod. edif. 339)": "Rifunzionalizzazione di spazi per ricercatori del Dip. DEI - via Saragozza, 8 a Bologna"
+      }
+    ]
+  },
+  "Postazioni del lavoro creati": [
+    {
+      "CN HPC Clinica Neuro, via Ugo Foscolo 7 - Bologna": "28 postazioni di lavoro +1 sala riunioni",
+      "CN BIODIV presso il Fano Marino Center- Fano": "34 postazioni del lavoro"
+    },
+    [
+      {
+        "BIODIV CN Biodiv": "360 postazioni del lavoro",
+        "AGRITE CN AGRIE": "12 postazioni del lavoro"
+      }
+    ]
+  ],
+  "MQ ottenuto intervento": [
+    {"CN HPC Clinica Neuro, via Ugo Foscolo 7 - Bologna": "349.56 mq"},
+    {"CN BIODIV presso il Fano Marino Center- Fano": "985 mq"},
+    {"BIODIV CN Biodiv": "1052 mq"}
+  ]
+}
+```
+
+This JSON represents the structured output based on your specified criteria, which includes data from each project (intervention) and their respective outputs in terms of space obtained for intervention and new workstations created during the interventions.

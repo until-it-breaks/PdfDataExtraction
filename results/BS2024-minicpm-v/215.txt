@@ -1,0 +1,34 @@
+INFO: Job done in 25.828s.
+{
+  "title": "GRI 403 Salute e sicurezza sul lavoro",
+  "report": {
+    "reference": "Raccordo con indice BS 2024 /o note",
+    "content": [
+      {
+        "heading": "4.1 Promozione della salute dei lavoratori",
+        "subheading": "Prevenzione e mitigazione degli impatti in materie di salute e sicurezza sul lavoro all'interno delle relazioni commerciali",
+        "note": "Applicazione art. 26 D.Lgs. 81/08 con procedura P08/SPP"
+      },
+      {
+        "heading": "4.3 Lavoratori coerti da un sistema di gestione della salute e sicurezza in ateneo",
+        "note": "Il metodo analitico che governa le relative responsabilità viene indicato nella PO1/SPP e nel Regolamento per la sicurezza e la salute nei luoghi di lavoro"
+      },
+      {
+        "heading": "4.6 Benessere organizzativo (Salute e sicurezza)",
+        "content": [
+          "<3> Codice del compito non è identificato e l'eliminazione dei pericoli e neppure la minimizzazione del rischio, se non sono sentiti i solleciti di protezione del lavoratore mediante le visualizzazione del medico/specialista e l'espressione degli giudizi di idoneità che possono essere previstiocratici o limitativi.",
+          "Compito della Medicina del Lavoro",
+          "L'organizzazione della servizi sanitari del lavoratori ai sensi del D.Lgs. 81/02 e del D.LGS. 101/2007. Este compito del Servizio di Prevenzione e Protezione che dovrebbe essere effettuato dalla Valutazione dei Rischiami"
+        ]
+      },
+      {
+        "heading": "4.3-9 Inforniti sul lavoro",
+        "content": [
+          "<8> Malattie professionali"
+        ]
+      }
+    ],
+    "additional_info": "Il Medico Compierto collabora con il dottore per i servizi di prevenzione e protezione che valutazione dei rischi, anche fin dell'organizzazione del progetto",
+    "credit": "Tavola GRI! - 215"
+  }
+}

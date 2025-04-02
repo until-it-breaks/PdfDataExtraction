@@ -1,0 +1,72 @@
+{
+    "personale_docente_e_ricercatore": {
+        "ordinario": [
+            {
+                "anno": "2023",
+                "tempo_pieno": 854,
+                "tempo_definito": 87
+            },
+            {
+                "anno": "2022",
+                "tempo_pieno": 788,
+                "tempo_definito": 77
+            },
+            {
+                "anno": "2021",
+                "tempo_pieno": 751,
+                "tempo_definito": 76
+            }
+        ],
+        "associato": [
+            {
+                "anno": "2023",
+                "tempo_pieno": 1373,
+                "tempo_definito": 63
+            },
+            {
+                "anno": "2022",
+                "tempo_pieno": 1410,
+                "tempo_definito": 62
+            },
+            {
+                "anno": "2021",
+                "tempo_pieno": 1292,
+                "tempo_definito": 59
+            }
+        ],
+        "ricercatore_a_tempo_indeterminato": [
+            {
+                "anno": "2023",
+                "tempo_pieno": 151,
+                "tempo_definito": 27
+            },
+            {
+                "anno": "2022",
+                "tempo_pieno": 163,
+                "tempo_definito": 29
+            },
+            {
+                "anno": "2021",
+                "tempo_pieno": 218,
+                "tempo_definito": 35
+            }
+        ],
+        "ricercatore_a_tempo_determinato": [
+            {
+                "anno": "2023",
+                "tempo_pieno": 808,
+                "tempo_definito": 19
+            },
+            {
+                "anno": "2022",
+                "tempo_pieno": 626,
+                "tempo_definito": 21
+            },
+            {
+                "anno": "2021",
+                "tempo_pieno": 552,
+                "tempo_definito": 19
+            }
+        ]
+    }
+}

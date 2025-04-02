@@ -1,0 +1,92 @@
+INFO: Job done in 32.219s.
+{
+   "title": "4. Didattica e Comunità Studentesca",
+   "figures": [
+      {
+         "figure_number": "7",
+         "description": "Iscrizioni alle Lauree, Lauree Magistrali e LM a Ciclo Unico.",
+         "data": [
+            {
+               "year": 2023/24,
+               "laurea": 49.119,
+               "magistrale": 23.057,
+               "lm_ciclo_unico": 15.150,
+               "total": 87.865
+            },
+            {
+               "year": 2022/23,
+               "laurea": 49.910,
+               "magistrale": 24.086,
+               "lm_ciclo_unico": 15.039,
+               "total": 89.864
+            },
+            {
+               "year": 2021/22,
+               "laurea": 49.466,
+               "magistrale": 24.440,
+               "lm_ciclo_unico": 14.847,
+               "total": 89.715
+            },
+            {
+               "degree_type": [
+                  "laurea",
+                  "laurea magistrale",
+                  "lm a ciclo unico",
+                  "vecchio ordinamento"
+               ],
+               "data": [
+                  {
+                     "type": "laurea",
+                     "value": 49.119
+                  },
+                  {
+                     "type": "laurea magistrale",
+                     "value": 23.057,
+                     "total": 87.865
+                  },
+                  {
+                     "type": "lm a ciclo unico",
+                     "value": 49.910,
+                     "total": 89.864
+                  },
+                  {
+                     "type": "vecchio ordinamento",
+                     "value": 24.086,
+                     "total": 89.715
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "figure_number": "8",
+         "description": "Iscrizioni ai Master, ai Dottorati e ai Corsi di Alta Formazione.",
+         "data": [
+            {
+               "year": 2023/24,
+               "master": 1.719,
+               "doctorates": 2.600,
+               "high_formations": 493,
+               "total": 4.812
+            },
+            {
+               "year": 2022/23,
+               "master": 2.053,
+               "doctorates": 2.465,
+               "high_formations": 525,
+               "total": 5.043
+            },
+            {
+               "year": 2021/22,
+               "master": 2.169,
+               "doctorates": 2.096,
+               "high_formations": 448,
+               "total": 4.713
+            }
+         ]
+      },
+      {
+         "description": "Dalla anno accademico 2023/24 l'Ateneo ha ampliato la propria offerta formativa con il Piano per le Competenze Transversali dei dottoriandidanti, incentivando sui seguenti ambiti: valorizzare e comunicare la ricerca; metodi, tecniche e strumenti; progettare il proprio futuro. Nel corso del 2023 sono state proposte 10 iniziativi, per un total da 15 edizioni e 1.275 posti disponibili."
+      }
+   ]
+}

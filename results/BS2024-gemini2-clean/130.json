@@ -1,0 +1,21 @@
+{
+    "polizza_sanitaria_unisalute": {
+        "personale_tecnico_amministrativo": [
+            {
+                "categoria": "Registrato",
+                "anno_2021": 2947.0,
+                "anno_2022": 3099.0,
+                "anno_2023": 3033.0
+            },
+            {
+                "categoria": "Beneficiario",
+                "anno_2021": 1753.0,
+                "anno_2022": 1935.0,
+                "anno_2023": 2167.0
+            }
+        ]
+    },
+    "formazione": {
+        "aumento_percentuale_ore_formazione": "38,8%"
+    }
+}

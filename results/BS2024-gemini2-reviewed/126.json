@@ -1,0 +1,39 @@
+{
+    "risorse_peo_2023": [
+        {
+            "categoria": "EP",
+            "ammessi": 140,
+            "beneficiari": 13,
+            "percentuale_beneficiari_ammessi": "9,3%",
+            "risorse_stanziate": 32656
+        },
+        {
+            "categoria": "D",
+            "ammessi": 774,
+            "beneficiari": 128,
+            "percentuale_beneficiari_ammessi": "16,5%",
+            "risorse_stanziate": 191116
+        },
+        {
+            "categoria": "C",
+            "ammessi": 873,
+            "beneficiari": 215,
+            "percentuale_beneficiari_ammessi": "24,6%",
+            "risorse_stanziate": 215561
+        },
+        {
+            "categoria": "B",
+            "ammessi": 153,
+            "beneficiari": 32,
+            "percentuale_beneficiari_ammessi": "20,9%",
+            "risorse_stanziate": 37779
+        },
+        {
+            "categoria": "Totale",
+            "ammessi": 1940,
+            "beneficiari": 388,
+            "percentuale_beneficiari_ammessi": "12,4%",
+            "risorse_stanziate": 477112
+        }
+    ]
+}

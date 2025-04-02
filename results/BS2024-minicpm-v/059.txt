@@ -1,0 +1,23 @@
+INFO: Job done in 13.915s.
+{
+  "figura_23": {
+    "media_2021": [
+      {"paesi_eu": 459},
+      {"paesi_extra_eu": 603}
+    ],
+    "media_2022": [
+      {"paesi_eu": 80},
+      {"paesi_extra_eu": 163}
+    ]
+  },
+  "figura_24": {
+    "media_2020/21": [
+      {"paesi_eu": 1.597},
+      {"paesi_extra_eu": 80.242}
+    ],
+    "media_2022": [
+      {"paesi_eu": 3.651},
+      {"paesi_extra_eu": 292}
+    ]
+  }
+}

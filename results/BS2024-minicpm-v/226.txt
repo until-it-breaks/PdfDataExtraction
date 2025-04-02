@@ -1,0 +1,28 @@
+INFO: Job done in 15.245s.
+```json
+{
+  "Nome e Cognome": [
+    {
+      "Cognome": ["Valenti", "Cinti"],
+      "Nome": ["Roberto", "Danilo"]
+    },
+    ...
+],
+"Posizione": [
+  "Settore Programmazione",
+  "Analisi dati",
+  "Settore Comunicazione grafica"
+],
+"Ruolo ricoperto": [
+  "Ricercatore di condurre ricerche, raccolta ed elaborazione dei dati e coordinamento del gruppo di ricerca",
+  ...
+],
+"Recapiti": [
+  {
+    "Mirella Cerato", {   },
+    "Cerato"
+},
+...
+]
+}
+```

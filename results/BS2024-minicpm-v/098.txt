@@ -1,0 +1,49 @@
+INFO: Job done in 25.873s.
+```json
+{
+  "Department": [
+    {
+      "Name": "Chimica 'Giacomo Ciamici'",
+      "Funding_2023": 1.687.792,
+      "Notes": "Ministry of Education, University and Research"
+    },
+    {
+      "Name": "Filologia Classica e Italianistica",
+      "Funding_2023": 1.444.594
+    },
+    {
+      "Name": "Ingegneria dell'Energia Elettrica e dell'Informazione 'Guglielmo Marconi'",
+      "Funding_2023": 1.819.118,
+      "Notes": "Ministry of Education, University and Research"
+    },
+    {
+      "Name": "Psicologia 'Renzo Canestrari'",
+      "Funding_2023": 1.313.267
+    },
+    {
+      "Name": "Scienze Economiche",
+      "Funding_2023": 1.575.921,
+      "Notes": "Ministry of Education, University and Research"
+    },
+    {
+      "Name": "Scienze Giuridiche",
+      "Funding_2023": 1.575.921
+    },
+    {
+      "Name": "Delle Arti",
+      "Funding_2023": 1.444.594,
+      "Notes": "Ministry of Education, University and Research"
+    },
+    {
+      "Name": "Scienze Mediche e Chirurgiche",
+      "Funding_2023": 1.819.118
+    },
+    {
+      "Name": "Storia, Culture e Civiltà",
+      "Funding_2023": 1.575.921,
+      "Notes": "Ministry of Education, University and Research"
+    }
+  ],
+  "Total_Funding_2023": 17.651.285
+}
+```

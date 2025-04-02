@@ -1,0 +1,21 @@
+{
+    "patrimonio_edilizio": {
+        "copertura_fabbricati": {
+            "valore": 1242920.0,
+            "unita_di_misura": "MQ",
+            "descrizione": "COPERTURA FABBRICATI (ESCLUSI SPAZI ESTERNI)"
+        },
+        "copertura_terreni": {
+            "valore": 550.0,
+            "unita_di_misura": "ETTARI",
+            "descrizione": "COPERTURA TERRENI"
+        }
+    },
+    "distribuzione_territoriale_patrimonio_edilizio": {
+        "bologna": "84,3%",
+        "forli": "5,6%",
+        "cesena": "4,7%",
+        "rimini": "2,8%",
+        "ravenna": "2,6%"
+    }
+}

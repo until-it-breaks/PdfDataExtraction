@@ -1,0 +1,39 @@
+INFO: Job done in 36.165s.
+ La struttura del bilancio di sostenibilità sembra organizzata e presenta dati numerici e indici pertinenti. Ecco l'output in formato JSON valido e ben strutturato:
+```json
+{
+  "sponsor": "Nomina il sponsor dell'evento di sostenibilità",
+  "conferenza": {
+    "luogo": "Conferenza internazionale sulla sostenibilità",
+    "data": "01-03 marzo 2023",
+    "numero_attendenti": "300",
+    "percentuale_presenze": "85%",
+    "valori": {
+      "regione": [
+        "Regione A:",
+        "Regione B:"
+      ],
+      "eventi": [
+        "Evento X:",
+        "Evento Y:"
+      ]
+    },
+    "indicatore_attendees": "Indicatore di attendere per eventi",
+    "indicatore_presenze": "Indicatore di presenza per eventi"
+  },
+  "risorse": {
+    "sostenibilità": {
+      "valori": [
+        "1250 euro",
+        "371 euro"
+      ]
+    },
+    "indicatore_sostenibilità": "Indicatore di sostenibilità"
+  },
+  "ambiente": {
+    "valore": "85%",
+    "descrizione": "Informazioni sull'attenzione ambientale dell'evento di sostenibilità"
+  }
+}
+```
+Il bilancio riporta una conferenza internazionale sulla sostenibilità, con un alto percentuale di presenze (85%) e un numero di attendees complessivo di 300. Si presentano dati su eventi e regioni, un indicatore di attenzione ambientale del 85%, un indicatore di sostenibilità e informazioni sull'attenzione ambientale dell'evento. Il sito web è menzionato nella sezione sulla conferenza, ma non è possibile estrarre dati numerici su queste sezioni. 

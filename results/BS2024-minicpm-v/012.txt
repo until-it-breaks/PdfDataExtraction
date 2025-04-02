@@ -1,0 +1,36 @@
+INFO: Job done in 15.597s.
+{
+  "title": "Identità, Principi e Valori",
+  "section_1": {
+    "title": "Identità, Principi ed Valori",
+    "content": [
+      "<p>AlMater è un Ateno Multicampus in costante espansione...</p>"
+    ],
+    "diagram_1": [
+      <ul>
+        <li><span>P1</span></li>
+        <li>Rifacere il nostro carattere didattico per tutti i t</li>
+        <li>Fai rafforzare il nostro carattere di Università pubblica, autonoma...</li>
+      </ul>",
+      "<ul>"
+    ],
+  },
+  "section_2": {
+    "title": "P2",
+    "content": [
+      "<p>Promuovere lo sviluppo di tutti i t</p>"
+    ]
+  },
+  "section_3": {
+    "title": "P3",
+    "content": [
+      "<ul>"
+    ]
+  },
+  "section_4": {
+    "title": "P4",
+    "content": [
+      "<ul>"
+    ]
+  }
+}

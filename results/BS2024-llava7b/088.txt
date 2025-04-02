@@ -1,0 +1,23 @@
+INFO: Job done in 8.749s.
+ ```json
+{
+  "titolo": "Sostenibilità",
+  "grafici": {
+    "dati_sostenibilità": {
+      "data": "2023",
+      "perc_sostenibilità": 51,
+      "valori_fattura": [456, 825]
+    },
+    "pie_chart": {
+      "labels": ["Sostenibilità", "Sostenibilità", "Sostenibilità", "Sostenibilità"],
+      "percentages": [31, 20, 20, 39],
+      "data": "2023"
+    }
+  },
+  "dati_detailed": {
+    "valori_monetari": [254567, 38765],
+    "percentages": ["100%", "51%"],
+    "data": "2023"
+  }
+}
+``` 

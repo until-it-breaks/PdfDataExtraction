@@ -1,0 +1,43 @@
+{
+    "insegnamenti_per_sdgs": [
+        {
+            "sdg": 6,
+            "descrizione": "ACQUA PULITA E IGIENE",
+            "valore": 205
+        },
+        {
+            "sdg": 7,
+            "descrizione": "ENERGIA PULITA E ACCESSIBILE",
+            "valore": 416
+        },
+        {
+            "sdg": 11,
+            "descrizione": "CITTA E COMUNITA SOSTENIBILI",
+            "valore": 853
+        },
+        {
+            "sdg": 12,
+            "descrizione": "CONSUMO E PRODUZIONE RESPONSABILI",
+            "valore": 789
+        },
+        {
+            "sdg": 13,
+            "descrizione": "AGIRE PER IL CLIMA",
+            "valore": 760
+        }
+    ],
+    "didattica_e_formazione_su_tematiche_ambientali": [
+        {
+            "anno_accademico": "2021/22",
+            "valore": 1774.0
+        },
+        {
+            "anno_accademico": "2022/23",
+            "valore": 1871.0
+        },
+        {
+            "anno_accademico": "2023/24",
+            "valore": 1975.0
+        }
+    ]
+}

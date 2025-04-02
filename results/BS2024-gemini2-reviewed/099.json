@@ -1,0 +1,64 @@
+{
+    "finanziamenti_dipartimenti_eccellenti_2023_2027": [
+        {
+            "dipartimento": "Scienze Mediche e Chirurgiche",
+            "valore": 9095590
+        },
+        {
+            "dipartimento": "Scienze e Tecnologie Agro-alimentari",
+            "valore": 9095590
+        },
+        {
+            "dipartimento": "Ingegneria \"Guglielmo Marconi\"",
+            "valore": 9095590
+        },
+        {
+            "dipartimento": "Chimica \"Giacomo Ciamician\"",
+            "valore": 8438960
+        },
+        {
+            "dipartimento": "Storia, Culture e Civiltà",
+            "valore": 7879605
+        },
+        {
+            "dipartimento": "Scienze Politiche e Sociali",
+            "valore": 7879605
+        },
+        {
+            "dipartimento": "Scienze Giuridiche",
+            "valore": 7879605
+        },
+        {
+            "dipartimento": "Scienze Economiche",
+            "valore": 7879605
+        },
+        {
+            "dipartimento": "Delle Arti",
+            "valore": 7222970
+        },
+        {
+            "dipartimento": "Filolofgia Classica e Italianistica",
+            "valore": 7222970
+        },
+        {
+            "dipartimento": "Psicologia \"Renzo Canestrari\"",
+            "valore": 6566335
+        }
+    ],
+    "progetti_rilevante_interesse_nazionale": {
+        "numero_progetti_finanziati": 515,
+        "valore_totale": 38000000,
+        "unita_di_misura": "euro",
+        "percentuale_unibo_coordinatore": "58%"
+    },
+    "progetti_fis_fondo_italiano_per_la_scienza": {
+        "numero_progetti_presentati": 134,
+        "contributo_totale": 234400000,
+        "unita_di_misura": "euro"
+    },
+    "progetti_fisa_fondo_italiano_per_le_scienze_applicate": {
+        "numero_progetti_presentati": 7,
+        "valore_totale": 44700000,
+        "unita_di_misura": "euro"
+    }
+}

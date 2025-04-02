@@ -1,0 +1,39 @@
+INFO: Job done in 39.185s.
+{
+  "title": {
+    "ch105": "5.3 PUBBLICAZIONI E PRODOTTI DELLA RICERCA",
+    "ch104": "5.2 PIANIFICAZIONE, DISPOSIZIONE E GESTIONE DEGLI EDIFICI"
+  },
+  "sections": [
+    {
+      "title": "5.3 PUBBLICAZIONI E PRODOTTI DELLA RICERCA",
+      "content": "Il catalogo della ricerca irrisa di Ateneo IRIS è allocato dal personale docente e ricercatore dell'Ateneo ed consente di raccogliere tutte le informazioni relative alla produzione scientifica (pubblicazione e prodotti della ricerca) dell'Ateneo e garantisce anche una gestione del full text dei contributi secondo il modello open access.",
+      "figures": [
+        {
+          "title": "Figura 49 - Prodotti della ricerca per topi loggia",
+          "description": "Il gráfico mostra la distribuzione dei prodotti della ricerca basati su temi loggiate. Il primo gráfico mostra il percentuale di produzione scientifica in function del tipo di pubblicazione: il più comune è la rivista (67,0%), seguito da libri (21,8%) e contributions a Atti di confergio (15,3%).",
+          "pieChart": {
+            "title": "Figura 49 - Prodotti della ricerca per tipologia topografia",
+            "labels": [
+              { "label": "Contributo in rivista", "value": "67.0%" },
+              { "label": "Contributo in volume", "value": "21,8%" },
+              { "label": "Contributo in Atti di convegno", "value": "15,3%" }
+            ]
+          }
+        },
+        {
+          "title": "Figura 50 - Prodotti della ricerca per area scientifico disciplinare",
+          "description": "Il secondo gráfico mostra la distribuzione dei prodotti della ricerca basati sulle aree di scienza specifiche: il più comune è l'Area Medica (21,8%), seguito da Area Umanistica (15.3%) e Area Tecnologica (19,5%).",
+          "pieChart": {
+            "title": "Figura 50 - Prodotti della ricerca per area scientifico disciplinare",
+            "labels": [
+              { "label": "Contributo in rivista", "value": "67.0%" },
+              { "label": "Contributo in volume", "value": "21,8%" },
+              { "label": "Contributo in Atti di convegno", "value": "19,5%" }
+            ]
+          }
+        },
+      ],
+    },
+  ]
+}

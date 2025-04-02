@@ -1,0 +1,9 @@
+INFO: Job done in 12.547s.
+{
+  "ambiente": {
+    "8. Ambiente": [
+      {"Livello": "A", "Valore": "50%"},
+      {"Livello": "B", "Valore": "20%"}
+    ]
+  }
+}

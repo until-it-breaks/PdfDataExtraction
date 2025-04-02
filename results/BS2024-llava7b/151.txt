@@ -1,0 +1,58 @@
+INFO: Job done in 37.091s.
+ ```json
+{
+  "azienda": {
+    "nome": "Nuovo",
+    "logo": "https://www.example.com/nuovologo"
+  },
+  "sostenibilità": {
+    "datos": {
+      "investimento_sociale": [
+        {
+          "indice": 1.05,
+          "descrizione": "Investimento Sociale"
+        },
+        {
+          "indice": 2.79,
+          "descrizione": "Beneficio per la comunità locale"
+        }
+      ]
+    }
+  },
+  "evento": {
+    "titolo": "Evento di sostenibilità",
+    "data": "12 marzo 2023",
+    "descrizione": "L'evento ha avuto luogo in una location significativa per la società e l'azienda. La partecipazione è stata elevata, con una presenza significativa di rappresentanti della zona locale."
+  },
+  "statistiche": {
+    "investimento_finanziario": [
+      {
+        "indice": 4321.50,
+        "descrizione": "Investimento finanziario totale in euros"
+      }
+    ],
+    "benefici_ambientali": [
+      {
+        "indice": 67.89,
+        "descrizione": "Beneficio per l'ambiente locale"
+      }
+    ]
+  },
+  "partnerships": {
+    "organizzazioni": [
+      {
+        "nome": "Organizzazione X",
+        "tipo_partnership": "Partecipazione alla programmazione di sostenibilità"
+      },
+      {
+        "nome": "Organizzazione Y",
+        "tipo_partnership": "Fornitore di servizi e prodotti"
+      }
+    ]
+  },
+  "credit:": {
+    "text": "www.example.com/nuovo",
+    "logo": "https://www.example.com/nuovologo"
+  }
+}
+``` 

@@ -1,0 +1,75 @@
+INFO: Job done in 45.895s.
+{
+  "Title": "Citazione Unibo pro-capite rispetto a quel della benchmark europeo",
+  "Subtitle": "(valore benchmark europeo ugualà a 100)",
+  "Data": [
+    {
+      "Goal Number": "GOAL 1",
+      "European Benchmark Value (in €)": "25.8"
+    },
+    {
+      "Goal Number": "GOAL 2",
+      "European Benchmark Value (in €)": "73.9"
+    },
+    {
+      "Goal Number": "GOAL 3",
+      "European Benchmark Value (in €)": "106.5"
+    },
+    {
+      "Goal Number": "GOAL 4",
+      "European Benchmark Value (in €)": "82.1"
+    },
+    {
+      "Goal Number": "GOAL 5",
+      "European Benchmark Value (in €)": "73.9"
+    },
+    {
+      "Goal Number": "GOAL 6",
+      "European Benchmark Value (in €)": "104.9"
+    },
+    {
+      "Goal Number": "GOAL 7",
+      "European Benchmark Value (in €)": "82.5"
+    },
+    {
+      "Goal Number": "GOAL 8",
+      "European Benchmark Value (in €)": "63.4"
+    },
+    {
+      "Goal Number": "GOAL 9",
+      "European Benchmark Value (in €)": "100.7"
+    },
+    {
+      "Goal Number": "GOAL 10",
+      "European Benchmark Value (in €)": "82.5"
+    },
+    {
+      "Goal Number": "GOAL 11",
+      "European Benchmark Value (in €)": "136.0"
+    },
+    {
+      "Goal Number": "GOAL 12",
+      "European Benchmark Value (in €)": "149.8"
+    },
+    {
+      "Goal Number": "GOAL 13",
+      "European Benchmark Value (in €)": "75.6"
+    },
+    {
+      "Goal Number": "GOAL 14",
+      "European Benchmark Value (in €)": "207.9"
+    },
+    {
+      "Goal Number": "GOAL 15",
+      "European Benchmark Value (in €)": "83.0"
+    },
+    {
+      "Goal Number": "GOAL 16",
+      "European Benchmark Value (in €)": "142.7"
+    },
+    {
+      "Goal Number": "GOAL 17",
+      "European Benchmark Value (in €)": "95.3"
+    }
+  ]
+}

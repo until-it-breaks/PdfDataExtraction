@@ -1,0 +1,26 @@
+INFO: Job done in 15.321s.
+```json
+{
+  "sustainability Performance": {
+    "Overall Score": "90",
+    "Environmental Impact": {
+      "Score": "85",
+      "Indicator1": "72",
+      "Indicator2": "64",
+      "Indicator3": "86"
+    },
+    "Social Responsibility": {
+      "Score": "92",
+      "Indicator1": "80",
+      "Indicator2": "95",
+      "Indicator3": "91"
+    },
+    "Corporate Governance": {
+      "Score": "76",
+      "Indicator1": "84",
+      "Indicator2": "68",
+      "Indicator3": "75"
+    }
+  }
+}
+```

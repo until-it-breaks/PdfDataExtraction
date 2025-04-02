@@ -1,0 +1,4 @@
+INFO: Job done in 6.830s.
+ Lo siento, ma l'immagine che hai fornita non sembra essere adatta per analisi e estrazione dati. Non contiene tabelle o grafici con dati numerici che possano essere strutturati in un formato JSON valido e ben strutturato. Inoltre, la qualità dell'immagine è piuttosto bassa e poco chiara, rendendo difficile estrarre dati dettagliati.
+
+Se puoi fornire un'immagine con maggiore qualità o una descrizione dettagliata dei dati presentati, potrei aiutarti a eseguirle analisi più dettagliate e a strutturarli in formato JSON. 

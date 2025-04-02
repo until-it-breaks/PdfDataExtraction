@@ -1,0 +1,28 @@
+{
+    "polizza_sanitaria_unisalute": {
+        "personale_tecnico_amministrativo": [
+            {
+                "categoria": "Registrato",
+                "anno_2021": 2947.0,
+                "anno_2022": 3099.0,
+                "anno_2023": 3033.0
+            },
+            {
+                "categoria": "Beneficiario",
+                "anno_2021": 1753.0,
+                "anno_2022": 1935.0,
+                "anno_2023": 2167.0
+            }
+        ]
+    },
+    "formazione": {
+        "aumento_ore_formazione": "38,8%",
+        "descrizione_aumento_ore_formazione": "L'Ateneo offre corsi di formazione sia obbligatoria che non obbligatoria. Rispetto all'anno precedente, si è registrato un aumento del 38,8% delle ore di formazione seguite dal personale tecnico amministrativo, evidenziando un impegno crescente dell'Ateneo nella formazione del suo personale."
+    },
+    "alluvione_emilia_romagna": {
+        "progetti_finanziati": 5,
+        "fondi_raccolti": 400000.0,
+        "unita_di_misura_fondi_raccolti": "euro",
+        "descrizione_progetti": "A seguito dell'alluvione le competenze scientifiche dell'Ateneo sono state utilizzate per affrontare e contrastare gli eventi climatici estremi. Sono stati selezionati cinque progetti nell'ambito dell'iniziativa \"Alma CaReS - Cambiamenti climatici, Resilienza, Sostenibilità\", finanziati con oltre 400.000 euro raccolti grazie alla campagna 5x1000, e dovranno avere un impatto sociale significativo sull'ambiente e sui cittadini, prevedendo anche un piano di divulgazione al pubblico."
+    }
+}

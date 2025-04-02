@@ -1,0 +1,27 @@
+INFO: Job done in 27.843s.
+```
+{
+  "Circolo Università di Bologna (CUBO)": {
+    "activities": [
+      {"name": "promotion of social and cultural values through the library", "value": "900 members"},
+      {"name": "utilitarian activities for private associations and socially disadvantaged individuals", "value": "3,000 participants in initial courses"},
+      {"name": "sports activity", "value": ""},
+      {"name": "travel promotion of free time", "value": ""},
+      {"name": "tourism services", "value": ""},
+      {"name": "participation in events", "value": "3,000 participants per event"}
+    ],
+    "members": {
+      "total": 900,
+      "initial courses registered in the academic year 2023": [
+        {"category": "students of all levels and fields of study", "value": "15%"},
+        {"category": "young people over 40 years old, university graduates without a job or self-employed individuals between the ages of 18-67 (inclusive)", "value": "29%"}
+      ]
+    }
+  },
+  "graph": {
+    "participants in events per year",
+    "total participants from all courses offered by CUBO",
+    "percentage growth compared to previous years"
+  }
+}
+```

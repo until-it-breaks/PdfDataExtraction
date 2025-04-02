@@ -1,0 +1,67 @@
+INFO: Job done in 53.819s.
+ ```json
+{
+  "Sostenibilità": {
+    "Indicatore_1": {
+      "Nombre": "Azienda",
+      "Titolo": "Bilancio di sostenibilità dell'azienda",
+      "Anno_2023": {
+        "Finanziamento": 322561.252,
+        "Sostenibilità": 71
+      },
+      "Anno_2024": {
+        "Finanziamento": 322561.252,
+        "Sostenibilità": 71
+      }
+    },
+    "Indicatore_2": {
+      "Nombre": "Economia",
+      "Titolo": "Bilancio di sostenibilità dell'azienda",
+      "Anno_2023": {
+        "Finanziamento": 322561.252,
+        "Sostenibilità": 71
+      },
+      "Anno_2024": {
+        "Finanziamento": 322561.252,
+        "Sostenibilità": 71
+      }
+    },
+    "Indicatore_3": {
+      "Nombre": "Marketing",
+      "Titolo": "Bilancio di sostenibilità dell'azienda",
+      "Anno_2023": {
+        "Finanziamento": 322561.252,
+        "Sostenibilità": 71
+      },
+      "Anno_2024": {
+        "Finanziamento": 322561.252,
+        "Sostenibilità": 71
+      }
+    },
+    "Indicatore_4": {
+      "Nombre": "Ricerca e sviluppo",
+      "Titolo": "Bilancio di sostenibilità dell'azienda",
+      "Anno_2023": {
+        "Finanziamento": 322561.252,
+        "Sostenibilità": 71
+      },
+      "Anno_2024": {
+        "Finanziamento": 322561.252,
+        "Sostenibilità": 71
+      }
+    },
+    "Indicatore_5": {
+      "Nombre": "Comunicazione",
+      "Titolo": "Bilancio di sostenibilità dell'azienda",
+      "Anno_2023": {
+        "Finanziamento": 322561.252,
+        "Sostenibilità": 71
+      },
+      "Anno_2024": {
+        "Finanziamento": 322561.252,
+        "Sostenibilità": 71
+      }
+    }
+  }
+}
+``` 

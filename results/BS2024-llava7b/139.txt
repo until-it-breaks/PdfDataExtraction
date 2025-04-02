@@ -1,0 +1,24 @@
+INFO: Job done in 38.240s.
+ Il bilancio di sostenibilità che si vede nell'immagine presenta una serie di dati strutturati e relativi ai principi di sostenibilità. Tuttavia, la qualità dell'immagine è piuttosto scadente e i testi sono troppo piccoli per leggere facilmente.
+
+Tuttavia, potrebbe essere possibile estrarre dati strutturati a livello generale, come ad esempio:
+
+```json
+{
+  "titolo": "Bilancio di Sostenibilità 2021",
+  "dettaglio": "Quinto rapporto annuale della Società Civile",
+  "indicatore_finanziamenti": 3869,
+  "indicatore_donazioni": 4790.69,
+  "valore_donazioni": "150.000,00 €",
+  "percentuale_crescita_donazioni": 2350.58%,
+  "valore_participazione_popolo": "98.455,96",
+  "valore_attività_volontari": "577,137",
+  "percentuale_crescita_attività_volontarie": 102%
+}
+```
+
+Il titolo del bilancio è il testo in alto sulla prima pagina. Il secondo livello di informazioni estratte comprenderebbe le sezioni principali, come ad esempio "Finanziamenti" e "Donazioni", con i valori numerici corrispondenti per ogni tipo di finanziamento e la percentuale di crescita.
+
+Per quanto riguarda il contenuto dettagliato (se disponibile una descrizione più precisa dell'immagine), potrebbe essere possibile estrarre dati strutturati su tabelle, grafici e infografiche che presentano dati numerici.
+
+Tuttavia, senza una maggiore qualità dell'immagine o una descrizione più dettagliata delle informazioni contenute nel documento, non è possibile estrarre dati strutturati in modo preciso e con certezza. 

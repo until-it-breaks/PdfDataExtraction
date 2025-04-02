@@ -1,0 +1,38 @@
+{
+    "formazione": {
+        "corsi_formazione_studenti": {
+            "numero_corsi": 140,
+            "tipo_rischio": "medio"
+        },
+        "corsi_rischio_alto": {
+            "numero_corsi": 2,
+            "tipo_rischio": "alto"
+        },
+        "corsi_addetti_locali_sicurezza": {
+            "numero_corsi": 38,
+            "tipo_rischio": "medio"
+        },
+        "corsi_addetti_locali_sicurezza_alto_rischio": {
+            "numero_corsi": 1,
+            "tipo_rischio": "alto"
+        },
+        "formazione_personale_emergenza": {
+            "partecipanti": 213,
+            "edizioni": 18
+        },
+        "corsi_attrezzature_pericolose": {
+            "numero_corsi": 20
+        },
+        "ore_formazione_totali": {
+            "valore": 442350,
+            "unita_misura": "ore"
+        },
+        "ore_formazione_e_learning": {
+            "valore": 87724,
+            "unita_misura": "ore"
+        }
+    },
+    "vaccinazioni_antinfluenzali": {
+        "dipendenti_vaccinati": 1642
+    }
+}

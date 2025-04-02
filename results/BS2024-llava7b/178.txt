@@ -1,0 +1,46 @@
+INFO: Job done in 39.833s.
+ Ecco lo JSON valido e ben strutturato estratto dall'immagine fornita:
+```json
+{
+  "azienda": "Sostenibilità",
+   "dati_sostenibilità": {
+      "impatto_economico": [
+         {
+            "tipo": "Totale",
+            "valore": 4839076.71
+         },
+         {
+            "tipo": "Nuove entrate",
+            "valore": 2036757.38
+         },
+         {
+            "tipo": "Crescita impostos",
+            "valore": 92524.15
+         }
+      ],
+      "impatto_ambientale": [
+         {
+            "tipo": "Totale",
+            "valore": 36070.68
+         },
+         {
+            "tipo": "Reduzione CO2",
+            "valore": 48.12
+         }
+      ],
+      "impatto_sociale": [
+         {
+            "tipo": "Totale",
+            "valore": 3072567.29
+         },
+         {
+            "tipo": "Investimenti in addetto",
+            "valore": 13448.76
+         }
+      ]
+   }
+}
+```
+Questo JSON è stato strutturato conforme ai criteri di rilevanza indicati, con una chiave `"azienda"` per indicare il nome dell'azienda e un campo `"dati_sostenibilità"` che contiene i dati numerici estratti. Sono presenti tre sottocampi per ogni tipo di impatto (economico, ambientale e sociale), con ciascuno dei valori elencati come elemento del campione corrispondente.
+
+Sono stati utilizzati interi o float per rappresentare i valori numerici, le unità di misura sono separate dai valori numerici, e il formato originale delle percentuali è stato mantenuto. I dati estratti si concentrano su tabelle, grafici e infografiche che presentano dati numerici (percentuali, valori monetari, indicatori di performance). 

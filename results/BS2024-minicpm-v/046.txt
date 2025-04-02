@@ -1,0 +1,92 @@
+INFO: Job done in 43.836s.
+```json
+{
+  "title": "Tabella 6 – Corsi attivati",
+  "sections": [
+    {
+      "section_title": "Corso",
+      "courses": [
+        {"course_name": "Laurea", "years": ["2021/22", "2022/23", "2023/24"]},
+        {"course_name": "Laurea magistrale", "years": ["2021/22", "2022/23", "2023/24"]},
+        {"course_name": "Laurea magistrale a ciclo unico", "years": ["2021/22", "2022/23", "2023/24"]}
+      ]
+    },
+    {
+      "section_title": "Scuole di specializzazione",
+      "schools": [
+        {"school_name": "Dottorato di ricerca", "years": ["56", "59", "51"]},
+        {"school_name": "Master", "years": ["48", "51", "51"]},
+        {"school_name": "Corso di Alta Formazione e di Formazione Permanente", "years": ["24", "32", "28"]}
+      ]
+    },
+    {
+      "title": "Figura 6 – Immatricolazioni al primo anno",
+      "figures": [
+        {"figure_name": "Immatricolazioni al primo anno", "data": [
+          {"year": "2021/22", "total": ["97", "132", "14"]},
+          {"year": "2022/23", "total": ["101", "137", "14"]},
+          {"year": "2023/24", "total": ["104", "142", "59"]}
+        ]},
+        {
+          "figure_name": "L",
+          "years": [
+            {"year": "2021/22", "values": [10.376, 6.829]},
+            {"year": "2022/23", "values": [4.013, 2.117]},
+            {"year": "2023/24", "values": [14.389, 2.122]}
+          ]
+        },
+        {
+          "figure_name": "LM",
+          "years": [
+            {"year": "2021/22", "values": [6.758, 11.407]},
+            {"year": "2022/23", "values": [10.122, 2.941]},
+            {"year": "2023/24", "values": [15.532, 2.822]}
+          ]
+        },
+        {
+          "figure_name": "LMCU",
+          "years": [
+            {"year": "2021/22", "values": [2.796, 5.147]},
+            {"year": "2022/23", "values": [8.946, 2.117]},
+            {"year": "2023/24", "values": [9.094, 2.122]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Figura 6 – Immatricolazioni al primo anno",
+      "figures": [
+        {"figure_name": "Immatricolazioni al primo anno", "data": [
+          {"year": "2021/22", "total": ["97", "132", "14"]},
+          {"year": "2022/23", "total": ["101", "137", "14"]},
+          {"year": "2023/24", "total": ["104", "142", "59"]}
+        ]},
+        {
+          "figure_name": "L",
+          "years": [
+            {"year": "2021/22", "values": [10.376, 6.829]},
+            {"year": "2022/23", "values": [4.013, 2.117]},
+            {"year": "2023/24", "values": [14.389, 2.122]}
+          ]
+        },
+        {
+          "figure_name": "LM",
+          "years": [
+            {"year": "2021/22", "values": [6.758, 11.407]},
+            {"year": "2022/23", "values": [10.122, 2.941]},
+            {"year": "2023/24", "values": [15.532, 2.822]}
+          ]
+        },
+        {
+          "figure_name": "LMCU",
+          "years": [
+            {"year": "2021/22", "values": [2.796, 5.147]},
+            {"year": "2022/23", "values": [8.946, 2.117]},
+            {"year": "2023/24", "values": [9.094, 2.122]}
+          ]
+        }
+      ]
+    }
+  ]
+}
+```

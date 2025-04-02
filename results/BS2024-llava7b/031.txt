@@ -1,0 +1,115 @@
+INFO: Job done in 53.932s.
+ ```json
+{
+  "Performance Sostenibilità": {
+    "2017": {
+      "Spesa": "1.534",
+      "Percentuale Variazione": "-2%",
+      "Variazione Valori Absoluti": -0.028,
+      "Gruppo Maggiore Spesa (in Euro)": 167718
+    },
+    "2018": {
+      "Spesa": "2.514",
+      "Percentuale Variazione": "+6%",
+      "Variuzione Valori Absoluti": +0.090,
+      "Gruppo Maggiore Spesa (in Euro)": 322561252
+    },
+    "2019": {
+      "Spesa": "2.780",
+      "Percentuale Variazione": "+7%",
+      "Variuzione Valori Absoluti": +0.182,
+      "Gruppo Maggiore Spesa (in Euro)": 34169752
+    },
+    "2020": {
+      "Spesa": "3.230",
+      "Percentuale Variazione": "+18%",
+      "Variuno Valori Absoluti": +0.636,
+      "Gruppo Maggiore Spesa (in Euro)": 52496752
+    },
+    "Percentuali Sostenibilità": {
+      "2017": "55.1%",
+      "2018": "54.9%",
+      "2019": "54.8%",
+      "2020": "53.6%"
+    }
+  },
+  "Sostenibilità Energia": {
+    "2017": {
+      "Utilizzo Energia Rinnovabile (in GWh)": 95,
+      "Percentuale Utilizzo Energia Rinnovabile": "35.6%",
+      "Variuno Valori Absoluti": +0.142,
+      "Gruppo Maggiore Utilizzo Energia (in GWh)": 269
+    },
+    "2018": {
+      "Utilizzo Energia Rinnovable (in GWh)": 107,
+      "Percentuale Utilizzo Energia Rinnovable": "41.3%",
+      "Variuno Valori Absoluti": +0.258,
+      "Gruppo Maggiore Utilizzo Energia (in GWh)": 370
+    },
+    "2019": {
+      "Utilizzo Energia Rinnovable (in GWh)": 142,
+      "Percentuale Utilizzo Energia Rinnovable": "46.8%",
+      "Variuno Valori Absoluti": +0.337,
+      "Gruppo Maggiore Utilizzo Energia (in GWh)": 321
+    },
+    "2020": {
+      "Utilizzo Energia Rinnovable (in GWh)": 185,
+      "Percentuale Utilizzo Energia Rinnovable": "47.6%",
+      "Variuno Valori Absoluti": +0.395,
+      "Gruppo Maggiore Utilizzo Energia (in GWh)": 381
+    }
+  },
+  "Sostenibilità Acqua": {
+    "2017": {
+      "Utilizzo Acqua (in Mm³)": 117,
+      "Percentuale Utilizzo Acqua": "54.5%",
+      "Variuno Valori Absoluti": +0.136,
+      "Gruppo Maggiore Utilizzo Acqua (in Mm³)": 209
+    },
+    "2018": {
+      "Utilizzo Acqua (in Mm³)": 137,
+      "Percentuale Utilizzo Acqua": "56.6%",
+      "Variuno Valori Absoluti": +0.205,
+      "Gruppo Maggiore Utilizzo Acqua (in Mm³)": 238
+    },
+    "2019": {
+      "Utilizzo Acqua (in Mm³)": 149,
+      "Percentuale Utilizzo Acqua": "57.5%",
+      "Variuno Valori Absoluti": +0.261,
+      "Gruppo Maggiore Utilizzo Acqua (in Mm³)": 248
+    },
+    "2020": {
+      "Utilizzo Acqua (in Mm³)": 159,
+      "Percentuale Utilizzo Acqua": "57.6%",
+      "Variuno Valori Absoluti": +0.305,
+      "Gruppo Maggiore Utilizzo Acqua (in Mm³)": 258
+    }
+  },
+  "Sostenibilità Rifiuti": {
+    "2017": {
+      "Quantità Rifiuti (in Tn)": 416,
+      "Percentuale Variazione": "-3%",
+      "Variuno Valori Absoluti": -0.148,
+      "Gruppo Maggiore Rifiutante (in Tn)": 198
+    },
+    "2018": {
+      "Quantità Rifiuti (in Tn)": 435,
+      "Percentuale Variazione": "+3%",
+      "Variuno Valori Absoluti": +0.183,
+      "Gruppo Maggiore Rifiutante (in Tn)": 207
+    },
+    "2019": {
+      "Quantità Rifiuti (in Tn)": 456,
+      "Percentuale Variazione": "+3%",
+      "Variuno Valori Absoluti": +0.231,
+      "Gruppo Maggiore Rifiutante (in Tn)": 217
+    },
+    "2020": {
+      "Quantità Rifiuti (in Tn)": 479,
+      "Percentuale Variazione": "+5%",
+      "Variuno Valori Absoluti": +0.315,
+      "Gruppo Maggiore Rifiutante (in Tn)": 228
+    }
+  }
+}
+``` 

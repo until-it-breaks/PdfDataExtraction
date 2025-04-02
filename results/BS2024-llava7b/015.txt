@@ -1,0 +1,44 @@
+INFO: Job done in 14.778s.
+ ```json
+{
+  "Cronologia": {
+    "Indicatore1": {
+      "1": "322561252.71",
+      "2": "198460111.59",
+      "3": "17343907.29"
+    },
+    "Indicatore2": {
+      "1": "1939083.46",
+      "2": "317066.16",
+      "3": "154253.77"
+    },
+    "Indicatore3": {
+      "1": "218763.97",
+      "2": "311306.04",
+      "3": "266260.17"
+    }
+  },
+  "Sostenibilità": [
+    {
+      "Indicatore1": {
+        "Eccellenza": "198460111.59",
+        "Perfezione": "1939083.46"
+      },
+      "Indicatore2": {
+        "Eccellenza": "317066.16",
+        "Perfezione": "154253.77"
+      }
+    },
+    {
+      "Indicatore1": {
+        "Eccellenza": "218763.97",
+        "Perfezione": "311306.04"
+      },
+      "Indicatore2": {
+        "Eccellenza": "266260.17",
+        "Perfezione": "245783.29"
+      }
+    }
+  ]
+}
+``` 

@@ -1,0 +1,99 @@
+{
+    "milestone_piano_energetico": {
+        "descrizione": "Gantt chart che mostra la timeline di diversi progetti",
+        "progetti": [
+            {
+                "nome_progetto": "Dismissione gasolio e olio combustibile",
+                "anni": [
+                    2023,
+                    2024,
+                    2025
+                ]
+            },
+            {
+                "nome_progetto": "Sostituzione totale illuminazioni tradizionali aree esterne",
+                "anni": [
+                    2023,
+                    2024,
+                    2025
+                ]
+            },
+            {
+                "nome_progetto": "Sostituzione totale illuminazioni tradizionali aree interne",
+                "anni": [
+                    2023,
+                    2024,
+                    2025,
+                    2026
+                ]
+            },
+            {
+                "nome_progetto": "Nuovi impianti fotovoltaici",
+                "anni": [
+                    2023,
+                    2024,
+                    2025,
+                    2026,
+                    2027
+                ]
+            },
+            {
+                "nome_progetto": "Certificazione UNI ENI ISO 50001",
+                "anni": [
+                    2023,
+                    2024,
+                    2025,
+                    2026,
+                    2027
+                ]
+            },
+            {
+                "nome_progetto": "Registrazione impianti termici al Catasto regionale",
+                "anni": [
+                    2023,
+                    2024,
+                    2025,
+                    2026,
+                    2027
+                ]
+            },
+            {
+                "nome_progetto": "Nuovi interventi di efficientamento edifici",
+                "anni": [
+                    2026,
+                    2027,
+                    2028,
+                    2029,
+                    2030
+                ]
+            },
+            {
+                "nome_progetto": "Efficientamento impianti fotovoltaici",
+                "anni": [
+                    2028,
+                    2029
+                ]
+            },
+            {
+                "nome_progetto": "Completamento rete BMS",
+                "anni": [
+                    2023,
+                    2024,
+                    2025,
+                    2026,
+                    2027,
+                    2028
+                ]
+            },
+            {
+                "nome_progetto": "Sostituzione caldaie con pompe di calore",
+                "anni": [
+                    2027,
+                    2028,
+                    2029,
+                    2030
+                ]
+            }
+        ]
+    }
+}

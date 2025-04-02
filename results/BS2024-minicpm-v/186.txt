@@ -1,0 +1,82 @@
+INFO: Job done in 38.845s.
+{
+  "figure1": {
+    "title": "Milestone del Piano energetico",
+    "years": [2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030],
+    "milestones": [
+      {
+        "year": 2023,
+        "dismission_gasolio_oli_ combustibile": [],
+        "total_luminization": [16.5, 17.5, 18, 18.5, 19, 19],
+        "interior_luminization": [4.5, 5, 5.25, 5.5, 5.75, 6]
+      },
+      {
+        "year": 2024,
+        "gasolio_oli_combustibile": [],
+        "total_luminization": [18.33],
+        "interior_luminization": [6.9]
+      },
+      {
+        "year": 2025,
+        "gasolio_oli_combustibile": [
+          {"color": "#00A49C", "label": "Nuovi impianti fotovoltaici"}
+        ],
+        "total_luminization": [],
+        "interior_luminization": [7.1]
+      },
+      {
+        "year": 2026,
+        "gasolio_oli_combustibile": [
+          {"color": "#00A49C", "label": "Nuovi impianti fotovoltaici"},
+          {"color": "#00E3B8", "label": "Certificazione UNI ENI ISO 5001"}
+        ],
+        "total_luminization": [],
+        "interior_luminization": [7.2]
+      },
+      {
+        "year": 2027,
+        "gasolio_oli_combustibile": [
+          {"color": "#00A49C", "label": "Nuovi impianti fotovoltaici"},
+          {"color": "#00E3B8", "label": "Certificazione UNI ENI ISO 5001"},
+          {"color": "#27AE60", "label": "Registrazione impianti termici al Catasto Regionale"}
+        ],
+        "total_luminization": [],
+        "interior_luminization": [8]
+      },
+      {
+        "year": 2028,
+        "gasolio_oli_combustibile": [
+          {"color": "#A64B31", "label": "Nuovi impianti di efficienza edifici"},
+          {"color": "#7C5DFF", "label": "Efficienza imputate impianti fotovoltaici"}
+        ],
+        "total_luminization": [],
+        "interior_luminization": [8.1]
+      },
+      {
+        "year": 2029,
+        {"gasolio_oli_combustibile": [
+          {"color":"#F45C3D","label":"Efficienza imputate impianti fotovoltaici"}
+        ]},
+        "total_luminization": [8.1, 7],
+        "interior_luminization": [9]
+      },
+      {
+        "year": 2030,
+        {"gasolio_oli_combustibile": [
+          {"color":"#F45C3D","label":"Efficienza imputate impianti fotovoltaici"}
+        ]},
+        "total_luminization": [8.1, 7],
+        "interior_luminization": [9]
+      }
+    ]
+  },
+  "figure2": {
+    "title": "Figuro e strumenti",
+    "description": [
+      "Il coordinamento delle iniziative energetiche e le sue tentative di realizzazione sono in capo il Tavolo Energico del Ateneo, una cabina da regia realizzata nel 2023.",
+      "Inoltre l'Ateneo è stato dotato di un Energy Manager che supervisiona il Piano Energetico e monitora le chief indicatori",
+      "Il coordination of the energy initiatives and its tentative realization is in charge of Tavolo Energico del Ateneo, a regia cabin opened till 2031.",
+      "Ateneo has been provided with an Energy Manager that oversees the Energetica Plan and monitors key indicators."
+    ]
+  }
+}

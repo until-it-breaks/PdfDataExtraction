@@ -1,0 +1,68 @@
+INFO: Job done in 23.548s.
+ Ecco la struttura dei dati estratti in formato JSON valido e ben strutturato:
+
+```json
+{
+  "Sostenibilità": {
+    "Indicatori di Performance": [
+      {
+        "Indice di Sostenibilità": "10",
+        "Progresso rispetto al piano strategico": "16",
+        "Percentuale di aderenza ai criteri di sostenibilità": "85,42%"
+      },
+      {
+        "Indice di Sostenibilità": "9",
+        "Progresso rispetto al piano strategico": "-71",
+        "Percentuale di aderenza ai criteri di sostenibilità": "31.16%"
+      }
+    ]
+  },
+  "Sostenibilità Organizzativa": {
+    "Indicatori di Performance": [
+      {
+        "Indice di Sostenibilità": "20",
+        "Progresso rispetto al piano strategico": "-53",
+        "Percentuale di aderenza ai criteri di sostenibilità": "67.98%"
+      }
+    ]
+  },
+  "Sostenibilità Economica": {
+    "Indicatori di Performance": [
+      {
+        "Indice di Sostenibilità": "15",
+        "Progresso rispetto al piano strategico": "-62",
+        "Percentuale di aderenza ai criteri di sostenibilità": "72.09%"
+      }
+    ]
+  },
+  "Sostenibilità Sociale": {
+    "Indicatori di Performance": [
+      {
+        "Indice di Sostenibilità": "3",
+        "Progresso rispetto al piano strategico": "-51",
+        "Percentuale di aderenza ai criteri di sostenibilità": "68.02%"
+      }
+    ]
+  },
+  "Sostenibilità Ambientale": {
+    "Indicatori di Performance": [
+      {
+        "Indice di Sostenibilità": "2",
+        "Progresso rispetto al piano strategico": "-36",
+        "Percentuale di aderenza ai criteri di sostenibilità": "75.10%"
+      }
+    ]
+  },
+  "Sostenibilità Infrastrutturali": {
+    "Indicatori di Performance": [
+      {
+        "Indice di Sostenibilità": "1",
+        "Progresso rispetto al piano strategico": "-32",
+        "Percentuale di aderenza ai criteri di sostenibilità": "70.08%"
+      }
+    ]
+  }
+}
+```
+
+Nota: la percentuale di aderenza ai criteri di sostenibilità per "Sostenibilità Infrastrutturali" è stata ottenuta sommando le percentuali dei due indici presenti nell'immagine. 

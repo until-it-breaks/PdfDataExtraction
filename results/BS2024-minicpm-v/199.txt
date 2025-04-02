@@ -1,0 +1,30 @@
+INFO: Job done in 17.671s.
+```json
+{
+  "title": "Tabella 34 – La Carbon Footprint",
+  "year1": {
+    "areae": [
+      {
+        "direct emissions from fossil fuel production and extraction": "7.397",
+        "indirect emissions: energy consumption for industrial processes, residential heating, etc.": "6.968"
+      },
+      {
+        "alternative emissions (vehicles-based mobility): vehicles used, distances traveled, etc.": "68.559"
+      }
+    ],
+    "total": 82.924
+  },
+  "year2": {
+    "areae": [
+      {
+        "direct emissions from fossil fuel production and extraction": "6.435",
+        "indirect emissions: energy consumption for industrial processes, residential heating, etc.": "17.247"
+      },
+      {
+        "alternative emissions (vehicles-based mobility): vehicles used, distances traveled, etc.": "108.939"
+      }
+    ],
+    "total": 132.639
+  }
+}
+```

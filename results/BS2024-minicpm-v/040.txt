@@ -1,0 +1,35 @@
+INFO: Job done in 17.608s.
+{
+  "title": "Valutazione delle performance di sostenibilità dell'azienda",
+  "data": {
+    "Fondazioni": [
+      {
+        "name": "Fondazioni",
+        "percentage": "67%"
+      }
+    ],
+    "Centri Interuniversitari": [
+      {
+        "name": "Centri Interuniversitari",
+        "percentage": "47%"
+      }
+    ],
+    "Alma Mater Studiorum Università di Bologna": [
+      {
+        "name": "Alma Mater Studiorum Università di Bologna",
+        "percentage": "9%"
+      }
+    ],
+    "Consorzio": [
+      {
+        "name": "Consorzio",
+        "percentage": "38%"
+      }
+    ]
+  },
+  "summary": {
+    "note_1": "Per quanto concerne le Società si segnala che 3 sono state costituite in relazione ai finanziamenti del PNRR.",
+    "note_2": "Per quanto riguarda i Fondazioni si segnala che 67 Fondazioni attive, una è in attività all’Università; 2 presentano un Consiglio di Amministrazione coincidente con quello dell'Universita; 3 sono state partecipate da Enti Pubblici e 17 sono state costituite in relazione ai finanziamenti del PNRR e del PNC.",
+    "note_3": "Per quanto concerne le Società si segnala che 3 sono state costituite in relazione ai finanziamenti del PNRR."
+  }
+}

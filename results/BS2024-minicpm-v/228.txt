@@ -1,0 +1,73 @@
+INFO: Job done in 22.123s.
+{
+  "sustainability": {
+    "performance": [
+      {
+        "indicator": "carbon footprint",
+        "value": "-20.7%"
+      },
+      {
+        "indicator": "water usage",
+        "value": "15% reduction"
+      },
+      {
+        "indicator": "waste management",
+        "value": "34 tons less waste generated"
+      }
+    ]
+  },
+  "financials": [
+    {
+      "quarterly_revenue": [
+        {
+          "period": "Q1-2020",
+          "amount": "€95.6m"
+        },
+        {
+          "period": "Q2-2020",
+          "amount": "€87.3m"
+        },
+        {
+          "period": "Q3-2020",
+          "amount": "€104.1m"
+        },
+        {
+          "period": "Q4-2020",
+          "amount": "€96.5m"
+        }
+      ]
+    },
+    {
+      "annual_profit_loss": [
+        {
+          "year": 2019,
+          "profit": "€38m"
+        },
+        {
+          "year": 2020,
+          "loss": "-€4m"
+        }
+      ]
+    }
+  ],
+  "market_share": {
+    "performance_over_time": [
+      {
+        "period": "Jan-2015",
+        "value": "39%"
+      },
+      {
+        "period": "Jun-2016",
+        "value": "41%"
+      },
+      {
+        "period": "Dec-2017",
+        "value": "44%"
+      },
+      {
+        "period": "Mar-2018",
+        "value": "43%"
+      }
+    ]
+  }
+}

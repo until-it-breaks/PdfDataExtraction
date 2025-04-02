@@ -1,0 +1,46 @@
+{
+    "condizione_occupazionale_a_un_anno_dalla_laurea": {
+        "dati": [
+            {
+                "anno": "2023",
+                "laurea": "Unibo",
+                "occupati": "36,0%",
+                "non_occupati": "55,8%",
+                "altro": "8,3%",
+                "laureati_intervistati": 6795
+            },
+            {
+                "anno": "2023",
+                "laurea": "Italia*",
+                "occupati": "38,5%",
+                "non_occupati": "53,9%",
+                "altro": "7,6%",
+                "laureati_intervistati": 113811
+            },
+            {
+                "anno": "2023",
+                "laurea": "Grandi Atenei*",
+                "occupati": "38,6%",
+                "non_occupati": "53,6%",
+                "altro": "7,8%",
+                "laureati_intervistati": 32752
+            },
+            {
+                "anni": "2021 2022",
+                "laurea": "Unibo",
+                "occupati": "39,7%",
+                "non_occupati": "53,0%",
+                "altro": "7,3%",
+                "laureati_intervistati": 6838
+            },
+            {
+                "anni": "2021 2022",
+                "laurea": "Unibo",
+                "occupati": "35,9%",
+                "non_occupati": "56,8%",
+                "altro": "7,3%",
+                "laureati_intervistati": 6537
+            }
+        ]
+    }
+}

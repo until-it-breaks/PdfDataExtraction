@@ -1,0 +1,15 @@
+{
+    "sport_e_salute": {
+        "tesserati_cusb": 20000,
+        "accessi_strutture": 1,
+        "partecipanti_eventi": 13000,
+        "campi_sportivi": 30,
+        "impianti_sportivi": 9,
+        "atleti_alto_livello": 200,
+        "titoli_europei_2023": 3,
+        "titoli_italiani_universitari_2023": 11,
+        "discipline": 100,
+        "corsi_sportivi": 150,
+        "sezioni_agonistiche_federali": 8
+    }
+}

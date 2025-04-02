@@ -1,0 +1,92 @@
+{
+    "programmi_e_progetti_attivi_per_sdg": {
+        "numero_totale": 119,
+        "sdg": [
+            {
+                "goal": "Goal 1",
+                "nome": "No Poverty",
+                "numero_programmi": 3
+            },
+            {
+                "goal": "Goal 2",
+                "nome": "Zero Hunger",
+                "numero_programmi": 7
+            },
+            {
+                "goal": "Goal 3",
+                "nome": "Good Health and Well-being",
+                "numero_programmi": 11
+            },
+            {
+                "goal": "Goal 4",
+                "nome": "Quality Education",
+                "numero_programmi": 68
+            },
+            {
+                "goal": "Goal 5",
+                "nome": "Gender Equality",
+                "numero_programmi": 3
+            },
+            {
+                "goal": "Goal 6",
+                "nome": "Clean Water and Sanitation",
+                "numero_programmi": 1
+            },
+            {
+                "goal": "Goal 7",
+                "nome": "Affordable and Clean Energy",
+                "numero_programmi": 3
+            },
+            {
+                "goal": "Goal 8",
+                "nome": "Decent Work and Economic Growth",
+                "numero_programmi": 14
+            },
+            {
+                "goal": "Goal 9",
+                "nome": "Industry, Innovation and Infrastructure",
+                "numero_programmi": 0
+            },
+            {
+                "goal": "Goal 10",
+                "nome": "Reduced Inequalities",
+                "numero_programmi": 3
+            },
+            {
+                "goal": "Goal 11",
+                "nome": "Sustainable Cities and Communities",
+                "numero_programmi": 8
+            },
+            {
+                "goal": "Goal 12",
+                "nome": "Responsible Consumption and Production",
+                "numero_programmi": 1
+            },
+            {
+                "goal": "Goal 13",
+                "nome": "Climate Action",
+                "numero_programmi": 6
+            },
+            {
+                "goal": "Goal 14",
+                "nome": "Life Below Water",
+                "numero_programmi": 1
+            },
+            {
+                "goal": "Goal 15",
+                "nome": "Life on Land",
+                "numero_programmi": 4
+            },
+            {
+                "goal": "Goal 16",
+                "nome": "Peace, Justice and Strong Institutions",
+                "numero_programmi": 7
+            },
+            {
+                "goal": "Goal 17",
+                "nome": "Partnerships for the Goals",
+                "numero_programmi": 10
+            }
+        ]
+    }
+}

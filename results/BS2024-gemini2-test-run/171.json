@@ -1,0 +1,18 @@
+{
+    "unibo_magazine_ufficio_stampa_numeri_2023": {
+        "unibo_magazine": {
+            "anno": 2023,
+            "articoli_eventi_pubblicati": 2016.0,
+            "accessi_unibo_magazine": 633128.0,
+            "pagine_viste_unibo_magazine": 969394.0
+        },
+        "uscite_media_nazionali_siti_informazione_esteri": {
+            "anno": 2023,
+            "quotidiani_periodici": 17936.0,
+            "servizi_radio_tv": 2792.0,
+            "siti_informazione_italiani": 10880.0,
+            "siti_informazione_esteri": 1389.0,
+            "totale": 32997.0
+        }
+    }
+}

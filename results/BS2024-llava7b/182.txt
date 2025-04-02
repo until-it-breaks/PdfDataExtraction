@@ -1,0 +1,21 @@
+INFO: Job done in 16.904s.
+ ```json
+{
+  "titolo": "Ambiente",
+  "descrizione": "Il programma di sostenibilità dell'azienda è orientato alla valorizzazione ambientale e allo sviluppo sostenibile. Le attività sono mirate a ridurre l'impacto ambientale, promuovere la conservazione della natura e a supportare le iniziative di protezione del patrimonio naturale.",
+  "indicatori": {
+    "attivita_ambientale": {
+      "valore": "80%",
+      "unita_misura": "Perc"
+    },
+    "risorse_naturali": {
+      "valore": "10000",
+      "unita_misura": "Euros"
+    },
+    "protezione_ambientale": {
+      "valore": "75%",
+      "unita_misura": "Perc"
+    }
+  }
+}
+``` 

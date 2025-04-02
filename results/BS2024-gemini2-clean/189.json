@@ -1,0 +1,35 @@
+{
+    "andamento_costi_energetici": {
+        "unita_di_misura": "milioni di euro",
+        "energia_elettrica": {
+            "2021": 15.05,
+            "2022": 21.78,
+            "2023": 18.82
+        },
+        "teleriscaldamento": {
+            "2021": 2.67,
+            "2022": 3.55,
+            "2023": 3.28
+        },
+        "gas": {
+            "2021": 5.32,
+            "2022": 8.86,
+            "2023": 4.18
+        },
+        "altri_costi_residuali": {
+            "2021": 6.96,
+            "2022": 9.25,
+            "2023": 11.13
+        }
+    },
+    "calo_consumi_2023_vs_2021": "13,6%",
+    "calo_emissioni_co2_2023_vs_2021": "11,7%",
+    "indice_emissione_ateneo_2023": {
+        "valore": 2.27,
+        "unita_di_misura": "tonnellate di CO2 per ogni unita tep consumata"
+    },
+    "dato_nazionale_indice_emissione": 2.52,
+    "progetto_controllo_consumi_acqua": {
+        "punti_sensibili_identificati": 147
+    }
+}

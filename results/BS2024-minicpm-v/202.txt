@@ -1,0 +1,18 @@
+INFO: Job done in 14.290s.
+{
+  "Performance_of_Sustainability": {
+    "Table_9": {
+      "Title": "Tavola 9",
+      "Data": [
+        {
+          "Field": "Percentuale di sostenibilità",
+          "Value": "32%"
+        },
+        {
+          "Field": "Valore monetario investito in Sostenibilità",
+          "Value": "10.548.679,50 euro"
+        }
+      ]
+    }
+  }
+}

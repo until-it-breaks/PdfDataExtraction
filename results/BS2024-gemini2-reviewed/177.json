@@ -1,0 +1,66 @@
+{
+    "modalita_di_contatto_urp": [
+        {
+            "metodo": "Telefono",
+            "percentuale": "56,8%"
+        },
+        {
+            "metodo": "Email",
+            "percentuale": "30,6%"
+        },
+        {
+            "metodo": "Social",
+            "percentuale": "11,5%"
+        },
+        {
+            "metodo": "Front End",
+            "percentuale": "1,2%"
+        }
+    ],
+    "utenza_urp": [
+        {
+            "categoria": "Studente potenziale",
+            "percentuale": "41%"
+        },
+        {
+            "categoria": "Familiare",
+            "percentuale": "18%"
+        },
+        {
+            "categoria": "Studente Unibo",
+            "percentuale": "12,2%"
+        },
+        {
+            "categoria": "Azienda/PA",
+            "percentuale": "9,3%"
+        },
+        {
+            "categoria": "Studente Laureato",
+            "percentuale": "6,6%"
+        },
+        {
+            "categoria": "Università/Scuola",
+            "percentuale": "4,1%"
+        },
+        {
+            "categoria": "Cittadino",
+            "percentuale": "4%"
+        },
+        {
+            "categoria": "Ex Studente",
+            "percentuale": "2,5%"
+        },
+        {
+            "categoria": "Altro",
+            "percentuale": "1,2%"
+        },
+        {
+            "categoria": "Interno",
+            "percentuale": "0,7%"
+        },
+        {
+            "categoria": "Erasmus Incoming",
+            "percentuale": "0,5%"
+        }
+    ]
+}

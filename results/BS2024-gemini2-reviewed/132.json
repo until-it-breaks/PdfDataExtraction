@@ -1,0 +1,56 @@
+{
+    "ore_formazione_area_tematica": {
+        "aree": [
+            {
+                "area": "Area comunicazione",
+                "ore_fruite": 1687
+            },
+            {
+                "area": "Area controllo di gestione",
+                "ore_fruite": 1434
+            },
+            {
+                "area": "Area economico-finanziaria",
+                "ore_fruite": 13816
+            },
+            {
+                "area": "Area giuridico-normativa",
+                "ore_fruite": 22470
+            },
+            {
+                "area": "Area informatica e telematica",
+                "ore_fruite": 22267
+            },
+            {
+                "area": "Area internazionale",
+                "ore_fruite": 2248
+            },
+            {
+                "area": "Area linguistica",
+                "ore_fruite": 11271
+            },
+            {
+                "area": "Area manageriale",
+                "ore_fruite": 4421
+            },
+            {
+                "area": "Area organizzazione e personale",
+                "ore_fruite": 7464
+            },
+            {
+                "area": "Area tecnico-specialistica",
+                "ore_fruite": 9643
+            }
+        ],
+        "totale_complessivo": 96721
+    },
+    "formazione_non_obbligatoria_2023": {
+        "partecipanti_catalogo_formazione": 2645,
+        "partecipazioni_piano_sviluppo_competenze_digitali": 9639,
+        "accessi_programmi_incremento_competenze_linguistiche": 1800,
+        "ore_fruite_programmi_incremento_competenze_linguistiche": 11000,
+        "partecipanti_seminari_adattamento_ambienti_lavoro_virtuali": 564,
+        "partecipanti_corsi_sviluppo_competenze_lavoro_agile": 539,
+        "partecipanti_formazione_specifica": 182
+    }
+}

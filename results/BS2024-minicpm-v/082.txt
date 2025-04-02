@@ -1,0 +1,43 @@
+INFO: Job done in 14.850s.
+{
+  "research": {
+    "percentage": [
+      5.60,
+      4.87,
+      39.21,
+      3.56,
+      22.22,
+      3.74,
+      10.41,
+      19.03
+    ],
+    "costs": [
+      {
+        "amount": "18.54€",
+        "unit": ""
+      },
+      {
+        "amount": "65.12€",
+        "unit": "per unità"
+      }
+    ]
+  },
+  "percentage_investments": [
+    97.3,
+    0.8,
+    11.4
+  ],
+  "other_costs": [
+    {
+      "amount": ""
+    },
+    {
+      "amount": ""
+    }
+  ],
+  "total_expenses": "526.4€",
+  "percentage_of_research": [
+    "3%"
+  ],
+  "investment_in_research": "180 €"
+}

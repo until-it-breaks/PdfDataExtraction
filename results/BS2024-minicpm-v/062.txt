@@ -1,0 +1,36 @@
+INFO: Job done in 14.261s.
+{
+  "sustainability": {
+    "course_italian_language": [
+      {
+        "total_students": "116",
+        "italian_linguistic_pathways": "77",
+        "bologna": "24",
+        "campus_del_roma": "50",
+        "online_classes_with_assistance": "3"
+      }
+    ],
+    "course_italian_language_enrollment": [
+      {
+        "total_students": "1863",
+        "bologna": "1097",
+        "campus_del_roma": "240.5",
+        "online_classes_with_assistance": "525"
+      }
+    ]
+  },
+  "credit": [
+    "{insert_credit_amount}"
+  ],
+  "percentage_of_sustainable_products": [
+    "{insert_percentage}"
+  ],
+  "carbon_emissions_reduction": [
+    "{insert_carbon_emissions_amount} ton of CO₂e saved",
+    "{insert_carbon_emissions_percentage}"
+  ],
+  "energy_consumption": [
+    "{insert_energy_consumption_units}",
+    "{insert_energy_consumption_value}"
+  ]
+}

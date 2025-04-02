@@ -1,0 +1,70 @@
+INFO: Job done in 29.632s.
+{
+  "economic_sustainability": {
+    "trends": [
+      {
+        "year": "2020/21",
+        "total_taxes": "43.108 millions",
+        "tutti": "22.192 millions",
+        "partially": "20.916 millions",
+        "borses": "14,404",
+        "collaborations": "2,374",
+        "interventions_disadvantaged_students": "420",
+        "students_with_disabilities": "124",
+        "prizes": "450",
+        "teachers_awards": "1.009",
+        "tutor_awards": "2,356",
+        "housing_allowances": "1,852"
+      },
+      {
+        "year": "2021/22",
+        "total_taxes": "46.578 millions",
+        "tutti": "23.507 millions",
+        "partially": "23.071 millions",
+        "borses": "12,662",
+        "collaborations": "2,347",
+        "interventions_disadvantaged_students": "431",
+        "students_with_disabilities": "75",
+        "prizes": "450",
+        "teachers_awards": "762",
+        "tutor_awards": "2.658",
+        "housing_allowances": "2,127"
+      },
+      {
+        "year": "2022/23",
+        "total_taxes": "47.900 millions",
+        "tutti": "24.817 millions",
+        "partially": "23.083 millions",
+        "borses": "13,180",
+        "collaborations": "2,202",
+        "interventions_disadvantaged_students": "553",
+        "students_with_disabilities": "85",
+        "prizes": "450",
+        "teachers_awards": "615",
+        "tutor_awards": "2.824",
+        "housing_allowances": "2,208"
+      }
+    ],
+    "notes": [
+      "* 53 of the total taxes are attributed to the services provided by ER.GO as per Decree Legge n.61/2023.",
+      "** The tutoring is not yet realized."
+    ]
+  },
+  "educational_support": {
+    "students_with_disabilities": ["75", "85"],
+    "merit_prizes": ["450", "450"],
+    "teacher_awards": [
+      [1.009, "762", "615"],
+      [2.356, "2.658", "2.824"]
+    ],
+    "housing_allowances": ["1.852", "2.127", "2.208"]
+  },
+  "extraordinary_investments": {
+    "Campus_de Roma_giunale": [232, 232, "337"],
+    "Campus_del_monte_Matteo": [
+      "-",
+      "-",
+      "6"
+    ]
+  }
+}

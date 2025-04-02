@@ -1,0 +1,51 @@
+INFO: Job done in 38.616s.
+Based on the provided image and its description in Italian, here is a structured output of relevant data for sustainability performance evaluation:
+```json
+{
+  "title": "Tabella 22 - Orie di formazione per area tematica",
+  "sections": [
+    {
+      "section_title": "Area Tematica",
+      "training_hours_by_area": {
+        "Area comunicazione": {
+          "hours": "1.687"
+        },
+        "Area controllo di gestione": {
+          "hours": "1.434"
+        },
+        "Area economico-finanziaria": {
+          "hours": "13.816"
+        },
+        "Area giuridico-formativa": {
+          "hours": "22.470"
+        },
+        "Area informatica e telematica": {
+          "hours": "22.267"
+        },
+        "Area internazionale": {
+          "hours": "2.248"
+        },
+        "Area linguistica": {
+          "hours": "11.271"
+        },
+        "Area manageriale": {
+          "hours": "4.421"
+        },
+        "Area organizzazione e personale": {
+          "hours": "7.464"
+        },
+        "Area tecnico-specialistica": {
+          "hours": "9.643"
+        }
+      },
+      "total_training_hours": "96.721",
+      "notes": [
+        "15% dei 17,744 ore di formazione obbligatoria sono state suddivise: 14,372 ore di formazione obbligatoria salute e sicurezza; 3,372 ore di alta forma obbligatoria (privacy, anticorrupsione, trasparenza, rifulti).",
+        "Il 95% del budget investito nella formazione non obbligatoria viene utilizzato come contributo.",
+        "Inoltre, il budget annuale allocato alla formazione obbligatoria include i costi di impianti e servizi di supporto."
+      ]
+    }
+  ]
+}
+```
+This structured output includes the relevant data from

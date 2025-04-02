@@ -1,0 +1,21 @@
+INFO: Job done in 19.020s.
+```json
+{
+  "title": "UNIBOLOPER",
+  "description": "Il profilo Instagram @Uniboper è il canale ufficiale dell'Università di Bologna dedicato a comunicare il suo isso peggiore verso la società, divulgar le ricerca e la cultura dell'Alma Mater. Il rivolge principalmente a un pubblico generale non specializzato, con un focus particolare sugli studenti o giuoviagli e giovani tra i 18 e 35 anni, che costituiscono il target principale della comunicazione di Onal per una Single Professional Engagement.",
+  "url": "https://www.unibo.it/uniboper",
+  "followers": {
+    "total": "il canale ha attualmente circa 17.086 follower",
+    "target": "il target principale della communication è un professionista young"
+  },
+  "posts": [
+    {
+      "title": "Il portavocato dell'Università di Bologna si impegna nella cultura, lo scienziato e il welfare sociale.",
+      "date": "18 settembre",
+      "likes": "#Uniboper",
+      "reposts": "#ScienceIsInTheAir #OpenMind #CultureAndWelfare",
+      "text": "Il portavocato dell'Università di Bologna si impegna nella cultura, lo scienziato e il welfare sociale.",
+    },
+  ],
+}
+```

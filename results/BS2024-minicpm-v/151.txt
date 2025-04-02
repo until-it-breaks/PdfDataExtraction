@@ -1,0 +1,82 @@
+INFO: Job done in 27.200s.
+{
+  "finanziamento": {
+    "ricerca e innovazione": [
+      {
+        "title": "Dottorati in ricerca finanziato dalla sostituzione dei sostegni",
+        "data": [
+          {
+            "source": "Ateneo",
+            "total_students": 142,
+            "financially_subsidized_students": 56
+          },
+          {
+            "source": "Ecosister E - CTE",
+            "total_students": 238,
+            "financially_subsidized_students": 90
+          }
+        ],
+        "total_financially_subsidized_students": 146
+      },
+      {
+        "title": "Dottorati in ricerca finanziato dalla sostituzione dei sostegni",
+        "data": [
+          {
+            "source": "Ateneo",
+            "total_students": 170,
+            "financially_subsidized_students": 86
+          },
+          {
+            "source": "Ecosister E - CTE",
+            "total_students": 329,
+            "financially_subsidized_students": 114
+          }
+        ],
+        "total_financially_subsidized_students": 201
+      }
+    ]
+  },
+  "bando_fondazione": {
+    "title": "Istituti di istruzione e fondazioni bancarie",
+    "data": [
+      {
+        "institution": "Fondazione Flaminiia",
+        "funding": {
+          "total_amount": 329.0,
+          "provided_amount": 146.5
+        }
+      },
+      {
+        "institution": "Ser.In.Am. - UNI.Rimini",
+        "funding": [
+          {
+            "source": "Fondazione Flaminiia"
+          },
+          {
+            "source": "Ser.In.Am."
+          },
+          {
+            "source": "UNI.Rimini"
+          }
+        ]
+      },
+      {
+        "institution": "Uni.Rimini",
+        "funding": [
+          "Fondazione Flaminiia - Bologna e Ravenna",
+          "Cassa di Riparmio - Cesena",
+          "Cassa di Riparmio - Forli"
+        ]
+      }
+    ]
+  },
+  "società": {
+    "title": "Società",
+    "data": [
+      "Fondazione Flaminiia",
+      "Fondazione del Monte di Bologna e Ravenna",
+      "Cassa di Riparmio - Cesena",
+      "Cassa di Riparmio - Forli"
+    ]
+  }
+}

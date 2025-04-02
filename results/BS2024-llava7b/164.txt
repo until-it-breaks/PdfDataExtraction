@@ -1,0 +1,50 @@
+INFO: Job done in 41.645s.
+ {
+ "titolo": "Bilancio di sostenibilità",
+ "sostenibilita": 93,
+ "rendita": 1876.4,
+ "rendita_per capita": 1009.2,
+ "indice_rendita_per capita": 59.3,
+ "ricche_finanziarie": [
+  {
+   "denominazione": "Fondi di investimento",
+   "valore": 87612.0
+  },
+  {
+   "denominazione": "Fondi a breve termine",
+   "valore": 45039.0
+  }
+ ],
+ "dati_sostenibilità": {
+  "energia rinnovabile": 78,
+  "energia rinnovable_come percentuale di consumo totale": 21,
+  "emissioni di CO2 per unità di produzione": 30.56,
+  "uso di acqua": 45,
+  "uso di acqua_in termini relativi al volume di produzione": 12.9,
+  "responsabilità socioeconomica": {
+   "numero di lavoratori": 2000,
+   "fractione di lavoratori donna": 45,
+   "indice di diversità e inclusione": 30.2,
+   "percentuale di sostentamento dei dipendenti": 92
+  }
+ },
+ "contabilità": {
+  "ricche_patrimoniali": 81765.5,
+  "rendita d'attività non finanziaria": [
+   {
+    "denominazione": "Fondi di investimento a lungo termine",
+    "valore": 322561252.71
+   },
+   {
+    "denominazione": "Fondo di sviluppo",
+    "valore": 90080.0
+   }
+  ],
+  "immagini_non_numeriche": [
+   {
+    "titolo": "Diagramma di flusso di ciclo di vita dei prodotti",
+    "immagine": "Immagine con un diagramma di flusso di ciclo di vita dei prodotti, che mostra lo stato della produzione e del consumo."
+   }
+  ]
+ }
+} 

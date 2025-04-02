@@ -1,0 +1,70 @@
+INFO: Job done in 26.241s.
+{
+  "title": "GRI 300 ASPETTI AMBIENTALI",
+  "sections": [
+    {
+      "title": "301-1 Materiali prime utilizzate per peso o volume"
+    },
+    {
+      "title": "301-2 Materiali riciclati utilizzati"
+    },
+    {
+      "title": "301-3 Prodotti venduti e relativi materiali di imballaggio",
+      "subsections": [
+        {
+          "text": "LAteneo svolge un'attività di servizio che non richiede di imballaggio",
+          "note": "8.3 – Azioni a favore della sostenibilità"
+        }
+      ]
+    },
+    {
+      "title": "302-1 Consumo di energia nell'interno dell'organizzazione",
+      "subsections": [
+        {
+          "text": "Politiche energetiche e i consumi",
+          "note": "8.1 - Politiche energetiche e i consumi"
+        }
+      ]
+    },
+    {
+      "title": "302-2 Consumo di energia nell'organizzazione",
+      "subsections": [
+        {
+          "text": "Politiche energetiche e i consumi",
+          "note": "8.1 - Politiche energetiche e i consumi"
+        }
+      ]
+    },
+    {
+      "title": "302-3 Intensità energetica",
+      "subsections": [
+        {
+          "text": "Politiche energetiche e i consumi",
+          "note": "8.1 - Politiche energetiche e i consumi"
+        }
+      ]
+    },
+    {
+      "title": "302-4 Riduzione dei consumi energetici",
+      "subsections": [
+        {
+          "text": "Politiche energetiche e i consumi",
+          "note": "8.1 - Politiche energetiche e i consumi"
+        }
+      ]
+    },
+    {
+      "title": "302-5 Aumento dell'efficienza energetica per prodotti e servizi",
+      "subsections": [
+        {
+          "text": "Politiche energetiche e i consumi",
+          "note": "8.1 - Politiche energetiche e i consumi"
+        }
+      ]
+    },
+    {
+      "title": "302-6 Programmazione del prossimo decennio",
+      "note": "Raccomando con indice IRS 2024 e/o note"
+    }
+  ]
+}

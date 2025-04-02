@@ -1,0 +1,27 @@
+{
+    "carbon_footprint": {
+        "unita_di_misura": "t CO2eq/anno",
+        "dati": [
+            {
+                "area": "EMISSIONI DIRETTE da riscaldamento",
+                "2022": 7397,
+                "2023": 6453
+            },
+            {
+                "area": "EMISSIONI INDIRETTE da consumo energetico",
+                "2022": 6968,
+                "2023": 17247
+            },
+            {
+                "area": "ALTRE EMISSIONI (mobilità casa-università, rifiuti, ecc.)",
+                "2022": 68559,
+                "2023": 108939
+            },
+            {
+                "area": "TOTALE",
+                "2022": 82924,
+                "2023": 132639
+            }
+        ]
+    }
+}

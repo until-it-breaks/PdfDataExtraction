@@ -1,0 +1,25 @@
+{
+    "rifiuti_speciali_smaltiti_kg": {
+        "unita_di_misura": "kg",
+        "tipologie_di_rifiuto": [
+            {
+                "tipo": "Rifiuti speciali da laboratorio",
+                "2021": 120619,
+                "2022": 128978,
+                "2023": 66265
+            },
+            {
+                "tipo": "Rifiuti sanitari",
+                "2021": 61497,
+                "2022": 63197,
+                "2023": 65778
+            },
+            {
+                "tipo": "Totale",
+                "2021": 182116,
+                "2022": 192175,
+                "2023": 132043
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+INFO: Job done in 38.262s.
+ {
+"sostenibilità": {
+"documento_titolo": "SUMMARY OF SUSTAINABLE FINANCE REPORT 2021",
+"indice_performance": "1.5",
+"indicatore_energia": "25,46",
+"indicatore_acquedotto": "38,14",
+"numero_documenti": "5",
+"somma_finanziamento": "190,785.76",
+"valore_debiti": "-3,622.23",
+"percentuale_depositi": "100%",
+"numero_impiegati": "563",
+"indicatore_diversità": "13%",
+"indicatore_salari": "6,974.08",
+"indicatore_acquisti_da_piccole e medie imprese": "21,548.63",
+"percentuale_acquisti_da_piccole e medie imprese": "100%",
+"percentuale_spese_per formazione": "96,353.29",
+"numero_progetti_finanziati": "10",
+"indicatore_carbonio": "58,725.52",
+"percentuale_acquisti_da fornitori a livello globale": "55%",
+"indicatore_depositi": "3,622.23",
+"valore_pagamenti_per formazione": "10,948.28",
+"indicatore_acquisti_da piccole e medie imprese nel 2021": "34,785.76",
+"numero_impiegati_nel 2021": "563",
+"percentuale_salari": "96,353.29",
+"indicatore_spese_per formazione nel 2021": "8,948.28",
+"numero_progetti_finanziati nel 2021": "10"
+}
+}

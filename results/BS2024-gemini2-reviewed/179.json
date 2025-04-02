@@ -1,0 +1,24 @@
+{
+    "iniziative_cusb_per_la_comunita": {
+        "alma_mater_fest": {
+            "anno": 2023,
+            "incontri_organizzati": 250,
+            "partecipanti": 13000,
+            "ospiti": 100
+        },
+        "promozione_sul_tesseramento": {
+            "tesseramento_annuale_cusb": {
+                "tariffa_studenti": 5,
+                "unita_di_misura": "€"
+            },
+            "tesseramento_annuale_non_studenti": {
+                "tariffa": 13,
+                "unita_di_misura": "€"
+            }
+        },
+        "campi_estivi": {
+            "famiglie_iscritte": 100,
+            "ore_di_attivita_gestite": 130
+        }
+    }
+}

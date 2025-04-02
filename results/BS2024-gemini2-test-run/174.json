@@ -1,0 +1,48 @@
+{
+    "numeri_portale_siti_web": {
+        "dati": [
+            {
+                "sito": "Versione italiana Portale (www. Unibo.it)",
+                "numero_siti": null,
+                "visite": 21849879.0,
+                "pagine_viste": 46866463.0
+            },
+            {
+                "sito": "Versione inglese Portale (www. Unibo.it)",
+                "numero_siti": null,
+                "visite": 3786361.0,
+                "pagine_viste": 11470942.0
+            },
+            {
+                "sito": "Siti dei Corsi di studio",
+                "numero_siti": 313,
+                "visite": 19456056.0,
+                "pagine_viste": 54049887.0
+            },
+            {
+                "sito": "Siti dei Dipartimenti",
+                "numero_siti": 31,
+                "visite": 1771034.0,
+                "pagine_viste": 3735790.0
+            },
+            {
+                "sito": "Siti on Demand (Sites, Master, Scuole spec, Centri, PHD)",
+                "numero_siti": 854,
+                "visite": 2247474.0,
+                "pagine_viste": 5159292.0
+            },
+            {
+                "sito": "Siti on Demand Eventi Web",
+                "numero_siti": 230,
+                "visite": 583659.0,
+                "pagine_viste": 1641762.0
+            },
+            {
+                "sito": "Siti vari Strutture e Servizi (SBA, SMA, Bandi, ecc.)",
+                "numero_siti": 33,
+                "visite": 3418635.0,
+                "pagine_viste": 8323495.0
+            }
+        ]
+    }
+}

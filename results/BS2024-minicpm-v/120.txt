@@ -1,0 +1,43 @@
+INFO: Job done in 44.753s.
+{
+  "Tabella_15": {
+    "Titolo": "Progressione economica dei docenti e dei ricercatori universitari",
+    "Sottotitolo": "(procedura di attribuzione delle classi stipendiali)",
+    "Anno_2021": [
+      { "Aventi_diritto": 1.361, "Esito_positivo": 1.139 },
+      {"% esito positivo": 83.7%}
+    ],
+    "Anno_2022": [
+      { "Aventi_diritto": 1.345, "Esito_positivo": 0.675 },
+      {"% esito positivo": 79%},
+      {
+        "Note": "La valutazione verificata le attività didattiche, di ricerca e gestionali dei docenti."
+      }
+    ],
+    "Anno_2023": [
+      { "Aventi_diritto": 1.382, "Esito_positivo": 1.162 },
+      {"% esito positivo": 79.4%},
+      {
+        "Note": "La progressione economica dei docenti è basata su tassebendi annuali, determinate attraverso valutazione periodica. La valutazione verifica le attività didattiche, di ricerca e gestionali dei docenti."
+      }
+    ]
+  },
+  "Tabella_16": {
+    "Titolo": "Compensini regolamentari premialiato docente e ricercatore",
+    "Anno_2021": [
+      { "Misura_incentivante": 1.407, "Valore": 398.5 }
+    ],
+    "Anno_2022": [
+      { "Misure_incentivanti": 2.236, "Valori": [3.4] },
+      {
+        "Note": "Gli importi se ricoverino anche all'importo totale pagato nell'anno indicato."
+      }
+    ],
+    "Anno_2023": [
+      { "Misure_incentivanti": 175, "Valori": [46.8] },
+      {
+        "Note": "Trasferimento del Fondo per il Premiale a favore del personale docente e ricercatore."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+INFO: Job done in 24.394s.
+```json
+{
+  "title": "Sistemi di gestione della salute e sicurezza sul lavoro",
+  "subtitles": [
+    "Indice BS 20420 / note",
+    "Criteri di rilevanza"
+  ],
+  "sections": [
+    {
+      "id": "1",
+      "title": "",
+      "content": "D.Lgs. 81/08 - Il sistema di gestione è definito e descritto al capitolo 1 del Manuale Sicurezza e Salute pubblicato sulla pagina intranet dell'Ateneo"
+    },
+    {
+      "id": "2",
+      "title": "",
+      "content": "L’Athenio redige un Documento generale di indicizzazione nella riunione periodica annuale (art. 35 D.Lgs. 81/08). Annualmente viene verificato il possesso dei requisiti richiesti dai D.Lgs. 81/08 in merito alle comprenze del personale che è esegue le valutazioni del rischio. Si tratta di una verifica interna basata su i requisiti formali.",
+      "note": "Gli oggetti documentati sono completa con scadenza e verifica periodica."
+    },
+    {
+      "id": "3",
+      "title": "",
+      "content": "Le attività organizzate del personale che si occupano di valutazione del rischio. Il reperimento degli incidenti o lesioni leggiendoli, identificando i pericoli, incidenze e indagini sugli incidenti.",
+      "note": ""
+    },
+    {
+      "id": "4",
+      "title": "",
+      "content": "Il servizio del medicina del lavoro non sono pertinenti al servizio dei pericoli ma sul lavoro che costituisce un rischio da malattie professionali"
+    },
+    {
+      "id": "5",
+      "title": "",
+      "content": "La Medicina del Lavoro organizza la sorveglianza sanitaria dei lavoratori e sensi del Risparmio.",
+      "note": ""
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+INFO: Job done in 50.880s.
+ {
+  "titolo": "Valutazione delle performance di sostenibilità dell'azienda",
+  "sostegno a bilancio": true,
+  "tabelle_presenze": {
+    "2019": {
+      "Giornalieri sostenibili": "30",
+      "Giornalieri che utilizzano un metodo di trasporto alternativo (biciclolette, autobus)": "8",
+      "Reduzioni nella quantità di materiali rifiutati prodotte/utilizzate": "15"
+    },
+    "2020": {
+      "Giornalieri sostenibili": "35",
+      "Giornalieri che utilizzano un metodo di trasporto alternativo (biciclolette, autobus)": "10",
+      "Reduzioni nella quantità di materiali rifiutati prodotte/utilizzate": "25"
+    },
+    "Variabilità annuale": {
+      "Giornalieri sostenibili": "5",
+      "Giornalieri che utilizzano un metodo di trasporto alternativo (bicicloette, autobus)": "2",
+      "Reduzioni nella quantità di materiali rifiutati prodotte/utilizzate": "10"
+    }
+  },
+  "grafici_esistono": false,
+  "infografiche_esistenti": {
+    "Budget di sostenibilità": {
+      "Indicatore 1 (valore monetario)": "540.362",
+      "Indicatore 2 (percentuali)": "5"
+    },
+    "Impacto sull'ambiente": {
+      "Reduzioni nella quantità di materiali rifiutati prodotte/utilizzate": "25%"
+    }
+  },
+  "sostenibilita_azienda": {
+    "Giornalieri sostenibili": "35",
+    "Utilizzo di trasporto alternativo": {
+      "Biciclolette e autobus": [
+        "35",
+        "10"
+      ]
+    },
+    "Impacto sull'ambiente": {
+      "Reduzioni nella quantità di materiali rifiutati prodotte/utilizzate": "25%"
+    }
+  },
+  "sostenibilita_azienda_indicatori": {
+    "Giornalieri sostenibili": "35",
+    "Utilizzo di trasporto alternativo": {
+      "Bicicloette e autobus": "10"
+    },
+    "Impacto sull'ambiente": {
+      "Reduzioni nella quantità di materiali rifiutati prodotte/utilizzate": "25%"
+    }
+  }
+} 

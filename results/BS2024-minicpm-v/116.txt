@@ -1,0 +1,44 @@
+INFO: Job done in 35.697s.
+```
+{
+  "title": "6.1 PERSONALE COGNOSCE E RICERCATORE",
+  "data": [
+    {
+      "type": "personale",
+      "category": "docenti",
+      "tempo Pietreno": "350 ore annuale (almeno 120 didattica frontale)",
+      "tempo Definito": "250 ore annuale"
+    },
+    {
+      "type": "personale",
+      "category": "ricercatori in tenure",
+      "tempo Pietreno": "350 ore annuale (almeno 160 didattica frontale)",
+      "tempo Definito": "240 ore annuale"
+    },
+    {
+      "type": "personale",
+      "category": "ricercatori in tenure",
+      "tempo Pietreno": "350 ore annuale (massimo 160 didattica frontale)",
+      "tempo Definito": "240 ore annulli"
+    },
+    {
+      "type": "personale",
+      "category": "ricercatori in tenure TRACK",
+      "tempo Pietreno": "350 ore annuale (almeno 160 didattica frontale)",
+      "tempo Definito": "240 ore annulli"
+    },
+    {
+      "type": "personale",
+      "category": "docenti",
+      "tempo Pietreno": "350 ore annuale",
+      "tempo Definito": "1980 ore annuale (almeno 60 didattica frontale)"
+    },
+    {
+      "type": "personale",
+      "category": "ricercatori",
+      "tempo Pietreno": "245.372 ore annulli",
+      "tempo Definito": "1899"
+    }
+  ]
+}
+```

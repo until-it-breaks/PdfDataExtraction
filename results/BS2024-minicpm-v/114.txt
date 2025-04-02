@@ -1,0 +1,19 @@
+INFO: Job done in 15.057s.
+{
+  "title": "Personnel",
+  "percentage": "6.",
+  "data": [
+    {
+      "position": "Top left cell",
+      "value": "32.1%"
+    },
+    {
+      "position": "Top middle cell",
+      "value": "58.9%"
+    },
+    {
+      "position": "Bottom right cell",
+      "value": "76.4%"
+    }
+  ]
+}

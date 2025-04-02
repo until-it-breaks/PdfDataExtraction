@@ -1,0 +1,20 @@
+INFO: Job done in 30.697s.
+ Lo sforzo completo e le attenzioni concentrate sulle opere di sostenibilità sono evidenziate nella foto in cui una squadra di personaggi si sta presentando con un cartellone colorato. Il cartellone recita "Pace" e "Diritto all'educazione," che sono i temi centrali dell'immagine. Sono visibili anche indici numerici che rappresentano le percentuali di partecipata al programma, come il 27% di partecipanti al programma di educazione e il 32% di quelli che hanno partecipato ad attività di formazione. Inoltre, ci sono informazioni sul numero di partecipanti (322561252.71) e sui costi annuali del programma (81206 euro).
+
+Il bilancio fornisce dati dettagliati che descrivono il programma di educazione, la sua attuazione e il suo impatto sulle comunità locali. Le percentuali presentate sono relative al numero totale dei partecipanti al programma, quindi rappresentano un rapporto tra le persone che hanno aderito al programma e il total delle persone che hanno avuto accesso a esso.
+
+```json
+{
+  "sostenibilità": {
+    "programma_educazione": {
+      "percentuale_partecipante": "32%",
+      "numero_partecipanti": 81206,
+      "costo_annuo": 71,
+      "impacto_comunità": [
+        "100+ volontari in tutta la regione",
+        "10.000+ persone che hanno aderito al programma di educazione"
+      ]
+    }
+  }
+}
+``` 

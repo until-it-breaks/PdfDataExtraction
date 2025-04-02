@@ -1,0 +1,45 @@
+INFO: Job done in 20.709s.
+{
+   "Tavola GRI": {
+      "GRI 408": {
+         "Titolo": "Lavoro minoreile",
+         "Criterio": [
+            {
+               "Numero": "408-1",
+               "Descrizione": "Operazioni e forniture con un rischio significativo di casini di lavoro minoreile"
+            },
+            {
+               "Numero": "409-1",
+               "Descrizione": "Lavoro forzato significativo di casi di lavoro forzato"
+            }
+         ]
+      },
+      "GRI 409": {
+         "Titolo": "Lavoro forzato",
+         "Criterio": [
+            {
+               "Numero": "408-1",
+               "Descrizione": "Operazioni e forniture con un rischio significativo di casini di lavoro minoreile"
+            }
+         ]
+      },
+      "GRI 410": {
+         "Titolo": "Pratiche di sicurezza",
+         "Criterio": [
+            {
+               "Numero": "410-1",
+               "Descrizione": "Personale aggiunto alla sicurezza"
+            }
+         ]
+      },
+      "GRI 411": {
+         "Titolo": "Diritti delle communità locali",
+         "Criterio": [
+            {
+               "Numero": "411-1",
+               "Descrizione": "Casì di violazioni dei diritti delle communità locali"
+            }
+         ]
+      }
+   }
+}

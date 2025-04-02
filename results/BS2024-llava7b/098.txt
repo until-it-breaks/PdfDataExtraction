@@ -1,0 +1,37 @@
+INFO: Job done in 23.249s.
+ L'immagine presenta una tabella che rappresenta il bilancio di sostenibilità dell'azienda per l'anno 2019. Questa tabella contiene i dati monetari in euro, espressi come valori numerici e indici percentuali. La tabella è strutturata con le righe che corrispondono a diversi indicatori di sostenibilità, mentre le colonne mostra il valore totale e il valore relativo (indice) per ogni indice.
+
+Per facilitare la lettura dei dati, ho estratto i dati in formato JSON:
+```json
+{
+  "Anno": 2019,
+  "Sostenibilità": {
+    "Risorse umane": {
+      "Valore totale": 567348.25,
+      "Indice di sostenibilità": 1.00
+    },
+    "Durabilità": {
+      "Valore totale": 99999.22,
+      "Indice di sostenibilità": 0.99957
+    },
+    "Innovazione": {
+      "Valore totale": 61193.86,
+      "Indice di sostenibilità": 0.99523
+    },
+    "Sostenibilità sociale": {
+      "Valore totale": 49671.31,
+      "Indice di sostenibilità": 0.88851
+    }
+  }
+}
+```
+La tabella presenta i seguenti indicatori di sostenibilità:
+
+- **Risorse umane**: con un valore totale di 567348.25 e un indice di sostenibilità del 1%.
+- **Durabilità**: con un valore totale di 99999.22 e un indice di sostenibilità del 0.99957.
+- **Innovazione**: con un valore totale di 61193.86 e un indice di sostenibilità del 0.99523.
+- **Sostenibilità sociale**: con un valore totale di 49671.31 e un indice di sostenibilità del 0.88851.
+
+Tutti i valori sono espressi in euro, ad eccezione dei valori totali per "Risorse umane" e "Sostenibilità sociale", che sono solo approssimazioni indicative. Le percentuali non sono riportate nella tabella originale perché rappresentano un rapporto tra il valore totale di ogni indicatore e l'indice di sostenibilità.
+
+Inoltre, la tabella originale contiene una nota che afferma che i dati sono espressi solo in modo indicativo. 

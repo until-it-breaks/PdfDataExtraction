@@ -1,0 +1,108 @@
+INFO: Job done in 41.041s.
+{
+  "Evento": {
+    "Cerimonie": [
+      {
+        "Title": "Mente e Mallo. Da Ulisse Aldrovandi a Giovanni Capellini",
+        "Description": "Il Museo Geologico è stato organizzato presso la Collezione di Geologia \"Museo Giovanni Capellini\", esplorando il curiosità che interessavano Aldrovandi e Capsellini. Il Museo, nel corso dell'arte, fu costruito sulla base dell'installazione di Cuoghi, e fu rilasciato nella rivista Monstrorum historica.",
+        "Details": [
+          {
+            "Event": "Mente et Mallo",
+            "Date": "2023"
+          },
+          {
+            "Event": "Ulisse Aldrovandi e le meraviglie del mondo",
+            "Date": "2015-2016"
+          }
+        ]
+      },
+      {
+        "Title": "Oltre lo Spazio. Oltre il Tempo.",
+        "Description": "Il Museo di Fonderia ha organizzato l'evento con le immagini museali e i filmati pubblici organizzati da GEMMA, l'Agenzia Spaziale Italiana."
+      },
+      {
+        "Title": "Tesori Nasconditi. Alla scoperta dell’erbario",
+        "Description": "La mostra ha permesso ai partecipanti di esplorare lo Erbario dell'Università di Bologna.",
+        "Details": [
+          {
+            "Event": "Ulisse Aldrovandi e le meraviglie del mondo",
+            "Date": "2015-2016"
+          },
+          {
+            "Event": "Museo Geologico",
+            "Date": "2023"
+          }
+        ]
+      },
+      {
+        "Title": "Un Museo. Una Storia Mondiale.",
+        "Description": "La mostra ha ricevuto il premio di Story Culture Civilta – DISCI e ha detto conferito al SIGILLUM MAGNUM A POMAI, seguito da una lezione magistrale.",
+        "Details": [
+          {
+            "Event": "Mente et Mallo",
+            "Date": "2015-2016"
+          },
+          {
+            "Event": "Ulisse Aldrovandi e le meraviglie del mondo",
+            "Date": "2015-2016"
+          }
+        ]
+      },
+      {
+        "Title": "Animali Fantastici e Mostri Ereditari.",
+        "Description": "L'esposizione ha mostrato l'opera magica fantastica di Aldrovandi.",
+        "Details": [
+          {
+            "Event": "Ulisse Aldrovandi e le meraviglie del mondo",
+            "Date": "2015-2016"
+          }
+        ]
+      },
+      {
+        "Title": "Il Collezioneizzatore Di Mondi. Vita E Scienza di Ulisse Aldrovandi.",
+        "Description": "L'esposizione ha presentato l'opera magica fantastica di Aldrovandi.",
+        "Details": [
+          {
+            "Event": "Ulisse Aldrovandi e le meraviglie del mondo",
+            "Date": "2015-2016"
+          }
+        ]
+      },
+      {
+        "Title": "Il Museo. Ulisse Aldrovandi e la meraviglia del mondo.",
+        "Description": "La mostra ha raccontato l'opera magica fantastica di Aldrovandi.",
+        "Details": [
+          {
+            "Event": "Ulisse Aldrovandi e le meraviglie del mondo",
+            "Date": "2015-2016"
+          }
+        ]
+      },
+      {
+        "Title": "Il Museo Geologico. Ulisse Aldrovandi e le meraviglie del mondo.",
+        "Description": "La mostra ha raccontato l'opera magica fantastica di Aldrovandi.",
+        "Details": [
+          {
+            "Event": "Ulisse Aldrovandi e le meraviglie del mondo",
+            "Date": "2015-2016"
+          }
+        ]
+      }
+    ],
+    "Partecipants": 33,330,
+    "Visitations": [
+      { 
+        "Year": 9.94,
+        "Month": [
+          {
+            "July": 8%
+          },
+          {
+            "September": 6%
+          }
+        ]
+      }
+    ],
+    "Exhibits": [1,2]
+  }
+}

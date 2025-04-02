@@ -1,0 +1,41 @@
+INFO: Job done in 25.941s.
+Based on the image provided and considering the criteria for relevant data extraction to evaluate a company's sustainability performance, here is an example of how structured information could be organized in JSON format:
+```json
+{
+  "TAVOLA GRI": {
+    "GRECO305": {
+      "Emissioni": [
+        {
+          "descrizione": "Emisssioni dirette di gas ad effetto serra",
+          "indicatore BS2024 e/o note": "8.3 Azioni a favore della sostenibilità (Emisssioni e politiche di trasporto)"
+        },
+        {
+          "descrizione": "Emisssioni indirette di gas ad effetto serra",
+          "indicatore BS2024 e/o note": "8.3 Azioni a favore della sostenibilità (Emisssioni e politiche di trasporto)"
+        },
+        {
+          "descrizione": "Altre emisssioni indirette di gas ad effetto serra",
+          "indicatore BS2024 e/o notes": "8.3 Azioni a favore della sostenibilità (Emisssioni e politiche di trasporto)"
+        },
+        {
+          "descrizione": "Intensità delle emisssioni di gas ad effetto serra",
+          "indicatore BS2024 e/o notes": "8.1 Politiche energetiche e consumi"
+        },
+        {
+          "descrizione": "Riduzione delle emisssioni di gas ad effetto serra",
+          "indicatore BS2024 e/o notes": "8.3 Azioni a favore della sostenibilità (Emisssioni e politiche di trasporto)"
+        },
+        {
+          "descrizione": "Emisssioni di sostanzenoce per lo strato di ozono",
+          "indicatore BS2024 e/o notes": "8.1 Politiche energetiche e consumi"
+        },
+        {
+          "descrizione": "Altre emisssioni in atmosfera",
+          "indicatore BS2024 e/o notes": "8.3 Azioni a favore della sostenibilità (Emisssioni e politiche di trasporto)"
+        }
+      ]
+    }
+  }
+}
+```
+This JSON structure accurately reflects the information and data extraction requirements based on the provided image, using structured labels for each relevant section to maintain clarity in evaluation metrics.

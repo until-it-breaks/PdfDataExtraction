@@ -1,0 +1,81 @@
+INFO: Job done in 30.903s.
+{
+  "service_in_english": {
+    "description": [
+      "Il servizio di orientamento in ingresso si rivolge a studenti che vogliono iniziare una carriera universitaria e coloro che vogliono continuare il loro studio.",
+      "objectives": [
+        "aiutare gli studenti nella scelta del corso offrendendo informazioni dettagliate sulla formativa, i servizi ed l'opportunità di frequentare corso di laurea magistrale o ciclo unico",
+        "collaborare attivamente con le scuole superiori e coloro che vogliono continuare il loro studio universitario in anche con una guida del percorso studente",
+        "aiutare gli studenti a prepararsi all'indicizzazione del Corso di Studio (di campus) e a cercare un corso di studio.",
+        "collaborare negli eventi organizzati dai Studiosi Magistrali e/ori e le attività accreditate da Autorità Universitarie",
+        [
+          {
+            "collegio": ["Collegio Orientamento Rivolto Gli Studenti",
+              "Scuola superiore",
+              "Università"]
+          },
+          "collaborare con le scuole superiori e studenti che vogliono continuare il loro studio universitario, anche con una guida del percorso studente.",
+          [
+            ["Collaborazione"],
+            ["Collabora con le scuole superiori e coloro che vogliono continuare il loro studio",
+              "aiuto gli studenti a prepararsi all'indicizzazione del Corso di Studio"]
+          ]
+        ],
+        ["collaborare negli eventi organizzati dai Studiosi Magistrali e/ori e le attività accreditate da Autorità Universitarie",
+          [
+            {
+              "organizza": [85 incontri],
+              "eventi": 102,
+              "visite": 374691
+            },
+            ["collabora con le scuole superiori e coloro che vogliono continuare il loro studio universitario, anche con una guida del percorso studente"]
+          ]
+        ],
+        [
+          "eventi online",
+          [50 eventi],
+          ["presentazione dei corsi di studio e delle modalità di ammissione"],
+          ["Open days in lingua inglese"]
+        ],
+        ["giornate dell'orientamento a Ateneo and Cissia", 
+          [
+            {
+              "presenza": [145 eventi],
+              "presentazioni": [
+                ["in lingua inglese"],
+                ["in lingua italiana"]
+              ]
+            },
+            ["Presente durante le giornate del percorso studente"]
+          ]
+        ],
+        ["informazione tramite l'app MyAlmaOriente, scaricata da 26.697 utenti nel 2023"],
+        [
+          "iniziative rivolte agli studenti del terzo, quarto e quinto anno di scuola superiore",
+          ["nonché gli insegnanti"]
+        ],
+        [85 eventi],
+        ["145 conventions"],
+        ["eventi online in presenza", 
+            [
+              "presentazione dei corsi di studio",
+              "modelle di ammissione"
+            ]
+         ]
+      ]
+    ],
+    "events": {
+      "total": 6,
+      "online": 2
+    },
+    "courses": {        
+      "total": ["85", "145"],
+      [
+        [0],
+        "collegio",
+        ["Collegio Orientamento Rivolto Gli Studenti"],
+        ["Scuola superiore", "Università"]
+      ]
+    }
+  }
+}

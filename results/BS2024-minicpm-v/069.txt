@@ -1,0 +1,45 @@
+INFO: Job done in 22.179s.
+{
+  "title": "Didattica e Comunità studentesca",
+  "content": [
+    {
+      "text": "Anche nel 2018 è stata attaccata la misura sperimentale di supporto per gli studenti con bisogni speciali, consigliate nell'assegnazione della misura di contributi finanziari nei progetti variabili. Questi fondi permettono alle persone con disabilità o con Disturbi Specifici dell'Impianto (DSA) da acquistare autonomie outsourced per competere meglio in accademia e università.",
+      "key": "supporto per gli studenti con bisogni speciali",
+      "value": 2018
+    },
+    {
+      "text": "L'obiettivo principale è garantire un buon livello di autonomia, pertanto il richieste riguardano sia l'acquisizione di dispositivi tecnici i/servizi da assistenza.",
+      "key": "obiettivo principale",
+      "value": 2018
+    },
+    {
+      "text": "Ulteriori borredi di studio ed esenzioni dalle tasse universitarie son previste per la componente studentesca internazionale all'anno interno.",
+      "key": "ulteriori borredi di studio",
+      "value": 2018
+    },
+    {
+      "text": "I prescritti da corso magistrale in via di laurea di primo grado che hanno seguito il titolo di primo livello in corso e con un voto a 110/110 presso l'Inbuno.",
+      "key": "prescritti da corso magistrale",
+      "value": [
+        {
+          "voto": "110/110"
+        },
+        {
+          "instituto": "l'Inbuno"
+        }
+      ]
+    },
+    {
+      "text": "Sulla base di una somma complessiva di € 456.397,28 millioni",
+      "key": "somma complessiva",
+      "value": [
+        {
+          "voto": "-105k"
+        },
+        {
+          "instituto": "l'Inbuno"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+INFO: Job done in 12.743s.
+ ```json
+{
+  "sostenibilità_annuale": {
+    "valore_1": 58200,
+    "valore_2": 39226,
+    "valore_3": 7139,
+    "percentuale_4": 3.5
+  },
+  "indicatori_sostenibilità": [
+    {
+      "tipo_indicatore": "Carbone",
+      "valore_5": 2428,
+      "unità_6": "Kg CO2e",
+      "performance_7": "Basso"
+    },
+    {
+      "tipo_indicatore": "Acqua",
+      "valore_8": 100000,
+      "unità_9": "m³",
+      "percentuale_10": "-2.5%"
+    },
+    {
+      "tipo_indicatore": "Rifiuti",
+      "valore_11": 867,
+      "unità_12": "tonne",
+      "performance_13": "Migliorato"
+    }
+  ],
+  "sostenibilità_sociale": {
+    "valore_14": 5000,
+    "percentuale_15": "-7.5%",
+    "indicatore_16": "Assunzione",
+    "performance_17": "Peggio"
+  }
+}
+``` 

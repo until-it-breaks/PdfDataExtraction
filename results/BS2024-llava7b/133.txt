@@ -1,0 +1,33 @@
+INFO: Job done in 39.401s.
+ In questo immagine, si tratta di una pagina del bilancio di una società che presenta dati e informazioni su alcune delle sue attività e performance. Sebbene l'immagine contenga anche alcune sezioni che non sembrano rientrare nel tipo di datos strutturati richiesto, è possibile estrarre i dati rilevanti per la valutazione delle performance di sostenibilità dell'azienda.
+
+Qui sotto, troviamo una descrizione del formato JSON valido e ben strutturato che corrisponde ai datos estratti:
+```json
+{
+  "bilancio": {
+    "nome_azienda": "Nome dell'Azienda",
+    "indicatore_sostenibilità": [
+      {
+        "categoria": "Sostenibilità ambientale",
+        "valori": {
+          "energia": 322.561.252,
+          "acqua": 71
+        }
+      },
+      {
+        "categoria": "Risorse umane",
+        "valori": {
+          "lavoratori_totali": 322561,
+          "lavoratori_fornitori": 71
+        }
+      }
+    ]
+  },
+  "stato": "Stato dell'azienda"
+}
+```
+Questo formato JSON presenta una struttura gerarchica che corrisponde ai datos estratti, con due categorie di indicatori di sostenibilità: "Sostenibilità ambientale" e "Risorse umane". Ciascuna categoria è composta da un valore numerico (energia per l'ambiente e lavoratori totali e fornitori per le risorse umane) e dall'indicatore di stato dell'azienda.
+
+Il nome dell'azienda è "Nome dell'Azienda" e il titolo de "Stato dell'azienda".
+
+Si noti che alcune parti della pagina, come la parte inferiore che contiene la tabella dei pagamenti o le righe con numeri assortiti, non sono state estratte perché potrebbero non essere rilevanti ai fini di una valutazione delle performance di sostenibilità. 

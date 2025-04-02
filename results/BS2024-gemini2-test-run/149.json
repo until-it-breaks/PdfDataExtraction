@@ -1,0 +1,16 @@
+{
+    "famiglie_brevettuali": [
+        {
+            "anno": 2021,
+            "numero_brevetti": 262
+        },
+        {
+            "anno": 2022,
+            "numero_brevetti": 292
+        },
+        {
+            "anno": 2023,
+            "numero_brevetti": 310
+        }
+    ]
+}

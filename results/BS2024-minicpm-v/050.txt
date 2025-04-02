@@ -1,0 +1,15 @@
+INFO: Job done in 11.385s.
+{
+  "title": "Qualità della didattica",
+  "subtitle": "Valutazioni positivizzanti sulla didattica",
+  "table": {
+    "header": [
+      "",
+      "Anno scolastico"
+    ],
+    "rows": [
+      ["Risultati di studio dell'aggiungimento", "2023/24"],
+      ["Percentuale degli studenti che hanno superato il trapanio, circa l'86%", "85.1%"]
+    ]
+  }
+}

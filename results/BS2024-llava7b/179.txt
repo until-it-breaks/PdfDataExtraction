@@ -1,0 +1,37 @@
+INFO: Job done in 37.439s.
+ ```json
+{
+  "sostenibilita": {
+    "valori_numerici": [159.57, 360.28],
+    "percentuali": ["45.3", "48.9"],
+    "unità_misura": ["%", "%"],
+    "indicatore": {
+      "nome": "Una descrizione dell'indicatore di sostenibilità in questione",
+      "unita": "euro"
+    }
+  },
+  "infografica_dettagliata": [
+    {
+      "titolo": "Nuovo formato per le infografie",
+      "descrizione": "Una breve descrizione dell'elemento infografico in questione, con dettagli specifici"
+    },
+    {
+      "titolo": "Uno spiegamento di come le informazioni vengono utilizzate per la valutazione delle prestazioni sostenibili",
+      "descrizione": "Una breve descrizione del metodo utilizzato per la valutazione delle prestazioni sostenibili, con dettagli specifici"
+    }
+  ],
+  "sintesi_documentale": [
+    {
+      "titolo": "Sintesi del documento",
+      "descrizione": "Una breve descrizione del contenuto del documento, con un focus su come le informazioni vengono utilizzate per la valutazione delle prestazioni sostenibili"
+    }
+  ],
+  "risorse_utilizzate": [
+    {
+      "titolo": "Utilizzo delle risorse in modo sostenibile",
+      "descrizione": "Una breve descrizione del metodo utilizzato per la valutazione delle prestazioni sostenibili, con dettagli specifici"
+    }
+  ]
+}
+```
+Questo JSON valido e ben strutturato descrive le informazioni estratte dal documento di bilancio di sostenibilità. Il JSON segue i criteri di rilevanza, usando array e oggetti quando necessario, e mantiene il formato originale per le posizioni cardinali, le unità di misura e le percentuali come stringhe. 

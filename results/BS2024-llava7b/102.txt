@@ -1,0 +1,41 @@
+INFO: Job done in 24.289s.
+ Ecco il JSON estratto dal bilancio de sostenibilità presentato nell'immagine:
+
+```json
+{
+  "sostituzioni_diversa": {
+    "perc_rete_sociale": "50.1",
+    "perc_donna_in_posizioni_d'importanza": "48.3"
+  },
+  "pilotaggio": [
+    "Performance Index",
+    269.8
+  ],
+  "risorse": {
+    "valore_deprezion": "17930 euro",
+    "indicatore_energie_utilizzate": "564 kWh"
+  },
+  "sostenibilità": [
+    "Risorse naturali",
+    2.8,
+    "Impacto ambientale",
+    37.0
+  ]
+}
+```
+
+Ecco le spiegazioni per ogni elemento del JSON:
+
+- `"sostituzioni_diversa"`: Rappresentazione della diversità nella composizione dell'azienda. Le percentuali riguardano la rete sociale e le donne in posizioni di importanza.
+  - `"perc_rete_sociale"` rappresenta il percentile di sostituzioni a cura di enti che promuovono la rete sociale.
+  - `"perc_donna_in_posizioni_d'importanza"` rappresenta il percentile di sostituzioni occupate da donne in posizioni di importanza nella società.
+- `"pilotaggio"`: Misura dell'efficacia del processo de sviluppo interno.
+  - `"Performance Index"` è la valutazione globale relativa alla capacità dell'azienda di innovare e migliorare l'offerta per soddisfare le esigenze dei clienti.
+- `"risorse"`: Dati sulle risorse della società.
+  - `"valore_deprezion"` rappresenta il valore deprezionato degli asset immobili.
+  - `"indicatore_energie_utilizzate"` rappresenta la quantità di energia utilizzata dall'azienda, misurata in kWh.
+- `"sostenibilità"`: Indicatori dell'impacto ambientale e dei risultati sulla sostenibilità delle risorse naturali.
+  - `"Risorse naturali"` rappresenta il valore del fatturato associato ai prodotti o servizi che hanno un'impronta minore sull'ambiente.
+  - `"Impacto ambientale"` rappresenta l'indice di sostenibilità ambientale della società, che è un indicatore che misura l'impatto dell'attività sulla sostenibilità dell'ambiente.
+
+Si noti che gli interi del valore deprezionato e degli indici di performance sono stati convertiti in formato JSON valido e strutturato in modo da seguire le regole specificate. 

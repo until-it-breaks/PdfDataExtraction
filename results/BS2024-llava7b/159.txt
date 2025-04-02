@@ -1,0 +1,34 @@
+INFO: Job done in 57.348s.
+ ```json
+{
+  "sostenibilità": {
+    "titolo": "Progetto Enel",
+    "percentuale_investimenti_nel_2021": "322561252.71",
+    "indice_stima_esplorazione": "322561252.71",
+    "nota_1": {
+      "titolo": "Aperture e chiusure dei siti",
+      "indice_aperture": "40",
+      "indice_chiusure": "80"
+    },
+    "nota_2": {
+      "titolo": "Performance ambientale",
+      "indici": [
+        "1.3% di riduzione delle emissioni di CO2 in media rispetto al 2019",
+        "2.6% di riduzione della sommatoria degli indicatori KPIs in media rispetto al 2019"
+      ]
+    }
+  },
+  "introduzione": {
+    "titolo": "Enel - La sostenibilità nel cuore dell'innovazione",
+    "descrizione": "Enel è un leader nel settore energetico, impegnato in una sostenibilità globale che coinvolge la produzione e la distribuzione di energia in modo efficiente e con un basso impatto ambientale. La compagnia ha adottato un'iniziativa importante per migliorare le performance sostenibili, come lo sviluppo e l'utilizzazione della tecnologia avanzata per ridurre l'impatto ambientale e la produzione di energia in modo più efficiente. Enel si impegna a fornire una soluzione energetica che sia sempre più sostenibile, rispettando le esigenze dei paesi dove opera e contribuendo alla protezione del patrimonio naturale e alla promozione della sostenibilità globale."
+  }
+}
+```
+
+L'immagine presenta un bilancio di sostenibilità dell'azienda Enel. Il bilancio esamina la sostenibilità dell'attività di produzione e distribuzione di energia di Enel, con una particolare attenzione alla sua produzione e al suo impatto ambientale.
+
+La sezione "sostenibilità" del bilancio presenta un indice di investimento nel 2021, pari a 322561252.71 e un indice di stima esplorazione, anch'esso pari a 322561252.71.
+
+Le note 1 e 2 del bilancio forniscono dettagli sull'attività di Enel nel campo dell'energia e dell'ambiente, come la produzione di energia efficiente e con un basso impatto ambientale. La compagnia si impegna a utilizzare la tecnologia avanzata per ridurre l'impatto ambientale e a fornire una soluzione energetica sostenibile.
+
+L'immagine contiene anche il logotipo di Enel, che è uno dei leader mondiali nell'energia. 
