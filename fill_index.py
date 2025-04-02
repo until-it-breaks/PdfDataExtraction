@@ -8,32 +8,34 @@ from pathlib import Path
 # Script used to fill a skeleton index with data from json files containing extracted data.
 # Uses bisection to efficiently insert entries, therefore it's assumed that chapters in the skeleton are sorted.
 
+CHAPTER_TAG = "capitoli"
+PAGE_NUMBER_TAG = "pagina"
+
 def insert_page(items: dict, chapters: list, chapter_page_numbers: list, page_number: int):
     # skipping empty jsons "{}"
     if not items:
         print("INFO: {}.json is empty, skipping it".format(page_number))
         return
 
-    index = find_page_chapter(chapters, chapter_page_numbers, page_number)
+    index = find_page_chapter(chapter_page_numbers, page_number)
 
     if index is not None:
         chapter = chapters[index]
         if "data" not in chapter:
             chapter["data"] = {}
 
-        for key, value in items.items():
-            chapter["data"].update({key : value})
+        chapter["data"].update(items)
         print("INFO: {}.json has been inserted.".format(page_number))
 
-def find_page_chapter(chapters: list, chapter_page_numbers: list, page_number: int):
-    index = bisect.bisect(chapter_page_numbers, page_number)
-    if (index < len(chapters) and chapters[index].get("pagina") == page_number):
+def find_page_chapter(chapter_page_numbers: list, page_number: int):
+    index = bisect.bisect_left(chapter_page_numbers, page_number)
+
+    if index < len(chapter_page_numbers) and chapter_page_numbers[index] == page_number:
         return index
+    elif index > 0:
+        return index -1
     else:
-        if (index > 0):
-            return index - 1
-        else:
-            return None
+        return None
 
 start_time = time.time()
 
@@ -51,8 +53,12 @@ chapters = []
 with open(target_json, "r", encoding="utf-8") as f:
     output = json.load(f)
 
-chapters = output.get("capitoli")
-chapter_page_numbers = [chapter.get("pagina") for chapter in chapters]
+chapters = output.get(CHAPTER_TAG)
+chapter_page_numbers = [chapter.get(PAGE_NUMBER_TAG) for chapter in chapters]
+
+if not all(chapter_page_numbers[i] <= chapter_page_numbers[i+1] for i in range(len(chapter_page_numbers) - 1)) and len(chapter_page_numbers) > 1:
+    print("ERROR: Chapter page numbers are not sorted.")
+    sys.exit(1)
 
 pages = [f for f in pages_folder.iterdir() if f.is_file() and f.suffix == ".json"]
 

@@ -9,7 +9,6 @@ from google import genai
 
 # Script used to make a single API call to Gemini 2.
 
-DEBUG_FOLDER_NAME = "raw"
 MODEL = "gemini-2.0-flash"
 PROMPT = """
     Analizza l'immagine fornita, che fa parte di un bilancio di sostenibilità. Il tuo obiettivo è estrarre dati strutturati rilevanti per la valutazione delle performance di sostenibilità dell'azienda.
@@ -50,14 +49,14 @@ def process_image(image_path, output_folder_name, api_key):
         )
 
         cwd = Path(__file__).parent
-        output_dir = cwd / output_folder_name
-        raw_dir = cwd / output_folder_name / DEBUG_FOLDER_NAME
+        output_dir = cwd / "results" / output_folder_name
+        raw_dir = output_dir / "raw"
 
         output_dir.mkdir(parents=True, exist_ok=True)
         raw_dir.mkdir(parents=True, exist_ok=True)
 
         output_path = output_dir / "{}.json".format(image_path.stem)
-        raw_path = output_dir / DEBUG_FOLDER_NAME / "{}.txt".format(image_path.stem)
+        raw_path = raw_dir / "{}.txt".format(image_path.stem)
 
         with open(raw_path, "w", encoding="utf-8") as f:
             f.write("INFO: Job done in {:.3f}s.\n".format(time.time() - start_time))
@@ -75,6 +74,6 @@ def process_image(image_path, output_folder_name, api_key):
 
 if __name__ == "__main__":
     if (len(sys.argv) < 4):
-        print("USAGE: python gemini-call.py <image_path> <output_folder_name> <Gemini_API_key>")
+        print("USAGE: python gemini_call.py <image_path> <output_folder_name> <Gemini_API_key>")
     else:
         process_image(sys.argv[1], sys.argv[2], sys.argv[3])
