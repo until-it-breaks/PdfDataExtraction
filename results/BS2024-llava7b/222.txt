@@ -1,0 +1,26 @@
+INFO: Job done in 10.487s.
+ ```json
+{
+  "titolo": "Sostenibilità",
+  "indicatore_1": {
+    "valore": "57.84",
+    "unità": "%"
+  },
+  "indicatore_2": {
+    "valore": "63,12",
+    "unità": "euro"
+  },
+  "indicatore_3": {
+    "valore": "95.08",
+    "unità": "%"
+  },
+  "indicatore_4": {
+    "valore": "23,110",
+    "unità": "euro"
+  },
+  "indicatore_5": {
+    "valore": "87.96",
+    "unità": "%"
+  }
+}
+``` 

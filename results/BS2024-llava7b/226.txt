@@ -1,0 +1,36 @@
+INFO: Job done in 16.679s.
+ ```json
+{
+  "Titolo": "Relazione Bilancio",
+  "Sezione": {
+    "Sostenibilità": [
+      {
+        "Anno": "2019",
+        "Reddito Operativo Liquido": "32.561.252,71 euro",
+        "Ricavo:": "29.981.252 euro",
+        "EBITDA": "-"
+      },
+      {
+        "Anno": "2020",
+        "Reddito Operativo Liquido": "-",
+        "Ricavo:": "34.761.252 euro",
+        "EBITDA": "-"
+      }
+    ],
+    "Costi di Sostenibilità": [
+      {
+        "Anno": "2019",
+        "Costo di Prodotto:": "53.431,252 euro",
+        "Costo d'Acquisto:": "65.781,252 euro",
+        "Costo di Personale:": "-"
+      },
+      {
+        "Anno": "2020",
+        "Costo di Prodotto:": "-",
+        "Costo d'Acquisto:": "63.891,252 euro",
+        "Costo di Personale:": "-"
+      }
+    ]
+  }
+}
+``` 

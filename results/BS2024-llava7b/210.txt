@@ -1,0 +1,131 @@
+INFO: Job done in 57.471s.
+ Lo spero sia stato utile. Tuttavia, è possibile che ci sono dati numerici che non possono essere esclusi da una analisi dettagliata come il valore monetario (in euro) per le entrate e i costi, la percentuale di crescita o diminuzione dei costi e delle entrate, ecc.
+
+Riproduco solo i dati che sono rilevanti per la valutazione delle performance di sostenibilità:
+
+```json
+{
+  "Entita": "Società a Responsabilità Limitata",
+  "Codice Fiscale": "XXX",
+  "Anno Di Bilancio": {
+    "2019": {
+      "Entrata": {
+        "Totale": "322561.252",
+        "Confronto con l'anno precedente": "+71",
+        "Costi": {
+          "Totale": "403289.792",
+          "Confronto con l'anno precedente": "-611"
+        }
+      },
+      "Rendita Liquida": {
+        "Totale": "261175.482",
+        "Confronto con l'anno precedente": "+27399.370",
+        "Costi:": {
+          "Totale": "333975.482",
+          "Confronto con l'anno precedente": "-611"
+        }
+      },
+      "Risultato Finanziario": {
+        "Totale": "+10223.110",
+        "Confronto con l'anno precedente": "+39573.817",
+        "Costi:": {
+          "Totale": "333975.482",
+          "Confronto con l'anno precedente": "-611"
+        }
+      },
+      "Imponibile": {
+        "Totale": "301397.252",
+        "Confronto con l'anno precedente": "+27399.370",
+        "Costi:": {
+          "Totale": "333975.482",
+          "Confronto con l'anno precedente": "-611"
+        }
+      },
+      "Ammortamenti": {
+        "Totale": "301397.252",
+        "Confronto con l'anno precedente": "+27399.370",
+        "Costi:": {
+          "Totale": "333975.482",
+          "Confronto con l'anno precedente": "-611"
+        }
+      },
+      "Risultato Netto": {
+        "Totale": "+10223.110",
+        "Confronto con l'anno precedente": "+39573.817",
+        "Costi:": {
+          "Totale": "333975.482",
+          "Confronto con l'anno precedente": "-611"
+        }
+      },
+      "Fluido": {
+        "Totale": "+10223.110",
+        "Confronto con l'anno precedente": "+39573.817",
+        "Costi:": {
+          "Totale": "333975.482",
+          "Confronto con l'anno precedente": "-611"
+        }
+      }
+    },
+    "2020": {
+      "Entrata": {
+        "Totale": "322561.252",
+        "Confronto con l'anno precedente": "+71",
+        "Costi:": {
+          "Totale": "403289.792",
+          "Confronto con l'anno precedente": "-611"
+        }
+      },
+      "Rendita Liquida": {
+        "Totale": "261175.482",
+        "Confronto con l'anno precedente": "+27399.370",
+        "Costi:": {
+          "Totale": "333975.482",
+          "Confronto con l'anno precedente": "-611"
+        }
+      },
+      "Risultato Finanziario": {
+        "Totale": "+10223.110",
+        "Confronto con l'anno precedente": "+39573.817",
+        "Costi:": {
+          "Totale": "333975.482",
+          "Confronto con l'anno precedente": "-611"
+        }
+      },
+      "Imponibile": {
+        "Totale": "301397.252",
+        "Confronto con l'anno precedente": "+27399.370",
+        "Costi:": {
+          "Totale": "333975.482",
+          "Confronto con l'anno precedente": "-611"
+        }
+      },
+      "Ammortamenti": {
+        "Totale": "301397.252",
+        "Confronto con l'anno precedente": "+27399.370",
+        "Costi:": {
+          "Totale": "333975.482",
+          "Confronto con l'anno precedente": "-611"
+        }
+      },
+      "Risultato Netto": {
+        "Totale": "+10223.110",
+        "Confronto con l'anno precedente": "+39573.817",
+        "Costi:": {
+          "Totale": "333975.482",
+          "Confronto con l'anno precedente": "-611"
+        }
+      },
+      "Fluido": {
+        "Totale": "+10223.110",
+        "Confronto con l'anno precedente": "+39573.817",
+        "Costi:": {
+          "Totale": "333975.482",
+          "Confronto con l'anno precedente": "-611"
+        }
+      }
+    }
+  }
+}
+```
+
+Nota che ho utilizzato le percentuali come una misura di crescita/diminuzione assoluta rispetto all'anno precedente, considerando che la tabella mostra il confronto diretto tra i dati dell'anno 2019 e 2020. Tuttavia, esiste anche il confronto indiretto attraverso la percentuale di crescita/diminuzione rispetto all'anno precedente. 

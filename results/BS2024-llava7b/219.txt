@@ -1,0 +1,10 @@
+INFO: Job done in 15.817s.
+ Lo sguardo all'immagine fornita mostra una presentazione con diapositive che sembrano essere parte di un report o documento di sostenibilità aziendale. La presentazione contiene informazioni su una campagna di sensibilizzazione sulla salute e sull'ambiente, come la "Campagna Sensibilizzazione sulle acque".
+
+Le diapositive mostrano dati e informazioni strutturate in modo visibile e organizzato, ma non sono presenti tabelle, grafici o infografiche con dati numerici. Il contenuto della diapositiva più grande è frammentato e parziale, ma sembra mostrarre una lista di punti o elementi significativi per la campagna di salute e sull'ambiente, come il numero di persone coinvolte nella campagna, un documento o materiale promozionale, e una descrizione della loro esperienza con la campagna.
+
+Questo tipo di presentazione non soddisfa i criteri di rilevanza per l'analisi di dati strutturati per la valutazione delle performance di sostenibilità dell'azienda, poiché non ci sono tabelle, grafici o infografiche con dati numerici che possono essere estratti e analizzati. Di conseguenza, l'output JSON è vuoto:
+
+```json
+{}
+``` 

@@ -1,0 +1,20 @@
+INFO: Job done in 11.769s.
+ ```json
+{
+  "Bilancio": {
+    "Sostenibilità totale": {
+      "valore_monetario": "507.312",
+      "percentuale": "86,4%"
+    },
+    "Impacto sociale": {
+      "valore_monetario": "507.312",
+      "percentuale": "86,4%"
+    },
+    "Impacto ambientale": {
+      "valore_monetario": "507.312",
+      "percentuale": "86,4%"
+    }
+  }
+}
+```
+La struttura del bilancio di sostenibilità mostra una percentuale dell'impatto sociale, dell'impatto ambientale e della sostenibilità totale. Ognuna delle sezioni elenca i valori in euro ed il corrispondente percentuale. In questo caso, tutti gli impatti sono pari (86,4%) e la somma di questi valori è il valore di 507.312 euro. La struttura JSON è gerarchica con le chiavi in snake case per il bilancio di sostenibilità e i valori numerici separati dalla loro unità di misura. 
