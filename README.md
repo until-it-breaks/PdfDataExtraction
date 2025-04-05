@@ -60,19 +60,19 @@ This repo contains scripts that automate the process of extracting structured da
 ## Convert a PDF to images
 Run `python convert_pdf.py <pdf_path>` where `<pdf_path>` is the path of the target PDF.
 
-Requires `pdf2image` library which you can install with `pip install pdf2image`. `poppler` is also required, the details about its installation can be found at https://pypi.org/project/pdf2image
+>Requires `pdf2image` library which you can install with `pip install pdf2image`. `poppler` is also required, the details about its installation can be found at https://pypi.org/project/pdf2image
 
 ## Extracting data from a single image with Gemini 2
 Run `python gemini_call.py <image_path> <output_folder_name> <Gemini_API_key>` where `<image_path>` is the path of the target image, `output_folder_name` is the name of the folder from the current working directory and `<Gemini_API_key>` is your personal Gemini 2 API key.
 
-Requires `google-genai` library which you can install with `pip install google-genai` as well as `pillow` which should come with `poppler` but can be installed with `pip install pillow`.
+>Requires `google-genai` library which you can install with `pip install google-genai` as well as `pillow` which should come with `poppler` but can be installed with `pip install pillow`.
 
 >Note: The prompt can be changed by editing the `PROMPT` variable in the script.
 
 ## Extract data from images in bulk
 Run `python extract_data.py <image_folder_path> <output_folder_name> <Gemini_API_key>` where `<image_path>` is the path of the target image, `output_folder_name` is the name of the folder from the current working directory and `<Gemini_API_key>` is your personal Gemini 2 API key.
 
-Requires `google-genai` library which you can install with `pip install google-genai` as well as `pillow` which should come with `poppler` but can be installed with `pip install pillow`.
+>Requires `google-genai` library which you can install with `pip install google-genai` as well as `pillow` which should come with `poppler` but can be installed with `pip install pillow`.
 
 >Note: As of April 2025, Gemini 2 free tier allows up to 15 request per minute and 1500 requests per day. That may change in the future and you can easily tweak those values in the script.
 
@@ -82,7 +82,7 @@ Run `python fill_index.py <target_json> <pages_folder> <output_name>` where `<ta
 ## Extract data from images with Ollama API
 Run `python extract_data_with_ollama.py <images_folder> <start_index> <model>` where `<images_folder>` is the path of the folder containing the images from which to extract data, `<start_index>` is the index of the image from which to start (`0` means start from the first), assuming that the images are sorted numerically and `<model>` is the name of the model you pulled with Ollama.
 
-Requires `ollama` library which you can install with `pip install ollama`
+>Requires `ollama` library which you can install with `pip install ollama`
 
 >Note: The prompt can be changed by editing the PROMPT variable in the script.
 Ollama must be running and the selected model must be downloaded.
