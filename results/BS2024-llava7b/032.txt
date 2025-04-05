@@ -1,9 +1,0 @@
-INFO: Job done in 8.750s.
- La immagine presenta una veduta di un luogo storico e di architettura, con un palazzo antico che sembra essere in fase di ristrutturazione o di manutenzione. Il palazzo è caratterizzato da una facciata con finestre arcuate e alcune aperture, mentre la corte centrale è pavimentata e vi sono dei personaggi in movimento.
-
-Il testo sull'immagine indica "3 Valore Economico", quindi il contenuto estratto potrebbe essere riguardante le valutazioni economiche di un progetto o dell'azienda che si occupa della gestione e del restauro di questo palazzo.
-
-Tuttavia, l'immagine non fornisce dati numerici o strutturati rilevanti per la valutazione delle performance di sostenibilità dell'azienda. In quanto a questo esempio, rispondo con un JSON vuoto:
-```json
-{}
-``` 

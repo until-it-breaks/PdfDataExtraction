@@ -1,8 +1,0 @@
-INFO: Job done in 21.437s.
- Lo scopo dell'immagine è quello di illustrare una situazione di gestione finanziaria e di sostenibilità in modo analitico, utilizzando dati strutturati e visivamente organizzati.
-
-In questa immagine, troviamo un elenco di quattro punti, ognuno rappresentato come una colonna di un elenco con le intestazioni "Economia" e "Sostenibilità". Ciascuna colonna contiene una tabella e una infografia. La tabella a sinistra dell'elenco mostra dati numerici che sembrano rappresentare flussi di denaro in euro, con valori variabili per ciascun anno tra il 2014 e il 2023. Le intestazioni delle colonne sembrano indicare l'operazione finanziaria: "Progetto de sviluppo", "Progetto di sviluppo" e "Contratti" per la colonna sulla sinistra, mentre la colonna sulla destra indica le operazioni di sostenibilità come "Progetto de sviluppo", "Progetto di sviluppo" e "Società".
-
-L'infografia a sinistra della tabella mostra due valori numerici con due icone che sembrano rappresentare le entrate e uscite del progetto di sviluppo. L'infografia sulla destra sembra mostrarre tre valori numerici, con due icone che potrebbero rappresentare l'acquisto e la vendita de prodotti o servizi, e uno spazio blu che potrebbe indicare una quantità di reddito, di sostenibilità o di una metrica di performance in un determinato periodo.
-
-Questa immagine fornisce dati strutturati che possono essere utilizzati per la valutazione delle performance dell'azienda in termini di economia e sostenibilità. 

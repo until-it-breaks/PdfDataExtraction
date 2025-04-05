@@ -1,2 +1,0 @@
-INFO: Job done in 4.162s.
- Non è possibile analizzare l'immagine poiché la qualità dell'immagine non è adatta per estrarre dati strutturati. Se puoi fornire un'immagine di migliore qualità, sarò felice di aiutarti con il tuo obiettivo. 

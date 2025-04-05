@@ -1,4 +1,0 @@
-INFO: Job done in 7.745s.
-{
-  "output": {}
-}

@@ -1,6 +1,0 @@
-INFO: Job done in 11.247s.
- Per estrarre dati strutturati rilevanti per la valutazione delle performances di sostenibilità dell'azienda, è necessario analizzare il contenuto dell'immagine e identificarlo. Tuttavia, non sono possibili adiacenti che forniscono un'immagine di qualità sufficiente per leggere i dati o analizzare il contenuto correttamente.
-
-Se la qualità dell'immagine era sufficiente, l'analisi potrebbe prevedere la creazione di un JSON valido e ben strutturato come richiesto, con le chiavi in snake case e i valori numerici convertiti a formato esattamente descritto. Tuttavia, senza una descrizione o immagine adeguata per analizzare il contenuto dell'immagine, non è possibile fornire un JSON corretto basato su ciò che si vede nell'immagine.
-
-Per assicurarsi di avere un'immagine con qualità sufficiente e pertinente alla richiesta, potresti eseguirvi una ricerca online per trovare immagini simili e adatte al tema di sostenibilità. Quando avrai l'immagine corretta, potresti fornire un esempio di come estrarre i dati strutturati dal contenuto dell'immagine. 

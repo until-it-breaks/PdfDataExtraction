@@ -1,7 +1,0 @@
-INFO: Job done in 8.561s.
-{
-  "sustainablePerformance": {
-    "percentageGreenEnergyConsumption": "80%",
-    "reductionCO2Emissions": "-15%"
-  }
-}

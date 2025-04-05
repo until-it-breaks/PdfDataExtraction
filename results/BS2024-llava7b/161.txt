@@ -1,2 +1,0 @@
-INFO: Job done in 8.738s.
- Lo siento, ma l'immagine fornita sembra mostrarne solo una sezione del documento. Non sembra presentare tabella o grafici che contengano dati numerici come percentuali, valori monetari o indicatori di performance. Se potresti fornire un'altra immagine che mostra la sezione richiesta o aggiungere un testo con i dati numerici, sarò felice di aiutarti a estrarre le informazioni richieste in formato JSON. 

@@ -1,6 +1,0 @@
-INFO: Job done in 8.001s.
- Lo screenshot presenta una pagina di presentazione o di un report di sostenibilità. Il testo italiano è in evidenza e ci sono diversi elementi come grafici, tabelle e paragrafi che sembrano contener dati rilevanti per la valutazione delle performance di sostenibilità dell'azienda.
-
-Tuttavia, poiché lo screenshot non soddisfa i criteri di rilevanza specificati (concentramento su tabelle, grafici e infografiche che presentano dati numerici), sarò impossibile estrarre dati strutturati valide e ben strutturati in formato JSON.
-
-Se richiesto, posso fornire un esempio generico di come potrebbero essere estratti i dati presenti sullo screenshot, anche se non soddisfano i criteri specificati. 

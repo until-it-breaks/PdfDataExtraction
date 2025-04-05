@@ -1,2 +1,0 @@
-INFO: Job done in 4.168s.
- Il tuo messaggio è stato fornito correttamente. Il documento che hai fornito mostra una presentazione di bilancio o reporting, con dati numerici in varie sezioni. Seleziona la parte del documento che desideri analizzare per ottenere i dati strutturati. 
