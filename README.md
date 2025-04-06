@@ -31,6 +31,7 @@ That's when I discovered **Gemini 2 Flash by Google**, a competitive LLM with a 
 - 15 requests/min
 - 1500 requests/day
 
+
 ## On Privacy & Local Alternatives
 
 Using Gemini 2 free tier means that data may be used to improve the model, which raises **privacy concerns**, especially with confidential documents.
@@ -47,13 +48,17 @@ While local models (like **Gemma 3** and **Llama3.2-vision**) don't match the co
 
 This repo contains scripts that automate the process of extracting structured data from PDFs using **LLMs (cloud or local)**.
 
-### Workflow Summary
+## Workflow Summary
 
 1. Convert PDF pages into images (`.jpeg` is recommended).
 2. Create a chapter index with page numbers (either manually or with the help of LLMs).
 3. Feed each image to a vision-capable LLM (Gemini 2 or Ollama models).
 4. Receive extracted JSON data per page.
 5. Merge data into the structured index using page numbers.
+   
+In the end the results were OK, one can definitely improve the prompt to fine tune the output further but there is only so much one can do since often times some pages share context with the previous or next one and as such, some details are lost.
+Another issue is that each image is processed individually with the same prompt and it's not guaranteed that the output follows the same style used before.
+The way I see it is that using this approach definitely helps with the task and it gets around 60-70% of the job done.
 
 ---
 
