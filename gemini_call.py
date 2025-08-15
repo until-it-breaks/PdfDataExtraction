@@ -1,11 +1,11 @@
 import sys
 import json
-import re
 import time
 
 from pathlib import Path
 from PIL import Image
 from google import genai
+from google.genai.types import GenerateContentConfig
 
 # Script used to make a single API call to Gemini 2.
 
@@ -27,11 +27,6 @@ PROMPT = """
     - Se l'immagine non soddisfa i criteri di rilevanza, restituisci un JSON vuoto: `{}`.
     """
 
-def extract_json(text):
-    # Extracts JSON content enclosed in triple backticks from text.
-    match = re.search(r"```json\s*([\s\S]*?)\s*```", text)
-    return match.group(1).strip() if match else None
-
 def process_image(image_path, output_folder_name, api_key):
     start_time = time.time()
 
@@ -46,6 +41,7 @@ def process_image(image_path, output_folder_name, api_key):
         response = client.models.generate_content(
             model=MODEL,
             contents=[PROMPT, image],
+            config=GenerateContentConfig(response_mime_type="application/json")
         )
 
         cwd = Path(__file__).parent
@@ -64,7 +60,7 @@ def process_image(image_path, output_folder_name, api_key):
 
         try:
             with open(output_path, "w", encoding="utf-8") as f:
-                data = json.loads(extract_json(response.text))
+                data = json.loads(response.text)
                 json.dump(data, f, indent=4, ensure_ascii=False)
                 print("INFO: JSON successfully saved at {}".format(output_path))
         except:
